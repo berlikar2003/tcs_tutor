@@ -1,0 +1,1395 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Average",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The body weight of seven students of a class is \nrecorded as 54 kg, 78 kg, 43 kg, 82 kg, 67 kg,\n42 kg and 75 kg. What is the average body weight \nof all the seven students? (Bank Recruitment, 2010)",
+              "options": {
+                "a": "63 kg",
+                "b": "69 kg",
+                "c": "71 kg",
+                "d": "73 kg",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "Find the average of the following sets of scores:\n\t\t385, 441, 876, 221, 536, 46, 291, 428\n(Bank Recruitment, 2009)",
+              "options": {
+                "a": "221",
+                "b": "403",
+                "c": "428",
+                "d": "536",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "The monthly incomes of five persons are ` 1132, \n` 1140, ` 1144, ` 1136 and ` 1148 respectively. What \nis their arithmetic mean? (P.C.S., 2009)",
+              "options": {
+                "a": "` 1100",
+                "b": "` 1120",
+                "c": "` 1132",
+                "d": "` 1140"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "Among five people with monthly income (in `) 15000, \n26000, 16000, 19000 and 50000, how many will have \nincome less than the mean income of five people?\n(P.C.S., 2006)",
+              "options": {
+                "a": "1",
+                "b": "2",
+                "c": "3",
+                "d": "4"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "The arithmetic mean of 15 numbers is 41.4. Then \nthe sum of these numbers is (P.C.S., 2010)",
+              "options": {
+                "a": "414",
+                "b": "420",
+                "c": "620",
+                "d": "621"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 6,
+              "question": "If 25a + 25b = 115, what is the average of a and \nb? (Bank P.O., 2009)",
+              "options": {
+                "a": "2.5",
+                "b": "3.4",
+                "c": "4.5",
+                "d": "4.6",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 7,
+              "question": "The following table shows the number of working \nhours and the number of employees employed in \na small scale industry.\nNo. of working hours No. of employees\n3 – 5 7\n5 – 7 10\n7 – 9 18\n9 – 11 57\n11 – 13 14\n13 – 15 8\nEXERCISE\n(OBJECTIVE TYPE QUESTIONS)\n The average number of working hours of an \nemployee is",
+              "options": {
+                "a": "8.5",
+                "b": "9.5",
+                "c": "10.5",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "If the arithmetic mean of 0, 5, 4, 3 is a, that of – 1, \n0, 1, 5, 4, 3 is b and that of 5, 4, 3 is c, then the \nrelation between a, b and c is (Hotel Management, 2007)",
+              "options": {
+                "a": "a = b = c",
+                "b": "a : b : c = 3 : 2 : 4",
+                "c": "4a = 5b = c",
+                "d": "a + b + c = 12"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "Kunal bought 65 books for ` 1050 from one shop \nand 50 books for ` 1020 from another. What is the \naverage price he paid per book? (Bank P.O., 2008)",
+              "options": {
+                "a": "` 18",
+                "b": "` 18.20",
+                "c": "` 24",
+                "d": "` 36.40",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "The average of the reciprocals of x and y is\n(Campus Recruitment, 2010)",
+              "options": {
+                "a": "",
+                "b": "",
+                "c": "2",
+                "d": "2"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "The average of two numbers is XY. If one number \nis X, the other is (R.R.B., 2006)",
+              "options": {
+                "a": "2\nY",
+                "b": "Y",
+                "c": "2XY – X",
+                "d": "X"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "There are five boxes in a cargo hold. The weight \nof the first box is 200 kg and the weight of \nthe second box is 20% more than the weight \nof the third box, whose weight is 25% more \nthan the first box’s weight. The fourth box at \n350 kg is 30% lighter than the fifth box. The difference \nin the average weight of the four heaviest boxes and \nthe four lightest boxes is (M.A.T., 2005)",
+              "options": {
+                "a": "37.5 kg",
+                "b": "51.5 kg",
+                "c": "75 kg",
+                "d": "112.5 kg"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "In Arun’s opinion, his weight is greater than 65 kg \nbut less than 72 kg. His brother does not agree with \nArun and he thinks that Arun’s weight is greater \nthan 60 kg but less than 70 kg. His mother’s view \nis that his weight cannot be greater than 68 kg. If \nall of them are correct in their estimation, what is \nthe average of different probable weights of Arun?",
+              "options": {
+                "a": "67 kg",
+                "b": "68 kg",
+                "c": "69 kg",
+                "d": "Data inadequate",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "The average of 20 numbers is zero. Of them, at the \nmost, how many may be greater than zero ?\n(Hotel Management, 2002)",
+              "options": {
+                "a": "0",
+                "b": "1",
+                "c": "10",
+                "d": "19\nAVERAGE 211"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "The mean of the first ten even natural numbers is\n (Hotel Management, 2010)",
+              "options": {
+                "a": "9",
+                "b": "10",
+                "c": "11",
+                "d": "12"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "The arithmetic mean of first 11 natural numbers \nis (P.C.S. 2009)",
+              "options": {
+                "a": "5",
+                "b": "5.5",
+                "c": "6.0",
+                "d": "6.5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 17,
+              "question": "Find the average of all the numbers between 6 and \n34 which are divisible by  5.",
+              "options": {
+                "a": "18",
+                "b": "20",
+                "c": "24",
+                "d": "30"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "The average of the first five multiples of 3 is",
+              "options": {
+                "a": "3",
+                "b": "9",
+                "c": "12",
+                "d": "15"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "The average of the first nine prime numbers is",
+              "options": {
+                "a": "9",
+                "b": "11",
+                "c": "1 11\n9",
+                "d": "2 11\n9"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "A student was asked to find the arithmetic mean \nof the numbers 3, 11, 7, 9, 15, 13, 8, 19, 17, 21, 14 \nand x. He found the mean to be 12. What should \nbe the number in place of x?",
+              "options": {
+                "a": "3",
+                "b": "7",
+                "c": "17",
+                "d": "31"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "The average of 2, 7, 6 and x is 5 and the average \nof 18, 1, 6, x and y is 10. What is the value of y ?",
+              "options": {
+                "a": "5",
+                "b": "10",
+                "c": "20",
+                "d": "30"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "The total marks obtained by a student in Physics, \nChemistry and Mathematics together is 120 more \nthan the marks obtained by him in Chemistry. What \nis the average marks obtained by him in Physics \nand Mathematics together? (Bank P.O., 2010)",
+              "options": {
+                "a": "40",
+                "b": "60",
+                "c": "120",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "The average of the first 100 positive integers is\n(S.S.C., 2010)",
+              "options": {
+                "a": "49.5",
+                "b": "50.5",
+                "c": "51",
+                "d": "100"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "The average of odd numbers up to 100 is (S.S.C., 2010)",
+              "options": {
+                "a": "49",
+                "b": "49.5",
+                "c": "50",
+                "d": "50.5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 25,
+              "question": "In a family, the average age of a father and a mother \nis 35 years. The average age of the father, mother \nand their only son is 27 years. What is the age of \nthe son? (S.S.C., 2010)",
+              "options": {
+                "a": "10 years",
+                "b": "10.5 years",
+                "c": "11 years",
+                "d": "12 years"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "The average of X1, X2 and X3 is 14. Twice the sum \nof X2 and X3 is 30. What is the value of X1?",
+              "options": {
+                "a": "12",
+                "b": "16",
+                "c": "20",
+                "d": "27"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "The average of x1, x2, x3 and x4 is 16. Half the sum \nof x2, x3, x4 is 23. What is the value of x1?\n(R.R.B., 2006)",
+              "options": {
+                "a": "17",
+                "b": "18",
+                "c": "19",
+                "d": "20"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "If the mean of 5 observations x, x + 2, x + 4, x +\n6 and x + 8 is 11, then the mean of the last three \nobservations is",
+              "options": {
+                "a": "11",
+                "b": "13",
+                "c": "15",
+                "d": "17"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "If the mean of a, b, c is M and ab + bc + ca = 0, then \nthe mean of a2, b2, c2 is",
+              "options": {
+                "a": "M2",
+                "b": "3M2",
+                "c": "6M2",
+                "d": "9M2"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "The average of the two-digit numbers, which remain \nthe same when the digits interchange their positions, \nis",
+              "options": {
+                "a": "33",
+                "b": "44",
+                "c": "55",
+                "d": "66"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 31,
+              "question": "Company C sells a line of 25 products with an \naverage retail price of ` 1200. If none of these prod￾ucts sells for less than ` 420 and exactly 10 of the \nproducts sell for less than ` 1000, then what is the \ngreatest possible selling price of the most expensive \nproduct? (M.A.T., 2006)",
+              "options": {
+                "a": "` 2600",
+                "b": "` 3900",
+                "c": "` 7800",
+                "d": "` 11800"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 32,
+              "question": "The average sale of a car dealership was 15 cars \nper week. After a promotional scheme the average \nsale increased to 21 cars per week. The percentage \nincrease in the sale of cars was (M.A.T., 2010)",
+              "options": {
+                "a": "39.33%",
+                "b": "40%",
+                "c": "6 42 %\n7",
+                "d": "140%"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 33,
+              "question": "The mean of 12, 22, 32, 42, 52, 62, 72 is",
+              "options": {
+                "a": "10",
+                "b": "20",
+                "c": "30",
+                "d": "40"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 34,
+              "question": "If a, b, c, d, e are five consecutive odd numbers, their \naverage is",
+              "options": {
+                "a": "5",
+                "b": "5\nabcde",
+                "c": "5",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 35,
+              "question": "The average of a non-zero number and its square \nis 5 times the number. The number is",
+              "options": {
+                "a": "9",
+                "b": "17",
+                "c": "29",
+                "d": "295\n212 QUANTITATIVE APTITUDE"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 36,
+              "question": "Total of Arun’s marks in Sanskrit and Mathematics \ntogether are 80 more than his marks in Science. His \naverage marks in the three subjects are 100. What \nare his marks in Science?",
+              "options": {
+                "a": "80",
+                "b": "110",
+                "c": "120",
+                "d": "Data inadequate",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 37,
+              "question": "The arithmetic mean of the series 1, 2, 4, 8, 16,..., 2n\nis",
+              "options": {
+                "a": "2 –1\n1\nn\nn +",
+                "b": "2 1 n\nn\n+",
+                "c": "2 –1 n\nn",
+                "d": "2 –1 1\n1\nn\nn\n+\n+"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 38,
+              "question": "The average of two numbers is 6.5 and square root \nof their product is 6. What are the numbers?\n(S.S.C., 2006)",
+              "options": {
+                "a": "11 and 2",
+                "b": "8 and 5",
+                "c": "9 and 4",
+                "d": "10 and 3"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 39,
+              "question": "Of four numbers whose average is 60, the first is \none-fourth of the sum of the last three. The first \nnumber is (S.S.C., 2006)",
+              "options": {
+                "a": "15",
+                "b": "42",
+                "c": "45",
+                "d": "48"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 40,
+              "question": "The average of 4 positive integers is 59. The highest \ninteger is 83 and the lowest integer is 29. The \ndifference between the remaining two integers is",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 41,
+              "question": "Which of the following integers is higher of the \nremaining two integers? (Bank Recruitment, 2008)",
+              "options": {
+                "a": "39",
+                "b": "48",
+                "c": "76",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 42,
+              "question": "The average of 7 consecutive numbers is 20. The \nlargest of these numbers is",
+              "options": {
+                "a": "20",
+                "b": "22",
+                "c": "23",
+                "d": "24"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 43,
+              "question": "The average of five consecutive odd numbers is",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 44,
+              "question": "What is the fourth number in the descending \norder? (Bank Recruitment, 2009)",
+              "options": {
+                "a": "91",
+                "b": "95",
+                "c": "97",
+                "d": "99",
+                "e": "None of these"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 45,
+              "question": "A, B, C and D are four consecutive even numbers \nrespectively and their average is 65. What is the \nproduct of A and D? (Bank P.O., 2007)",
+              "options": {
+                "a": "3968",
+                "b": "4092",
+                "c": "4216",
+                "d": "4352",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 46,
+              "question": "The sum of the three consecutive even numbers \nis 44 more than the average of these numbers. \nWhich of the following is the third largest of these \nnumbers? (Bank P.O., 2008)",
+              "options": {
+                "a": "16",
+                "b": "18",
+                "c": "24",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 47,
+              "question": "The average marks of a student in 4 subjects is 75. \nIf the student obtained 80 marks in the fifth subject, \nthen the new average is (P.C.S., 2008)",
+              "options": {
+                "a": "72.5",
+                "b": "76",
+                "c": "77",
+                "d": "77.5"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 48,
+              "question": "The average age of the boys in a class is 16 years \nand that of the girls is 15 years. The average age \nfor the whole class is",
+              "options": {
+                "a": "15 years",
+                "b": "15.5 years",
+                "c": "16 years",
+                "d": "Cannot be computed with the given information"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 49,
+              "question": "The average annual income (in `) of certain \nagricultural workers is S and that of other workers \nis T. The number of agricultural workers is 11 times \nthat of other workers. Then the average monthly \nincome (in `) of all the workers is (S.S.C. 2004)",
+              "options": {
+                "a": "2\nS T +",
+                "b": "11\n2\nS T +",
+                "c": "1\n11S\n+ T",
+                "d": "11\n12\nS T +"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 50,
+              "question": "A family consists of grandparents, parents and three \ngrandchildren. The average age of the grandparents \nis 67 years, that of the parents is 35 years and that \nof the grandchildren is 6 years. What is the average \nage of the family?",
+              "options": {
+                "a": "4 28 years 7",
+                "b": "5 31 years 7",
+                "c": "1 32 years 7",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 51,
+              "question": "A library has an average of 510 visitors on Sundays \nand 240 on other days. The average number of visi\u0002tors per day in a month of 30 days beginning with \na Sunday is",
+              "options": {
+                "a": "250",
+                "b": "276",
+                "c": "280",
+                "d": "285"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 52,
+              "question": "In a class there are 32 boys and 28 girls. The average \nage of the boys in the class is 14 years and the \naverage age of the girls in the class is 13 years. What \nis the average age of the whole class (rounded to \ntwo digits after decimal)?\t\t(NABARD, 2009)",
+              "options": {
+                "a": "12.51",
+                "b": "13.42",
+                "c": "13.50",
+                "d": "13.53",
+                "e": "None of these"
+              },
+              "answer": "d"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "A pupil’s marks were wrongly entered as 83 instead \nof 63. Due to that the average marks for the class \ngot increased by half. The number of pupils in the \nclass is",
+              "options": {
+                "a": "10",
+                "b": "20",
+                "c": "40",
+                "d": "73"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "While calculating the average of a batsman as 36 \nin 100 matches that he played, one of the scores 90 \nwas incorrectly noted as 40. The percentage error \nis (M.A.T., 2010)",
+              "options": {
+                "a": "0.5%",
+                "b": "1.21%",
+                "c": "1.34%",
+                "d": "1.36%"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "The average age of seven boys sitting in a row fac￾ing North is 26 years. If the average age of the first \nthree boys is 19 years and the average age of the \nlast three boys is 32 years, what is the age of the \nboy who is sitting in the middle of the row?\n(Bank P.O., 2010)",
+              "options": {
+                "a": "24 years",
+                "b": "28 years",
+                "c": "29 years",
+                "d": "31 years",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "The average of five numbers is 306.4. The average \nof the first two numbers is 431 and the average of \nthe last two numbers is 214.5. What is the third \nnumber? (Bank P.O., 2008)",
+              "options": {
+                "a": "52",
+                "b": "108",
+                "c": "321",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 5,
+              "question": "The average marks obtained by 22 candidates in an \nexamination are 45. The average marks of the first \nten are 55 and that of the last eleven are 40. The \nnumber of marks obtained by the 11th candidate \nis (S.S.C., 2006)",
+              "options": {
+                "a": "0",
+                "b": "45",
+                "c": "47.5",
+                "d": "50"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "The average of 11 numbers is 10.9. If the average \nof the first six numbers is 10.5 and that of the last \nsix numbers is 11.4, then the middle number is :",
+              "options": {
+                "a": "11",
+                "b": "11.3",
+                "c": "11.4",
+                "d": "11.5"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "The average temperature for the first four days of \na week is 40.2º C and that of the last four days is",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 8,
+              "question": "3° C. If the average temperature for the whole \nweek is 40.6° C, then the temperature on the fourth \nday is (M.A.T. 2005)",
+              "options": {
+                "a": "40.8°C",
+                "b": "41.3°C",
+                "c": "41.8°C",
+                "d": "38.5°C"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 9,
+              "question": "The average weight of three boys A, B and C is \n1 54 kg, 3 while the average weight of three boys B, \nD and E is 53 kg. What is the average weight of A, \nB, C, D and E ?",
+              "options": {
+                "a": "52.4 kg",
+                "b": "53.2 kg",
+                "c": "53.8 kg",
+                "d": "Data inadequate",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "The average of the ages of Sumit, Krishna and \nRishabh is 43 and the average of the ages of Sumit, \nRishabh and Rohit is 49. If Rohit is 54 years old, \nwhat is Krishna’s age? (S.B.I.P.O., 2008)",
+              "options": {
+                "a": "24 years",
+                "b": "36 years",
+                "c": "45 years",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "The mean temperature of Monday to Wednesday \nwas 37°C and of Tuesday to Thursday was 34°C. If \nthe temperature on Thursday was 4\n5 that of Monday, \nthe temperature on Thursday was\n(M.B.A. 2006, L.I.C.A.A.O. 2007, P.C.S., 2008)",
+              "options": {
+                "a": "34°C",
+                "b": "35.5°C",
+                "c": "36°C",
+                "d": "36.5°C"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "The average temperature of the town in the first four \ndays of a month was 58 degrees. The average for the \nsecond, third, fourth and fifth days was 60 degrees. \nIf the temperatures of the first and fifth days were \nin the ratio 7 : 8, then what is the temperature on \nthe fifth day? (N.M.A.T., 2003)",
+              "options": {
+                "a": "64 degrees",
+                "b": "62 degrees",
+                "c": "56 degrees",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "The average weight of A, B and C is 45 kg. If the \naverage weight of A and B be 40 kg and that of B\nand C be 43 kg, then the weight of B is: (S.S.C., 2004)",
+              "options": {
+                "a": "17 kg",
+                "b": "20 kg",
+                "c": "26 kg",
+                "d": "31 kg\nAVERAGE 217"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "The average monthly income of P and Q is ` 5050. \nThe average monthly income of Q and R is ` 6250 \nand the average monthly income of P and R is \n` 5200. The monthly income of P is (R.R.B., 2004)",
+              "options": {
+                "a": "` 3500",
+                "b": "` 4000",
+                "c": "` 4050",
+                "d": "` 5000"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "Average age of ten persons learning yoga is 32 \nyears. When the age of their instructor is added, \nthe average age becomes 34 years. The age of their \ninstructor is (CLAT, 2010)",
+              "options": {
+                "a": "46 years",
+                "b": "52 years",
+                "c": "54 years",
+                "d": "56 years"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "The average monthly income of a family of four \nearning members was ` 15130. One of the daughters \nin the family got married and left home, so the \naverage monthly income of the family came down to \n` 14660. What is the monthly income of the married \ndaughter? (Bank P.O., 2009)",
+              "options": {
+                "a": "` 12000",
+                "b": "` 15350",
+                "c": "` 16540",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 17,
+              "question": "The average weight of a class of 24 students is 35 \nkg. If the weight of the teacher be included, the \naverage rises by 400 g. The weight of the teacher is",
+              "options": {
+                "a": "45 kg",
+                "b": "50 kg",
+                "c": "53 kg",
+                "d": "55 kg"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "The average age of the mother and her six children \nis 12 years which is reduced by 5 years if the age \nof the mother is excluded. How old is the mother?",
+              "options": {
+                "a": "40 years",
+                "b": "42 years",
+                "c": "48 years",
+                "d": "50 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "The average weight of 8 men is increased by 1.5 kg \nwhen one of the men, who weighs 65 kg is replaced \nby a new man. The weight of the new man is\n(R.R.B. 2006)",
+              "options": {
+                "a": "70 kg",
+                "b": "74 kg",
+                "c": "76 kg",
+                "d": "77 kg"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "There were 24 students in a class. One of them, \nwho was 18 years old, left the class and his place \nwas filled up by a newcomer. If the average of the \nclass thereby, was lowered by one month, the age \nof the newcomer is (S.S.C. 2007)",
+              "options": {
+                "a": "14 years",
+                "b": "15 years",
+                "c": "16 years",
+                "d": "17 years"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "The average weight of 45 students in a class is 52 kg. \nFive of them whose average weight is 48 kg leave the \nclass and other 5 students whose average weight is\n54 kg join the class. What is the new average weight \n(in kg) of the class?",
+              "options": {
+                "a": "1 52\n3",
+                "b": "1 52\n2",
+                "c": "2 52\n3",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "The average height of 25 boys is 1.4 m. When 5 boys \nleave the group, then the average height increases \nby 0.15 m. What is the average height of the 5 boys \nwho leave ?",
+              "options": {
+                "a": "0.8 m",
+                "b": "0.9 m",
+                "c": "0.95 m",
+                "d": "1.05 m"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "The average of 11 players of a cricket team is \ndecreased by 2 months when two of them aged 17 \nyears and 20 years are replaced by two new players. \nThe average age of the new players is (S.S.C. 2005)",
+              "options": {
+                "a": "17 years 1 month",
+                "b": "17 years 7 months",
+                "c": "17 years 11 months",
+                "d": "18 years 3 months"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "The average age of an adult class is 40 years. 12 \nnew students with an average age of 32 years join \nthe class, thereby decreasing the average by 4 years. \nThe original strength of the class was\n(Campus Rec. 2011; M.B.A. 2006; M.A.T. 2007)",
+              "options": {
+                "a": "10",
+                "b": "11",
+                "c": "12",
+                "d": "15"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 25,
+              "question": "In a class with a certain number of students, if \none student weighing 50 kg is added then the \naverage weight of the class increases by 1 kg. \nIf one more student weighing 50 kg is added, \nthen the average weight of the class increases by",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 26,
+              "question": "5 kg over the original average. What is the original \naverage weight (in kg) of the class?",
+              "options": {
+                "a": "2",
+                "b": "4",
+                "c": "46",
+                "d": "47"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 27,
+              "question": "When 15 is included in a list of natural numbers, \ntheir mean is increased by 2. When 1 is included in \nthis new list, the mean of the numbers in the new \nlist is decreased by 1. How many numbers were \nthere in the original list? (A.A.O. Exam, 2010)",
+              "options": {
+                "a": "4",
+                "b": "5",
+                "c": "6",
+                "d": "8"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "The captain of a cricket team of 11 members is 26 \nyears old and the wicket keeper is 3 years older. If \nthe ages of these two are excluded, the average age \nof the remaining players is one year less than the \naverage age of the whole team. What is the average \nage of the team?",
+              "options": {
+                "a": "23 years",
+                "b": "24 years",
+                "c": "25 years",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "A batsman makes a score of 84 runs in the 21st \ninning and thus increases his average by 2 runs. \nHis average after 21st inning is (P.C.S., 2009)",
+              "options": {
+                "a": "24",
+                "b": "34",
+                "c": "44",
+                "d": "54"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "A cricketer whose bowling average is 12.4 runs \nper wicket takes 5 wickets for 26 runs and thereby \ndecreases his average by 0.4. The number of wickets \ntaken by him till the last match was",
+              "options": {
+                "a": "64",
+                "b": "72",
+                "c": "80",
+                "d": "85\n218 QUANTITATIVE APTITUDE"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 31,
+              "question": "A team of 8 persons joins in a shooting competition. \nThe best marksman scored 85 points. If he had scored \n92 points, the average score for the team would have \nbeen 84. The number of points, the team scored was",
+              "options": {
+                "a": "588",
+                "b": "645",
+                "c": "665",
+                "d": "672"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 32,
+              "question": "A motorist travels to a place 150 km away at an \naverage speed of 50 km/hr and returns at 30 km/hr. \nHis average speed for the whole journey in km/hr \nis (L.I.C.A.D.O., 2008)",
+              "options": {
+                "a": "35",
+                "b": "37",
+                "c": "37.5",
+                "d": "40"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 33,
+              "question": "The average weight of 3 men A, B and C is 84 kg. \nAnother man D joins the group and the average \nnow becomes 80 kg. If another man E, whose weight \nis 3 kg more than that of D, replaces A, then the \naverage weight of B, C, D and E becomes 79 kg. \nThe weight of A is",
+              "options": {
+                "a": "70 kg",
+                "b": "72 kg",
+                "c": "75 kg",
+                "d": "80 kg"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 34,
+              "question": "The average age of a husband and his wife was 23 \nyears at the time of their marriage. After five years \nthey have a one-year old child. The average age of \nthe family now is",
+              "options": {
+                "a": "19 years",
+                "b": "23 years",
+                "c": "28.5 years",
+                "d": "29.3 years"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 35,
+              "question": "Four years ago, the average age of A and B was 18 \nyears. At present the average age of A, B and C is \n24 years. What would be the age of C after 8 years? \n(R.R.B., 2006)",
+              "options": {
+                "a": "25 years",
+                "b": "28 years",
+                "c": "32 years",
+                "d": "36 years"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 36,
+              "question": "Five years ago the average age of A, B, C, D was \n45 years. By including X the present average of all \nthe five is 49 years. Then the present age of X is \n(P.C.S., 2009)",
+              "options": {
+                "a": "40 years",
+                "b": "45 years",
+                "c": "48 years",
+                "d": "64 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 37,
+              "question": "The average age of husband, wife and their child \n3 years ago was 27 years and that of wife and the \nchild 5 years ago was 20 years. The present age of \nthe husband is",
+              "options": {
+                "a": "35 years",
+                "b": "40 years",
+                "c": "50 years",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 38,
+              "question": "The average age of a husband and wife at the time \nof their marriage was 25 years. A son was born to \nthem two years after their marriage. The present \naverage age of all three of them is 24 years. How \nmany years is it since the couple got married?",
+              "options": {
+                "a": "5 years",
+                "b": "6 years",
+                "c": "8 years",
+                "d": "9 years"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 39,
+              "question": "When the average age of a couple and their son was \n42 years, the son married and got a child after one \nyear. When the child was 5 years old, the average \nage of the family became 36 years. What was the age \nof daughter-in-law at the time of their marriage?\n(S.S.C., 2006)",
+              "options": {
+                "a": "23 years",
+                "b": "24 years",
+                "c": "25 years",
+                "d": "26 years"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 40,
+              "question": "Four years ago, the average age of a family of four \npersons was 18 years. During this period, a baby was \nborn. Today if the average age of the family is still\n18 years, the age of the baby is (P.C.S., 2009)",
+              "options": {
+                "a": "1.2 years",
+                "b": "2 years",
+                "c": "2.5 years",
+                "d": "3 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 41,
+              "question": "After replacing an old member by a new member, \nit was found that the average age of five members \nof a club is the same as it was 3 years ago. What \nis the difference between the ages of the replaced \nand the new member?",
+              "options": {
+                "a": "2 years",
+                "b": "4 years",
+                "c": "8 years",
+                "d": "15 years"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 42,
+              "question": "The average age of 3 children in a family is 20% of \nthe average age of the father and the eldest child. \nThe total age of the mother and the youngest child is \n39 years. If the father’s age is 26 years, what is the \nage of the second child? (M.A.T., 2009)",
+              "options": {
+                "a": "15 years",
+                "b": "18 years",
+                "c": "20 years",
+                "d": "Cannot be determined"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 43,
+              "question": "The average age of a group of persons going for \npicnic is 16 years. Twenty new persons with an \naverage age of 15 years join the group on the spot \ndue to which their average age becomes 15.5 years. \nThe number of persons initially going for picnic is",
+              "options": {
+                "a": "5",
+                "b": "10",
+                "c": "20",
+                "d": "30"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 44,
+              "question": "Ten years ago, the ages of the members of a joint \nfamily of eight people added up to 231 years. Three \nyears later, one member died at the age of 60 years \nand a child was born during the same year. After \nanother three years, one more member died, again \nat 60, and a child was born during the same year. \nThe current average of this eight-member joint family \nis nearest to (C.A.T., 2007)",
+              "options": {
+                "a": "21 years",
+                "b": "22 years",
+                "c": "23 years",
+                "d": "24 years",
+                "e": "25 years"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 45,
+              "question": "Mr. Joe’s family consists of six people–himself, his \nwife and their four children. It is known that the \nAVERAGE 219\naverage age of the family immediately after the birth \nof the first, second, third and fourth child was 16, \n15, 16 and 15 years respectively. Find the age of \nMr. Joe’s eldest son if the present average age of \nthe entire family is 16 years.",
+              "options": {
+                "a": "8 years",
+                "b": "12 years",
+                "c": "15 years",
+                "d": "16 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 46,
+              "question": "Total expenses of a boarding house are partly fixed \nand partly varying linearly with the number of \nboarders. The average expense per boarder is ` 700 \nwhen there are 25 boarders and ` 600 when there \nare 50 boarders. What is the average expense per \nboarder when there are 100 boarders?",
+              "options": {
+                "a": "` 540",
+                "b": "` 550",
+                "c": "` 570",
+                "d": "` 580"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 47,
+              "question": "A certain factory employed 600 men and 400 women \nand the average wage was ` 25.50 per day. If a \nwoman got ` 5 less than a man, then what are their \ndailywages?",
+              "options": {
+                "a": "Man : ` 25; Woman : ` 20",
+                "b": "Man : ` 27.50, Woman : ` 22.50",
+                "c": "Man : ` 30, Woman : ` 25",
+                "d": "Man : ` 32.50, Woman : ` 27.50"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 48,
+              "question": "The arithmetic mean of the scores of a group of \nstudents in a test was 52. The brightest 20% of them \nsecured a mean score of 80 and the dullest 25% a \nmean score of 31. The mean score of remaining 55% \nis",
+              "options": {
+                "a": "45",
+                "b": "50",
+                "c": "51.4 approx.",
+                "d": "54.6 approx."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 49,
+              "question": "A coaching institute has students in 3 batches - X, \nY and Z. In a certain examination, the average \nmarks obtained by these batches are 72, 60 and 50 \nrespectively. The average marks of batches X and \nY taken together is 69. If the ratio of the number \nof students in batches Y and Z is 6 : 7, what is the \naverage score of all the three batches put together?",
+              "options": {
+                "a": "59",
+                "b": "61.6",
+                "c": "63.5",
+                "d": "64.7",
+                "e": "65"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 50,
+              "question": "The average salary of all the workers in a workshop \nis ` 8000. The average salary of 7 technicians is \n` 12000 and the average salary of the rest is ` 6000. \nThe total number of workers in the workshop is\n(M.A.T., 2005)",
+              "options": {
+                "a": "20",
+                "b": "21",
+                "c": "22",
+                "d": "23"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 51,
+              "question": "In a school with 600 students, the average age of the \nboys is 12 years and that of the girls is 11 years. If \nthe average age of the school is 11 years 9 months, \nthen the number of girls in the school is:",
+              "options": {
+                "a": "150",
+                "b": "250",
+                "c": "350",
+                "d": "450"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 52,
+              "question": "The average score of a class of boys and girls in \nan examination is A. The ratio of boys and girls in \nthe class is 3 : 1. If the average score of the boys is\nA + 1, the average score of the girls is (S.S.C., 2006)",
+              "options": {
+                "a": "A – 1",
+                "b": "A – 3",
+                "c": "A + 1",
+                "d": "A + 3"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "In an engineering college the average salary of all \nengineering graduates from Mechanical trade is\n` 2.45 lacs per annum and that of the engineering \ngraduates from Electronics trade is ` 3.56 lacs per \nannum. The average salary of all Mechanical and \nElectronics graduates is ` 3.12 lacs per annum. Find \nthe least number of Electronics graduates passing \nout from this institute. (M.A.T., 2007)",
+              "options": {
+                "a": "43",
+                "b": "59",
+                "c": "67",
+                "d": "Cannot be determined"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "The average age of students of a class is 15.8 years. \nThe average age of boys in the class is 16.4 years \nand that of the girls is 15.4 years. The ratio of the \nnumber of boys to the number of girls in the class \nis (M.A.T., 2007; M.B.A., 2010)",
+              "options": {
+                "a": "1 : 2",
+                "b": "2 : 3",
+                "c": "3 : 4",
+                "d": "3 : 5"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "The mean monthly salary paid to graduating MBA class \nof a management institute is ` 16000. The mean monthly \nsalary paid to students with work experience is \n` 18000. The corresponding figure for the students \nwithout any work experience is ` 12000. Determine \nthe percentage of students with work experience \nand those without any work experience in the class.\n(JMET, 2008)",
+              "options": {
+                "a": "66.67%, 33.33%",
+                "b": "33.33%, 66.67%",
+                "c": "75%, 25%",
+                "d": "25%, 75%"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "My Scooty gives an average of 40 kmpl of petrol. \nBut after recent filling at the new petrol pump, its \naverage dropped to 38 kmpl. I investigated and \nfound out that it was due to adulterated petrol. \nPetrol pumps add kerosene, which is 2\n3 cheaper \nthan petrol, to increase their profits. Kerosene \ngenerates excessive smoke and knocking and gives \nan average of 18 km per 900 ml. If I paid ` 30 for \na litre of petrol, what was the additional amount \nthe pump-owner was making? (M.A.T., 2007)",
+              "options": {
+                "a": "` 1.75",
+                "b": "` 1.80",
+                "c": "` 2",
+                "d": "` 2.30\n220 QUANTITATIVE APTITUDE"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "Average score of a class of 60 students, in an exam, \nwas 43. Average score of the students who had \npassed is 52 and the average score of students who \nhad failed is 16. How many failed the exam?\n[IBPS—RRB Officer’s Gr. ‘B’ Exam, 2015]",
+              "options": {
+                "a": "25",
+                "b": "20",
+                "c": "15",
+                "d": "18"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "The average of 11 results is 60. If the average of \nfirst six results is 58 and that of last six is 63, find \nthe 6th result. [Indian Railway Gr. ‘D’ Exam, 2014]",
+              "options": {
+                "a": "66",
+                "b": "55",
+                "c": "64",
+                "d": "68"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "The average weight of 21 boys was recorded as \n64 kg. If the weight of the teacher was added, the \naverage increased by 1 kg. What was the teacher’s \nweight? [Indian Railway Gr. ‘D’ Exam, 2014]",
+              "options": {
+                "a": "86 kg",
+                "b": "64 kg",
+                "c": "72 kg",
+                "d": "84 kg"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "The average of 12 numbers is 15 and the average of \nthe first two is 14. What is the average of the rest?\n[SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "15",
+                "b": "15 1\n5",
+                "c": "14",
+                "d": "14 1\n5"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "The average expenditure of a man for the first five \nmonths is ` 1200 and for the next seven months is \n` 1300. If he saves ` 2900 in that year, his monthly \naverage income is [SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "` 1500",
+                "b": "` 1600",
+                "c": "` 1700",
+                "d": "` 1400"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "In a primary school the average weight of male\nstudents is 65.9 kg and the average weight of female \nstudents is 57 kg. If the average weight of all the \nstudents (both male and female) is 60.3 kg and the \nnumber of male students in the school is 66, what \nis the number of female students in the school?\n[IBPS—Bank Spl. Officers (IT) Exam, 2015]",
+              "options": {
+                "a": "162",
+                "b": "168",
+                "c": "180",
+                "d": "112"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "Out of 10 teachers of a school, one teacher retires \nand in place of him a new teacher 25 years old joins. \nAs a result of it average age of the teachers reduces \nby 3 years. Age of the retired teacher (in years) is:\n[SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "55",
+                "b": "60",
+                "c": "58",
+                "d": "56"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "Six numbers are arranged in decreasing order. The \naverage of the first five numbers is 30 and the aver￾age of the last five numbers is 25. The difference of \nthe first and the last numbers is\n[SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "20",
+                "b": "25",
+                "c": "5",
+                "d": "30"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "The average weight of A, B and C is 40 kgs. Weight \nof C is 24 kgs more than A’s weight and 3 kgs less \nthan B’s weight. What will be the average weight \nof A, B, C and D, if D weights 15 kgs less than C?\n[United India Insurance (UIICL)\nAssistant (Online) Exam, 2015]",
+              "options": {
+                "a": "The data in statement I alone was sufficient to\nanswer the question while II alone are not sufficient \nto answer the question.",
+                "b": "Data in statement II alone are sufficient to answer \nthe question while data in statement I alone are not \nsufficient to answer the question.",
+                "c": "The data in statement I alone or in statement II alone\nare sufficient to answer the question.",
+                "d": "The data in both Statement I and II are not sufficient \nto answer the question.",
+                "e": "The data in both Statements I and II are sufficient \nto answer the question."
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "Whose body weight is second highest among the \nfive boys Arun, Vinay, Suraj, Raju and Pratap?\n[IDBI Bank Executive Officers Exam, 2015]\nI. Average weight of Arun, Suraj and Vinay is 68 \nkg and average weight of Raju and Pratap is 72 \nkg. Also Suraj is 78 kg, Raju is 68 kg and Vinay \nis 46 kg.\nII. Average weight of Arun, Suraj, Vinay and Raju \nis 68 kg and also Suraj is 78 kg, Raju is 68 kg \nand Vinay is 46 kg all of them have different \nweights.",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 15,
+              "question": "What will be the total marks of Subodh in physics? \n[IDBI Bank Executive Officers Exam, 2015]\nI. The average marks of Subodh in History, Geog￾raphy and Chemistry are 75.\nII. His average marks in History, Geography and\nPhysics are 78.",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 16,
+              "question": "There are three positive numbers. One third of the \naverage of all the three numbers is 8 less than the \nvalue of the highest number. The average of the \nAVERAGE 221\nlowest and the second lowest number is 8. What is \nthe highest number? [IBPS—RRB Officer Exam, 2015]",
+              "options": {
+                "a": "11",
+                "b": "14",
+                "c": "10",
+                "d": "9"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "A shop of electronic goods is closed on Monday. \nThe average daily sales for remaining six days of a \nweek is ` 15,640/- and the average sale of Tuesday \nto Saturday is ` 14,124/-. The sales on Sunday is\n[SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "` 20,188/-",
+                "b": "Data inadequate",
+                "c": "` 23,220/-",
+                "d": "` 21,704/-"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "The mean high temperature of the first four days \nof a week is 25ºC whereas the mean of the last four \ndays is 25.5ºC. If the mean of the whole week is",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 19,
+              "question": "2ºC, then the temperature of the 4th day is\n[SSC—CHSL (10 + 2) Exam, 2015]",
+              "options": {
+                "a": "25.2ºC",
+                "b": "25.5ºC",
+                "c": "25.6ºC",
+                "d": "25ºC"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 20,
+              "question": "Find the average of 205, 302, 108, 403 and 202\n[ESIC—UDC Exam, 2016]",
+              "options": {
+                "a": "450",
+                "b": "1225",
+                "c": "244",
+                "d": "1220"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "The average monthly income of P and Q is ` 6,000; \nthat of Q and R is ` 5,250; and, that P and R is \n` 5,500. What is P’s monthly income?\n[ESIC—UDC Exam, 2016]",
+              "options": {
+                "a": "` 3,500",
+                "b": "` 4,500",
+                "c": "` 6,250",
+                "d": "` 4,800"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "The average of 6 numbers is 7. The average of three \nnumbers of them is 5. What will be the average of \nremaining numbers? [ESIC—UDC Exam, 2016]",
+              "options": {
+                "a": "15",
+                "b": "30",
+                "d": "42"
+              },
+              "answer": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

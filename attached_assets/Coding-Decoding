@@ -1,0 +1,850 @@
+{
+  "Subject": "logical reasoning",
+  "Chapters": [
+    {
+      "Chapter Name": "Coding-Decoding",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "If \"CAT\" is coded as \"DCT\", what is \"DOG\" coded as?",
+              "options": {
+                "a": "EPH",
+                "b": "EQH",
+                "c": "CPF",
+                "d": "DPB"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "If \"APPLE\" is coded as \"BPQMF\", what is \"GRAPE\" coded as?",
+              "options": {
+                "a": "HSAPE",
+                "b": "HTRQF",
+                "c": "HQARF",
+                "d": "HRAQD"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "If \"FAN\" is coded as \"GBO\", what is \"SUN\" coded as?",
+              "options": {
+                "a": "TVN",
+                "b": "TWM",
+                "c": "TVO",
+                "d": "TVL"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "If \"BLUE\" is coded as \"CMVF\", what is \"PINK\" coded as?",
+              "options": {
+                "a": "QJNL",
+                "b": "QJNK",
+                "c": "OJML",
+                "d": "PIMJ"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "If \"TABLE\" is coded as \"UBCMF\", what is \"CHAIR\" coded as?",
+              "options": {
+                "a": "DICJS",
+                "b": "DIBJS",
+                "c": "DHCIR",
+                "d": "DHFIR"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "If \"WATER\" is coded as \"XBUFS\", what is \"FIRE\" coded as?",
+              "options": {
+                "a": "GJRF",
+                "b": "GHRE",
+                "c": "FHQE",
+                "d": "FHRF"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "If \"DAY\" is coded as \"EAZ\", what is \"NIGHT\" coded as?",
+              "options": {
+                "a": "OJHIU",
+                "b": "OHJUT",
+                "c": "MGHSU",
+                "d": "OJHGU"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "If \"ZOO\" is coded as \"APP\", what is \"BIRD\" coded as?",
+              "options": {
+                "a": "CJSE",
+                "b": "BHSC",
+                "c": "AJRC",
+                "d": "CJSF"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "If \"CODE\" is coded as \"DQEF\", what is \"DECODE\" coded as?",
+              "options": {
+                "a": "EFDPED",
+                "b": "EFDQDF",
+                "c": "CDEFG",
+                "d": "EFFGEF"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "If \"KING\" is coded as \"LJOI\", what is \"QUEEN\" coded as?",
+              "options": {
+                "a": "RVFFO",
+                "b": "RVDDM",
+                "c": "QRDEM",
+                "d": "RVFDN"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "If \"HOUSE\" is coded as \"IPVTF\", what is \"STREET\" coded as?",
+              "options": {
+                "a": "TUQFFU",
+                "b": "TUSFFU",
+                "c": "TSSFFT",
+                "d": "TTTFFU"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "If \"READ\" is coded as \"SFBS\", what is \"WRITE\" coded as?",
+              "options": {
+                "a": "XSJUF",
+                "b": "XSJTE",
+                "c": "XSJTF",
+                "d": "WQHSF"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "If \"BOX\" is coded as \"CPY\", what is \"PEN\" coded as?",
+              "options": {
+                "a": "QFO",
+                "b": "QEN",
+                "c": "OEM",
+                "d": "QFN"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "If \"CAR\" is coded as \"DBS\", what is \"BIKE\" coded as?",
+              "options": {
+                "a": "CJLF",
+                "b": "CJKL",
+                "c": "AHJD",
+                "d": "CJMK"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "If \"KEY\" is coded as \"LFZ\", what is \"LOCK\" coded as?",
+              "options": {
+                "a": "MOND",
+                "b": "MPDL",
+                "c": "LLOK",
+                "d": "MPDK"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "If \"SHIRT\" is coded as \"TISFU\", what is \"PANTS\" coded as?",
+              "options": {
+                "a": "QBOTU",
+                "b": "QCOTU",
+                "c": "OZMTS",
+                "d": "QCQTU"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "If \"JUMP\" is coded as \"KUNO\", what is \"RUN\" coded as?",
+              "options": {
+                "a": "SVO",
+                "b": "SVO",
+                "c": "QTM",
+                "d": "SWM"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "If \"TRAIN\" is coded as \"USBJO\", what is \"BUS\" coded as?",
+              "options": {
+                "a": "CVT",
+                "b": "CUT",
+                "c": "ASQ",
+                "d": "CWT"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "If \"LIGHT\" is coded as \"MJHIU\", what is \"DARK\" coded as?",
+              "options": {
+                "a": "EBSL",
+                "b": "DBQL",
+                "c": "DBSL",
+                "d": "EBQM"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "If \"SMART\" is coded as \"SNBSU\", what is \"CLEVER\" coded as?",
+              "options": {
+                "a": "DLFWFS",
+                "b": "DLEWFS",
+                "c": "BKDUFQ",
+                "d": "DKFWFS"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "If \"SCHOOL\" is coded as \"TDIPPM\", what is \"CLASS\" coded as?",
+              "options": {
+                "a": "DMBTT",
+                "b": "DKBTT",
+                "c": "BLZRR",
+                "d": "DMBTS"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "If \"HAPPY\" is coded as \"IBQQZ\", what is \"JOY\" coded as?",
+              "options": {
+                "a": "KPZ",
+                "b": "KPY",
+                "c": "IOX",
+                "d": "JPX"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "If \"BREAD\" is coded as \"CSFBEC\", what is \"CAKE\" coded as?",
+              "options": {
+                "a": "DBKF",
+                "b": "DBKE",
+                "c": "BZJD",
+                "d": "DBKH"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 24,
+              "question": "If \"GLASS\" is coded as \"HMCTT\", what is \"MUG\" coded as?",
+              "options": {
+                "a": "NVI",
+                "b": "NWH",
+                "c": "LVF",
+                "d": "NVH"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "If \"FRAME\" is coded as \"GSBNF\", what is \"PAINT\" coded as?",
+              "options": {
+                "a": "QBJOU",
+                "b": "QBHOT",
+                "c": "OBHMS",
+                "d": "QBIOT"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "If \"DRINK\" is coded as \"ESJMJ\", what is \"FOOD\" coded as?",
+              "options": {
+                "a": "GPPE",
+                "b": "FNOE",
+                "c": "GPQC",
+                "d": "GPOF"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "If \"GREEN\" is coded as \"HSFFO\", what is \"YELLOW\" coded as?",
+              "options": {
+                "a": "ZFMMXX",
+                "b": "ZFMMPX",
+                "c": "YDKKVW",
+                "d": "ZFMNPX"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "If \"MUSIC\" is coded as \"NVTJD\", what is \"SONG\" coded as?",
+              "options": {
+                "a": "TPNH",
+                "b": "TPNJ",
+                "c": "ROFF",
+                "d": "TPOH"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 29,
+              "question": "If \"LIGHT\" is coded as \"MJHIU\", what is \"DARK\" coded as?",
+              "options": {
+                "a": "EBSL",
+                "b": "DBQL",
+                "c": "DBSL",
+                "d": "EBQM"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "If \"DESK\" is coded as \"EFTL\", what is \"CHAIR\" coded as?",
+              "options": {
+                "a": "DICJS",
+                "b": "DIHJS",
+                "c": "DHCIR",
+                "d": "DHFIR"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "If \"TRAFFIC\" is coded as \"UQBGPJD\", what is \"SIGNAL\" coded as?",
+              "options": {
+                "a": "TJHOAM",
+                "b": "TIHNAK",
+                "c": "TJHNBM",
+                "d": "SIHNAM"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "If \"COMPUTER\" is coded as \"DPMPVUFS\", what is \"SOFTWARE\" coded as?",
+              "options": {
+                "a": "TPEXXBSF",
+                "b": "TQEXXBSF",
+                "c": "RNVESZQD",
+                "d": "TQFWXBSF"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "In a certain code, \"RAIN\" is written as \"SBJO\". How is \"WIND\" written in that code?",
+              "options": {
+                "a": "XJOE",
+                "b": "XJND",
+                "c": "VIMD",
+                "d": "XJOC"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "If \"DELHI\" is coded as \"EFMHI\", what is \"PARIS\" coded as?",
+              "options": {
+                "a": "QBSJT",
+                "b": "QBQJS",
+                "c": "OZQHS",
+                "d": "QBRJT"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "If \"LION\" is coded as \"NKOV\", what is \"TIGER\" coded as?",
+              "options": {
+                "a": "VKHGT",
+                "b": "UKHGR",
+                "c": "RJFDS",
+                "d": "VKHGT"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "If \"TABLE\" is coded as \"WBGOH\", what is \"CHAIR\" coded as?",
+              "options": {
+                "a": "FKDLU",
+                "b": "FKEKR",
+                "c": "FKDKU",
+                "d": "EKDJT"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "If \"ORANGE\" is coded as \"PSCQHH\", what is \"GRAPE\" coded as?",
+              "options": {
+                "a": "HTCRG",
+                "b": "HSCRG",
+                "c": "FQBOE",
+                "d": "HTCSG"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "If \"FESTIVAL\" is coded as \"JIXZMEQR\", what is \"CELEBRATE\" coded as?",
+              "options": {
+                "a": "GITFJVEGX",
+                "b": "GFUFIUDGX",
+                "c": "GITEKVDGY",
+                "d": "GITFJVDGX"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 9,
+              "question": "If \"NUMBER\" is coded as \"PWPFSZ\", what is \"LETTER\" coded as?",
+              "options": {
+                "a": "NGVVGT",
+                "b": "NGWWHV",
+                "c": "LFUUDS",
+                "d": "NGVWGQ"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "If \"KEYBOARD\" is coded as \"LGXCQFTE\", what is \"MOUSE\" coded as?",
+              "options": {
+                "a": "NPUFT",
+                "b": "MPVFT",
+                "c": "NQVFU",
+                "d": "MPRFU"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "If \"PROGRAM\" is coded as \"RQPISBN\", what is \"ALGORITHM\" coded as?",
+              "options": {
+                "a": "CLJQPHUJM",
+                "b": "CLJQPLIUJM",
+                "c": "CMKQPLHUJM",
+                "d": "CMJQPPLUJM"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "If \"ELECTRIC\" is coded as \"EPGCTYLG\", what is \"MACHINE\" coded as?",
+              "options": {
+                "a": "MCFIKOC",
+                "b": "MDHJOEG",
+                "c": "MDHJODG",
+                "d": "NBHIODG"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "If \"JOURNAL\" is coded as \"LQWMXDN\", what is \"MAGAZINE\" coded as?",
+              "options": {
+                "a": "ODICBKNG",
+                "b": "OCICBKMG",
+                "c": "NDHBBKMF",
+                "d": "ODHBCKNG"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "If \"EDUCATION\" is coded as \"GCNWCPLQP\", what is \"KNOWLEDGE\" coded as?",
+              "options": {
+                "a": "MPQYPGVJG",
+                "b": "OPRZQHVJG",
+                "c": "MPQYQGVJG",
+                "d": "OPRZOGWKG"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "If \"CALCULATE\" is coded as \"ECNCWNCVG\", what is \"ANALYZE\" coded as?",
+              "options": {
+                "a": "CPCNZFG",
+                "b": "CPANCYG",
+                "c": "BMBKXDD",
+                "d": "CPCNZHE"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "If \"ABSTRACT\" is coded as \"CZTYCT\", what is \"PROBLEM\" coded as?",
+              "options": {
+                "a": "QSJCJHN",
+                "b": "QSDJCKN",
+                "c": "QSJCJHM",
+                "d": "QSDJCHM"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "If \"HYPOTHESIS\" is coded as \"KZQVRKHGVX\", what is \"EXPERIMENT\" coded as?",
+              "options": {
+                "a": "FCQJCLGNWJ",
+                "b": "FCPJCHLNWJ",
+                "c": "FCQJCLGMWJ",
+                "d": "FCPJCHKMWJ"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "If \"UNIVERSITY\" is coded as \"WPKXGTQW\", what is \"COLLEGE\" coded as?",
+              "options": {
+                "a": "EQNNGGI",
+                "b": "FQNNGGI",
+                "c": "DQMLFGD",
+                "d": "EQOOGGI"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "If \"TELEVISION\" is coded as \"TGNYWKQWMP\", what is \"BROADCAST\" coded as?",
+              "options": {
+                "a": "DTQCFBTVT",
+                "b": "DTQCEBTVT",
+                "c": "CRNCESDRS",
+                "d": "DTQCECUWT"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "If \"COMMUNICATION\" is coded as \"EQOOWPKECVQQP\", what is \"TECHNOLOGY\" coded as?",
+              "options": {
+                "a": "VGEJPQNHGY",
+                "b": "VGELPQOGGY",
+                "c": "UDHIMNOGFX",
+                "d": "VGELPQNGGY"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "If \"ARTIFICIAL\" is coded as \"CTVKHKECN\", what is \"INTELLIGENCE\" coded as?",
+              "options": {
+                "a": "KPVGNNAIGQHG",
+                "b": "KPVGMMAJHQHG",
+                "c": "JOWFMMAJHQLG",
+                "d": "KPVGNNAKHQHG"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "If \"DEVELOPMENT\" is coded as \"FGXGNQRHSGPV\", what is \"INNOVATION\" coded as?",
+              "options": {
+                "a": "KPPQXCQJQQP",
+                "b": "KPPQYBQJQQP",
+                "c": "JNNOWBSHNNM",
+                "d": "KPPQYCQLQQP"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "If \"RESEARCH\" is coded as \"TFTGBQCH\", what is \"ANALYSIS\" coded as?",
+              "options": {
+                "a": "CPCNYRHT",
+                "b": "CPCNZRHT",
+                "c": "BMBJXQGS",
+                "d": "CPCNZRHT"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "If \"KNOWLEDGE\" is coded as \"MPQYQGVJG\", what is \"LEARNING\" coded as?",
+              "options": {
+                "a": "PGCSPKUI",
+                "b": "PGCSQKUI",
+                "c": "NDCRQKLJ",
+                "d": "PGCSRKUI"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "If \"UNDERSTANDING\" is coded as \"WPFGTUVCPFKPI\", what is \"APPLICATION\" coded as?",
+              "options": {
+                "a": "CRRNKECVKQP",
+                "b": "CRRKMECVKQP",
+                "c": "BQQMJBUIJKQM",
+                "d": "CRRNKECWLQP"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "If \"ENVIRONMENT\" is coded as \"GPXJQPOQTP\", what is \"SUSTAINABILITY\" coded as?",
+              "options": {
+                "a": "UWTUCJPCDKNKVX",
+                "b": "UWTUCJOBCDKNKVX",
+                "c": "TVSUZJOBCDKNLUW",
+                "d": "UWTUCJOBCDKNLVX"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "If \"INFORMATION\" is coded as \"KPHTMNCVQPN\", what is \"TECHNOLOGY\" coded as?",
+              "options": {
+                "a": "VGELPQNGGY",
+                "b": "VGELPQOGGY",
+                "c": "UDHIMNOGFX",
+                "d": "VGELPQNHGY"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "If \"CHALLENGE\" is coded as \"EJKNNKPI\", what is \"OPPORTUNITY\" coded as?",
+              "options": {
+                "a": "QRRQRWWMGTY",
+                "b": "QRRQTWWMGTY",
+                "c": "NQQQSUWWFMX",
+                "d": "QRRQTXXMGTY"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "If \"GLOBALIZATION\" is coded as \"INQDCNKWCVKQP\", what is \"COOPERATION\" coded as?",
+              "options": {
+                "a": "EQQRGTCDVKQP",
+                "b": "EQQRGTCDVKRN",
+                "c": "BNNNFSBCUIJM",
+                "d": "EQQRGSCDVKQP"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "If \"DEVELOPMENT\" is coded as \"FGXGNQRHSGPV\", what is \"STRATEGY\" coded as?",
+              "options": {
+                "a": "UVTCVGHY",
+                "b": "UVTCWGHY",
+                "c": "STSCVGHX",
+                "d": "UVTCVHGY"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "If \"CAT\" is coded as \"DDU\", what is \"DOG\" coded as?",
+              "options": {
+                "a": "EPH",
+                "b": "FPI",
+                "c": "EQH",
+                "d": "FPJ"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "If \"APPLE\" is coded as \"BQSMF\", what is \"GRAPE\" coded as?",
+              "options": {
+                "a": "HTCSG",
+                "b": "HSCRG",
+                "c": "HTCRG",
+                "d": "HTRQF"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "If \"FAN\" is coded as \"HCP\", what is \"SUN\" coded as?",
+              "options": {
+                "a": "VWP",
+                "b": "TWM",
+                "c": "TVO",
+                "d": "UWQ"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "If \"BLUE\" is coded as \"EQYH\", what is \"PINK\" coded as?",
+              "options": {
+                "a": "SLON",
+                "b": "RLOM",
+                "c": "QJNK",
+                "d": "RJOL"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "If \"TABLE\" is coded as \"WDEOH\", what is \"CHAIR\" coded as?",
+              "options": {
+                "a": "FKDLV",
+                "b": "FKEKR",
+                "c": "FKIJS",
+                "d": "FKDKU"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "If \"WATER\" is coded as \"ZBXFW\", what is \"FIRE\" coded as?",
+              "options": {
+                "a": "HITE",
+                "b": "GKRJ",
+                "c": "HGSF",
+                "d": "HJTG"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "If \"DAY\" is coded as \"HFI\", what is \"NIGHT\" coded as?",
+              "options": {
+                "a": "RMKGL",
+                "b": "QLJFJ",
+                "c": "OJHIU",
+                "d": "PNJIK"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "If \"ZOO\" is coded as \"DSQ\", what is \"BIRD\" coded as?",
+              "options": {
+                "a": "FMXH",
+                "b": "EJWI",
+                "c": "GKZN",
+                "d": "FKXG"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 9,
+              "question": "If \"CODE\" is coded as \"HQHI\", what is \"DECODE\" coded as?",
+              "options": {
+                "a": "HIQHIQ",
+                "b": "GIPGIP",
+                "c": "HGPHPG",
+                "d": "IJRIJR"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "If \"KING\" is coded as \"OMPK\", what is \"QUEEN\" coded as?",
+              "options": {
+                "a": "URHHQ",
+                "b": "TQGGN",
+                "c": "VSHHI",
+                "d": "URGGP"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "If \"HOUSE\" is coded as \"MWYWI\", what is \"STREET\" coded as?",
+              "options": {
+                "a": "XWYJJX",
+                "b": "XVZIIW",
+                "c": "WXZIIW",
+                "d": "YXAJKY"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "If \"READ\" is coded as \"WGFI\", what is \"WRITE\" coded as?",
+              "options": {
+                "a": "BGSLX",
+                "b": "AHJUZ",
+                "c": "XKQHV",
+                "d": "WHPJU"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "If \"BOX\" is coded as \"GPC\", what is \"PEN\" coded as?",
+              "options": {
+                "a": "RHT",
+                "b": "QFU",
+                "c": "SIV",
+                "d": "QGS"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "If \"CAR\" is coded as \"FDU\", what is \"BIKE\" coded as?",
+              "options": {
+                "a": "EJNH",
+                "b": "FKPI",
+                "c": "GLOJ",
+                "d": "DKHG"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "If \"KEY\" is coded as \"NGB\", what is \"LOCK\" coded as?",
+              "options": {
+                "a": "QPFN",
+                "b": "RPMO",
+                "c": "OSGK",
+                "d": "QPHL"
+              },
+              "answer": "a"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

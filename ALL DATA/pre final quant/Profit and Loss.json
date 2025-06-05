@@ -1,0 +1,521 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Profit and Loss",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Mr Kashyap purchased an airconditioner for\n` 12000 and sold it for ` 15000. What was the profit \npercentage? (Bank Recruitment, 2010)",
+              "options": {
+                "a": "36 17",
+                "b": "50 24",
+                "c": "40 19",
+                "d": "60 29",
+                "e": "None of these\n\t 2.\tIn terms of percentage profit, which is the best \ntransaction?\n C.P."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "If books bought at prices ranging from ` 200 to\n` 350 are sold at prices ranging from ` 300 to ` 425, \nwhat is the greatest possible profit that might be \nmade in selling eight books?",
+              "options": {
+                "a": "` 400",
+                "b": "` 600",
+                "c": "Cannot be determined",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "A shopkeeper bought an article for ` 2090.42. \nApproximately, what will be the percentage profit \nif he sold that article for ` 2602.58?",
+              "options": {
+                "a": "15%",
+                "b": "20%",
+                "c": "25%",
+                "d": "30%"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "The cost price of an article is ` 7840. What should \nbe the selling price of the article so that there is a \nprofit of 7%? (R.R.B., 2008)",
+              "options": {
+                "a": "` 1580",
+                "b": "` 1750",
+                "c": "` 1850",
+                "d": "` 1870",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "Rajni purchased a mobile phone and a refrigerator \nfor ` 12000 and ` 10000 respectively. She sold the \nrefrigerator at a loss of 12 percent and the mobile \nphone at a profit of 8 percent. What is her overall \nloss/profit? (Bank P.O., 2010)",
+              "options": {
+                "a": "` 14375",
+                "b": "` 14560",
+                "c": "` 15375",
+                "d": "` 15460",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "Harshad bought 15 pieces of DVD players @ ` 4500 \neach and sold all of them at the total price of ` 81000. \nWhat is the percent profit earned in the deal?\n\t \t (Bank P.O., 2009)",
+              "options": {
+                "a": "4 4 %\n7",
+                "b": "5 5 %\n11",
+                "c": "10%",
+                "d": "12%",
+                "e": "None of these\n\t 10.\tAlfred buys an old scooter for ` 4700 and spends\n` 800 on its repairs. If he sells the scooter for ` 5800, \nhis gain percent is"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "A shopkeeper purchased 70 kg of potatoes for ` 420 \nand sold the whole lot at the rate of ` 6.50 per kg. \nWhat will be his gain percent? (S.S.C., 2007)",
+              "options": {
+                "a": "3.5",
+                "b": "4.5",
+                "c": "5.6",
+                "d": "6.5",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "100 oranges are bought at the rate of ` 350 and \nsold at the rate of ` 48 per dozen. The percentage \nof profit or loss is (B.Ed Entrance, 2008)",
+              "options": {
+                "a": "2 14 % gain 7",
+                "b": "15% gain",
+                "c": "2 14 % loss\n7",
+                "d": "15% loss"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "A sells an article which costs him ` 400 to B at a \nprofit of 20%. B then sells it to C, making a profit \nof 10% on the price he paid to A. How much does \nC pay B?",
+              "options": {
+                "a": "` 472",
+                "b": "` 476",
+                "c": "` 528",
+                "d": "` 532"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "By selling an article for ` 100, a man gains ` 15. \nThen, his gain % is (R.R.B., 2010)",
+              "options": {
+                "a": "` 184.80",
+                "b": "` 185.80",
+                "c": "` 187.80",
+                "d": "` 188.80"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "A man buys 10 articles for ` 8 and sells them at the \nrate of ` 1.25 per article. His profit is",
+              "options": {
+                "a": "1 : 2",
+                "b": "2 : 1",
+                "c": "1 : 3",
+                "d": "3 : 1"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 12,
+              "question": "If the ratio of cost price and selling price of an article \nbe 10 : 11, the percentage of profit is (S.S.C., 2010)",
+              "options": {
+                "a": "25%",
+                "b": "35.3%",
+                "c": "37.5%",
+                "d": "42.5%",
+                "e": "None of these\n\t 28.\tA person purchased 10 dozen pens at the rate of\n` 4 per dozen. On checking, he found that 20 pens \nwere not working. In order to earn 25% profit, he \nshould sell the remaining pens each at"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "Jacob bought a scooter for a certain sum of money. \nHe spent 10% of the cost on repairs and sold the \nscooter for a profit of ` 1100. How much did he \nspend on repairs if he made a profit of 20%?",
+              "options": {
+                "a": "` 12,000",
+                "b": "` 13,000",
+                "c": "` 14,000",
+                "d": "` 15,000"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "Ronit and Vinit purchased a scooter for ` 25000 and \nsold the same for ` 26250. If at the time of purchase \nRonit paid 1 1\n2 times as much as Vinit, how much \ndid Vinit receive out of profit? (P.C.S., 2004)",
+              "options": {
+                "a": "` 400",
+                "b": "` 500",
+                "c": "` 600",
+                "d": "` 700"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "A trader buys a chair for ` 600 and sells it for ` 765 \nat a credit of 4 months. Reckoning money worth 6% \np.a., his gain percent is",
+              "options": {
+                "a": "20%",
+                "b": "1 22 %\n2",
+                "c": "25%",
+                "d": "1 27 %\n2"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "By selling a bicycle for ` 2850, a shopkeeper gains \n14%. If the profit is reduced to 8% then the selling \nprice will be (S.S.C., 2010)",
+              "options": {
+                "a": "` 21,000",
+                "b": "` 22,500",
+                "c": "` 25,300",
+                "d": "` 25,800"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "A fruitseller sells mangoes at the rate of ` 9 per kg \nand thereby loses 20%. At what price per kg, he \nshould have sold them to make a profit of 5%?",
+              "options": {
+                "a": "Loss of ` 120",
+                "b": "Gain of ` 120",
+                "c": "Loss of ` 140",
+                "d": "Neither loss nor gain"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "A property dealer sells a house for ` 6,30,000 and \nin the bargain makes a profit of 5%. Had he sold it \nfor ` 5,00,000, then what percentage of loss or gain \nhe would have made?",
+              "options": {
+                "a": "15 5 % loss\n17",
+                "b": "15 5 % gain\n17",
+                "c": "2 6 % gain\n3",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 19,
+              "question": "If selling price of an article is 4\n3 of its cost price, \nthe profit in the transaction is (M.B.A., 2006)",
+              "options": {
+                "a": "2 : 7",
+                "b": "5 : 2",
+                "c": "7 : 2",
+                "d": "Data inadequate",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "If an article is sold for ` x, there is a loss of 15%. If \nthe same article is sold for ` y, there is a profit of \n15%. The ratio of (y – x) to (y + x) is\n(Hotel Mgmt, 2010)",
+              "options": {
+                "a": "3 : 20",
+                "b": "20 : 3",
+                "c": "17 : 23",
+                "d": "20 : 23"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "By selling an article at some price, a man gains 10%. \nIf the article is sold at twice of the price, the gain \npercent will be (R.R.B., 2006)",
+              "options": {
+                "a": "20%",
+                "b": "60%",
+                "c": "100%",
+                "d": "120%"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 22,
+              "question": "If selling price is doubled, the profit triples. Find \nthe profit percent.",
+              "options": {
+                "a": "25%",
+                "b": "36%",
+                "c": "40%",
+                "d": "42%"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "The C.P. of an article is 40% of the S.P. The percent \nthat the S.P. is of C.P. is",
+              "options": {
+                "a": "` 16",
+                "b": "` 18",
+                "c": "` 20",
+                "d": "` 21"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 24,
+              "question": "By selling an article, Michael earned a profit equal \nto one-fourth of the price he bought it. If he sold it \nfor ` 375, what was the cost price?",
+              "options": {
+                "a": "1 9 %\n11",
+                "b": "2 9 %\n11",
+                "c": "10%",
+                "d": "11%"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Arun purchased 30 kg of wheat at the rate of ` 11.50 \nper kg and 20 kg of wheat at the rate of ` 14.25 \nper kg. He mixed the two and sold the mixture. \nApproximately what price per kg should he sell the \nmixture to make 30% profit? (Bank P.O., 2011)",
+              "options": {
+                "a": "200",
+                "b": "250",
+                "c": "300",
+                "d": "400",
+                "e": "` 60\n\t106.\tA dealer buys dry fruit at the rate of ` 100, ` 80 \nand ` 60 per kg. He bought them in the ratio 12 : \n15 : 20 by weight. He in total gets 20% profit by \nselling the first two and at last he finds he has no \ngain no loss in selling the whole quantity which he \nhad. What was the percentage loss he suffered for \nthe third quantity?"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "A milkman cheats his customer in two ways. He \nmixes 10% water in pure milk and increases the price \nof milk by 10%. He purchases 20 kg pure milk at a \nrate of ` 15 per kg. His total profit by selling it is\n(Hotel Management, 2007)",
+              "options": {
+                "a": "9%",
+                "b": "10%",
+                "c": "12%",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "A dealer professes to sell his goods at cost price but \nhe uses a false weight of 950 grams for a kilogram. \nThe gain percent of the dealer is (R.R.B., 2008)",
+              "options": {
+                "a": "5 4 %\n19",
+                "b": "5%",
+                "c": "5 5 %\n19",
+                "d": "1 19 %\n5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "A fruit seller professes to sell his fruits at cost price, \nbut still gains 25% on his outlay. What weight does \nhe substitute for a kilogram? (P.C.S., 2009)",
+              "options": {
+                "a": "800 gm",
+                "b": "850 gm",
+                "c": "890 gm",
+                "d": "900 gm"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "A dishonest dealer professes to sell his goods at cost \nprice. But he uses a false weight and thus gains \n6 % 18\n47 . For a kg, he uses a weight of",
+              "options": {
+                "a": "10%",
+                "b": "11%",
+                "c": "20%",
+                "d": "21%",
+                "e": "2 22 %\n9\n388 QUANTITATIVE APTITUDE"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "Left pan of a faulty balance weighs 100 grams more \nthan its right pan. A shopkeeper keeps the weight \nmeasure in the left pan while buying goods but keeps \nit in the right pan while selling his goods. He uses \nonly 1 kg weight measure. If he sells his goods at \nthe listed cost price, what is his gain?\n(Civil Services, 2005; Hotel Mgmt, 2007)",
+              "options": {
+                "a": "30%",
+                "b": "35%",
+                "c": "37.5%",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "A dishonest dealer sells the goods at 20% loss on \ncost price but uses 15% less weight. What is his \npercentage profit or loss?",
+              "options": {
+                "a": "X gained ` 4350",
+                "b": "X lost ` 4350",
+                "c": "X gained ` 3150",
+                "d": "X lost ` 3150\nPROFIT AND LOSS 389",
+                "e": "None of these\n\t128.\tA manufacturer sells an article to a wholesale dealer \nat a profit of 20% and the wholesale dealer sells it to \na retail merchant at a loss of 5%. Find the resultant \nloss or profit."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "A manufacturer sold a machine to a wholesale dealer \nat a profit of 10%. The wholesale dealer sold it to a \nretailer at a profit of 20%. While transporting some \ndefect occurred in the machine and hence the retailer \nsold it at a loss of 5%. The customer paid ` 627. \nFind the cost of the machine for the manufacturer.\n(M.A.T., 2010)",
+              "options": {
+                "a": "` 128",
+                "b": "` 150",
+                "c": "` 192",
+                "d": "` 200"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "An article passing through two hands is sold at a \nprofit of 38% at the original cost price. If the first \ndealer makes a profit of 20%, then the profit percent \nmade by the second is (C.P.O., 2006)",
+              "options": {
+                "a": "5",
+                "b": "10",
+                "c": "12",
+                "d": "15"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "A merchant buys an article for ` 27 and sells it at a \nprofit of 10 percent of the selling price. The selling \nprice of the article is (C.P.O., 2005)",
+              "options": {
+                "a": "` 29.70",
+                "b": "` 30",
+                "c": "` 32",
+                "d": "` 37"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "By selling an article, a man makes a profit of 25% \nof its selling price. His profit percent is (S.S.C., 2010)",
+              "options": {
+                "a": "1 8\n3",
+                "b": "2 16\n3",
+                "c": "20",
+                "d": "24"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 12,
+              "question": "Vineet calculates his profit percentage on the selling \nprice whereas Roshan calculates his profit on the cost \nprice. They find that the difference of their profits \nis ` 275. If the selling price of both of them are the \nsame and Vineet gets 25% profit whereas Roshan \ngets 15% profit, find their selling price.\n (N.M.A.T., 2005)",
+              "options": {
+                "a": "` 72",
+                "b": "` 80",
+                "c": "` 90",
+                "d": "` 100"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "By selling an article at 2\n3 of the marked price, there \nis a loss of 10%. The profit percent, when the article \nis sold at the marked price, is (C.P.O., 2006)",
+              "options": {
+                "a": "20%",
+                "b": "3 29 %\n13",
+                "c": "30%",
+                "d": "1 38 %\n13"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "A man buys an article for 10% less than its value \nand sells it for 10% more than its value. His gain \nor loss percent is",
+              "options": {
+                "a": "17%",
+                "b": "20%",
+                "c": "27%",
+                "d": "32%",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "If 5% more is gained by selling an article for ` 350 \nthan by selling it for ` 340, the cost of the article \nis",
+              "options": {
+                "a": "` 50",
+                "b": "` 160",
+                "c": "` 200",
+                "d": "` 225"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "If a man reduces the selling price of a fan from\n` 400 to ` 380, his loss increases by 2%. The cost \nprice of the fan is",
+              "options": {
+                "a": "` 480",
+                "b": "` 500",
+                "c": "` 600",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "An increase of ` 3 in the selling price of an article \nturns a loss of 1 7 %\n2 into a gain of 1 7 %\n2 . The cost \nprice (in `) of the article is (C.P.O., 2007)",
+              "options": {
+                "a": "` 500",
+                "b": "` 510",
+                "c": "` 575",
+                "d": "` 600\n390 QUANTITATIVE APTITUDE"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "A dealer sold an article at a loss of 1 2 %.\n2 Had he \nsold it for ` 100 more, he would have gained 1 7 %.\n2\nTo gain \n1 12 %, 2 he should sell it for",
+              "options": {
+                "a": "` 60",
+                "b": "` 70",
+                "c": "` 80",
+                "d": "` 90"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 19,
+              "question": "A bookseller sells a book at a profit of 10%. If he \nhad bought it at 4% less and sold it for ` 6 more, \nhe would have gained 18 %\n4\n3 . The cost price of the \nbook is (S.S.C., 2007)",
+              "options": {
+                "a": "` 450",
+                "b": "` 500",
+                "c": "` 550",
+                "d": "` 600"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "A shopkeeper gives 12% additional discount on the \ndiscounted price, after giving an initial discount of \n20% on the labelled price of a radio. If the final sale \nprice of the radio is ` 704, then what is its labelled \nprice?",
+              "options": {
+                "a": "Nil",
+                "b": "` 1440",
+                "c": "` 2500",
+                "d": "` 1960",
+                "e": "None of these\n\t210.\tA manufacturer offers a 20% rebate on the marked \nprice of a product. The retailer offers another 30% \nrebate on the reduced price. The two reductions are \nequivalent to a single reduction of"
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

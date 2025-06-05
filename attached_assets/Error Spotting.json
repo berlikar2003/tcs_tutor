@@ -1,0 +1,850 @@
+{
+  "Subject": "Verbal",
+  "Chapters": [
+    {
+      "Chapter Name": "Error Spotting",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "He is one of the best students who has cleared the exam successfully.",
+              "options": {
+                "a": "He is one of the best",
+                "b": "students who",
+                "c": "has cleared",
+                "d": "the exam successfully"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "She likes to read books and listening to music in her free time.",
+              "options": {
+                "a": "She likes to",
+                "b": "read books",
+                "c": "and listening",
+                "d": "to music in her free time"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "Every of the students are expected to submit their assignment by Friday.",
+              "options": {
+                "a": "Every of the",
+                "b": "students are",
+                "c": "expected to",
+                "d": "submit their assignment by Friday"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "Despite of being very rich, he is not happy with his life.",
+              "options": {
+                "a": "Despite of",
+                "b": "being very rich,",
+                "c": "he is",
+                "d": "not happy with his life"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "The cat jumped on the table and breaks a vase into many pieces.",
+              "options": {
+                "a": "The cat jumped",
+                "b": "on the table",
+                "c": "and breaks",
+                "d": "a vase into many pieces"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "Neither John nor his friends is coming to the party tonight.",
+              "options": {
+                "a": "Neither John",
+                "b": "nor his friends",
+                "c": "is coming",
+                "d": "to the party tonight"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "He did not went to school yesterday because he was feeling sick.",
+              "options": {
+                "a": "He did not",
+                "b": "went to",
+                "c": "school yesterday",
+                "d": "because he was feeling sick"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "More quicker than he expected, he finished the challenging race.",
+              "options": {
+                "a": "More quicker",
+                "b": "than he",
+                "c": "expected, he",
+                "d": "finished the challenging race"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "She prefers coffee than tea for breakfast every morning.",
+              "options": {
+                "a": "She prefers",
+                "b": "coffee than",
+                "c": "tea for",
+                "d": "breakfast every morning"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "If I was a bird, I would fly high in the sky.",
+              "options": {
+                "a": "If I was",
+                "b": "a bird,",
+                "c": "I would",
+                "d": "fly high in the sky"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "One of my friend is a doctor in a hospital in London.",
+              "options": {
+                "a": "One of my",
+                "b": "friend is",
+                "c": "a doctor",
+                "d": "in a hospital in London"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "He is living in Delhi since 2005 with his family.",
+              "options": {
+                "a": "He is living",
+                "b": "in Delhi",
+                "c": "since 2005",
+                "d": "with his family"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "The reason why he failed is because he did not study well.",
+              "options": {
+                "a": "The reason why",
+                "b": "he failed",
+                "c": "is because",
+                "d": "he did not study well"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "She speaks English good but her grammar skills are weak.",
+              "options": {
+                "a": "She speaks",
+                "b": "English good",
+                "c": "but her",
+                "d": "grammar skills are weak"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "Always remember to be polite to everyone you meet.",
+              "options": {
+                "a": "Always remember",
+                "b": "to be",
+                "c": "polite to",
+                "d": "everyone you meet."
+              },
+              "answer": null
+            },
+            {
+              "question_no": 16,
+              "question": "My brother as well as his friends are coming to the movie.",
+              "options": {
+                "a": "My brother",
+                "b": "as well as",
+                "c": "his friends",
+                "d": "are coming to the movie"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "He asked me that if I could help him with his homework.",
+              "options": {
+                "a": "He asked me",
+                "b": "that if I",
+                "c": "could help",
+                "d": "him with his homework"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "The news are good for all the employees at the company.",
+              "options": {
+                "a": "The news",
+                "b": "are good",
+                "c": "for all",
+                "d": "the employees at the company"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "Although he is rich, but he is not happy with his wealth.",
+              "options": {
+                "a": "Although he",
+                "b": "is rich,",
+                "c": "but he",
+                "d": "is not happy with his wealth"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "She has finished her work just now and is ready to leave.",
+              "options": {
+                "a": "She has",
+                "b": "finished her work",
+                "c": "just now",
+                "d": "and is ready to leave"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "I look forward to meet you next week at the conference.",
+              "options": {
+                "a": "I look forward",
+                "b": "to meet",
+                "c": "you",
+                "d": "next week at the conference"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "A large number of students has applied for the scholarship this year.",
+              "options": {
+                "a": "A large number",
+                "b": "of students",
+                "c": "has applied",
+                "d": "for the scholarship this year"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "He is senior than me by two years in professional experience.",
+              "options": {
+                "a": "He is senior",
+                "b": "than me",
+                "c": "by two",
+                "d": "years in professional experience"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "Each of the boys were given a prize yesterday at the event.",
+              "options": {
+                "a": "Each of the boys",
+                "b": "were given",
+                "c": "a prize",
+                "d": "yesterday at the event"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "The principal and director are attending the meeting as chief guests.",
+              "options": {
+                "a": "The principal",
+                "b": "and director",
+                "c": "are attending",
+                "d": "the meeting as chief guests"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "Neither he nor I am guilty of this serious crime.",
+              "options": {
+                "a": "Neither he",
+                "b": "nor I",
+                "c": "am guilty",
+                "d": "of this serious crime"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 27,
+              "question": "He is afraid from dogs because he was bitten by one once.",
+              "options": {
+                "a": "He is afraid",
+                "b": "from dogs",
+                "c": "because he",
+                "d": "was bitten by one once"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "The train arrived at the station in time for the ceremony.",
+              "options": {
+                "a": "The train",
+                "b": "arrived at",
+                "c": "the station",
+                "d": "in time for the ceremony"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 29,
+              "question": "She knitted a sweater for her son yesterday afternoon.",
+              "options": {
+                "a": "She knitted",
+                "b": "a sweater",
+                "c": "for her",
+                "d": "son yesterday afternoon"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 30,
+              "question": "He is capable to do this job effectively and efficiently.",
+              "options": {
+                "a": "He is capable",
+                "b": "to do",
+                "c": "this",
+                "d": "job effectively and efficiently"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The committee has agreed upon a new policy to implement in next quarter's plan.",
+              "options": {
+                "a": "The committee has",
+                "b": "agreed upon",
+                "c": "a new policy",
+                "d": "to implement in next quarter's plan"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "Had he known the complete truth, he would have informed them immediately about it.",
+              "options": {
+                "a": "Had he known",
+                "b": "the complete truth,",
+                "c": "he would have",
+                "d": "informed them immediately about it"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 3,
+              "question": "Scarcely had I entered the room then the lights suddenly went out.",
+              "options": {
+                "a": "Scarcely had",
+                "b": "I entered the room",
+                "c": "then the lights",
+                "d": "suddenly went out"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "Despite of the severe weather warnings, the climbers proceeded with their dangerous ascent.",
+              "options": {
+                "a": "Despite of",
+                "b": "the severe weather",
+                "c": "warnings, the climbers",
+                "d": "proceeded with their dangerous ascent"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "The number of applicants have increased significantly this year for the position.",
+              "options": {
+                "a": "The number of",
+                "b": "applicants have",
+                "c": "increased significantly",
+                "d": "this year for the position"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "Not only did they offer him a new job, but also promised a higher salary.",
+              "options": {
+                "a": "Not only did",
+                "b": "they offer him",
+                "c": "a new job,",
+                "d": "but also promised a higher salary"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "He is one of those rare individuals who believes in absolute honesty at all times.",
+              "options": {
+                "a": "He is one of those",
+                "b": "rare individuals who",
+                "c": "believes in",
+                "d": "absolute honesty at all times"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "The data suggests that the company is experiencing a severe financial crisis currently.",
+              "options": {
+                "a": "The data suggests",
+                "b": "that the company",
+                "c": "is experiencing",
+                "d": "a severe financial crisis currently"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "It is imperative that he abstains from consuming any alcoholic beverages whatsoever.",
+              "options": {
+                "a": "It is imperative",
+                "b": "that he abstains",
+                "c": "from consuming",
+                "d": "any alcoholic beverages whatsoever"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "The sudden onset of the storm prevented us to go out for the picnic.",
+              "options": {
+                "a": "The sudden onset",
+                "b": "of the storm",
+                "c": "prevented us",
+                "d": "to go out for the picnic"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "Many a student have failed in the examination this year regrettably.",
+              "options": {
+                "a": "Many a student",
+                "b": "have failed",
+                "c": "in the",
+                "d": "examination this year regrettably"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "The reason for their success was due to their extraordinary perseverance.",
+              "options": {
+                "a": "The reason for",
+                "b": "their success was",
+                "c": "due to",
+                "d": "their extraordinary perseverance"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "Had I realize the consequences, I would not have taken such a drastic step.",
+              "options": {
+                "a": "Had I realize",
+                "b": "the consequences,",
+                "c": "I would not",
+                "d": "have taken such a drastic step"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "The minister, along with his cabinet colleagues, are present at the critical conference.",
+              "options": {
+                "a": "The minister, along",
+                "b": "with his cabinet",
+                "c": "colleagues, are",
+                "d": "present at the critical conference"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "He denied to have stolen the money from the bank vault.",
+              "options": {
+                "a": "He denied",
+                "b": "to have",
+                "c": "stolen the money",
+                "d": "from the bank vault"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "Each of the participants were given a detailed feedback report after the session.",
+              "options": {
+                "a": "Each of the",
+                "b": "participants were",
+                "c": "given a detailed",
+                "d": "feedback report after the session"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "The officer inquired from the suspect about his whereabouts last night.",
+              "options": {
+                "a": "The officer",
+                "b": "inquired from",
+                "c": "the suspect",
+                "d": "about his whereabouts last night"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "He is the only one of the writers who have won the prestigious literary award.",
+              "options": {
+                "a": "He is the only one",
+                "b": "of the writers",
+                "c": "who have",
+                "d": "won the prestigious literary award"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "I doubt if he will come to the party next weekend.",
+              "options": {
+                "a": "I doubt if",
+                "b": "he will",
+                "c": "come to",
+                "d": "the party next weekend"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "The jury were divided in their opinion regarding the complex verdict.",
+              "options": {
+                "a": "The jury were",
+                "b": "divided in",
+                "c": "their opinion",
+                "d": "regarding the complex verdict"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "He is suffering from fever since last three days continuously.",
+              "options": {
+                "a": "He is suffering",
+                "b": "from fever",
+                "c": "since",
+                "d": "last three days continuously"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "Supposing if he fails, what will he do in such a situation?",
+              "options": {
+                "a": "Supposing if",
+                "b": "he fails,",
+                "c": "what will",
+                "d": "he do in such a situation?"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "The new manager is highly proficient with customer relations and sales.",
+              "options": {
+                "a": "The new manager",
+                "b": "is highly proficient",
+                "c": "with",
+                "d": "customer relations and sales"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 24,
+              "question": "Lest you should fail, work hard for your goals.",
+              "options": {
+                "a": "Lest you",
+                "b": "should fail,",
+                "c": "work",
+                "d": "hard for your goals"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 25,
+              "question": "The principal forbade the students not to bring mobile phones to school.",
+              "options": {
+                "a": "The principal forbade",
+                "b": "the students",
+                "c": "not to",
+                "d": "bring mobile phones to school"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "By the time he arrives, we will have finished our dinner completely.",
+              "options": {
+                "a": "By the time",
+                "b": "he arrives,",
+                "c": "we will",
+                "d": "have finished our dinner completely"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 27,
+              "question": "He is one who I think is best suited for the demanding job.",
+              "options": {
+                "a": "He is one",
+                "b": "who I",
+                "c": "think is",
+                "d": "best suited for the demanding job"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "The two brothers love one another very much and always help.",
+              "options": {
+                "a": "The two brothers",
+                "b": "love one",
+                "c": "another",
+                "d": "very much and always help"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 29,
+              "question": "Neither the captain nor the players was blamed for the team's defeat.",
+              "options": {
+                "a": "Neither the captain",
+                "b": "nor the players",
+                "c": "was blamed",
+                "d": "for the team's defeat"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "The reason for the accident is because the driver was negligent in his duties.",
+              "options": {
+                "a": "The reason for",
+                "b": "the accident is",
+                "c": "because the driver",
+                "d": "was negligent in his duties"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The committee has agreed upon a new policy to implement in next quarter's plan.",
+              "options": {
+                "a": "The committee has",
+                "b": "agreed upon",
+                "c": "a new policy",
+                "d": "to implement in next quarter's plan"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "Had he known the complete truth, he would have informed them immediately about it.",
+              "options": {
+                "a": "Had he known",
+                "b": "the complete truth,",
+                "c": "he would have",
+                "d": "informed them immediately about it"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "Scarcely had I entered the room then the lights suddenly went out.",
+              "options": {
+                "a": "Scarcely had",
+                "b": "I entered the room",
+                "c": "then the lights",
+                "d": "suddenly went out"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "Despite of the severe weather warnings, the climbers proceeded with their dangerous ascent.",
+              "options": {
+                "a": "Despite of",
+                "b": "the severe weather",
+                "c": "warnings, the climbers",
+                "d": "proceeded with their dangerous ascent"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "The number of applicants have increased significantly this year for the position.",
+              "options": {
+                "a": "The number of",
+                "b": "applicants have",
+                "c": "increased significantly",
+                "d": "this year for the position"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "Not only did they offer him a new job, but also promised a higher salary.",
+              "options": {
+                "a": "Not only did",
+                "b": "they offer him",
+                "c": "a new job,",
+                "d": "but also promised a higher salary"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "He is one of those rare individuals who believes in absolute honesty at all times.",
+              "options": {
+                "a": "He is one of those",
+                "b": "rare individuals who",
+                "c": "believes in",
+                "d": "absolute honesty at all times"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "The data suggests that the company is experiencing a severe financial crisis currently.",
+              "options": {
+                "a": "The data suggests",
+                "b": "that the company",
+                "c": "is experiencing",
+                "d": "a severe financial crisis currently"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "It is imperative that he abstains from consuming any alcoholic beverages whatsoever.",
+              "options": {
+                "a": "It is imperative",
+                "b": "that he abstains",
+                "c": "from consuming",
+                "d": "any alcoholic beverages whatsoever"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "The sudden onset of the storm prevented us to go out for the picnic.",
+              "options": {
+                "a": "The sudden onset",
+                "b": "of the storm",
+                "c": "prevented us",
+                "d": "to go out for the picnic"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "Many a student have failed in the examination this year regrettably.",
+              "options": {
+                "a": "Many a student",
+                "b": "have failed",
+                "c": "in the",
+                "d": "examination this year regrettably"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "The reason for their success was due to their extraordinary perseverance.",
+              "options": {
+                "a": "The reason for",
+                "b": "their success was",
+                "c": "due to",
+                "d": "their extraordinary perseverance"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "Had I realize the consequences, I would not have taken such a drastic step.",
+              "options": {
+                "a": "Had I realize",
+                "b": "the consequences,",
+                "c": "I would not",
+                "d": "have taken such a drastic step"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "The minister, along with his cabinet colleagues, are present at the critical conference.",
+              "options": {
+                "a": "The minister, along",
+                "b": "with his cabinet",
+                "c": "colleagues, are",
+                "d": "present at the critical conference"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "He denied to have stolen the money from the bank vault.",
+              "options": {
+                "a": "He denied",
+                "b": "to have",
+                "c": "stolen the money",
+                "d": "from the bank vault"
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

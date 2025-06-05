@@ -1,0 +1,916 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Chain Rule",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "If the cost of x metres of wire is d rupees, then what \nis the cost of y metres of wire at the same rate? \n (M.B.A., 2002)",
+              "options": {
+                "a": "xy\nd\n      `",
+                "b": "`",
+                "c": "`",
+                "d": "yd\nx\n      `"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "The price of 5.5 dozen pens is ` 1287. What is the \nprice of 16 such pens?",
+              "options": {
+                "a": "` 212",
+                "b": "` 296",
+                "c": "` 312",
+                "d": "` 412",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "The price of 357 mangoes is ` 1517.25. What will \nbe the approximate price of 49 dozens of such \nmangoes?",
+              "options": {
+                "a": "` 3000",
+                "b": "` 3500",
+                "c": "` 4000",
+                "d": "` 2500"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "If a quarter kg of potato costs 60 paise, how many \npaise will 200 gm cost?",
+              "options": {
+                "a": "48 paise",
+                "b": "54 paise",
+                "c": "56 paise",
+                "d": "72 paise"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "If 11.25 m of a uniform iron rod weighs 42.75 kg, \nwhat will be the weight of 6 m of the same rod?",
+              "options": {
+                "a": "22.8 kg",
+                "b": "25.6 kg",
+                "c": "28 kg",
+                "d": "26.5 kg"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "On a scale of map, 0.6 cm represents 6.6 km. If the \ndistance between the points on the map is 80.5 cm, \nthe actual distance between these points is",
+              "options": {
+                "a": "9 km",
+                "b": "72.5 km",
+                "c": "190.75 km",
+                "d": "885.5 km"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "An industrial loom weaves 0.128 metres of cloth every \nsecond. Approximately, how many seconds will it take \nfor the loom to weave 25 metres of cloth? \n (M.B.A., 2003)",
+              "options": {
+                "a": "178",
+                "b": "195",
+                "c": "204",
+                "d": "488"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "A recipe for stew that feeds 4 people calls for 1 1\n2\nteaspoons of salt. If 3 teaspoons = 1 tablespoon, then \nhow many tablespoons of salt will be needed to \nmake enough stew for 18 people?",
+              "options": {
+                "a": "2.25",
+                "b": "3.25",
+                "c": "4.5",
+                "d": "6"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "A snapshot 7 1 1 2\n8 2\n′′ × ′′ is to be enlarged so that the \nlonger dimension is 4″. What will be the dimension \nof the shorter side? (DMRC, 2003)",
+              "options": {
+                "a": "3 2\n8\n′′",
+                "b": "1 2\n2\n′′",
+                "c": "3″",
+                "d": "3 3\n8\n′′"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "A canteen requires 651 bananas for a week. Totally, \nhow many bananas will it require for the months \nof April, May and June? (Bank Recruitment, 2009)",
+              "options": {
+                "a": "8463",
+                "b": "8547",
+                "c": "9086",
+                "d": "9284",
+                "e": "None of these\n498 QUANTITATIVE APTITUDE"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "If 4 th\n9 of a bucket is filled in 1 minute, the rest of \nit will be filled in\t\t(Hotel Management, 2010)",
+              "options": {
+                "a": "1 min",
+                "b": "9\n4\nmin",
+                "c": "5\n4\nmin",
+                "d": "4 min\n5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "On a certain map of India the actual distance of 1450 \nkm between two cities Delhi and Kolkata is shown \nas 5 cm. What scale is used to draw the map?\n (A.T.M.A., 2004)",
+              "options": {
+                "a": "1 : 15 × 106",
+                "b": "1 : 20 × 106",
+                "c": "1 : 25 × 106",
+                "d": "1 : 29 × 106"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "A flagstaff 17.5 m high casts a shadow of length",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 14,
+              "question": "25 m. The height of the building, which casts a \nshadow of length 28.75 m under similar conditions \nwill be (M.B.A., 2002)",
+              "options": {
+                "a": "10 m",
+                "b": "12.5 m",
+                "c": "17.5 m",
+                "d": "21.25 m"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 15,
+              "question": "A TV tower 36 metres high casts a shadow of 24 \nmetres at a particular time of a day. What is the \nheight of a minar with a three metre high flagstaff \natop it, if both of these together cast a shadow of \n50 metres at the same time of the day?",
+              "options": {
+                "a": "64 m",
+                "c": "75 m",
+                "d": "None of these"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 16,
+              "question": "A man completes 5\n8 of a job in 10 days. At this \nrate, how many more days will it take him to finish \nthe job? (M.B.A., 2003)",
+              "options": {
+                "a": "5",
+                "b": "6",
+                "c": "7",
+                "d": "1 7\n2"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "56 men can complete a piece of work in 24 days. \nIn how many days can 42 men complete the same \npiece of work? (Bank P.O., 2008)",
+              "options": {
+                "a": "18",
+                "b": "32",
+                "c": "48",
+                "d": "98",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "30 men can do a piece of work in 16 days. How \nmany men would be required to do the same work \nin 20 days? (Bank P.O., 2008)",
+              "options": {
+                "a": "12",
+                "b": "24",
+                "c": "36",
+                "d": "48",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "A group of workers promise to complete a piece \nof work in 10 days, but five of them do not report \nfor work. If it took the remaining workers 12 days \nto complete the work, then the number of workers \noriginally hired was",
+              "options": {
+                "a": "15",
+                "b": "25",
+                "c": "30",
+                "d": "45"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "A wheel that has 6 cogs is meshed with a larger \nwheel of 14 cogs. When the smaller wheel has made \n21 revolutions, then the number of revolutions made \nby the larger wheel is",
+              "options": {
+                "a": "4",
+                "b": "9",
+                "c": "12",
+                "d": "49"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "In a camp, there is a meal for 120 men or 200 \nchildren. If 150 children have taken the meal, how \nmany men will be catered to with the remaining \nmeal?",
+              "options": {
+                "a": "20",
+                "b": "30",
+                "c": "40",
+                "d": "50"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "The cost of 16 packets of salt, each weighing 900 \ngrams is ` 28. What will be the cost of 27 packets, \nif each packet weighs 1 kg?",
+              "options": {
+                "a": "` 52.50",
+                "b": "` 56",
+                "c": "` 58.50",
+                "d": "` 64.75"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "4 mat-weavers can weave 4 mats in 4 days. At the \nsame rate, how many mats would be woven by 8 \nmat-weavers in 8 days? (S.S.C., 2004)",
+              "options": {
+                "a": "4",
+                "b": "8",
+                "c": "12",
+                "d": "16"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 24,
+              "question": "If 7 maids with 7 mops cleaned 7 floors in 7 hours, \nhow long would it take 3 maids to mop 3 floors \nwith 3 mops? (M.A.T., 2005)",
+              "options": {
+                "a": "7\n3\nhours",
+                "b": "3 hours",
+                "c": "49\n3\nhours",
+                "d": "7 hours"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "Four gardeners with four grass mowers mow 400 \nsq. m of ground in 4 hours. How long would it \ntake for eight gardeners with eight grass mowers \nto mow 800 sq. m of ground? (CLAT, 2010)",
+              "options": {
+                "a": "4 hours",
+                "b": "6 hours",
+                "c": "8 hours",
+                "d": "12 hours"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "Runnning at the same constant rate, 6 identical \nmachines can produce a total of 180 bottles per \nhour. How many bottles could 15 such machines \nproduce in 30 minutes? (SNAP, 2010)",
+              "options": {
+                "a": "225",
+                "b": "250",
+                "c": "300",
+                "d": "350"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "If 6 persons working 8 hours a day earn ` 8400 per \nweek, then 9 persons working 6 hours a day will \nearn per week (S.S.C., 2003)",
+              "options": {
+                "a": "` 8400",
+                "b": "` 9450",
+                "c": "` 16200",
+                "d": "` 16800"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "If 5 workers can collect 60 kg wheat in 3 days, how \nmany kilograms of wheat will 8 workers collect in \n5 days? (Bank P.O., 2007)",
+              "options": {
+                "a": "80 kg",
+                "b": "100 kg",
+                "c": "120 kg",
+                "d": "160 kg\nCHAIN RULE 499"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 29,
+              "question": "50 people consume 350 kg of rice in 30 days. In how \nmany days will 35 people consume 50 kg of rice? \n (NABARD, 2008)",
+              "options": {
+                "a": "2 days",
+                "b": "3 days",
+                "c": "5 days",
+                "d": "7 days",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 30,
+              "question": "In a dairy farm, 40 cows eat 40 bags of husk in 40 \ndays. In how many days one cow will eat one bag \nof husk?",
+              "options": {
+                "a": "1",
+                "b": "1\n40",
+                "c": "40",
+                "d": "80"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 31,
+              "question": "Working 8 hours a day, 12 men can do a work in \n30 days. Working 4 hours a day, 18 men can do the \nwork in (P.C.S., 2006)",
+              "options": {
+                "a": "30 days",
+                "b": "40 days",
+                "c": "45 days",
+                "d": "50 days"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "12 men working 8 hours per day complete a piece \nof work in 10 days. To complete the same work in \n8 days, working 15 hours a day, the number of men \nrequired, is:",
+              "options": {
+                "a": "4",
+                "b": "5",
+                "c": "6",
+                "d": "8"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "5 persons can prepare an admission list in 8 days \nworking 7 hours a day. If 2 persons join them so as \nto complete the work in 4 days, they need to work \nper day for (S.S.C., 2004)",
+              "options": {
+                "a": "8 hours",
+                "b": "9 hours",
+                "c": "10 hours",
+                "d": "12 hours"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "3 pumps, working 8 hours a day, can empty a tank \nin 2 days. How many hours a day must 4 pumps \nwork to empty the tank in 1 day?",
+              "options": {
+                "a": "9",
+                "b": "10",
+                "c": "11",
+                "d": "12"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "If 8 men can reap 80 hectares in 24 days, then how \nmany hectares can 36 men reap in 30 days?",
+              "options": {
+                "a": "350",
+                "b": "400",
+                "c": "425",
+                "d": "450"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 5,
+              "question": "A certain number of persons can dig a trench 100 \nm long, 50 m broad and 10 m deep in 10 days. The \nsame number of persons can dig another trench 20 \nm broad and 15 m deep in 30 days. The length of \nthe second trench is",
+              "options": {
+                "a": "400 m",
+                "b": "500 m",
+                "c": "800 m",
+                "d": "900 m"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "If 5 men or 7 women can earn ` 5250 per day, \nhow much would 7 men and 13 women earn per\nday? (S.S.C., 2010)",
+              "options": {
+                "a": "` 11600",
+                "b": "` 11700",
+                "c": "` 16100",
+                "d": "` 17100"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "3 men or 6 women can do a piece of work in 20 \ndays. In how many days will 12 men and 8 women \ndo the same work? (P.C.S., 2008)",
+              "options": {
+                "a": "1 3 days\n2",
+                "b": "3 3 days\n4",
+                "c": "4 days",
+                "d": "5 days"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "If 5 men or 9 women can do a piece of work in \n19 days, then in how many days will 3 men and 6 \nwomen do the same work?",
+              "options": {
+                "a": "12",
+                "b": "15",
+                "c": "18",
+                "d": "21"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "49 pumps can empty a reservoir in \n1 6\n2 days,\nworking 8 hours a day. If 196 pumps are used for \n5 hours each day, then the same work will be \ncompleted in",
+              "options": {
+                "a": "2 days",
+                "b": "1 2 days\n2",
+                "c": "3 2 days\n5",
+                "d": "3 days"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "30 labourers, working 7 hours a day can finish a \npiece of work in 18 days. If the labourers work 6 \nhours a day, then the number of labourers to finish \nthe same piece of work in 30 days, will be:",
+              "options": {
+                "a": "15",
+                "b": "21",
+                "c": "22",
+                "d": "25"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "If 18 pumps can raise 2170 tonnes of water in 10 \ndays, working 7 hours a day; in how many days \nwill 16 pumps raise 1736 tonnes of water, working \n9 hours a day?",
+              "options": {
+                "a": "6",
+                "b": "7",
+                "c": "8",
+                "d": "9"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "If 80 lamps can be lighted, 5 hours per day for 10 days \nfor ` 21.25, then the number of lamps, which can be \nlighted 4 hours daily for 30 days, for ` 76.50, is",
+              "options": {
+                "a": "100",
+                "b": "120",
+                "c": "150",
+                "d": "160"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "If 12 carpenters, working 6 hours a day, can make \n460 chairs in 24 days, how many chairs will 18 \ncarpenters make in 36 days, each working 8 hours \na day?",
+              "options": {
+                "a": "1260",
+                "b": "1320",
+                "c": "920",
+                "d": "1380"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "If 5 spiders can catch five flies in five minutes, \nhow many flies can hundred spiders catch in 100\nminutes? (SNAP, 2005)",
+              "options": {
+                "a": "100",
+                "b": "500",
+                "c": "1000",
+                "d": "2000\n500 QUANTITATIVE APTITUDE"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "2 persons working 2 hours a day assemble 2\nmachines in 2 days. The number of machines \nassembled by 6 persons working 6 hours a day in \n6 days is (A.A.O., 2009)",
+              "options": {
+                "a": "6",
+                "b": "18",
+                "c": "27",
+                "d": "54"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "The work done by a man is double the work done \nby a woman in the same time. If 10 men can do a \npiece of work in 8 days, then in how many days \nthat work can be done by 3 men and 4 women?",
+              "options": {
+                "a": "4",
+                "b": "3 7\n11",
+                "c": "8",
+                "d": "16"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "A wall of 100 metres can be built by 7 men or 10 \nwomen in 10 days. How many days will 14 men and \n20 women take to build a wall of 600 metres?",
+              "options": {
+                "a": "15",
+                "b": "20",
+                "c": "25",
+                "d": "30"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "If 10 men or 20 boys can make 260 mats in 20 days, \nthen how many mats will be made by 8 men and \n4 boys in 20 days? (C.P.O., 2007)",
+              "options": {
+                "a": "240",
+                "b": "260",
+                "c": "280",
+                "d": "520"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "If 600 men dig a 5.5 m wide, 4 m deep and 405 m \nlong canal in half an hour, then how long a canal \nwill 2500 men, working for 6 hours, dig if it is 10 \nm wide and 8 m deep?",
+              "options": {
+                "a": "1 2694 m\n3",
+                "b": "4082 m",
+                "c": "3 5568 m\n4",
+                "d": "6452 m"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "64 persons can dig a trench 50 m long, 2 m wide \nand 2 m deep in 5 days, working 12 hours daily. \nIn how many days, working 8 hours daily, will 80 \npersons dig another trench 75 m long, 4 m wide \nand 3 m deep?",
+              "options": {
+                "a": "18",
+                "b": "27",
+                "c": "36",
+                "d": "45"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "21 binders can bind 1400 books in 15 days. How \nmany binders will be required to bind 800 books \nin 20 days? (Bank P.O., 2009)",
+              "options": {
+                "a": "7",
+                "b": "9",
+                "c": "12",
+                "d": "14",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "A certain number of artisans can complete a shoe \nfabrication consignment in 16 days. 8 additional \nartisans had to be deployed for the same consignment \nand together they completed it in 4 days less than \nthe earlier estimate. The number of artisans initially \nemployed was",
+              "options": {
+                "a": "18",
+                "b": "20",
+                "c": "24",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "If 9 examiners can examine a certain number of \nanswer books in 12 days, working 5 hours a day; \nfor how many hours a day would 4 examiners have \nto work in order to examine twice the number of \nanswer books in 30 days?",
+              "options": {
+                "a": "6",
+                "b": "8",
+                "c": "9",
+                "d": "10"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 24,
+              "question": "If 17 labourers can dig a ditch 20 m long in 18 days, \nworking 8 hours a day; how many more labourers \nshould be engaged to dig a similar ditch 39 m long \nin 6 days, each labourer working 9 hours a day?",
+              "options": {
+                "a": "34",
+                "b": "51",
+                "c": "68",
+                "d": "85"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "20 men complete one-third of a piece of work in 20 \ndays. How many more men should be employed to \nfinish the rest of the work in 25 more days?\t\t\n (G.B.O., 2007)",
+              "options": {
+                "a": "10",
+                "b": "12",
+                "c": "15",
+                "d": "20"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "A rope makes 70 rounds of the circumference of a \ncylinder whose radius of the base is 14 cm. How \nmany times can it go round a cylinder with radius \n20 cm?",
+              "options": {
+                "a": "40",
+                "b": "49",
+                "c": "100",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "If x men, working x hours per day, can do x units \nof work in x days, then y men, working y hours per \nday would be able to complete how many units of \nwork in y days?",
+              "options": {
+                "a": "2\n3\nx\ny",
+                "b": "3\n2\nx\ny",
+                "c": "2\n3\ny\nx",
+                "d": "3\n2\ny\nx"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 28,
+              "question": "A contract is to be completed in 46 days and 117 \nmen were set to work, each working 8 hours a day. \nAfter 33 days, 4\n7 of the work is completed. How \nmany additional men may be employed so that the \nwork may be completed in time, each man now \nworking 9 hours a day? (M.A.T., 2005)",
+              "options": {
+                "a": "80",
+                "b": "81",
+                "c": "82",
+                "d": "83"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "The normal dosage of a particular medicine is t\ntablets per day for each patient. A hospital’s current \nsupply of these tablets will last p patients for d days. \nIf the recommended dosage increases by 20% and \nthe number of patients decreases by one-third, then \nfor how many days will the hospital’s supply last?",
+              "options": {
+                "a": "5\n4\nd",
+                "b": "4\n5\nd",
+                "c": "4\n5\npt",
+                "d": "Cannot be determined\nCHAIN RULE 501"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "Some persons can do a piece of work in 12 days. \nTwo times the number of such persons will do half \nof that work in :",
+              "options": {
+                "a": "6 days",
+                "b": "4 days",
+                "c": "3 days",
+                "d": "12 days"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "12 persons can do a piece of work in 4 days. How \nmany persons are required to complete 8 times the \nwork in half the time? (S.S.C., 2004)",
+              "options": {
+                "a": "144",
+                "b": "180",
+                "c": "190",
+                "d": "192"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "If 5 engines consume 6 metric tonnes of coal when \neach is running 9 hours a day, how many metric \ntonnes of coal will be needed for 8 engines, each \nrunning 10 hours a day, it being given that 3 engines \nof the former type consume as much as 4 engines \nof the latter type? (M.A.T., 2008)",
+              "options": {
+                "a": "1 3\n8",
+                "b": "8",
+                "c": "8 8\n9",
+                "d": "12 6\n25"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "If 9 men working 1 7\n2 hours a day can finish a piece \nof work in 20 days, then how many days will be \ntaken by 12 men, working 6 hours a day to finish \nthe work? It is being given that 2 men of latter type \nwork as much as 3 men of the former type. \n (L.I.C.A.A.O., 2007)",
+              "options": {
+                "a": "1 9\n2",
+                "b": "11",
+                "c": "1 12\n2",
+                "d": "13"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "If a certain number of workmen can do a piece of \nwork in 25 hours, in how many hours will another \nset of an equal number of men, do a piece of work, \ntwice as great, supposing that 2 men of the first set \ncan do as much work in an hour, as 3 men of the \nsecond set do in an hour?",
+              "options": {
+                "a": "60",
+                "b": "75",
+                "c": "90",
+                "d": "105"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "15 men take 21 days of 8 hours each to do a piece of \nwork. How many days of 6 hours each would 21 women \ntake, if 3 women do as much work as 2 men?",
+              "options": {
+                "a": "18",
+                "b": "20",
+                "c": "25",
+                "d": "30"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 6,
+              "question": "A contractor employed 30 men to do a piece of work \nin 38 days. After 25 days, he employed 5 men more \nand the work was finished one day earlier. How \nmany days he would have been behind, if he had \nnot employed additional men?",
+              "options": {
+                "a": "1",
+                "b": "1 1\n4",
+                "c": "3 1\n4",
+                "d": "1 1\n2"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "In a barrack of soldiers there was stock of food for \n190 days for 4000 soldiers. After 30 days 800 soldiers \nleft the barrack. For how many days shall the left \nover food last for the remaining soldiers?\n(P.C.S., 2006)",
+              "options": {
+                "a": "175 days",
+                "b": "200 days",
+                "c": "225 days",
+                "d": "250 days"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "A garrison of 500 men had provisions for 27 days. \nAfter 3 days a reinforcement of 300 men arrived. \nFor how many more days will the remaining food \nlast now? (M.B.A., 2006)",
+              "options": {
+                "a": "15",
+                "b": "16",
+                "c": "1 17\n2",
+                "d": "18"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "A garrison had provisions for a certain number of \ndays. After 10 days, 1\n5\n of the men desert and it is \nfound that the provisions will now last just as long \nas before. How long was that? (M.B.A., 2003)",
+              "options": {
+                "a": "15 days",
+                "b": "25 days",
+                "c": "35 days",
+                "d": "50 days"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "A fort has provisions for 50 days. If after 10 days \nthey are strengthened by 500 men and the food lasts \nfor 35 days longer, the number of men originally in \nthe fort were",
+              "options": {
+                "a": "2500",
+                "b": "3000",
+                "c": "3500",
+                "d": "4000"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "A garrison of 2000 men has provision of ration for \n66 days. At the end of a fortnight, reinforcement \narrives and it is found that ration will last only for \n20 days more. The strength of the reinforcement is",
+              "options": {
+                "a": "2000",
+                "b": "2200",
+                "c": "2600",
+                "d": "3200"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 12,
+              "question": "A team of workers was employed by a contractor \nwho undertook to finish 360 pieces of an article in \na certain number of days. Making four more pieces \nper day than was planned, they could complete the \njob a day ahead of schedule. How many days did \nthey take to complete the job? (M.A.T., 2007)",
+              "options": {
+                "a": "8 days",
+                "b": "9 days",
+                "c": "10 days",
+                "d": "12 days"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "The work done by a woman in 8 hours is equal \nto the work done by a man in 6 hours and by \na boy in 12 hours. If working 6 hours per day \n9 men can complete a work in 6 days, then in \nhow many days can 12 men, 12 women and \n12 boys together finish the same work, working 8 \nhours per day? (M.A.T., 2007)",
+              "options": {
+                "a": "1 1 days\n2",
+                "b": "3 days",
+                "c": "2 3 days\n3",
+                "d": "1 4 days\n2\n502 QUANTITATIVE APTITUDE"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "12 men and 18 boys, working \n1 7\n2 hours a day, can \ndo a piece of work in 60 days. If a man works equal \nto 2 boys, then how many boys will be required to \nhelp 21 men to do twice the work in 50 days, working \n9 hours a day?",
+              "options": {
+                "a": "30",
+                "b": "42",
+                "c": "48",
+                "d": "90"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "If 3 men or 6 boys can do a piece of work in 10 \ndays, working 7 hours a day; how many days will it \ntake to complete a piece of work twice as large with \n6 men and 2 boys working together for 8 hours a day?",
+              "options": {
+                "a": "6",
+                "b": "1 7\n2",
+                "c": "1 8\n2",
+                "d": "9"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "2 men and 7 boys can do a piece of work in 14 days; \n3 men and 8 boys can do the same in 11 days. Then, \n8 men and 6 boys can do three times the amount \nof this work in :",
+              "options": {
+                "a": "18 days",
+                "b": "21 days",
+                "c": "24 days",
+                "d": "30 days"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "Large, medium and small ships are used to bring \nwater. 4 large ships carry as much water as 7 small \nships, 3 medium ships carry the same amount of \nwater as 2 large ships and 1 small ship. 15 large, 7 \nmedium and 14 small ships, each made 36 journeys \nand brought a certain quantity of water. In how \nmany journeys would 12 large, 14 medium and 21 \nsmall ships bring the same quantity? (M.A.T., 2007)",
+              "options": {
+                "a": "25",
+                "b": "29",
+                "c": "32",
+                "d": "49"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "If 2 m. 60 cm cloth is required for one shirt, then \nthe cloth required for 7 shirts is ……..\n[APTET, 2011]",
+              "options": {
+                "a": "14 m 80 cm",
+                "b": "18 m 20 cm",
+                "c": "15 m 20 cm",
+                "d": "16 m 80 cm"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "The cost of 4 dozen papers is ` 24. The cost of 1 \nscore of papers (in rupees) is …….\n [APTET, 2011]",
+              "options": {
+                "a": "40",
+                "b": "20",
+                "c": "10",
+                "d": "42"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "The cost of 8 fans and 14 ovens is ` 36.520. What \nis the cost of 12 fans and 21 ovens?\n[SBI—Clerk Level, 2012]",
+              "options": {
+                "a": "` 56.800",
+                "b": "` 54.780",
+                "c": "` 57.950",
+                "d": "Cannot be determined"
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

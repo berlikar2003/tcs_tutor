@@ -1,0 +1,887 @@
+{
+  "Subject": "logical reasoning",
+  "Chapters": [
+    {
+      "Chapter Name": "Statements & Assumptions",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "**Statement:** \"Buy pure and fresh Ghee from XYZ company.\" - An advertisement.\n    **Assumptions:** I. No other company supplies pure and fresh Ghee. II. People prefer to buy pure and fresh Ghee.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "**Statement:** \"To improve the quality of education, we must increase the number of teachers.\" - A principal tells the school management.\n    **Assumptions:** I. Quality of education is directly related to the number of teachers. II. The current number of teachers is inadequate.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "**Statement:** \"If you want to reduce pollution, use public transport.\" - An advice.\n    **Assumptions:** I. Public transport is easily available. II. Public transport reduces pollution.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "**Statement:** \"We should install a new air conditioner.\" - A manager tells his assistant.\n    **Assumptions:** I. The current air conditioner is not functioning properly. II. The office needs an air conditioner.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "**Statement:** \"Smoking is injurious to health.\" - A warning on a cigarette pack.\n    **Assumptions:** I. People read warnings on cigarette packs. II. People want to live a long and healthy life.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "**Statement:** \"Join our coaching institute for guaranteed success in the entrance exam.\" - An advertisement.\n    **Assumptions:** I. Coaching institutes can guarantee success. II. Students want to succeed in entrance exams.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "**Statement:** \"The school decided to ban cell phones in classrooms.\"\n    **Assumptions:** I. Students use cell phones in classrooms. II. Cell phones distract students from studying.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "**Statement:** \"The government should increase taxes on luxury goods.\" - A policy recommendation.\n    **Assumptions:** I. People will buy fewer luxury goods if taxes are increased. II. The government needs more revenue.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "**Statement:** \"Wear a helmet while riding a bike.\" - A traffic police instruction.\n    **Assumptions:** I. Helmets protect riders from injury. II. People listen to traffic police instructions.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "**Statement:** \"Our company provides the best customer service.\" - An advertisement.\n    **Assumptions:** I. Customer service is important to customers. II. Competitors do not provide good customer service.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "**Statement:** \"Use 'SafeGuard' water purifier to get clean drinking water.\" - An advertisement.\n    **Assumptions:** I. People are concerned about clean drinking water. II. Other purifiers do not provide clean water.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "**Statement:** \"It is desirable to put the children in school at the age of 5.\"\n    **Assumptions:** I. At 5 years of age, children are ready for admission in school. II. Schools are available for children of 5 years.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "**Statement:** \"Discipline is the key to success.\" - A guru's advice.\n    **Assumptions:** I. People who are disciplined achieve success. II. Success is desired by everyone.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "**Statement:** \"We are opening a new branch in the city center.\" - A bank announcement.\n    **Assumptions:** I. There are enough customers in the city center to warrant a new branch. II. The city center location will attract more customers.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "**Statement:** \"If you are a talented singer, we offer you a chance to become famous.\" - An advertisement by a music company.\n    **Assumptions:** I. There are talented singers who want to become famous. II. The music company has the means to make singers famous.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "**Statement:** \"Increase your height naturally with our new product.\" - An advertisement.\n    **Assumptions:** I. People are concerned about their height. II. This product actually increases height.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "**Statement:** \"The municipality announced a ban on plastic bags.\"\n    **Assumptions:** I. People will cooperate with the ban. II. Plastic bags cause environmental problems.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "**Statement:** \"Please use the staircase instead of the elevator.\" - A notice in a building.\n    **Assumptions:** I. The elevator is out of order. II. Using the staircase is good for health.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "**Statement:** \"Admission to the postgraduate course requires a first-class degree.\"\n    **Assumptions:** I. First-class degree holders are capable of studying postgraduate courses. II. People apply for postgraduate courses.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "**Statement:** \"We advise all our esteemed customers to purchase tickets in advance to avoid last-minute rush.\" - An airline announcement.\n    **Assumptions:** I. There will be a rush at the last minute for tickets. II. Customers prefer to avoid the last-minute rush.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "**Statement:** \"The company decided to increase the salaries of all employees.\"\n    **Assumptions:** I. Employees are happy with the increased salaries. II. The company can afford the salary increase.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "**Statement:** \"To make a better world, all countries must cooperate.\"\n    **Assumptions:** I. Cooperation among countries can lead to a better world. II. Currently, countries do not cooperate enough.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "**Statement:** \"Our product is 100% natural and safe.\" - An advertisement.\n    **Assumptions:** I. Natural products are always safe. II. Consumers prefer natural and safe products.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "**Statement:** \"Only good singers are invited to the party.\"\n    **Assumptions:** I. No one other than good singers is invited to the party. II. All good singers are invited to the party.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 25,
+              "question": "**Statement:** \"Parents are advised to send their children to English medium schools.\" - An advice.\n    **Assumptions:** I. Parents want their children to learn English. II. English medium schools provide better education.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "**Statement:** \"We must regulate the use of social media to prevent misinformation.\" - A politician's statement.\n    **Assumptions:** I. Regulation can prevent misinformation on social media. II. Misinformation is harmful.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 27,
+              "question": "**Statement:** \"Always keep your money in a bank.\" - An advice.\n    **Assumptions:** I. Banks are safe. II. People have money to keep in a bank.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "**Statement:** \"Our online courses are cheaper than traditional classes.\" - An advertisement.\n    **Assumptions:** I. People consider cost when choosing courses. II. Online courses offer the same quality as traditional classes.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 29,
+              "question": "**Statement:** \"If you complete this project on time, you will get a bonus.\" - Manager to employee.\n    **Assumptions:** I. The employee is capable of completing the project on time. II. The employee desires a bonus.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "**Statement:** \"The civic authority has appealed to all citizens to voluntarily dispose of garbage in designated bins.\"\n    **Assumptions:** I. Citizens may not be currently disposing of garbage in designated bins. II. Citizens will cooperate with the appeal.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "**Statement:** \"The government decided to provide free education to all children below 14 years of age in rural areas.\"\n    **Assumptions:** I. There are enough schools in rural areas to accommodate all children below 14 years. II. The government has enough funds to support this scheme. III. Children in rural areas below 14 years do not currently have access to free education.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "**Statement:** \"Our new software detects 99% of all known viruses.\" - An advertisement.\n    **Assumptions:** I. There are unknown viruses. II. People are concerned about viruses. III. 1% of known viruses are undetectable by this software.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "**Statement:** \"To reduce traffic congestion, build more flyovers.\" - An expert's suggestion.\n    **Assumptions:** I. Flyovers ease traffic flow. II. Funds for flyovers can be arranged. III. Traffic congestion is a major problem.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "**Statement:** \"The municipal corporation has warned that stray dogs will be culled if not claimed by owners within a week.\"\n    **Assumptions:** I. Owners might claim their stray dogs. II. Culling is a humane way to control stray dog population. III. There are stray dogs in the area.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "**Statement:** \"A significant portion of the city's population consumes bottled water due to contamination concerns.\"\n    **Assumptions:** I. Tap water in the city is contaminated. II. Bottled water is a safe alternative. III. The municipal water supply is not sufficient for the population.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "**Statement:** \"The company's performance has significantly improved after implementing the new HR policies.\"\n    **Assumptions:** I. The new HR policies contributed to the improvement. II. The previous HR policies were not effective. III. Employee morale has improved.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "**Statement:** \"Read this book to understand the global economic crisis.\" - An advertisement.\n    **Assumptions:** I. People are interested in understanding the global economic crisis. II. This book provides a comprehensive understanding. III. The global economic crisis is a complex topic.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 8,
+              "question": "**Statement:** \"The local cricket association has decided to conduct coaching classes for aspiring young cricketers.\"\n    **Assumptions:** I. There are young aspiring cricketers in the locality. II. Coaching classes will help improve their skills. III. The local association has enough resources to conduct such classes.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 9,
+              "question": "**Statement:** \"Our nation will achieve economic self-sufficiency by 2030.\" - A government declaration.\n    **Assumptions:** I. The current economic policies will lead to self-sufficiency. II. The government has defined 'economic self-sufficiency'. III. Other nations will cooperate with this goal.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "**Statement:** \"Providing free access to digital learning resources will bridge the education gap between urban and rural students.\"\n    **Assumptions:** I. Digital learning resources are effective. II. Rural students lack access to quality education. III. Urban students have access to digital learning resources.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "**Statement:** \"To boost tourism, the government should relax visa regulations for foreign visitors.\"\n    **Assumptions:** I. Strict visa regulations deter foreign visitors. II. Foreign visitors are interested in visiting the country. III. Relaxing visa regulations will not compromise national security.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "**Statement:** \"Increasing public awareness about hygiene can prevent the spread of diseases.\"\n    **Assumptions:** I. Lack of hygiene causes diseases. II. Public awareness campaigns are effective. III. People care about preventing diseases.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "**Statement:** \"The new advertisement campaign for 'X' brand detergent will boost its sales significantly.\"\n    **Assumptions:** I. 'X' brand detergent sales are currently low. II. Advertisements can increase sales. III. Consumers will respond positively to the new campaign.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "**Statement:** \"The company decided to shut down its unprofitable division.\"\n    **Assumptions:** I. Shutting down the division will improve the company's overall profitability. II. The division will not become profitable in the future. III. There are other profitable divisions in the company.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "**Statement:** \"Using solar energy is a sustainable solution for power generation.\"\n    **Assumptions:** I. Solar energy is readily available. II. People are willing to adopt solar energy solutions. III. Solar energy is environmentally friendly.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "**Statement:** \"Our school will send its students to participate in the national science exhibition.\"\n    **Assumptions:** I. The students of the school are capable of participating in the national exhibition. II. The school wants its students to gain exposure. III. National science exhibition is a prestigious event.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "**Statement:** \"Despite the ban on plastics, their use continues unabated in the city.\"\n    **Assumptions:** I. The ban is not being effectively enforced. II. People prefer to use plastic. III. There is no viable alternative to plastics.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I is implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "**Statement:** \"A notice to tourists: 'Do not venture into the sea during high tide.'\"\n    **Assumptions:** I. High tide is dangerous. II. Tourists might venture into the sea during high tide. III. The notice will deter tourists.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 19,
+              "question": "**Statement:** \"The government should impose a complete ban on the sale of crackers during festivals.\"\n    **Assumptions:** I. Crackers cause pollution and health issues. II. A complete ban is enforceable. III. People will support the ban.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "**Statement:** \"Enrolling in a foreign university guarantees a better career.\" - An advertisement.\n    **Assumptions:** I. Foreign universities provide better education. II. A better career is a desirable outcome. III. All students enrolled in foreign universities achieve a better career.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "**Statement:** \"The city council decided to increase property taxes to fund public services.\"\n    **Assumptions:** I. Public services need more funding. II. Property tax increase will generate sufficient funds. III. Citizens will not protest the increase significantly.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 22,
+              "question": "**Statement:** \"Our new vaccine provides immunity against all known strains of the virus.\" - A pharmaceutical company.\n    **Assumptions:** I. There are unknown strains of the virus. II. People are looking for immunity against the virus. III. The vaccine is effective and safe.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "**Statement:** \"To become a successful entrepreneur, one must take risks.\"\n    **Assumptions:** I. Taking risks is a prerequisite for entrepreneurial success. II. One can be a successful entrepreneur. III. All who take risks become successful entrepreneurs.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 24,
+              "question": "**Statement:** \"The principal instructed the teachers to be punctual in attending the classes.\"\n    **Assumptions:** I. Teachers may not be punctual in attending classes. II. Students like punctuality of teachers. III. Punctuality of teachers can improve discipline.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "**Statement:** \"Invest in company 'X' for a high return on investment.\" - A financial advisor.\n    **Assumptions:** I. Company 'X' is likely to provide high returns. II. Investors are interested in high returns. III. The financial advisor is reliable.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 26,
+              "question": "**Statement:** \"The government should promote organic farming to ensure food safety.\"\n    **Assumptions:** I. Organic farming leads to safer food. II. Food safety is a concern. III. The government has resources to promote organic farming.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "**Statement:** \"Using public parks is essential for physical and mental well-being.\" - A health official.\n    **Assumptions:** I. People utilize public parks. II. Access to public parks contributes to well-being. III. Public parks are adequately maintained.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 28,
+              "question": "**Statement:** \"To reduce dependence on fossil fuels, switch to electric vehicles.\"\n    **Assumptions:** I. Electric vehicles are a viable alternative to fossil fuel vehicles. II. People are willing to switch to electric vehicles. III. Reducing dependence on fossil fuels is desirable.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only I and III are implicit",
+                "c": "Only II and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 29,
+              "question": "**Statement:** \"The library will be closed for renovation next month.\"\n    **Assumptions:** I. The library needs renovation. II. The renovation will improve the library. III. People will be informed about the closure.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 30,
+              "question": "**Statement:** \"The local government plans to introduce a compulsory yoga program in all schools.\"\n    **Assumptions:** I. Yoga is beneficial for students. II. Schools have the infrastructure to support a yoga program. III. Students will cooperate with the program.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "**Statement:** \"Apply 'Instant Shine' for a sparkling floor.\" - An advertisement.\n    **Assumptions:** I. Floors can be made sparkling. II. People desire sparkling floors.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "**Statement:** \"Parents are advised to get their children vaccinated against polio.\" - A health advisory.\n    **Assumptions:** I. Polio is preventable by vaccination. II. Parents want their children to be healthy.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "**Statement:** \"Our product is effective for weight loss.\" - An advertisement.\n    **Assumptions:** I. People want to lose weight. II. This product has no side effects.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "**Statement:** \"To curb corruption, establish an independent anti-corruption body.\" - A social activist.\n    **Assumptions:** I. An independent body can curb corruption. II. There is corruption to curb. III. People trust independent bodies.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 5,
+              "question": "**Statement:** \"If you are a doctor, we have a special loan scheme for you.\" - A bank advertisement.\n    **Assumptions:** I. Doctors need loans. II. Doctors are a desirable customer segment. III. Other professions do not get special loan schemes.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "**Statement:** \"The school administration decided to close the school due to heavy rain.\"\n    **Assumptions:** I. Heavy rain can disrupt normal school functioning. II. Safety of students is paramount. III. Students might not be able to reach school.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "**Statement:** \"Buy one, get one free!\" - A shop's offer.\n    **Assumptions:** I. People will buy more if offered a free item. II. The shop wants to clear its stock.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "**Statement:** \"To reduce road accidents, enforce stricter traffic laws.\" - A traffic expert.\n    **Assumptions:** I. Stricter laws can reduce accidents. II. Current laws are not strict enough. III. People will obey stricter laws.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 9,
+              "question": "**Statement:** \"The company will improve its employee retention by offering more benefits.\"\n    **Assumptions:** I. Employees leave due to insufficient benefits. II. More benefits will motivate employees to stay. III. The company can afford more benefits.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "**Statement:** \"Only honest people pay taxes.\"\n    **Assumptions:** I. People who are dishonest do not pay taxes. II. Paying taxes is a sign of honesty.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "**Statement:** \"Switch off lights when leaving the room to save electricity.\" - A notice.\n    **Assumptions:** I. People waste electricity by not switching off lights. II. Saving electricity is desirable.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "**Statement:** \"The government decided to invest heavily in renewable energy sources.\"\n    **Assumptions:** I. Renewable energy sources are a viable alternative to traditional energy sources. II. Investing in renewable energy will benefit the economy. III. The government has the financial capacity for this investment.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "**Statement:** \"A notice: 'Children below 5 years are not allowed in the swimming pool.'\"\n    **Assumptions:** I. Children below 5 years need special supervision in the pool. II. There are children below 5 years who might want to use the pool.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "**Statement:** \"The company decided to implement a four-day work week to improve employee productivity.\"\n    **Assumptions:** I. A four-day work week increases productivity. II. Employees prefer a four-day work week. III. The company can maintain operations with a four-day work week.",
+              "options": {
+                "a": "Only I and II are implicit",
+                "b": "Only II and III are implicit",
+                "c": "Only I and III are implicit",
+                "d": "All I, II and III are implicit",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "**Statement:** \"Please carry your identity card for security check.\" - A notice at the entrance of a building.\n    **Assumptions:** I. Identity cards help in security checks. II. People might forget to carry their identity cards.",
+              "options": {
+                "a": "Only assumption I is implicit",
+                "b": "Only assumption II is implicit",
+                "c": "Both I and II are implicit",
+                "d": "Neither I nor II is implicit"
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "Subject": "logical reasoning",
+  "Chapters": [
+    {
+      "Chapter Name": "Directions",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Rohan walks 5 km East, then turns right and walks 3 km. Then he turns right and walks 5 km. In which direction is he from his starting point?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "A man walks 10 km North, then turns left and walks 4 km. Then he turns right and walks 5 km. In which direction is he now from his starting point?",
+              "options": {
+                "a": "North-East",
+                "b": "North-West",
+                "c": "South-East",
+                "d": "South-West"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "A person starts from a point and walks 2 km towards North, turns right and walks 2 km. Turns right again and walks. In which direction is he walking now?",
+              "options": {
+                "a": "West",
+                "b": "East",
+                "c": "South",
+                "d": "North"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "Ram walks 20 meters towards North. He then turns right and walks 30 meters. Then he turns right and walks 35 meters. Then he turns left and walks 15 meters. Then he again turns left and walks 15 meters. In which direction and how many meters away is he from the starting point?",
+              "options": {
+                "a": "15 meters East",
+                "b": "30 meters East",
+                "c": "15 meters West",
+                "d": "30 meters West"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "A driver left his village and drove 20 km towards North. After sometime he stopped and turned towards West and drove 10 km. He took a right turn and drove 10 km and again took a right turn and drove 10 km. How far and in which direction is he from the starting point?",
+              "options": {
+                "a": "10 km North",
+                "b": "20 km North",
+                "c": "10 km East",
+                "d": "20 km East"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "From his house, Ram went 15 km to the North. Then he turned West and covered 10 km. Then, he turned South and covered 5 km. Finally, turning to the East, he covered 10 km. In which direction is he from his house?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "Mohan starts from point A and walks 1 km towards South, turns left and walks 1 km. Then he turns left again and walks 1 km. Now in which direction is he from the starting point?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "A man walks 1 km to East and then he turns to South and walks 5 km. Again he turns to East and walks 2 km. After this he turns to North and walks 9 km. Now, how far is he from his starting point?",
+              "options": {
+                "a": "5 km",
+                "b": "3 km",
+                "c": "4 km",
+                "d": "7 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "One morning after sunrise, Sumesh was standing facing a pole. The shadow of the pole fell exactly to his right. Which direction was he facing?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "One evening before sunset, two friends Suman and Mohan were talking to each other face to face. If Mohan's shadow was exactly to his right side, which direction was Suman facing?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "If South-East becomes North, North-East becomes West and so on, what will West become?",
+              "options": {
+                "a": "North-East",
+                "b": "North-West",
+                "c": "South-East",
+                "d": "South-West"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "A man starts from his office and walks 10 km towards South. Then he turns right and walks 6 km. Again he turns right and walks 10 km. Finally, he turns left and walks 4 km. How far and in which direction is he from his starting point?",
+              "options": {
+                "a": "10 km West",
+                "b": "10 km East",
+                "c": "10 km North",
+                "d": "10 km South"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "Facing East, Rahul turns left and walks 10 feet, then he turns right and walks 5 feet. Then he turns right and walks 5 feet. Then he turns left and walks 2 feet. Again, he turns right and walks 3 feet. Which direction is he facing now?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "A goes 30 meters North, then turns right and walks 40 meters, then turns right and walks 20 meters, then turns right and walks 40 meters. How far is he from the starting point?",
+              "options": {
+                "a": "0 meters",
+                "b": "10 meters",
+                "c": "20 meters",
+                "d": "30 meters"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "Priyanka walks 15 km towards North. She turns right and walks 20 km. She then turns right and walks 10 km. Then she turns left and walks 5 km. How far is she from her starting point?",
+              "options": {
+                "a": "25 km",
+                "b": "30 km",
+                "c": "35 km",
+                "d": "40 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "A car travels 2 km North, then 6 km East, then 2 km South. How far is it from the starting point?",
+              "options": {
+                "a": "2 km",
+                "b": "6 km",
+                "c": "10 km",
+                "d": "12 km"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "A man walks 30 meters towards South. Then turns left and walks 15 meters. Then he turns right and walks 20 meters. Again he turns right and walks 15 meters. How far and in which direction is he from the starting point?",
+              "options": {
+                "a": "50 meters South",
+                "b": "50 meters North",
+                "c": "50 meters East",
+                "d": "50 meters West"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "Starting from his house, Ravi walks 2 km South. Then he turns left and walks 4 km. Again, he turns left and walks 2 km. In which direction is he from his starting point?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "A taxi driver started his journey from a point and drove 10 km towards North and then turned to his left and drove 5 km. After that, he took a left turn and drove 10 km. Finally, he took a left turn and drove 10 km. How far and in which direction is he from the starting point?",
+              "options": {
+                "a": "5 km East",
+                "b": "5 km West",
+                "c": "10 km East",
+                "d": "10 km West"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "A person walks 10 meters in front and 10 meters to the right. Then every time turning to his left, he walks 5, 15 and 15 meters respectively. How far and in which direction is he from his starting point?",
+              "options": {
+                "a": "5 meters North",
+                "b": "10 meters South",
+                "c": "5 meters West",
+                "d": "10 meters East"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "A man is facing West. He turns 45 degrees in the clockwise direction and then another 180 degrees in the same direction and then 270 degrees in the anti-clockwise direction. Which direction is he facing now?",
+              "options": {
+                "a": "South",
+                "b": "South-West",
+                "c": "West",
+                "d": "East"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "Deepak walks 20 meters towards North. He then turns right and walks 30 meters. Then he turns right and walks 35 meters. Then he turns left and walks 15 meters. Then he again turns left and walks 15 meters. In which direction and how many meters away is he from the starting point?",
+              "options": {
+                "a": "15 meters East",
+                "b": "30 meters East",
+                "c": "15 meters West",
+                "d": "30 meters West"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "One morning, after sunrise, Gangadhar was walking facing a pole. The shadow of the pole fell exactly to his right. Which direction was he facing?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 24,
+              "question": "A runs 10m South from her home, turns left and runs 20m. Then she turns left and runs 40m. How far is she from her home now?",
+              "options": {
+                "a": "20m",
+                "b": "30m",
+                "c": "40m",
+                "d": "50m"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "Rahul starts from his office and walks 5 km towards East. He turns left and walks 2 km. He turns right and walks 3 km. He turns right and walks 2 km. In which direction is he from his starting point?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "A boy rode his bicycle Northwards, then turned left and rode 1 km and again turned left and rode 2 km. He found himself 1 km West of his starting point. How far did he ride Northwards initially?",
+              "options": {
+                "a": "1 km",
+                "b": "2 km",
+                "c": "3 km",
+                "d": "5 km"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "A man walks 1 km towards East. Then he turns to South and walks 5 km. Again he turns to East and walks 2 km. After this he turns to North and walks 9 km. Now, how far is he from his starting point?",
+              "options": {
+                "a": "5 km",
+                "b": "3 km",
+                "c": "4 km",
+                "d": "7 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "Ramesh walks 2 km to the East, turns North-West and walks 3 km. Then he turns South and walks 5 km. Then again he turns West and walks 2 km. Finally, he turns North and walks 6 km. In which direction is he from the starting point?",
+              "options": {
+                "a": "North-West",
+                "b": "North-East",
+                "c": "South-East",
+                "d": "South-West"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "A postman was returning to the post office which was in the East from his home. He walks 100m straight and then turns right and walks 50m. He then turns right again and walks 100m. He turns left and walks 20m. In which direction is he from the post office now?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 30,
+              "question": "If 'South-East' becomes 'North', 'North-East' becomes 'West' and so on, what will 'West' become?",
+              "options": {
+                "a": "North-East",
+                "b": "North-West",
+                "c": "South-East",
+                "d": "South-West"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "A man starts from his house and walks 5 km East, then turns left and walks 5 km, then turns right and walks 5 km. He then takes a 45 degree turn clockwise and walks 5 km. In which direction is he walking now?",
+              "options": {
+                "a": "North-East",
+                "b": "South-East",
+                "c": "North-West",
+                "d": "South-West",
+                "e": "East"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "Two friends, A and B, start walking from point P. A walks 10 km North, turns right and walks 5 km. B walks 5 km East, turns North and walks 10 km. What is the distance between A and B now?",
+              "options": {
+                "a": "5 km",
+                "b": "10 km",
+                "c": "15 km",
+                "d": "0 km",
+                "e": "20 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 3,
+              "question": "A person walks 20m towards East, then turns right and walks 10m, then turns right and walks 10m, then turns right and walks 10m. In which direction is he from his starting point?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South",
+                "e": "North-East"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "Raj walks 2 km to the East, then turns to North-West and walks 3 km. Then he turns South and walks 5 km. Then again he turns West and walks 2 km. Finally, he turns North and walks 6 km. In which direction is he from the starting point?",
+              "options": {
+                "a": "North-West",
+                "b": "North-East",
+                "c": "South-East",
+                "d": "South-West",
+                "e": "Cannot be determined"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "A and B are standing at a distance of 20km from each other on a straight East-West road. A starts walking East and B starts walking West simultaneously. A walks 5km and B walks 10km. Then A turns left and walks 10km. B turns right and walks 10km. How far are they from each other?",
+              "options": {
+                "a": "15 km",
+                "b": "20 km",
+                "c": "25 km",
+                "d": "30 km",
+                "e": "35 km"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "A man walks 1 km towards East, then turns to South and walks 5 km. Again he turns to East and walks 2 km. After this he turns to North and walks 9 km. Now, how far is he from his starting point and in which direction?",
+              "options": {
+                "a": "5 km North-East",
+                "b": "5 km South-East",
+                "c": "4 km North",
+                "d": "4 km East",
+                "e": "3 km North"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "Four friends A, B, C, D live in a same locality. A's house is in the East of D's house but in the North of C's house. C's house is in the West of B's house. In which direction is B's house from D's house?",
+              "options": {
+                "a": "South-East",
+                "b": "North-East",
+                "c": "North-West",
+                "d": "South-West",
+                "e": "East"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "A, B, C, D, E, F are six villages. F is to the East of D. C is to the South of A. B is to the North of F. E is to the South of B. D is to the North of E. A is to the West of B. Which three villages are in a line?",
+              "options": {
+                "a": "A, C, B",
+                "b": "D, E, F",
+                "c": "C, B, E",
+                "d": "A, B, D",
+                "e": "B, D, F"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 9,
+              "question": "Ram is standing at the center of a circular park. He goes 20m towards East. Then he turns right and goes 10m. Then he turns right and goes 20m. What is his position now from the starting point?",
+              "options": {
+                "a": "10m North",
+                "b": "10m South",
+                "c": "20m East",
+                "d": "20m West",
+                "e": "At the starting point"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "A starts walking towards North from point P. He walks 15m and reaches point Q. He turns right and walks 10m to reach point R. Then he turns left and walks 10m to reach point S. Then he turns right and walks 10m to reach point T. What is the straight distance between P and T?",
+              "options": {
+                "a": "25m",
+                "b": "30m",
+                "c": "35m",
+                "d": "40m",
+                "e": "50m"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "A man walks 10 km South. Then he turns left and walks 10 km. Then he turns right and walks 10 km. Then he turns right and walks 10 km. In which direction is he now from his starting point?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South",
+                "e": "South-East"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 12,
+              "question": "A car travels 8 km East, then 5 km South, then 8 km West. How far is it from the starting point and in which direction?",
+              "options": {
+                "a": "5 km North",
+                "b": "5 km South",
+                "c": "8 km East",
+                "d": "8 km West",
+                "e": "13 km South"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "Rohit walks 10 km to the North from his house. He turns left and walks 5 km. He turns right and walks 10 km. He turns right and walks 5 km. How far and in which direction is he from his house?",
+              "options": {
+                "a": "20 km North",
+                "b": "20 km East",
+                "c": "10 km North",
+                "d": "10 km East",
+                "e": "15 km North"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "Anuj walks 10 m in front and 10 m to the right. Then every time turning to his left, he walks 5, 15 and 15 meters respectively. How far and in which direction is he from his starting point?",
+              "options": {
+                "a": "5 meters North",
+                "b": "10 meters South",
+                "c": "5 meters West",
+                "d": "10 meters East",
+                "e": "At the starting point"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "If North is called North-West, West is called South-West, South is called South-East, and so on. What will East be called?",
+              "options": {
+                "a": "North-East",
+                "b": "South-East",
+                "c": "North",
+                "d": "South",
+                "e": "West"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "A is 40m South-West of B. C is 40m South-East of B. Then C is in which direction of A?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North-East",
+                "d": "South-East",
+                "e": "South"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "One evening before sunset, Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to her right side, which direction was Rekha facing?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West",
+                "e": "North-West"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "A man walks 15m North. Then he turns right and walks 10m. Then he turns right and walks 5m. Then he turns left and walks 5m. How far and in which direction is he from the starting point?",
+              "options": {
+                "a": "15m North-East",
+                "b": "20m North-East",
+                "c": "15m East",
+                "d": "20m East",
+                "e": "25m North"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "A and B start walking in opposite directions. A walks 5 km and B walks 10 km. Then A turns right and walks 5 km and B turns left and walks 5 km. How far apart are they?",
+              "options": {
+                "a": "15 km",
+                "b": "20 km",
+                "c": "25 km",
+                "d": "10 km",
+                "e": "Cannot be determined"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 20,
+              "question": "A person starts from a point and walks 5 km towards East, then turns right and walks 4 km. Then turns left and walks 3 km. Then turns left and walks 4 km. How far is he from the starting point?",
+              "options": {
+                "a": "8 km",
+                "b": "9 km",
+                "c": "12 km",
+                "d": "7 km",
+                "e": "10 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "A man starts from his office and walks 10 km towards South. Then he turns right and walks 6 km. Again he turns right and walks 10 km. Finally, he turns left and walks 4 km. How far and in which direction is he from his starting point?",
+              "options": {
+                "a": "10 km West",
+                "b": "10 km East",
+                "c": "10 km North",
+                "d": "10 km South",
+                "e": "6 km West"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "Village Q is to the North of Village P. Village R is to the East of Village Q. Village S is to the left of Village P. In which direction is Village S with respect to Village R?",
+              "options": {
+                "a": "North-West",
+                "b": "South-West",
+                "c": "South-East",
+                "d": "North-East",
+                "e": "West"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "One morning after sunrise, Vikram and Shailesh were standing in a lawn with their backs towards each other. Vikram's shadow fell exactly towards his left side. Which direction was Shailesh facing?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West",
+                "e": "Cannot be determined"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 24,
+              "question": "A dog is running in the East direction. After covering a certain distance, it turns left and then again turns left. After this, it turns right. In which direction is it running now?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South",
+                "e": "Cannot be determined"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "A man walks 10m towards East. From there he walks 6m towards South. Then he walks 3m towards West. How far and in which direction is he from his starting point?",
+              "options": {
+                "a": "5m South-East",
+                "b": "7m South-East",
+                "c": "7m North-East",
+                "d": "5m North-East",
+                "e": "8m South-East"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "Rohan walks 5 km East, then turns right and walks 3 km. Then he turns right and walks 5 km. Then he turns left and walks 3 km. In which direction is he from his starting point?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West",
+                "e": "North-East"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "A person walks 10 km towards West. Then turns right and walks 15 km. Then turns right and walks 10 km. Then turns right and walks 15 km. How far and in which direction is he from the starting point?",
+              "options": {
+                "a": "0 km",
+                "b": "10 km North",
+                "c": "15 km South",
+                "d": "20 km East",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "A and B start walking from the same point. A walks 5 km North, turns left and walks 10 km. B walks 10 km West, turns North and walks 5 km. How far is B from A?",
+              "options": {
+                "a": "0 km",
+                "b": "5 km",
+                "c": "10 km",
+                "d": "15 km",
+                "e": "20 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "A postman was returning to the post office which was in the East from his home. He walks 100m straight and then turns right and walks 50m. He then turns right again and walks 100m. He turns left and walks 20m. In which direction is he from the post office now?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South",
+                "e": "South-West"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 30,
+              "question": "If 'North-West' becomes 'North', 'North-East' becomes 'East', and so on, what will 'West' become?",
+              "options": {
+                "a": "South-West",
+                "b": "North-West",
+                "c": "North-East",
+                "d": "South-East",
+                "e": "South"
+              },
+              "answer": "d"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "A man walks 20 meters towards North. He then turns right and walks 30 meters. Then he turns right and walks 35 meters. Then he turns left and walks 15 meters. Then he again turns left and walks 15 meters. In which direction and how many meters away is he from the starting point?",
+              "options": {
+                "a": "15 meters East",
+                "b": "30 meters East",
+                "c": "15 meters West",
+                "d": "30 meters West"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "One morning after sunrise, John was standing facing a pole. The shadow of the pole fell exactly to his left. Which direction was he facing?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "If South-East becomes North, North-East becomes West and so on, what will South-West become?",
+              "options": {
+                "a": "East",
+                "b": "North",
+                "c": "West",
+                "d": "South"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "A and B start from the same point. A walks 10 km South, then turns right and walks 5 km. B walks 5 km North, then turns left and walks 5 km. How far apart are they?",
+              "options": {
+                "a": "10 km",
+                "b": "15 km",
+                "c": "20 km",
+                "d": "25 km"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "A person starts from a point and walks 5 km towards North, turns right and walks 3 km. Turns right again and walks 5 km. In which direction is he from his starting point?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "A man walks 1 km towards East. Then he turns to South and walks 5 km. Again he turns to East and walks 2 km. After this he turns to North and walks 9 km. Now, how far is he from his starting point?",
+              "options": {
+                "a": "5 km",
+                "b": "3 km",
+                "c": "4 km",
+                "d": "7 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "Rohit walks 20 m towards South. Then turns left and walks 15 m. Then he turns right and walks 20 m. Again he turns right and walks 15 m. How far and in which direction is he from the starting point?",
+              "options": {
+                "a": "50 meters South",
+                "b": "50 meters North",
+                "c": "50 meters East",
+                "d": "50 meters West"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "From his house, Aman went 10 km to the North. Then he turned West and covered 5 km. Then, he turned South and covered 2 km. Finally, turning to the East, he covered 5 km. In which direction is he from his house?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "A car travels 5 km North, then 12 km East, then 5 km South. How far is it from the starting point?",
+              "options": {
+                "a": "5 km",
+                "b": "12 km",
+                "c": "17 km",
+                "d": "22 km"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "If North is called East, East is called South, South is called West, and West is called North. What will be the direction of the Sun in the morning?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "A person walks 10m towards West. Then turns right and walks 10m. Then turns right and walks 10m. In which direction is he from his starting point?",
+              "options": {
+                "a": "North",
+                "b": "South",
+                "c": "East",
+                "d": "West"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "Ram walks 10 km South. Then he turns left and walks 10 km. Then he turns left and walks 10 km. In which direction is he now from his starting point?",
+              "options": {
+                "a": "East",
+                "b": "West",
+                "c": "North",
+                "d": "South"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "A runs 10m East from her home, turns right and runs 20m. Then she turns right and runs 40m. How far is she from her home now?",
+              "options": {
+                "a": "20m",
+                "b": "30m",
+                "c": "40m",
+                "d": "50m"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "A man is facing North. He turns 90 degrees clockwise, then 135 degrees anti-clockwise. Which direction is he facing now?",
+              "options": {
+                "a": "North-West",
+                "b": "South-West",
+                "c": "North-East",
+                "d": "South-East"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "If X is in the East of Y, Y is in the North of Z, and W is in the West of Z, then W is in which direction with respect to X?",
+              "options": {
+                "a": "South-West",
+                "b": "North-West",
+                "c": "South-East",
+                "d": "North-East"
+              },
+              "answer": "a"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1375 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Ratio and Proportion",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "If 2\n3\nA = 75% of B, then A : B is",
+              "options": {
+                "a": "1 : 1",
+                "b": "9 : 8",
+                "c": "8 : 9",
+                "d": "10 : 11"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "Which of the following represents ab = 64?\n (Bank P.O., 2010)",
+              "options": {
+                "a": "8 : a = 8 : b",
+                "b": "a : 16 = b : 4",
+                "c": "a : 8 = b : 8",
+                "d": "32 : a = b : 2",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "A jar contains black and white marbles. If there are \nten marbles in the jar, then which of the following \ncould not be the ratio of black to white marbles?",
+              "options": {
+                "a": "1 : 4",
+                "b": "1 : 10",
+                "c": "7 : 3",
+                "d": "9 : 1"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "The ratio of boys and girls in a club is 3 : 2. Which \nof the following could be the actual number of \nmembers?",
+              "options": {
+                "a": "16",
+                "b": "18",
+                "c": "24",
+                "d": "25"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 5,
+              "question": "Which of the following is the lowest ratio?\n (R.R.B., 2005)",
+              "options": {
+                "a": "7 : 15",
+                "b": "15 : 23",
+                "c": "17 : 25",
+                "d": "21 : 39"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "If 5 : a : : 20 : 28, then a is equal to",
+              "options": {
+                "a": "4",
+                "b": "6",
+                "c": "7",
+                "d": "8"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "3 1: : : 27 : ?\n4 2 y (E.S.I.C., 2007)",
+              "options": {
+                "a": "12y",
+                "b": "18y",
+                "c": "21y",
+                "d": "24y",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "If x : 7.5 = 7 : 17.5, the value of x is",
+              "options": {
+                "a": "1",
+                "b": "2.5",
+                "c": "3",
+                "d": "3.5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "The value of x where 1 : 2 : : 21 : 50\n3\nx is",
+              "options": {
+                "a": "1 1\n49",
+                "b": "1 1\n50",
+                "c": "49\n50",
+                "d": "27\n50"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "If (x + 1) : 8 = 3.75 : 7, then the value of x is",
+              "options": {
+                "a": "2 1\n7",
+                "b": "2 2\n7",
+                "c": "2 3\n7",
+                "d": "2 4\n7"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "If 2 : (1 3) : : 6 : , + x then x is equal to",
+              "options": {
+                "a": "3 3 +",
+                "b": "1– 3",
+                "c": "1 3 +",
+                "d": "3–3"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "What will be the simplest form of the ratio 3 hours: \n1 day? (R.R.B., 2006)",
+              "options": {
+                "a": "1 : 3",
+                "b": "1 : 6",
+                "c": "1 : 8",
+                "d": "1 : 25"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "The simplest form of the ratio 1.5 : 2.5 is",
+              "options": {
+                "a": "3 : 5",
+                "b": "6 : 10",
+                "c": "15 : 25",
+                "d": "0.75 : 1.25"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "93.04 : 92.04 is equal to",
+              "options": {
+                "a": "1 : 9",
+                "b": "3 : 2",
+                "c": "9 : 1",
+                "d": "76 : 51"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "The ratio 43.5 : 25 is the same as",
+              "options": {
+                "a": "2 : 1",
+                "b": "4 : 1",
+                "c": "7 : 5",
+                "d": "7 : 10"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "In a proportion the product of 1st and 4th terms is \n40 and that of 2nd and 3rd terms is 2.5x. Then the \nvalue of x is (M.A.T., 2007)",
+              "options": {
+                "a": "16",
+                "b": "26",
+                "c": "75",
+                "d": "90"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "If 20% of A = 30% of B = 1\n6 of C, then A : B : C is \n (S.S.C., 2007)",
+              "options": {
+                "a": "2 : 3 : 16",
+                "b": "3 : 2 : 16",
+                "c": "10 : 15 : 18",
+                "d": "15 : 10 : 18"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 18,
+              "question": "25% of A’s income is equal to 35% of B’s income. \nThe ratio of the incomes of A and B is",
+              "options": {
+                "a": "5 : 7",
+                "b": "7 : 5",
+                "c": "13 : 15",
+                "d": "15 : 13"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "If = = 1 1 and , 3 2 xy yz then x : y : z is equal to",
+              "options": {
+                "a": "1 : 2 : 6",
+                "b": "1 : 3 : 6",
+                "c": "2 : 4 : 6",
+                "d": "3 : 2 : 1"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "If 2A = 3B = 4C, then A : B : C is equal to",
+              "options": {
+                "a": "2 : 3 : 4",
+                "b": "3 : 4 : 6",
+                "c": "4 : 3 : 2",
+                "d": "6 : 4 : 3\n440 QUANTITATIVE APTITUDE"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 21,
+              "question": "If x2 + 4y2 = 4xy, then x : y is",
+              "options": {
+                "a": "1 : 1",
+                "b": "1 : 2",
+                "c": "2 : 1",
+                "d": "1 : 4"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "If 5x2 – 13xy + 6y2 = 0, then x : y is",
+              "options": {
+                "a": "2 : 1 only",
+                "b": "3 : 5 only",
+                "c": "5 : 3 or 1 : 2",
+                "d": "3 : 5 or 2 : 1"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 23,
+              "question": "If a : b = 7 : 9 and b : c = 15 : 7, then what is a : c?",
+              "options": {
+                "a": "3 : 5",
+                "b": "5 : 3",
+                "c": "7 : 15",
+                "d": "7 : 21"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "If the ratio between the ages of P and Q is 2 : 3 and \nthat between the ages of Q and R is 4 : 5, then the \nratio between the ages of P and R is",
+              "options": {
+                "a": "3 : 4",
+                "b": "3 : 5",
+                "c": "5 : 6",
+                "d": "8 : 15"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "If W1 : W2 = 2 : 3 and W1 : W3 = 1 : 2, then W2\n: W3 is (S.S.C., 2010)",
+              "options": {
+                "a": "3 : 4",
+                "b": "4 : 3",
+                "c": "2 : 3",
+                "d": "4 : 5"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "If A : B = 2 : 3, B : C = 2 : 4 and C : D = 2 : 5, then \nA : D is equal to (C.P.O., 2007)",
+              "options": {
+                "a": "1 : 5",
+                "b": "2 : 5",
+                "c": "3 : 5",
+                "d": "2 : 15"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "If 3A = 5B and 4B = 6C, then A : C is equal to",
+              "options": {
+                "a": "2 : 5",
+                "b": "3 : 5",
+                "c": "4 : 5",
+                "d": "5 : 2"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 28,
+              "question": "If one star equals four circles and three circles equal \nfour diamonds, then what is the ratio of star to \ndiamond?",
+              "options": {
+                "a": "1 : 3",
+                "b": "3 : 4",
+                "c": "3 : 16",
+                "d": "16 : 3"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 29,
+              "question": "In a business, the ratio of the capitals of A and B\nis 2 : 1, that of B and C is 4 : 3 and that of D and \nC is 6 : 5. Then the ratio of the capitals of A and D\nis",
+              "options": {
+                "a": "9 : 20",
+                "b": "3 : 5",
+                "c": "5 : 3",
+                "d": "20 : 9"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 30,
+              "question": "If A : B = 7 : 9 and B : C = 5 : 4, then A : B : C is",
+              "options": {
+                "a": "7 : 45 : 36",
+                "b": "28 : 36 : 35",
+                "c": "35 : 45 : 36",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 31,
+              "question": "If A : B = 2 : 3, B : C = 4 : 5 and C : D = 6 : 7, then \nA : B : C : D is",
+              "options": {
+                "a": "16 : 22 : 30 : 35",
+                "b": "16 : 24 : 15 : 35",
+                "c": "16 : 24 : 30 : 35",
+                "d": "18 : 24 : 30 : 35"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 32,
+              "question": "If A : B = 1 1\n:\n2 3\n and B : C = 1 1\n: ,\n2 3\n then A : B : C is \nequal to",
+              "options": {
+                "a": "1 : 2 : 6",
+                "b": "2 : 3 : 3",
+                "c": "3 : 2 : 6",
+                "d": "9 : 6 : 4"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 33,
+              "question": "If A : B = 1 3\n: ,\n2 8\nB : C = 1 5\n:\n3 9\n and C : D = 5 3\n: , 6 4\nthen the ratio A : B : C : D is",
+              "options": {
+                "a": "4 : 6 : 8 : 10",
+                "b": "8 : 6 : 10 : 9",
+                "c": "6 : 8 : 9 : 10",
+                "d": "6 : 4 : 8 : 10"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 34,
+              "question": "For each 200 rupees spent by the research department, \nsales department spends 20 rupees. For every 400 \nrupees spent by the sales department, the advertising \ndepartment spends 150 rupees. The triple ratio of \nthe money spent by the research department to \nthe money spent by the sales department to the \nmoney spent by the advertising department can be \nexpressed as",
+              "options": {
+                "a": "2 : 1 : 5",
+                "b": "20 : 4 : 1",
+                "c": "40 : 8 : 3",
+                "d": "80 : 8 : 3"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 35,
+              "question": "In a ratio which is equal to 7 : 8, if the antecedent \nis 35, what is the consequent?",
+              "options": {
+                "a": "35",
+                "b": "40",
+                "c": "56",
+                "d": "64"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 36,
+              "question": "If 8a = 9b then the ratio of 9\na\n to 8\nb\n is\n (Campus Recruitment, 2009)",
+              "options": {
+                "a": "1 : 1",
+                "b": "1 : 2",
+                "c": "2 : 1",
+                "d": "64 : 81",
+                "e": "81 : 64"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 37,
+              "question": "If x : y = 3 : 4, then (2x + 3y) : (3y – 2x) would be \nequal to (M.B.A., 2007)",
+              "options": {
+                "a": "2 : 1",
+                "b": "3 : 1",
+                "c": "3 : 2",
+                "d": "21 : 1"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 38,
+              "question": "If a : b = 2 : 5, then the value of (2a + 3b) : (7a + \n5b) is",
+              "options": {
+                "a": "19 : 31",
+                "b": "19 : 39",
+                "c": "31 : 19",
+                "d": "99 : 13"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 39,
+              "question": "If x : y = 3 : 2, then the ratio (2x2 + 3y2) : (3x2 – 2y2) \nis equal to",
+              "options": {
+                "a": "5 : 3",
+                "b": "6 : 5",
+                "c": "12 : 5",
+                "d": "30 : 19"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 40,
+              "question": "If x : y = 3 : 1, then x3 – y3 : x3 + y3 =?",
+              "options": {
+                "a": "10 : 11",
+                "b": "11 : 10",
+                "c": "13 : 14",
+                "d": "14 : 13"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 41,
+              "question": "If 5a + 3b : 2a – 3b = 23 : 5, then the value of a : b is",
+              "options": {
+                "a": "1 : 2",
+                "b": "1 : 4",
+                "c": "2 : 1",
+                "d": "4 : 1"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 42,
+              "question": "If x : y = 7 : 3, then the value of \n+ 2\n2 2 –\nxy y\nx y\n is",
+              "options": {
+                "a": "3\n4",
+                "b": "4\n3",
+                "c": "3\n7",
+                "d": "7\n3\nRATIO AND PROPORTION 441"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 43,
+              "question": "If = 4\n5\na\nb\n and = 15 , 16\nb\nc\n then \n+\n2 2\n2 2\n– c a\nc a\n would be",
+              "options": {
+                "a": "1\n7",
+                "b": "3\n4",
+                "c": "7\n25",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 44,
+              "question": "If a : b = b : c, then a4 : b4 would be equal to \n (M.B.A., 2007)",
+              "options": {
+                "a": "ac : b2",
+                "b": "a2 : c2",
+                "c": "c2 : a2",
+                "d": "b2 : ac"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 45,
+              "question": "If (4x2 – 3y2) : (2x2 + 5y2) = 12 : 19, then x : y is",
+              "options": {
+                "a": "2 : 3",
+                "b": "1 : 2",
+                "c": "3 : 2",
+                "d": "2 : 1"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 46,
+              "question": "If x : y = 3 : 4 and a : b = 1 : 2, then the value of \n2 +\n3 –4\nxa yb\nyb xa is",
+              "options": {
+                "a": "5\n6",
+                "b": "6\n5",
+                "c": "6\n7",
+                "d": "7\n6"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 47,
+              "question": "If a : b : c = 2 : 3 : 4, then 111\nabc\n: : is equal to",
+              "options": {
+                "a": "111\n: :\n432",
+                "b": "4 : 3 : 2",
+                "c": "6 : 4 : 3",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 48,
+              "question": "If 111\n: :\nxyz\n = 2 : 3 : 5, then x : y : z is equal to",
+              "options": {
+                "a": "2 : 3 : 5",
+                "b": "15 : 10 : 6",
+                "c": "5 : 3 : 2",
+                "d": "6 : 10 : 15"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 49,
+              "question": "If (x + y) : (x – y) = 4 : 1, then (x2 + y2) : (x2 – y2) \n=?",
+              "options": {
+                "a": "8 : 17",
+                "b": "17 : 8",
+                "c": "16 : 1",
+                "d": "25 : 9"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 50,
+              "question": "If a : (b + c) = 1 : 3 and c : (a + b) = 5 : 7, then b : \n(a + c) is equal to (S.S.C., 2006)",
+              "options": {
+                "a": "1 : 2",
+                "b": "2 : 3",
+                "c": "1 : 3",
+                "d": "2 : 1"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "In a class the number of girls is 20% more than \nthat of the boys. The strength of the class is 66. If \n4 more girls are admitted to the class, the ratio of \nthe number of boys to that of the girls is",
+              "options": {
+                "a": "1 : 2",
+                "b": "1 : 4",
+                "c": "3 : 4",
+                "d": "3 : 5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "If the income of A is 10% more than that of B and \nthe income of B is 20% less than that of C, then the \nincomes of A, B and C respectively are in the ratio",
+              "options": {
+                "a": "11 : 10 : 8",
+                "b": "22 : 20 : 25",
+                "c": "10 : 9 : 7",
+                "d": "22 : 18 : 25"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "Two numbers are respectively 20 percent and 50 \npercent more than a third number. These two \nnumbers are in the ratio",
+              "options": {
+                "a": "2 : 5",
+                "b": "3 : 5",
+                "c": "4 : 5",
+                "d": "6 : 7"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "What is the ratio whose terms differ by 40 and the \nmeasure of which is 2 ?\n7\n444 QUANTITATIVE APTITUDE",
+              "options": {
+                "a": "6 : 56",
+                "b": "14 : 56",
+                "c": "16 : 56",
+                "d": "16 : 72"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "` 16000 are to be distributed between B and A such \nthat B gets ` 4000 less than A. The ratio of the \namount received by A to that received by B is",
+              "options": {
+                "a": "1 : 3",
+                "b": "3 : 5",
+                "c": "5 : 3",
+                "d": "6 : 1"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "Find the fraction which will bear the same ratio to \n1\n27\n that 3\n11\n does to 5 .\n9",
+              "options": {
+                "a": "1\n55",
+                "b": "15\n99",
+                "c": "40\n33",
+                "d": "55"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "Given that 24 carat gold is pure gold ; 18 carat gold \nis \n3\n4 gold and 20 carat gold is 5\n6 gold, the ratio of \nthe pure gold in 18 carat gold to the pure gold in 20 \ncarat gold is",
+              "options": {
+                "a": "5 : 8",
+                "b": "8 : 5",
+                "c": "9 : 10",
+                "d": "15 : 22"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "A, B, C and D have ` 40, ` 50, ` 60 and ` 70 respec￾tively when they go to visit a fair. A spends ` 18, B\nspends ` 21, C spends ` 24 and D spends ` 27. Who \nhas done the highest expenditure proportionate to \nhis resources?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "D"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "The ratio of the arithmetic mean of two numbers \nto one of the numbers is 3 : 5. What is the ratio of \nthe smaller number to the larger one?",
+              "options": {
+                "a": "1 : 2",
+                "b": "1 : 3",
+                "c": "1 : 4",
+                "d": "1 : 5"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "Seema and Meena divide a sum of ` 25000 in the ratio \nof 3 : 2 respectively. If ` 5000 is added to each of their \nshares, what would be the new ratio formed?\n (P.C.S., 2010)",
+              "options": {
+                "a": "2 : 3",
+                "b": "3 : 4",
+                "c": "5 : 4",
+                "d": "4 : 3"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "Of 132 examinees of a certain school, the ratio of \nsuccessful to unsuccessful candidates is 9 : 2. If 4 \nmore students passed, what would have been the \nratio of successful to unsuccessful students?",
+              "options": {
+                "a": "25 : 4",
+                "b": "4 : 25",
+                "c": "28 : 5",
+                "d": "3 : 28"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "A person divided ` 10800 among his three sons in \nthe ratio 3 : 4 : 5. Second son kept ` 1000 for himself, \ngave ` 600 to his wife and divided the remaining \nmoney among his two daughters in the ratio\n11 : 9. Then one of his daughters received",
+              "options": {
+                "a": "` 1000",
+                "b": "` 1050",
+                "c": "` 1100",
+                "d": "` 1150"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "The sides of a triangle are in the ratio 3 : 4 : 5. The \nmeasure of the largest angle of the triangle is",
+              "options": {
+                "a": "60°",
+                "b": "75°",
+                "c": "120°",
+                "d": "150°"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "The numbers x, y, z are proportional to 2, 3, 5. The \nsum of x, y, z is 100. If y = px – 10, then p is equal to\n (M.B.A., 2011)",
+              "options": {
+                "a": "3\n2",
+                "b": "2",
+                "c": "5\n2",
+                "d": "3"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "A, B and C are boxes containing marbles in the ratio \n1 : 2 : 3. Total number of marbles is 60. The above \nratio can be changed to 3 : 4 : 5 by transferring",
+              "options": {
+                "a": "2 marbles from A to B and 1 from C to B",
+                "b": "3 marbles from B to C",
+                "c": "4 marbles from C to B",
+                "d": "5 marbles from C to A"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "An amount of ` 53 is divided among A, B and C\nsuch that A gets ` 7 more than B and B gets ` 8 \nmore than C. What is the ratio of their shares? \n (R.R.B., 2009)",
+              "options": {
+                "a": "15 : 8 : 30",
+                "b": "16 : 9 : 18",
+                "c": "18 : 25 : 10",
+                "d": "25 : 18 : 10"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "A sum of money is shared in the ratio of 3 : 4 : 5. \nThe smallest share is divided again in the ratio of \n1 : 2. What fraction of the total sum of money is \nthe larger of the two latter shares?",
+              "options": {
+                "a": "1\n3",
+                "b": "1\n6",
+                "c": "2\n3",
+                "d": "1\n12"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "If an amount of ` 1,50,000 is shared among A, B\nand C in the ratio of 2 : 3 : 5, then A receives the \nsame amount as he would receive if another sum \nof money is shared between A, B and C in the ratio \nof 5 : 3 : 2. The ratio of ` 1,50,000 to the second \namount of money is",
+              "options": {
+                "a": "2 : 3",
+                "b": "3 : 2",
+                "c": "5 : 2",
+                "d": "5 : 3"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "I n a n a l l o y , t h e r a t i o o f c o p p e r a n d \nzinc is 5 : 2. If 1.250 kg of zinc is mixed in\n17 kg 500 g of alloy, then the ratio of copper and \nzinc in the alloy will be",
+              "options": {
+                "a": "1 : 2",
+                "b": "2 : 1",
+                "c": "2 : 3",
+                "d": "3 : 2\nRATIO AND PROPORTION 445"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "A sum of ` 650 is divided between A and B in such \na manner that in every 100 rupees A gets 30 rupees \nmore than B. How much does B get?",
+              "options": {
+                "a": "` 288",
+                "b": "` 227.50",
+                "c": "` 312.50",
+                "d": "` 422.50"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "A sum of ` 731 is divided among A, B and C such \nthat A receives 25% more than B and B receives 25% \nless than C. What is C’s share in the amount?\n (Bank P.O., 2006)",
+              "options": {
+                "a": "` 172",
+                "b": "` 200",
+                "c": "` 258",
+                "d": "` 262",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 22,
+              "question": "A sum of ` 6400 is divided among three workers \nin the ratio 3 5 :2: .\n5 3 The share (in rupees) of the \nsecond worker is (S.S.C., 2007)",
+              "options": {
+                "a": "2560",
+                "b": "3000",
+                "c": "3200",
+                "d": "3840"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "If ` x are divided between A and B in the ratio \na c\n: ,\nb d then A gets rupees",
+              "options": {
+                "a": "+\nadx\nab cd",
+                "b": "+\nadx\nad bc",
+                "c": "+\nabx\nad bc",
+                "d": "+\nabx\nac bd"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "A man distributes ` 165000 among his daughter, \nwife and son in such a manner that 1\n2 of the \ndaughter’s share, 1\n4 of the wife’s share and 1\n5 of \nthe son’s share are equal. Find the daughter’s share.",
+              "options": {
+                "a": "` 15000",
+                "b": "` 30000",
+                "c": "` 45000",
+                "d": "` 60000"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "A sum of ` 1250 is divided among A, B, C so that \nA gets \n2\n9 of B’s share and C gets \n3\n4 of A’s share. \nThe share of C is",
+              "options": {
+                "a": "` 75",
+                "b": "` 90",
+                "c": "` 135",
+                "d": "` 150"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 26,
+              "question": "Instead of dividing ` 117 among P, Q, R in the ratio \n111\n::,\n234 by mistake it was divided in the ratio 2 : \n3 : 4. Who gained in the transaction?",
+              "options": {
+                "a": "Only P",
+                "b": "Only Q",
+                "c": "Only R",
+                "d": "Both Q and R"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "` 33630 are divided among A, B and C in such a \nmanner that the ratio of the amount of A to that of \nB is 3 : 7 and the ratio of the amount of B to that of \nC is 6 : 5. The amount of money received by B is \n (S.S.C., 2007)",
+              "options": {
+                "a": "` 12390",
+                "b": "` 13290",
+                "c": "` 14868",
+                "d": "` 16257"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 28,
+              "question": "In an innings of a cricket match, three players A, B\nand C scored a total of 361 runs. If the ratio of the \nnumber of runs scored by A to that scored by B and \nalso number of runs scored by B to that scored by C\nbe 3 : 2, the number of runs scored by A was",
+              "options": {
+                "a": "161",
+                "b": "171",
+                "c": "181",
+                "d": "185"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "` 8400 are divided among A, B, C and D in such \na way that the shares of A and B, B and C as well \nas C and D are in the ratios of 2 : 3, 4 : 5 and 6 : 7 \nrespectively. The share of A is",
+              "options": {
+                "a": "` 1280",
+                "b": "` 1320",
+                "c": "` 8210",
+                "d": "` 8400"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "A sum of ` 1300 is divided among P, Q, R and S\nsuch that\n ' share ' share = ' share ' share\nPs Qs\nQs Rs = = ' share 2 . ' share 3\nR s\nS s How much \nis P’s share?",
+              "options": {
+                "a": "` 140",
+                "b": "` 160",
+                "c": "` 240",
+                "d": "` 320"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 31,
+              "question": "The sum of three numbers is 116. The second number \nand the third number are in the ratio of 9 : 16 while the \nfirst number and the third number are in the ratio of\n1 : 4. Find the second number.",
+              "options": {
+                "a": "8",
+                "b": "16",
+                "c": "64",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 32,
+              "question": "` 2010 are to be divided among A, B, C in such a \nway that if A gets ` 5, then B must get ` 12 and if \nB gets ` 4, then C must get ` 5.50. The share of C\nwill exceed that of B by (C.P.O., 2007)",
+              "options": {
+                "a": "` 270",
+                "b": "` 360",
+                "c": "` 430",
+                "d": "` 620"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 33,
+              "question": "` 600 are divided among A, B, C so that ` 40 more \nthan 2\n5 of A’s share, ` 20 more than 2\n7 of B’s share \nand ` 10 more than 9\n17 of C’s share may all be \nequal. What is A’s share? (L.I.C.A.A.O., 2007)",
+              "options": {
+                "a": "` 150",
+                "b": "` 170",
+                "c": "` 200",
+                "d": "` 280"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 34,
+              "question": "` 1050 are divided among P, Q and R. The share of \nP is \n2\n5 of the combined share of Q and R. P gets",
+              "options": {
+                "a": "` 200",
+                "b": "` 300",
+                "c": "` 320",
+                "d": "` 420\n446 QUANTITATIVE APTITUDE"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 35,
+              "question": "A sum of ` 12540 is divided among A, B and C so \nthat A may receive \n3\n7 of what B and C together \nreceive and B may receive \n2\n9 of what A and C\ntogether receive. The difference in the shares of A\nand B is",
+              "options": {
+                "a": "` 1482",
+                "b": "` 2736",
+                "c": "` 4218",
+                "d": "` 4320"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 36,
+              "question": "If ` 1066 are divided among A, B, C and D such \nthat A : B = 3 : 4, B : C = 5 : 6 and C : D = 7 : 5, \nwho will get the maximum?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "D"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 37,
+              "question": "A person distributes his pens among four friends\nA, B, C and D in the ratio 1111\n3456\n: ::. What is the \nminimum number of pens that the person should \nhave? (M.A.T., 2010)",
+              "options": {
+                "a": "23",
+                "b": "55",
+                "c": "57",
+                "d": "65"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 38,
+              "question": "Divide ` 671 among A, B and C such that if their \nshares be increased by ` 3, ` 7 and ` 9 respectively \nthe remainder shall be in the ratio 1 : 2 : 3.\n (M.A.T., 2008)",
+              "options": {
+                "a": "` 110, ` 220, ` 336",
+                "b": "` 112, ` 223, ` 336",
+                "c": "` 105, ` 223, ` 330",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 39,
+              "question": "` 1087 is divided among A, B and C such that if\n` 10, ` 12 and ` 15 are diminished from the shares \nof A, B and C respectively, the remainders will be \nin the ratio of 5, 7 and 9. What is the share of B? \n (M.A.T., 2008)",
+              "options": {
+                "a": "` 260",
+                "b": "` 355",
+                "c": "` 362",
+                "d": "` 465"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 40,
+              "question": "Two numbers x and y are in the ratio 5 : 7 and their \nsum is 36. Then x is (P.C.S., 2009)",
+              "options": {
+                "a": "12",
+                "b": "15",
+                "c": "18",
+                "d": "19"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 41,
+              "question": "The ratio of income and expenditure of a person is \n11 : 10. If he saves ` 9000 per annum, his monthly \nincome is (S.S.C., 2010)",
+              "options": {
+                "a": "` 8000",
+                "b": "` 8250",
+                "c": "` 8500",
+                "d": "` 8800"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 42,
+              "question": "Two natural numbers are in the ratio 3 : 5 and their \nproduct is 2160. The smaller of the numbers is\n (S.S.C., 2010)",
+              "options": {
+                "a": "12",
+                "b": "18",
+                "c": "24",
+                "d": "36"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 43,
+              "question": "A sum of money is divided among A, B, C and D\nin the ratio of 3 : 4 : 9 : 10 respectively. If the share \nof C is ` 2580 more than the share of B, then what \nis the total amount of A and D together?\n (Bank P.O., 2009)",
+              "options": {
+                "a": "` 5676",
+                "b": "` 6192",
+                "c": "` 6708",
+                "d": "` 7224",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 44,
+              "question": "Two numbers are in the ratio 4 : 5 and their L.C.M.\nis 180. The smaller number is (C.P.O., 2007)",
+              "options": {
+                "a": "9",
+                "b": "15",
+                "c": "36",
+                "d": "45"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 45,
+              "question": "The ratio of the incomes of Ram and Shyam is 7 : 17 \nand that of Shyam and Sohan is 7 : 17. If the income \nof Ram is ` 490, what is the income of Sohan? \n (R.R.B., 2007)",
+              "options": {
+                "a": "` 490",
+                "b": "` 1190",
+                "c": "` 2790",
+                "d": "` 2890"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 46,
+              "question": "At Narmada Sarovar Bachao demonstration, support\u0002ers of Ms. Patkar outnumbered the police by 9 : 1. \nThe police arrested 135 NSB supporters averaging \n5 for 3 policemen. How many supporters of NSB \nwere there in the demonstration? (M.A.T., 2007)",
+              "options": {
+                "a": "405",
+                "b": "665",
+                "c": "1215",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 47,
+              "question": "The sides of a triangle are in the ratio 111\n234\n: : and \nits perimeter is 104 cm. The length of the longest \nside (in cm) is (M.B.A., 2007)",
+              "options": {
+                "a": "26",
+                "b": "32",
+                "c": "48",
+                "d": "52"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 48,
+              "question": "Two numbers are in the ratio 3 : 4. If the difference \nof their squares is 63, then the numbers are",
+              "options": {
+                "a": "8, 12",
+                "b": "9, 12",
+                "c": "12, 15",
+                "d": "16, 20"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 49,
+              "question": "If A : B = 4 : 5, B : C = 7 : 9 and C : D = 3 : 4, and \nif A’s share is ` 1680, the share of D is",
+              "options": {
+                "a": "` 2100",
+                "b": "` 2700",
+                "c": "` 2900",
+                "d": "` 3600"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 50,
+              "question": "The sum of the squares of three numbers is 532 and \nthe ratio of the first and the second as also of the \nsecond and the third is 3 : 2. The third number is \n (M.A.T., 2010)",
+              "options": {
+                "a": "8",
+                "b": "12",
+                "c": "18",
+                "d": "20"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 51,
+              "question": "A man spends a part of his monthly income and \nsaves a part of it. The ratio of his expenditure to his \nsavings is 26 : 3. If his monthly income is ` 7250, \nwhat is the amount of his monthly savings?",
+              "options": {
+                "a": "` 290",
+                "b": "` 350",
+                "c": "` 750",
+                "d": "` 780"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Two numbers are in the ratio 17 : 45. One-third of \nthe smaller is less than 1\n5 of the bigger by 15. The \nsmaller number is",
+              "options": {
+                "a": "25 1\n2",
+                "b": "67 1\n2",
+                "c": "76 1\n2",
+                "d": "86 1\n2"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "The sum of four numbers A, B, C and D is 110. C\nis twice A, sum of A and D is equal to that of B\nand C and A : B is 3 : 5. The numbers are",
+              "options": {
+                "a": "3, 5, 6, 8",
+                "c": "15, 25, 35, 45",
+                "d": "None of these"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 3,
+              "question": "The expenses of A and B are in the ratio 2 : 3. A\nsum of ` 2800 is equally divided between them. If \nA saves ` 600, then B saves",
+              "options": {
+                "a": "` 200",
+                "b": "` 300",
+                "c": "` 400",
+                "d": "` 500"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "Three numbers A, B and C are in the ratio of\n12 : 15 : 25. If the sum of these numbers is 312, the \nratio between the difference of B and A and the \ndifference of C and B is (M.A.T., 2010)",
+              "options": {
+                "a": "3 : 7",
+                "b": "5 : 1",
+                "c": "3 : 10",
+                "d": "10 : 3"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "Incomes of A, B and C are in the ratio 7 : 9 : 12 and \ntheir respective expenditures are in the ratio\n8 : 9 : 15. If A saves \n1\n4 of his income, then the ratio \nof their savings is (A.A.O. Exam., 2009)",
+              "options": {
+                "a": "56 : 99 : 69",
+                "b": "33 : 19 : 23",
+                "c": "15 : 28 : 27",
+                "d": "56 : 69 : 99"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "The total emoluments of A and B are equal. However, \nA gets 65% of his basic salary as allowances and B\ngets 80% of his basic salary as allowances. What is \nthe ratio of the basic salaries of A and B?\n (P.C.S., 2009)",
+              "options": {
+                "a": "5 : 7",
+                "b": "7 : 9",
+                "c": "12 : 11",
+                "d": "16 : 13"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "The incomes of Mr. Gupta and Mr. Verma are in \nthe ratio 9 : 4 and their expenditures are in the \nratio 7 : 3. If each saves ` 2000, then Mr. Gupta’s \nexpenditure is (M.A.T., 2009)",
+              "options": {
+                "a": "` 60000",
+                "b": "` 70000",
+                "c": "` 80000",
+                "d": "` 90000"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "A and B have incomes in the ratio 5 : 3. The expenses \nof A, B and C are in the ratio of 8 : 5 : 2. If C spends \n` 2000 and B saves ` 700, then A’s savings are",
+              "options": {
+                "a": "` 500",
+                "b": "` 1000",
+                "c": "` 1500",
+                "d": "` 2500"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "In a bank, monthly salary of clerks and officers are \nin the ratio of 3 : 5. Each clerk contributes 2% and \neach officer contributes 3 % of his salary to the \nWelfare Fund. If each officer’s contribution is ` 210, \nwhat will be the clerk’s salary?",
+              "options": {
+                "a": "` 4000",
+                "b": "` 4200",
+                "c": "` 5200",
+                "d": "` 7000",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "Salaries of A and B are in the ratio of 9 : 4 \nrespectively. When A’s salary is increased by 15%, \nit becomes ` 5175. What is B’s salary?",
+              "options": {
+                "a": "` 2000",
+                "b": "` 2500",
+                "c": "` 4000",
+                "d": "` 4500",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "Between two consecutive years my incomes are in \nthe ratio of 2 : 3 and expenses in the ratio 5 : 9. If \nmy income in the second year is ` 45000 and my \nexpenses in the first year is ` 25000 my total savings \nfor the two years is",
+              "options": {
+                "a": "Nil",
+                "b": "` 5000",
+                "c": "` 10000",
+                "d": "` 15000"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "The sum of the salaries of A and B is ` 2100. A\nspends 80% of his salary and B spends 70% of \nhis salary. If their savings are in the proportion of \n4 : 3, then what is the salary of A?",
+              "options": {
+                "a": "` 700",
+                "b": "` 900",
+                "c": "` 1200",
+                "d": "` 1400"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "The ratio of incomes of two persons is 5 : 3 and \nthat of their expenditures is 9 : 5. If they save\n` 2600 and ` 1800 respectively, their incomes are",
+              "options": {
+                "a": "` 9000, ` 5400",
+                "b": "` 10000, ` 6000",
+                "c": "` 6000, ` 3600",
+                "d": "` 8000, ` 4800"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "The monthly incomes of A and B are in the ratio \nof 5 : 4, their monthly expenses are in the ratio of \n19 : 21, and their monthly savings are in the ratio \nof 37 : 18. If the total annual savings of A and B is \n` 66000, A’s monthly income is",
+              "options": {
+                "a": "` 6000",
+                "b": "` 7500",
+                "c": "` 8000",
+                "d": "` 9000"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "The ratio of the number of boys and girls in a school \nof 720 students is 7 : 5. How many more girls should \nbe admitted to make the ratio 1 : 1? (P.C.S., 2009)",
+              "options": {
+                "a": "90",
+                "b": "120",
+                "c": "220",
+                "d": "240"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "In a college the students in Arts and Commerce \nfaculties were in the ratio of 4 : 5 respectively. When \n65 more students joined Commerce faculty the ratio \nbecomes 8 : 11 respectively. How many students are \nthere in Arts faculty? (Bank P.O., 2009)",
+              "options": {
+                "a": "520",
+                "b": "650",
+                "c": "715",
+                "d": "Cannot be determined",
+                "e": "None of these\n448 QUANTITATIVE APTITUDE"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "Two numbers are in the ratio 7 : 11. If 7 is added \nto each of the numbers, the ratio becomes 2 : 3. The \nsmaller number is (S.S.C., 2010)",
+              "options": {
+                "a": "39",
+                "b": "49",
+                "c": "66",
+                "d": "77"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "The ratio of boys and girls in sections A, B, C and D\nof class VI is respectively 7 : 5, 5 : 3, 3 : 2 and 2 : 1. \nIf the number of students in each of the sections is \nequal, then maximum number of boys are enrolled \nin section",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "D"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 19,
+              "question": "When a particular number is subtracted from each \nof 7, 9, 11 and 15, the resulting numbers are in \nproportion. The number to be subtracted is\n (C.P.O., 2007)",
+              "options": {
+                "a": "1",
+                "b": "2",
+                "c": "3",
+                "d": "5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "The ratio of milk to water in 80 litres of a mixture \nis 7 : 3. The water (in litres) to be added to it to \nmake the ratio 2 : 1 is (S.S.C., 2006)",
+              "options": {
+                "a": "4",
+                "b": "5",
+                "c": "6",
+                "d": "8"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "In two types of powdered detergent the ratio of \nsoda and soap-dust is 2 : 19 and 1 : 11 respectively. \nIf 7 kg of the first type is mixed with 4 kg of the \nsecond type, find the ratio of soda to soap-dust in \nthe new detergent mixture.",
+              "options": {
+                "a": "1 : 9",
+                "b": "9 : 1",
+                "c": "1 : 10",
+                "d": "20 : 1"
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

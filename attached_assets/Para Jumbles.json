@@ -1,0 +1,850 @@
+{
+  "Subject": "Verbal",
+  "Chapters": [
+    {
+      "Chapter Name": "  Para Jumbles",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "(A) She bought some fresh vegetables.\n(B) Reema went to the market.\n(C) Then she cooked a delicious meal.\n(D) First, she made a shopping list.",
+              "options": {
+                "a": "BDAC",
+                "b": "DABC",
+                "c": "BADC",
+                "d": "CBDA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "(A) The dog wagged its tail happily.\n(B) A boy came home from school.\n(C) It barked when it saw him.\n(D) His pet dog was waiting for him.",
+              "options": {
+                "a": "BDCA",
+                "b": "BACD",
+                "c": "ABCD",
+                "d": "BCDA"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "(A) He studied hard for the exam.\n(B) John wanted to get good grades.\n(C) Finally, he passed with flying colors.\n(D) He spent many hours reading books.",
+              "options": {
+                "a": "BADC",
+                "b": "ABCD",
+                "c": "DBCA",
+                "d": "ACBD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "(A) Birds build their nests in trees.\n(B) They lay their eggs there.\n(C) The eggs hatch into chicks.\n(D) Trees provide shelter for many animals.",
+              "options": {
+                "a": "DACB",
+                "b": "ADBC",
+                "c": "ABDC",
+                "d": "CDAB"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "(A) It was a bright, sunny day.\n(B) They decided to go for a picnic.\n(C) They packed sandwiches and juice.\n(D) The family enjoyed their time together.",
+              "options": {
+                "a": "ABCD",
+                "b": "CADB",
+                "c": "BCDA",
+                "d": "ABDC"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 6,
+              "question": "(A) First, you need to add flour.\n(B) Making a cake is simple.\n(C) Then, you add sugar and eggs.\n(D) Finally, you bake it in the oven.",
+              "options": {
+                "a": "BADC",
+                "b": "BDCA",
+                "c": "ABCD",
+                "d": "BACD"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "(A) He turned on the television.\n(B) David sat on the sofa.\n(C) He wanted to watch a movie.\n(D) He found a good action film.",
+              "options": {
+                "a": "BCAD",
+                "b": "BDCA",
+                "c": "ABCD",
+                "d": "CBAD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "(A) The cat chased the mouse.\n(B) The mouse ran into a hole.\n(C) The cat waited patiently by the hole.\n(D) But it couldn't catch it.",
+              "options": {
+                "a": "ABDC",
+                "b": "ACBD",
+                "c": "DABC",
+                "d": "BADC"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "(A) She put on her shoes.\n(B) Mary got ready for a walk.\n(C) She opened the door.\n(D) Then she stepped outside.",
+              "options": {
+                "a": "BACD",
+                "b": "BADC",
+                "c": "ABCD",
+                "d": "CDBA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "(A) The boy was very thirsty.\n(B) He went to the kitchen.\n(C) He poured himself a glass of water.\n(D) He drank it all quickly.",
+              "options": {
+                "a": "BACD",
+                "b": "ABCD",
+                "c": "CADB",
+                "d": "BCDA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "(A) It was a small, red ball.\n(B) A child found a toy in the park.\n(C) He started playing with it.\n(D) He was very happy.",
+              "options": {
+                "a": "BADC",
+                "b": "ABCD",
+                "c": "CADB",
+                "d": "BDAC"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "(A) He watered the plants daily.\n(B) Tom loved gardening.\n(C) His garden was full of beautiful flowers.\n(D) He planted many seeds.",
+              "options": {
+                "a": "BDAC",
+                "b": "BADC",
+                "c": "ABCD",
+                "d": "DBCA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "(A) The bell rang.\n(B) Students rushed out of the classroom.\n(C) It was the end of the school day.\n(D) They were excited to go home.",
+              "options": {
+                "a": "CDBA",
+                "b": "ACBD",
+                "c": "BACD",
+                "d": "CADB"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "(A) He felt much better.\n(B) Grandpa took his medicine.\n(C) He had a bad headache.\n(D) The medicine started working.",
+              "options": {
+                "a": "CBDA",
+                "b": "BCAD",
+                "c": "CDBA",
+                "d": "BADC"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "(A) They saw many animals.\n(B) The family went to the zoo.\n(C) They liked the lions and monkeys.\n(D) It was a fun day out.",
+              "options": {
+                "a": "BADC",
+                "b": "BACD",
+                "c": "ABDC",
+                "d": "ABCD"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "(A) The artist painted a landscape.\n(B) He used bright colors.\n(C) The painting was beautiful.\n(D) Many people admired it.",
+              "options": {
+                "a": "ABCD",
+                "b": "ACBD",
+                "c": "BACD",
+                "d": "CADB"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "(A) The car broke down.\n(B) They called a mechanic.\n(C) They were driving on a highway.\n(D) The mechanic fixed it quickly.",
+              "options": {
+                "a": "CABD",
+                "b": "CDBA",
+                "c": "ACBD",
+                "d": "CADB"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "(A) She practiced every day.\n(B) Sarah wanted to play the piano well.\n(C) Soon, she could play complex pieces.\n(D) She started with simple melodies.",
+              "options": {
+                "a": "BADC",
+                "b": "BDAC",
+                "c": "ABCD",
+                "d": "BCAD"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "(A) The sun rose in the east.\n(B) The day began.\n(C) Birds started chirping.\n(D) It was a beautiful morning.",
+              "options": {
+                "a": "ADBC",
+                "b": "BACD",
+                "c": "ABCD",
+                "d": "ACBD"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "(A) The students listened carefully.\n(B) The teacher explained the lesson.\n(C) They asked questions for clarification.\n(D) They understood the topic better.",
+              "options": {
+                "a": "BACD",
+                "b": "BADC",
+                "c": "ABCD",
+                "d": "BDAC"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "(A) He packed his bag.\n(B) John was going on a trip.\n(C) He checked his tickets.\n(D) He left for the airport.",
+              "options": {
+                "a": "BACD",
+                "b": "ABCD",
+                "c": "BADC",
+                "d": "BCAD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "(A) The boy climbed the tree.\n(B) He wanted to pick apples.\n(C) He found many ripe ones.\n(D) He put them in his basket.",
+              "options": {
+                "a": "ABCD",
+                "b": "ABDC",
+                "c": "BACD",
+                "d": "BDAC"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "(A) She decided to bake cookies.\n(B) Maria was feeling hungry.\n(C) The aroma filled the kitchen.\n(D) She gathered the ingredients.",
+              "options": {
+                "a": "BADC",
+                "b": "BDAC",
+                "c": "ABCD",
+                "d": "CADB"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "(A) The rain started to fall.\n(B) People opened their umbrellas.\n(C) They hurried to find shelter.\n(D) The streets became wet.",
+              "options": {
+                "a": "ABCD",
+                "b": "ACBD",
+                "c": "ADBC",
+                "d": "ABDC"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "(A) The dog found a bone.\n(B) It was buried in the garden.\n(C) The dog started digging.\n(D) It happily chewed on it.",
+              "options": {
+                "a": "CABD",
+                "b": "CDBA",
+                "c": "BCAD",
+                "d": "ACBD"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "(A) The library was quiet.\n(B) People were reading books.\n(C) Students were studying.\n(D) It was a good place to concentrate.",
+              "options": {
+                "a": "ABCD",
+                "b": "ACBD",
+                "c": "DBCA",
+                "d": "CBAD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "(A) He put on his coat.\n(B) It was cold outside.\n(C) He stepped out of the house.\n(D) He shivered a little.",
+              "options": {
+                "a": "BACD",
+                "b": "ABCD",
+                "c": "BADC",
+                "d": "CBAD"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 28,
+              "question": "(A) The phone rang.\n(B) She picked it up.\n(C) It was her friend calling.\n(D) They talked for a long time.",
+              "options": {
+                "a": "ABDC",
+                "b": "ABCD",
+                "c": "ACBD",
+                "d": "CBAD"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "(A) The chef prepared the ingredients.\n(B) He cooked a delicious meal.\n(C) The customers enjoyed it.\n(D) He served it hot.",
+              "options": {
+                "a": "ABDC",
+                "b": "BADC",
+                "c": "ACBD",
+                "d": "CABD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "(A) The team played well.\n(B) They won the match.\n(C) The crowd cheered loudly.\n(D) They celebrated their victory.",
+              "options": {
+                "a": "ABDC",
+                "b": "ABCD",
+                "c": "ACBD",
+                "d": "BACD"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "(A) This mechanism, though seemingly simple, involves complex biochemical pathways.\n(B) The human body possesses an intricate immune system.\n(C) It constantly identifies and neutralizes foreign invaders like bacteria and viruses.\n(D) Its primary function is to protect the host from pathogens.",
+              "options": {
+                "a": "BDCA",
+                "b": "BACD",
+                "c": "DCBA",
+                "d": "BCDA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "(A) However, their long-term impact on the environment and human health remains a subject of ongoing debate.\n(B) Genetically modified organisms (GMOs) were developed to enhance crop yield and nutritional value.\n(C) Proponents highlight increased food security and reduced pesticide use.\n(D) Critics raise concerns about biodiversity loss and potential allergenic effects.",
+              "options": {
+                "a": "BACD",
+                "b": "BDCA",
+                "c": "BADC",
+                "d": "CADB"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "(A) This shift fundamentally altered the global economic landscape.\n(B) The Industrial Revolution marked a pivotal period in human history.\n(C) It transitioned societies from agrarian and handicraft economies to industrial and machine-manufacturing ones.\n(D) New technologies, particularly the steam engine, played a crucial role in this transformation.",
+              "options": {
+                "a": "BCAD",
+                "b": "CADB",
+                "c": "BACD",
+                "d": "CDBA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "(A) This inherent challenge often leads to ethical dilemmas and intense public scrutiny.\n(B) Medical advancements, while offering unprecedented hope, frequently push the boundaries of societal norms.\n(C) Issues like cloning, genetic editing, and artificial intelligence in healthcare raise profound questions.\n(D) Balancing potential benefits against unforeseen risks becomes a critical consideration.",
+              "options": {
+                "a": "BCAD",
+                "b": "CBDA",
+                "c": "BCDA",
+                "d": "DCBA"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "(A) The pursuit of scientific knowledge is inherently iterative.\n(B) Hypotheses are formulated, tested, and refined based on empirical evidence.\n(C) This process ensures the constant evolution and validation of theories.\n(D) It involves a continuous cycle of observation, experimentation, and revision.",
+              "options": {
+                "a": "ADBC",
+                "b": "ABCD",
+                "c": "DBCA",
+                "d": "ACBD"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 6,
+              "question": "(A) Yet, the very concept of \"free will\" continues to be a subject of philosophical and scientific contention.\n(B) Most individuals intuitively believe they are the authors of their own choices.\n(C) Neuroscientific discoveries, for instance, sometimes suggest that decisions are predetermined by brain activity.\n(D) This debate has significant implications for our understanding of responsibility and morality.",
+              "options": {
+                "a": "BACD",
+                "b": "BADC",
+                "c": "DBCA",
+                "d": "ABCD"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "(A) Consequently, effective communication is not merely about conveying information.\n(B) It also involves empathy, active listening, and the ability to interpret non-verbal cues.\n(C) Human interaction is a complex dance of verbal and non-verbal signals.\n(D) Misunderstandings often arise from a failure to grasp these subtle nuances.",
+              "options": {
+                "a": "CDAB",
+                "b": "CADB",
+                "c": "ACBD",
+                "d": "CDBA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "(A) This phenomenon, known as confirmation bias, can impede objective decision-making.\n(B) People often tend to seek out, interpret, and remember information in a way that confirms their pre-existing beliefs.\n(C) It makes them more likely to accept information that supports their views and reject information that contradicts them.\n(D) Understanding this cognitive shortcut is crucial for fostering critical thinking.",
+              "options": {
+                "a": "BCDA",
+                "b": "BACD",
+                "c": "ABCD",
+                "d": "CBDA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "(A) Therefore, fostering a culture of continuous learning is paramount for personal and professional growth.\n(B) The modern world is characterized by rapid technological advancements and evolving societal structures.\n(C) Adaptation and resilience become key attributes for navigating this dynamic environment.\n(D) Individuals must continuously acquire new skills and knowledge to remain relevant.",
+              "options": {
+                "a": "BCDA",
+                "b": "BDCA",
+                "c": "CADB",
+                "d": "DBCA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "(A) This complex interplay shapes consumer preferences and market trends.\n(B) Economic decisions are rarely made in isolation.\n(C) They are influenced by a myriad of factors, including psychological biases, social norms, and cultural values.\n(D) Understanding these underlying influences is vital for policymakers and businesses alike.",
+              "options": {
+                "a": "CBDA",
+                "b": "BCAD",
+                "c": "BDAC",
+                "d": "DBCA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "(A) It can offer fresh perspectives and challenge existing paradigms.\n(B) Interdisciplinary research is becoming increasingly vital in addressing complex global challenges.\n(C) Problems like climate change or public health crises rarely fit neatly within a single academic discipline.\n(D) Collaborations across fields foster more comprehensive and innovative solutions.",
+              "options": {
+                "a": "BCAD",
+                "b": "CBDA",
+                "c": "BACD",
+                "d": "CDAB"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "(A) The concept of sustainability aims to reconcile these often-conflicting objectives.\n(B) Humanity faces the dual challenge of economic development and environmental preservation.\n(C) Unchecked exploitation of natural resources can lead to irreversible ecological damage.\n(D) Simultaneously, poverty alleviation and improved living standards remain critical goals.",
+              "options": {
+                "a": "BCAD",
+                "b": "BDCA",
+                "c": "BCDA",
+                "d": "CBDA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "(A) Yet, their potential is often constrained by lack of funding, political will, or public awareness.\n(B) Non-governmental organizations (NGOs) play a crucial role in advocating for social and environmental causes.\n(C) They bridge gaps left by government programs and provide essential services to marginalized communities.\n(D) Their effectiveness hinges on their ability to mobilize resources and build strong community partnerships.",
+              "options": {
+                "a": "BCAD",
+                "b": "BADC",
+                "c": "ABDC",
+                "d": "CBDA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "(A) This phenomenon contributes to a widening disparity between the digitally fluent and the digitally excluded.\n(B) The rapid proliferation of digital technologies has created a \"digital divide.\"\n(C) Access to information, education, and economic opportunities is increasingly tied to digital literacy.\n(D) Bridging this gap is crucial for ensuring equitable societal development.",
+              "options": {
+                "a": "BACD",
+                "b": "BADC",
+                "c": "BDCA",
+                "d": "CDBA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "(A) This realization underpins the growing emphasis on emotional intelligence.\n(B) Traditional measures of intelligence often focus solely on cognitive abilities.\n(C) However, success in life and work is also significantly influenced by one's ability to understand and manage emotions.\n(D) It involves self-awareness, self-regulation, empathy, and social skills.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "ACBD",
+                "d": "DBCA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "(A) The evolution of language is a testament to this ongoing process.\n(B) Human communication is a dynamic and ever-changing system.\n(C) New words emerge, meanings shift, and grammatical structures adapt over time.\n(D) This adaptability allows language to reflect and shape societal developments.",
+              "options": {
+                "a": "BACD",
+                "b": "BCDA",
+                "c": "BDCA",
+                "d": "CBDA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "(A) These disruptions necessitate a re-evaluation of traditional business models.\n(B) Globalization and technological innovation have significantly reshaped the competitive landscape.\n(C) Companies must adapt quickly to remain viable in this rapidly evolving environment.\n(D) New market entrants and disruptive technologies frequently challenge established industries.",
+              "options": {
+                "a": "BACD",
+                "b": "BCDA",
+                "c": "BDAC",
+                "d": "DBCA"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "(A) However, critical analysis reveals the limitations and biases inherent in these narratives.\n(B) Historical accounts often present a simplified or subjective interpretation of past events.\n(C) Understanding historical context requires examining multiple perspectives and primary sources.\n(D) This nuanced approach helps to construct a more accurate and comprehensive understanding.",
+              "options": {
+                "a": "BACD",
+                "b": "BDCA",
+                "c": "ACBD",
+                "d": "CBAD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "(A) This shift empowers individuals and fosters a more collaborative approach to healthcare.\n(B) Patient engagement is increasingly recognized as a cornerstone of effective healthcare delivery.\n(C) It moves beyond a passive recipient model to one where patients are active participants in their care.\n(D) Shared decision-making, health literacy, and personalized care plans are key components.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "CDBA",
+                "d": "ACBD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "(A) Consequently, governments and international bodies are working towards mitigating its effects.\n(B) Climate change represents one of the most pressing challenges facing humanity.\n(C) Its impacts, including rising sea levels and extreme weather events, are becoming increasingly evident.\n(D) Addressing it requires concerted global effort and significant policy changes.",
+              "options": {
+                "a": "BCDA",
+                "b": "BCAD",
+                "c": "CBAD",
+                "d": "DBCA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "(A) Understanding this cognitive process is crucial for effective learning and problem-solving.\n(B) Memory is not a single, monolithic entity but a complex system of interconnected processes.\n(C) It involves encoding, storage, and retrieval of information, each susceptible to various factors.\n(D) Short-term, long-term, and working memory all play distinct roles in our ability to retain and recall knowledge.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "CBAD",
+                "d": "DBCA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "(A) This phenomenon is especially pronounced in the realm of social media.\n(B) The spread of misinformation has become a significant concern in the digital age.\n(C) Unverified claims and biased narratives can quickly go viral, influencing public opinion.\n(D) Developing media literacy and critical thinking skills is vital to combat this trend.",
+              "options": {
+                "a": "BACD",
+                "b": "BADC",
+                "c": "CDBA",
+                "d": "CADB"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "(A) This resilience is often cultivated through a combination of genetic predispositions and environmental factors.\n(B) Some individuals demonstrate remarkable resilience in the face of adversity.\n(C) They possess the ability to bounce back from setbacks and adapt to challenging circumstances.\n(D) Support networks, coping mechanisms, and positive outlooks play a crucial role.",
+              "options": {
+                "a": "BCDA",
+                "b": "BCAD",
+                "c": "CADB",
+                "d": "DBCA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "(A) This interplay shapes individual experiences and societal structures.\n(B) Identity formation is a multifaceted process influenced by various factors.\n(C) Culture, family, peer groups, and personal experiences all contribute to one's sense of self.\n(D) It is a continuous journey of self-discovery and negotiation.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "CBDA",
+                "d": "CDBA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "(A) Their success hinges on meticulous planning, resource allocation, and risk management.\n(B) Large-scale infrastructure projects, such as building bridges or dams, are incredibly complex undertakings.\n(C) They require coordination among numerous stakeholders and adherence to stringent engineering standards.\n(D) Delays and cost overruns are common challenges due to their inherent complexity.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "CADB",
+                "d": "CBDA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "(A) This has led to increasing demand for renewable energy sources.\n(B) Global energy consumption continues to rise steadily.\n(C) Traditional fossil fuels contribute significantly to greenhouse gas emissions.\n(D) Addressing climate change necessitates a transition away from carbon-intensive power generation.",
+              "options": {
+                "a": "BCAD",
+                "b": "BACD",
+                "c": "BDCA",
+                "d": "CADB"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "(A) It challenges assumptions and opens pathways for creative problem-solving.\n(B) Critical thinking is an essential skill in an age of abundant information.\n(C) It involves objective analysis and evaluation of information to form a judgment.\n(D) Without it, individuals are susceptible to manipulation and misinformation.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "CADB",
+                "d": "CDBA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "(A) This often results in a better fit between employees and organizational needs.\n(B) Effective recruitment strategies go beyond simply filling vacancies.\n(C) They involve identifying candidates whose skills, values, and aspirations align with the company culture.\n(D) It aims to build a strong, cohesive workforce capable of achieving long-term goals.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "BDCA",
+                "d": "CBDA"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "(A) It contributes to biodiversity loss and disrupts delicate ecosystems.\n(B) Deforestation is a critical environmental concern worldwide.\n(C) Human activities, such as logging and agriculture, are primary drivers.\n(D) Its long-term consequences include climate change and desertification.",
+              "options": {
+                "a": "BCAD",
+                "b": "BACD",
+                "c": "CADB",
+                "d": "ABDC"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "(A) This capacity for abstract thought sets humans apart from other species.\n(B) The human brain is a marvel of biological engineering.\n(C) It enables complex reasoning, language, and self-awareness.\n(D) Its intricate neural networks facilitate a vast array of cognitive functions.",
+              "options": {
+                "a": "BDCA",
+                "b": "BADC",
+                "c": "ABCD",
+                "d": "CBAD"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "(A) He found that many students struggled with mathematics.\n(B) Mr. Sharma, a new teacher, joined the school.\n(C) He developed new teaching methods to help them.\n(D) Soon, their grades began to improve significantly.",
+              "options": {
+                "a": "BCAD",
+                "b": "BADC",
+                "c": "DBCA",
+                "d": "CADB"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "(A) It is crucial for maintaining a healthy environment.\n(B) Recycling plays a vital role in waste management.\n(C) By reusing materials, we reduce pollution and conserve resources.\n(D) Therefore, everyone should participate in recycling programs.",
+              "options": {
+                "a": "BACD",
+                "b": "CADB",
+                "c": "BCAD",
+                "d": "ADBC"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "(A) He hoped to catch some big fish.\n(B) John packed his fishing rod and bait.\n(C) Early in the morning, he went to the lake.\n(D) He spent the whole day by the water.",
+              "options": {
+                "a": "BACD",
+                "b": "BADC",
+                "c": "CBAD",
+                "d": "ABCD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "(A) This invention revolutionized information dissemination.\n(B) Johannes Gutenberg invented the printing press in the 15th century.\n(C) It allowed for the mass production of books and texts.\n(D) Education and literacy spread rapidly as a result.",
+              "options": {
+                "a": "BACD",
+                "b": "BDAC",
+                "c": "BADC",
+                "d": "ABDC"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "(A) Its bright colors and sweet scent attract pollinators.\n(B) The rose is a beautiful and widely admired flower.\n(C) It has been cultivated for centuries for its aesthetic appeal.\n(D) Different varieties offer a wide range of shapes and sizes.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "BACD",
+                "d": "CADB"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "(A) The internet has transformed how we access information.\n(B) It connects billions of people globally, facilitating communication.\n(C) However, it also presents challenges like misinformation.\n(D) Its impact on modern society is profound and multifaceted.",
+              "options": {
+                "a": "ABDC",
+                "b": "BADC",
+                "c": "ADBC",
+                "d": "BACD"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "(A) They need ample sunlight and regular watering.\n(B) Growing a thriving garden requires careful attention.\n(C) Proper soil preparation is also essential for healthy plants.\n(D) Neglecting these aspects can lead to poor yields.",
+              "options": {
+                "a": "BACD",
+                "b": "BDCA",
+                "c": "CADB",
+                "d": "BADC"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "(A) This causes the tectonic plates to move.\n(B) Earthquakes are a result of sudden movements in the Earth's crust.\n(C) They often occur along fault lines, where plates meet.\n(D) Heat from the Earth's core creates convection currents.",
+              "options": {
+                "a": "BDCA",
+                "b": "BACD",
+                "c": "ACBD",
+                "d": "CBDA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "(A) It helps in reducing stress and improving focus.\n(B) Regular physical exercise offers numerous health benefits.\n(C) Furthermore, it strengthens muscles and enhances cardiovascular health.\n(D) Incorporating it into daily routines is highly recommended.",
+              "options": {
+                "a": "BACD",
+                "b": "BADC",
+                "c": "ABCD",
+                "d": "ACBD"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "(A) This diversity is a crucial component of healthy ecosystems.\n(B) Biodiversity refers to the variety of life on Earth.\n(C) It includes all plants, animals, and microorganisms.\n(D) Human activities, however, are increasingly threatening this natural heritage.",
+              "options": {
+                "a": "BCAD",
+                "b": "BCDA",
+                "c": "BACD",
+                "d": "CBAD"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "(A) He finally managed to reach the summit.\n(B) The climber faced strong winds and icy conditions.\n(C) His long training had prepared him for the ordeal.\n(D) It was a challenging ascent up the mountain.",
+              "options": {
+                "a": "DBCA",
+                "b": "DCBA",
+                "c": "CBDA",
+                "d": "BDCA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "(A) The invention of vaccines has saved millions of lives.\n(B) They work by training the immune system to recognize pathogens.\n(C) This preventive measure is a cornerstone of public health.\n(D) It has eradicated diseases like smallpox and significantly reduced others.",
+              "options": {
+                "a": "ABCD",
+                "b": "BACD",
+                "c": "ACBD",
+                "d": "BADC"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "(A) This helps preserve natural habitats and promotes sustainable tourism.\n(B) Ecotourism focuses on responsible travel to natural areas.\n(C) It aims to minimize environmental impact and support local communities.\n(D) Visitors engage in activities that educate them about conservation.",
+              "options": {
+                "a": "BCAD",
+                "b": "BACD",
+                "c": "BDAC",
+                "d": "CBDA"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "(A) It encourages independent thinking and problem-solving skills.\n(B) A liberal arts education aims to provide a broad general knowledge.\n(C) It prepares students for a variety of careers, not just one specific field.\n(D) This approach emphasizes critical analysis across different disciplines.",
+              "options": {
+                "a": "BCDA",
+                "b": "BCAD",
+                "c": "BDAC",
+                "d": "CADB"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "(A) It involves active collaboration and sharing of ideas.\n(B) Effective teamwork is essential for success in many modern workplaces.\n(C) This synergy often leads to innovative solutions and increased productivity.\n(D) Individuals combine their strengths to achieve a common goal.",
+              "options": {
+                "a": "BDAC",
+                "b": "BADC",
+                "c": "BCDA",
+                "d": "ABCD"
+              },
+              "answer": "a"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

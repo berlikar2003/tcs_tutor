@@ -1,0 +1,97 @@
+{
+  "subject": "Logical Reasoning",
+  "topics": [
+    {
+      "name": "Number and Letter Series",
+      "questions": [
+        {
+          "id": "NLS01",
+          "question": "Find the next term in the series: 3, 7, 15, 31, 63, ?",
+          "options": {
+            "A": "127",
+            "B": "120",
+            "C": "95",
+            "D": "135"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "NLS02",
+          "question": "What comes next in the sequence: A, C, F, J, ?",
+          "options": {
+            "A": "N",
+            "B": "O",
+            "C": "P",
+            "D": "Q"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "NLS03",
+          "question": "Complete the series: 2, 6, 12, 20, 30, ?",
+          "options": {
+            "A": "42",
+            "B": "40",
+            "C": "36",
+            "D": "48"
+          },
+          "correct_option": "A"
+        }
+      ]
+    },
+    {
+      "name": "Coding-Decoding",
+      "questions": [
+        {
+          "id": "CD01",
+          "question": "If MOUSE is coded as PRUQC, then how will CAT be coded?",
+          "options": {
+            "A": "ECV",
+            "B": "DCU",
+            "C": "FDW",
+            "D": "VCD"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "CD02",
+          "question": "In a certain code, 'COMPUTER' is written as 'RFUVQNPC'. How will 'MOBILE' be written in that code?",
+          "options": {
+            "A": "FMJCPN",
+            "B": "FOJCPN",
+            "C": "DKHAPN",
+            "D": "DKJCPN"
+          },
+          "correct_option": "D"
+        }
+      ]
+    },
+    {
+      "name": "Blood Relations",
+      "questions": [
+        {
+          "id": "BR01",
+          "question": "A is the father of B. C is the daughter of B. D is the brother of B. How is D related to C?",
+          "options": {
+            "A": "Uncle",
+            "B": "Father",
+            "C": "Grandfather",
+            "D": "Brother"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "BR02",
+          "question": "Pointing to a woman, Rajan said, \"She is the daughter of the only child of my father.\" How is the woman related to Rajan?",
+          "options": {
+            "A": "Daughter",
+            "B": "Sister",
+            "C": "Niece",
+            "D": "Cousin"
+          },
+          "correct_option": "A"
+        }
+      ]
+    }
+  ]
+}

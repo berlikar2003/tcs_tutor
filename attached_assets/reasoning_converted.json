@@ -1,0 +1,1730 @@
+{
+  "subject": "Logical Reasoning",
+  "topics": [
+    {
+      "name": "Number and Letter Series",
+      "questions": [
+        {
+          "id": "NLS01",
+          "question": "Find the next term in the series: 3, 7, 15, 31, 63, ?",
+          "options": {
+            "A": "127",
+            "B": "120",
+            "C": "95",
+            "D": "135"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "NLS02",
+          "question": "What comes next in the sequence: A, C, F, J, ?",
+          "options": {
+            "A": "N",
+            "B": "O",
+            "C": "P",
+            "D": "Q"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "NLS03",
+          "question": "Complete the series: 2, 6, 12, 20, 30, ?",
+          "options": {
+            "A": "42",
+            "B": "40",
+            "C": "36",
+            "D": "48"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "NLS04",
+          "question": "Find the missing letter: B, E, I, N, ?",
+          "options": {
+            "A": "S",
+            "B": "T",
+            "C": "U",
+            "D": "R"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "NLS05",
+          "question": "What is the next number in the series: 1, 4, 9, 16, 25, ?",
+          "options": {
+            "A": "36",
+            "B": "49",
+            "C": "64",
+            "D": "30"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "NLS06",
+          "question": "Complete the pattern: Z, W, T, Q, ?",
+          "options": {
+            "A": "O",
+            "B": "N",
+            "C": "P",
+            "D": "M"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "NLS07",
+          "question": "Find the next number: 3, 6, 18, 72, ?",
+          "options": {
+            "A": "288",
+            "B": "360",
+            "C": "216",
+            "D": "144"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "NLS08",
+          "question": "What comes next: AB, EF, IJ, MN, ?",
+          "options": {
+            "A": "QR",
+            "B": "RS",
+            "C": "PQ",
+            "D": "ST"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "NLS09",
+          "question": "Complete the sequence: 8, 27, 64, 125, ?",
+          "options": {
+            "A": "216",
+            "B": "256",
+            "C": "196",
+            "D": "169"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "NLS10",
+          "question": "Find the missing letters: BE, HK, NQ, ?",
+          "options": {
+            "A": "VY",
+            "B": "TW",
+            "C": "UX",
+            "D": "SU"
+          },
+          "correct_option": "B"
+        }
+      ]
+    },
+    {
+      "name": "Coding-Decoding",
+      "questions": [
+        {
+          "id": "CD01",
+          "question": "If MOUSE is coded as PRUQC, then how will CAT be coded?",
+          "options": {
+            "A": "ECV",
+            "B": "DCU",
+            "C": "FDW",
+            "D": "VCD"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "CD02",
+          "question": "In a certain code, 'COMPUTER' is written as 'RFUVQNPC'. How will 'MOBILE' be written in that code?",
+          "options": {
+            "A": "FMJCPN",
+            "B": "FOJCPN",
+            "C": "DKHAPN",
+            "D": "DKJCPN"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "CD03",
+          "question": "If TEACHER is coded as 390614, how will STUDENT be coded?",
+          "options": {
+            "A": "891253",
+            "B": "739218",
+            "C": "793512",
+            "D": "792513"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "CD04",
+          "question": "If in a certain language, TRIANGLE is coded as SQHZMFKD, then how is SQUARE coded in that language?",
+          "options": {
+            "A": "TPVZQD",
+            "B": "RPTBQF",
+            "C": "RPVZQD",
+            "D": "TPVZSD"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "CD05",
+          "question": "If 'Apple' is coded as '12234', 'Ball' is coded as '5144', how is 'Paper' coded?",
+          "options": {
+            "A": "21234",
+            "B": "21243",
+            "C": "31234",
+            "D": "23134"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "CD06",
+          "question": "In a certain code language, if 'BORN' is coded as 'APQM', then how will 'DICE' be coded?",
+          "options": {
+            "A": "CGDF",
+            "B": "CHBD",
+            "C": "CHDF",
+            "D": "EJDF"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "CD07",
+          "question": "If 'FRIEND' is coded as 'IULHQG', then 'CANDLE' will be coded as:",
+          "options": {
+            "A": "FAQGOH",
+            "B": "DEQGOH",
+            "C": "FDQGOH",
+            "D": "FDQIOH"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "CD08",
+          "question": "If 'REASON' is written as '5' and 'BELIEVED' is written as '8', then how will 'GOVERNMENT' be written?",
+          "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "CD09",
+          "question": "In a certain code, 'MONKEY' is written as 'XDJMNL'. How will 'TIGER' be written in that code?",
+          "options": {
+            "A": "SHFDQ",
+            "B": "QDFHS",
+            "C": "SHJDQ",
+            "D": "QDHFS"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "CD10",
+          "question": "If 'PROCESSOR' is coded as '17684338671', then how will 'PROCEDURE' be coded?",
+          "options": {
+            "A": "1768433974",
+            "B": "1764338762",
+            "C": "1764339874",
+            "D": "1764839762"
+          },
+          "correct_option": null
+        }
+      ]
+    },
+    {
+      "name": "Blood Relations",
+      "questions": [
+        {
+          "id": "BR01",
+          "question": "A is the father of B. C is the daughter of B. D is the brother of B. How is D related to C?",
+          "options": {
+            "A": "Uncle",
+            "B": "Father",
+            "C": "Grandfather",
+            "D": "Brother"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "BR02",
+          "question": "Pointing to a woman, Rajan said, \"She is the daughter of the only child of my father.\" How is the woman related to Rajan?",
+          "options": {
+            "A": "Daughter",
+            "B": "Sister",
+            "C": "Niece",
+            "D": "Cousin"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "BR03",
+          "question": "If A + B means A is the brother of B; A \u00c3\u2014 B means A is the father of B; A - B means A is the sister of B; then which of the following means M is the uncle of N?",
+          "options": {
+            "A": "M + K \u00c3\u2014 N",
+            "B": "M + K - N",
+            "C": "M \u00c3\u2014 K + N",
+            "D": "M - K \u00c3\u2014 N"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "BR04",
+          "question": "Introducing a woman, a man said, \"Her mother is the only daughter of my mother-in-law.\" How is the man related to that woman?",
+          "options": {
+            "A": "Father",
+            "B": "Brother",
+            "C": "Maternal Uncle",
+            "D": "Husband"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "BR05",
+          "question": "P is the brother of Q; R is the sister of P; S is the brother of T; T is the daughter of Q. Who is the uncle of S?",
+          "options": {
+            "A": "P",
+            "B": "Q",
+            "C": "R",
+            "D": "T"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "BR06",
+          "question": "A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?",
+          "options": {
+            "A": "Nephew",
+            "B": "Son",
+            "C": "Cousin",
+            "D": "Uncle"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "BR07",
+          "question": "If A is the son of B; B and C are sisters; D is the mother of C; E is the husband of D, then what is the relation between A and E?",
+          "options": {
+            "A": "Son",
+            "B": "Grandson",
+            "C": "Son-in-law",
+            "D": "Nephew"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "BR08",
+          "question": "Pointing to a photograph, Ram said, \"She is the mother of my brother's son's sister.\" How is the lady in the photograph related to Ram?",
+          "options": {
+            "A": "Sister-in-law",
+            "B": "Mother",
+            "C": "Sister",
+            "D": "Wife"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "BR09",
+          "question": "X is Y's brother. Z is Y's mother. W is Z's father. V is W's mother. How is X related to V?",
+          "options": {
+            "A": "Son",
+            "B": "Grandson",
+            "C": "Great-grandson",
+            "D": "Great-great-grandson"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "BR10",
+          "question": "If P * Q means P is the brother of Q; P # Q means P is the mother of Q; P $ Q means P is the daughter of Q, then which of the following means M is the maternal uncle of N?",
+          "options": {
+            "A": "N # P $ M",
+            "B": "N $ P * M",
+            "C": "M * P # N",
+            "D": "M $ P # N"
+          },
+          "correct_option": "C"
+        }
+      ]
+    },
+    {
+      "name": "Directions",
+      "questions": [
+        {
+          "id": "DIR01",
+          "question": "Rahul walks 5 km towards North, then turns left and walks 3 km. Then he turns left again and walks 5 km. How far is he from the starting point?",
+          "options": {
+            "A": "3 km",
+            "B": "5 km",
+            "C": "8 km",
+            "D": "13 km"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DIR02",
+          "question": "A man starts walking east and walks 5 km, then turns south and walks 5 km, then turns east and walks 5 km, then turns north and walks 10 km. How far is he from the starting point?",
+          "options": {
+            "A": "10 km",
+            "B": "15 km",
+            "C": "5\u00e2\u02c6\u01615 km",
+            "D": "10\u00e2\u02c6\u01612 km"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DIR03",
+          "question": "Pointing to a person, Deepak said, \"His only brother is the father of my son's father.\" How is the person related to Deepak?",
+          "options": {
+            "A": "Father",
+            "B": "Uncle",
+            "C": "Grandfather",
+            "D": "Brother"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DIR04",
+          "question": "Anu walks 10 km towards East, then she turns to South and walks 4 km, then she turns to West and walks 5 km, then she turns to North and walks 4 km. How far is she from the starting point?",
+          "options": {
+            "A": "5 km",
+            "B": "10 km",
+            "C": "9 km",
+            "D": "23 km"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DIR05",
+          "question": "A child walks 10 m towards North, then turns right and walks 15 m, then again turns right and walks 10 m, then again turns right and walks 15 m. How far is the child from the starting point?",
+          "options": {
+            "A": "0 m",
+            "B": "5 m",
+            "C": "10 m",
+            "D": "25 m"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DIR06",
+          "question": "A man goes 5 km to the east, then turns north and travels 3 km, then turns west and covers 2 km. Finally, he turns to the south and covers 3 km. Where is he with reference to his starting point?",
+          "options": {
+            "A": "3 km east",
+            "B": "3 km west",
+            "C": "3 km north",
+            "D": "3 km south"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DIR07",
+          "question": "Raj moved 75 m towards South, then turned to his left and moved 25 m, then turned to his left and moved 40 m, then again turned to his left and moved 25 m. How far is he from his starting point?",
+          "options": {
+            "A": "25 m",
+            "B": "35 m",
+            "C": "50 m",
+            "D": "65 m"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "DIR08",
+          "question": "If South-East becomes North, North-East becomes West, and so on, what will South become?",
+          "options": {
+            "A": "North-East",
+            "B": "North-West",
+            "C": "South-East",
+            "D": "South-West"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "DIR09",
+          "question": "A jogger runs 2 km towards East, then 2 km towards North, then 3 km towards West, then 1 km towards South. How far is he from the starting point?",
+          "options": {
+            "A": "\u00e2\u02c6\u01615 km",
+            "B": "2 km",
+            "C": "\u00e2\u02c6\u01612 km",
+            "D": "8 km"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DIR10",
+          "question": "A student walks 30 m towards North, then turns right and walks 40 m, then turns right and walks 30 m, then turns left and walks 50 m. In which direction is he from the starting point?",
+          "options": {
+            "A": "North-East",
+            "B": "South-East",
+            "C": "North-West",
+            "D": "South-West"
+          },
+          "correct_option": "A"
+        }
+      ]
+    },
+    {
+      "name": "Seating Arrangement",
+      "questions": [
+        {
+          "id": "SA01",
+          "question": "Five people A, B, C, D, and E are sitting in a row. A is to the right of B and E is to the left of C. D is between E and C. Who is sitting in the middle?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "SA02",
+          "question": "In a circular arrangement of six people P, Q, R, S, T, and U, P is between U and Q, S is between Q and T, and R is to the right of T. Who is to the left of R?",
+          "options": {
+            "A": "T",
+            "B": "S",
+            "C": "Q",
+            "D": "P"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SA03",
+          "question": "Six persons A, B, C, D, E, and F are standing in a line. E is between F and C. B is between A and C. D is to the right of F. Who is standing second from the left end?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "F"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "SA04",
+          "question": "Eight friends A, B, C, D, E, F, G, and H are sitting around a circular table. D is between B and F. H is to the right of F. E is opposite to D. A is opposite to G, who is to the left of C. B is to the right of C. Who is sitting opposite to B?",
+          "options": {
+            "A": "A",
+            "B": "C",
+            "C": "H",
+            "D": "G"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SA05",
+          "question": "Five students P, Q, R, S, and T are sitting in a row. Q is to the right of T and left of R. P is to the right of R. S is to the left of T. Who is sitting in the middle?",
+          "options": {
+            "A": "P",
+            "B": "Q",
+            "C": "R",
+            "D": "T"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "SA06",
+          "question": "In a circular arrangement, five people A, B, C, D, and E are sitting. A is between E and B, while C is between D and E. Who is sitting opposite to E?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SA07",
+          "question": "Seven people A, B, C, D, E, F, and G are sitting in a row. E is sitting to the left of D but to the right of G. B is sitting to the right of A and to the left of F. C is sitting to the left of G. Who is sitting in the middle?",
+          "options": {
+            "A": "A",
+            "B": "C",
+            "C": "D",
+            "D": "G"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "SA08",
+          "question": "Six friends J, K, L, M, N, and O are sitting around a circular table. J is between K and O. N is between L and M. L is to the immediate right of O. Who is to the immediate left of M?",
+          "options": {
+            "A": "K",
+            "B": "L",
+            "C": "N",
+            "D": "O"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SA09",
+          "question": "Five people P, Q, R, S, and T are sitting in a straight line facing north. R is to the right of S and left of T. Q is to the right of P but is to the left of S. Who is sitting in the middle?",
+          "options": {
+            "A": "P",
+            "B": "Q",
+            "C": "R",
+            "D": "S"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "SA10",
+          "question": "Four people A, B, C, and D are sitting around a square table, one on each side. A is not opposite to B, and C is not opposite to A. D is next to A. Who is opposite to D?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "Cannot be determined"
+          },
+          "correct_option": "B"
+        }
+      ]
+    },
+    {
+      "name": "Syllogisms",
+      "questions": [
+        {
+          "id": "SYL01",
+          "question": "All pens are books. All books are papers. Which conclusion follows logically? I. All pens are papers. II. Some papers are pens.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SYL02",
+          "question": "No cats are dogs. Some dogs are pets. Which conclusion follows? I. No cats are pets. II. Some pets are not cats.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "SYL03",
+          "question": "All flowers are beautiful. Some beautiful things are roses. Which conclusion follows? I. Some flowers are roses. II. Some roses are flowers.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "SYL04",
+          "question": "Some computers are laptops. All laptops are machines. Which conclusion follows? I. Some computers are machines. II. Some machines are computers.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SYL05",
+          "question": "No scientists are fools. All scientists are intelligent. Which conclusion follows? I. No fools are intelligent. II. Some intelligent people are not fools.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "SYL06",
+          "question": "All teachers are intelligent. Some intelligent people are hardworking. Which conclusion follows? I. Some teachers are hardworking. II. All hardworking people are teachers.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "SYL07",
+          "question": "All cars are vehicles. No vehicle is cheap. Which conclusion follows? I. No car is cheap. II. Some cars are not cheap.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SYL08",
+          "question": "Some birds are parrots. All parrots are green. Which conclusion follows? I. Some birds are green. II. All green things are birds.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SYL09",
+          "question": "All doctors are professionals. Some professionals are wealthy. Which conclusion follows? I. Some doctors are wealthy. II. Some wealthy people are doctors.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "SYL10",
+          "question": "No fruits are vegetables. All vegetables are plants. Which conclusion follows? I. Some plants are not fruits. II. No fruits are plants.",
+          "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "A"
+        }
+      ]
+    },
+    {
+      "name": "Data Sufficiency",
+      "questions": [
+        {
+          "id": "DS01",
+          "question": "What is the two-digit number? Statement 1: The number is divisible by 8. Statement 2: The sum of the digits is 10.",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Both statements together are not sufficient"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "DS02",
+          "question": "Is x > y? Statement 1: x = 2z and y = z + 2 Statement 2: z > 0",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Both statements together are not sufficient"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DS03",
+          "question": "What is the value of x? Statement 1: x\u00c2\u00b2 - 5x + 6 = 0 Statement 2: x is a positive integer",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Both statements together are not sufficient"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DS04",
+          "question": "Is triangle ABC isosceles? Statement 1: Angle A = Angle B Statement 2: AB = AC",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Either statement alone is sufficient"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "DS05",
+          "question": "What is the value of n? Statement 1: n\u00c2\u00b2 = 25 Statement 2: n is an integer greater than 0",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Either statement alone is sufficient"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DS06",
+          "question": "Is x divisible by 6? Statement 1: x is divisible by 2 Statement 2: x is divisible by 3",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Both statements together are not sufficient"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DS07",
+          "question": "What is the age of Ram? Statement 1: Ram is 5 years older than Shyam Statement 2: The sum of their ages is 35",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Both statements together are not sufficient"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DS08",
+          "question": "Is pq > 0? Statement 1: p > 0 Statement 2: q < 0",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Both statements together are not sufficient"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DS09",
+          "question": "What is the value of y? Statement 1: y\u00c2\u00b2 - 7y + 12 = 0 Statement 2: y is an even number",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Both statements together are not sufficient"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DS10",
+          "question": "Is x = y? Statement 1: x\u00c2\u00b2 = y\u00c2\u00b2 Statement 2: xy > 0",
+          "options": {
+            "A": "Statement 1 alone is sufficient",
+            "B": "Statement 2 alone is sufficient",
+            "C": "Both statements together are sufficient",
+            "D": "Both statements together are not sufficient"
+          },
+          "correct_option": "C"
+        }
+      ]
+    },
+    {
+      "name": "Data Interpretation",
+      "questions": [
+        {
+          "id": "DI01",
+          "question": "The bar graph shows sales of a company (in million $) from 2015 to 2020: [2015: 50, 2016: 70, 2017: 60, 2018: 90, 2019: 80, 2020: 100]. What was the percentage increase in sales from 2018 to 2020?",
+          "options": {
+            "A": "8%",
+            "B": "10%",
+            "C": "11.11%",
+            "D": "25%"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DI02",
+          "question": "In the same bar graph, what was the average annual sales for the period 2015-2020?",
+          "options": {
+            "A": "70 million $",
+            "B": "75 million $",
+            "C": "80 million $",
+            "D": "85 million $"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "DI03",
+          "question": "The line graph shows temperature (in \u00c2\u00b0C) over a week: [Mon: 25, Tue: 28, Wed: 30, Thu: 27, Fri: 29, Sat: 32, Sun: 26]. What was the average temperature over the weekend (Sat-Sun)?",
+          "options": {
+            "A": "28\u00c2\u00b0C",
+            "B": "29\u00c2\u00b0C",
+            "C": "30\u00c2\u00b0C",
+            "D": "31\u00c2\u00b0C"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "DI04",
+          "question": "In the same line graph, on how many days was the temperature above the weekly average?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DI05",
+          "question": "The table shows the number of students in different courses: [Science: 120, Commerce: 150, Arts: 100, Engineering: 80, Medicine: 50]. What percentage of total students are in Science and Engineering combined?",
+          "options": {
+            "A": "40%",
+            "B": "35%",
+            "C": "32%",
+            "D": "30%"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DI06",
+          "question": "Using the same table, if 30% of Science students and 40% of Commerce students are female, what is the total number of male students in these two courses combined?",
+          "options": {
+            "A": "174",
+            "B": "171",
+            "C": "169",
+            "D": "166"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "DI07",
+          "question": "The pie chart shows the expenditure distribution of a family: [Food: 30%, Housing: 25%, Education: 15%, Transport: 10%, Savings: 10%, Others: 10%]. If the total monthly income is \u00e2\u201a\u00b950,000, how much is spent on education and transport combined?",
+          "options": {
+            "A": "\u00e2\u201a\u00b910,000",
+            "B": "\u00e2\u201a\u00b912,500",
+            "C": "\u00e2\u201a\u00b915,000",
+            "D": "\u00e2\u201a\u00b917,500"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "DI08",
+          "question": "Using the same pie chart, if the family decides to increase their savings by 5% by reducing their food expenditure, what would be the new percentage of expenditure on food?",
+          "options": {
+            "A": "20%",
+            "B": "25%",
+            "C": "27.5%",
+            "D": "35%"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "DI09",
+          "question": "The table shows the runs scored by 5 batsmen in a cricket match: [A: 85, B: 42, C: 118, D: 56, E: 64]. What is the ratio of runs scored by the highest scorer to the lowest scorer?",
+          "options": {
+            "A": "2.8:1",
+            "B": "2.9:1",
+            "C": "2.81:1",
+            "D": "2.05:1"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "DI10",
+          "question": "From the same table, what percentage of total runs were scored by batsmen B and D combined?",
+          "options": {
+            "A": "26.5%",
+            "B": "27.5%",
+            "C": "28.5%",
+            "D": "29.5%"
+          },
+          "correct_option": "A"
+        }
+      ]
+    },
+    {
+      "name": "Venn Diagrams",
+      "questions": [
+        {
+          "id": "VD01",
+          "question": "In a class of 50 students, 30 like mathematics, 25 like science, and 10 like both mathematics and science. How many students like neither mathematics nor science?",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD02",
+          "question": "Out of 60 students, 25 play cricket, 20 play football, 10 play both cricket and football. How many students play at least one game?",
+          "options": {
+            "A": "35",
+            "B": "45",
+            "C": "25",
+            "D": "15"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD03",
+          "question": "In a survey of 100 people, 70 like tea, 60 like coffee, and 40 like both tea and coffee. How many people like tea but not coffee?",
+          "options": {
+            "A": "30",
+            "B": "20",
+            "C": "40",
+            "D": "50"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD04",
+          "question": "Among 120 participants, 75 speak English, 45 speak French, and 15 speak both languages. How many participants speak French but not English?",
+          "options": {
+            "A": "30",
+            "B": "60",
+            "C": "45",
+            "D": "15"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD05",
+          "question": "In a group of 200 people, 150 have traveled to Europe, 120 have traveled to Asia, and 100 have traveled to both Europe and Asia. How many people have traveled to either Europe or Asia?",
+          "options": {
+            "A": "170",
+            "B": "250",
+            "C": "200",
+            "D": "150"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD06",
+          "question": "In a company of 80 employees, 50 know Java, 40 know Python, and 20 know both Java and Python. How many employees know neither Java nor Python?",
+          "options": {
+            "A": "10",
+            "B": "20",
+            "C": "30",
+            "D": "40"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD07",
+          "question": "In a survey of 150 consumers, 100 use product A, 80 use product B, and 60 use both products. How many consumers use product A exclusively?",
+          "options": {
+            "A": "40",
+            "B": "60",
+            "C": "30",
+            "D": "50"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD08",
+          "question": "Among 90 students, 60 study mathematics, 40 study physics, and 25 study both subjects. How many students study physics only?",
+          "options": {
+            "A": "15",
+            "B": "35",
+            "C": "20",
+            "D": "45"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD09",
+          "question": "In a club of 75 members, 45 play tennis, 35 play badminton, and 15 play both sports. How many members play exactly one sport?",
+          "options": {
+            "A": "50",
+            "B": "30",
+            "C": "60",
+            "D": "45"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "VD10",
+          "question": "Out of 120 participants in a survey, 80 watch comedy shows, 70 watch drama shows, and 40 watch both comedy and drama shows. How many participants watch comedy shows exclusively?",
+          "options": {
+            "A": "40",
+            "B": "30",
+            "C": "50",
+            "D": "60"
+          },
+          "correct_option": "A"
+        }
+      ]
+    },
+    {
+      "name": "Analogies",
+      "questions": [
+        {
+          "id": "AN01",
+          "question": "River is to Bank as Road is to:",
+          "options": {
+            "A": "Vehicle",
+            "B": "Pavement",
+            "C": "Traffic",
+            "D": "Journey"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "AN02",
+          "question": "Doctor is to Patient as Teacher is to:",
+          "options": {
+            "A": "School",
+            "B": "Education",
+            "C": "Student",
+            "D": "Classroom"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "AN03",
+          "question": "Fish is to School as Wolf is to:",
+          "options": {
+            "A": "Forest",
+            "B": "Pack",
+            "C": "Hunt",
+            "D": "Howl"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "AN04",
+          "question": "Canvas is to Painter as Paper is to:",
+          "options": {
+            "A": "Book",
+            "B": "Writer",
+            "C": "Pen",
+            "D": "Print"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "AN05",
+          "question": "Light is to Dark as Wet is to:",
+          "options": {
+            "A": "Water",
+            "B": "Rain",
+            "C": "Dry",
+            "D": "Moist"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "AN06",
+          "question": "Architect is to Blueprint as Composer is to:",
+          "options": {
+            "A": "Orchestra",
+            "B": "Music",
+            "C": "Instrument",
+            "D": "Score"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "AN07",
+          "question": "Bee is to Hive as Ant is to:",
+          "options": {
+            "A": "Insect",
+            "B": "Colony",
+            "C": "Queen",
+            "D": "Hill"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "AN08",
+          "question": "Oasis is to Desert as Island is to:",
+          "options": {
+            "A": "Beach",
+            "B": "Ocean",
+            "C": "Coast",
+            "D": "Sand"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "AN09",
+          "question": "Marathon is to Runner as Concert is to:",
+          "options": {
+            "A": "Music",
+            "B": "Audience",
+            "C": "Musician",
+            "D": "Ticket"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "AN10",
+          "question": "Pen is to Write as Scissors is to:",
+          "options": {
+            "A": "Paper",
+            "B": "Cut",
+            "C": "Sharp",
+            "D": "Tool"
+          },
+          "correct_option": "B"
+        }
+      ]
+    },
+    {
+      "name": "Logical Sequence of Words",
+      "questions": [
+        {
+          "id": "LS01",
+          "question": "Arrange the words in a logical sequence: 1. Water 2. Crops 3. Rain 4. Food 5. Clouds",
+          "options": {
+            "A": "5, 3, 1, 2, 4",
+            "B": "3, 1, 2, 4, 5",
+            "C": "5, 3, 2, 1, 4",
+            "D": "1, 5, 3, 2, 4"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS02",
+          "question": "Arrange in logical order: 1. Adult 2. Child 3. Embryo 4. Infant 5. Adolescent",
+          "options": {
+            "A": "3, 4, 2, 5, 1",
+            "B": "3, 2, 4, 5, 1",
+            "C": "2, 3, 4, 1, 5",
+            "D": "4, 3, 2, 5, 1"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS03",
+          "question": "Find the logical sequence: 1. Foundation 2. Plan 3. Building 4. Construction 5. Land purchase",
+          "options": {
+            "A": "5, 2, 1, 4, 3",
+            "B": "2, 5, 1, 4, 3",
+            "C": "5, 2, 4, 1, 3",
+            "D": "2, 1, 5, 4, 3"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS04",
+          "question": "Arrange logically: 1. Write exam 2. Graduate 3. Admission 4. Study 5. Apply for job",
+          "options": {
+            "A": "3, 4, 1, 2, 5",
+            "B": "4, 3, 1, 5, 2",
+            "C": "3, 1, 4, 2, 5",
+            "D": "1, 3, 4, 2, 5"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS05",
+          "question": "Find the correct sequence: 1. Seed 2. Sapling 3. Tree 4. Fruit 5. Flower",
+          "options": {
+            "A": "1, 2, 3, 5, 4",
+            "B": "1, 2, 3, 4, 5",
+            "C": "1, 3, 2, 5, 4",
+            "D": "1, 5, 2, 3, 4"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS06",
+          "question": "Arrange in proper sequence: 1. Printing 2. Manuscript 3. Binding 4. Editing 5. Publishing",
+          "options": {
+            "A": "2, 4, 1, 3, 5",
+            "B": "4, 2, 1, 5, 3",
+            "C": "2, 1, 4, 3, 5",
+            "D": "4, 1, 2, 3, 5"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS07",
+          "question": "Find the logical order: 1. Marriage 2. Birth 3. Education 4. Employment 5. Death",
+          "options": {
+            "A": "2, 3, 4, 1, 5",
+            "B": "2, 3, 1, 4, 5",
+            "C": "2, 1, 3, 4, 5",
+            "D": "3, 2, 1, 4, 5"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS08",
+          "question": "Arrange in sequence: 1. Cooking 2. Serving 3. Eating 4. Purchasing ingredients 5. Cleaning dishes",
+          "options": {
+            "A": "4, 1, 2, 3, 5",
+            "B": "1, 4, 2, 3, 5",
+            "C": "4, 1, 3, 2, 5",
+            "D": "1, 2, 3, 4, 5"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS09",
+          "question": "Find the correct order: 1. Question 2. Curiosity 3. Knowledge 4. Research 5. Answer",
+          "options": {
+            "A": "2, 1, 4, 5, 3",
+            "B": "1, 2, 4, 5, 3",
+            "C": "2, 4, 1, 5, 3",
+            "D": "1, 4, 2, 3, 5"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "LS10",
+          "question": "Arrange in logical sequence: 1. Leaving home 2. Reaching destination 3. Planning journey 4. Packing bags 5. Booking tickets",
+          "options": {
+            "A": "3, 5, 4, 1, 2",
+            "B": "3, 4, 5, 1, 2",
+            "C": "5, 3, 4, 1, 2",
+            "D": "4, 3, 5, 1, 2"
+          },
+          "correct_option": "A"
+        }
+      ]
+    },
+    {
+      "name": "Statements & Conclusions",
+      "questions": [
+        {
+          "id": "SC01",
+          "question": "Statement: All doctors are professionals. Some professionals are wealthy. Conclusion: Some doctors are wealthy.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SC02",
+          "question": "Statement: No birds are mammals. All pigeons are birds. Conclusion: No pigeons are mammals.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SC03",
+          "question": "Statement: Some cats are black. No black animals are dogs. Conclusion: Some cats are not dogs.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SC04",
+          "question": "Statement: All flowers are plants. Some plants need sunlight. Conclusion: All flowers need sunlight.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SC05",
+          "question": "Statement: Only intelligent people pass this exam. Rahul passed this exam. Conclusion: Rahul is intelligent.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SC06",
+          "question": "Statement: All students in this class are hardworking. Some students in this class are athletes. Conclusion: Some athletes are hardworking.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SC07",
+          "question": "Statement: No politicians are honest. Some leaders are politicians. Conclusion: Some leaders are not honest.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SC08",
+          "question": "Statement: All novels are books. Some books are expensive. Conclusion: Some novels are expensive.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "SC09",
+          "question": "Statement: All scientists are researchers. No researcher is uneducated. Conclusion: No scientist is uneducated.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SC10",
+          "question": "Statement: Some metals are conductors. Gold is a metal. Conclusion: Gold is a conductor.",
+          "options": {
+            "A": "Definitely true",
+            "B": "Definitely false",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": "C"
+        }
+      ]
+    },
+    {
+      "name": "Statements & Assumptions",
+      "questions": [
+        {
+          "id": "SA01",
+          "question": "Statement: The government has decided to make computer education compulsory in all schools. Assumption: Most schools have necessary infrastructure for computer education.",
+          "options": {
+            "A": "Assumption is implicit",
+            "B": "Assumption is not implicit",
+            "C": "Data insufficient",
+            "D": "Neither assumed nor denied"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SA02",
+          "question": "Statement: The advertisement says, 'Use our product and save money'. Assumption: People want to save money.",
+          "options": {
+            "A": "Assumption is implicit",
+            "B": "Assumption is not implicit",
+            "C": "Data insufficient",
+            "D": "Cannot be determined"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SA03",
+          "question": "Statement: The company decided to hire only experienced candidates. Assumption: Experience leads to better job performance.",
+          "options": {
+            "A": "Assumption is not implicit",
+            "B": "Assumption is implicit",
+            "C": "No clear relation",
+            "D": "Data insufficient"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "SA04",
+          "question": "Statement: The teacher asked students to complete the assignment by tomorrow. Assumption: Students have enough time to complete the assignment.",
+          "options": {
+            "A": "Assumption is not implicit",
+            "B": "Assumption is implicit",
+            "C": "Cannot say",
+            "D": "Both assumption and statement are unrelated"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "SA05",
+          "question": "Statement: The doctor advised the patient to avoid fatty foods. Assumption: Fatty foods are harmful for the patient's health condition.",
+          "options": {
+            "A": "Assumption is implicit",
+            "B": "Assumption is not implicit",
+            "C": "No clear relation",
+            "D": "Data insufficient"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SA06",
+          "question": "Statement: 'Study hard to succeed in life' - said the professor to students. Assumption: Academic success is related to success in life.",
+          "options": {
+            "A": "Assumption is not implicit",
+            "B": "Assumption is implicit",
+            "C": "No relation between the two",
+            "D": "Cannot say"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "SA07",
+          "question": "Statement: The notice stated, 'Bring your identity proof for verification'. Assumption: Some people may try to enter without proper identity.",
+          "options": {
+            "A": "Assumption is implicit",
+            "B": "Assumption is not implicit",
+            "C": "Data insufficient",
+            "D": "Neither assumed nor denied"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "SA08",
+          "question": "Statement: The manager said, 'We need to increase our marketing efforts'. Assumption: Current marketing efforts are inadequate.",
+          "options": {
+            "A": "Assumption is not implicit",
+            "B": "Assumption is implicit",
+            "C": "No relation",
+            "D": "Cannot be determined"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "SA09",
+          "question": "Statement: The city council decided to install traffic lights at the intersection. Assumption: Traffic lights will help in managing the traffic flow better.",
+          "options": {
+            "A": "Assumption is not implicit",
+            "B": "Assumption is implicit",
+            "C": "Cannot say",
+            "D": "Data insufficient"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "SA10",
+          "question": "Statement: 'Buy one, get one free' - a shop advertisement. Assumption: This offer will attract more customers.",
+          "options": {
+            "A": "Assumption is not implicit",
+            "B": "Assumption is implicit",
+            "C": "No clear relation",
+            "D": "Cannot say"
+          },
+          "correct_option": "B"
+        }
+      ]
+    },
+    {
+      "name": "Cause and Effect",
+      "questions": [
+        {
+          "id": "CE01",
+          "question": "Statement: The river overflowed its banks after the heavy rainfall. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Heavy rainfall is the cause, river overflow is the effect",
+            "B": "River overflow is the cause, heavy rainfall is the effect",
+            "C": "Both are effects of a different cause",
+            "D": "Neither is related as cause and effect"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "CE02",
+          "question": "Statement: The company's profits increased after implementing the new marketing strategy. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Profit increase is the cause, marketing strategy is the effect",
+            "B": "Marketing strategy is the cause, profit increase is the effect",
+            "C": "Both are independent events",
+            "D": "Both are effects of economic growth"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "CE03",
+          "question": "Statement: The room temperature dropped after the air conditioner was turned on. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Temperature drop is the cause, air conditioner being turned on is the effect",
+            "B": "Both are effects of another cause",
+            "C": "Air conditioner being turned on is the cause, temperature drop is the effect",
+            "D": "Neither is related as cause and effect"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "CE04",
+          "question": "Statement: Students performed better in the exam after attending extra classes. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Better performance is the cause, extra classes are the effect",
+            "B": "Extra classes are the cause, better performance is the effect",
+            "C": "Both are effects of students' determination",
+            "D": "No cause-effect relationship exists"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "CE05",
+          "question": "Statement: The roads were jammed as many office-goers left early due to the weather forecast. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Weather forecast is the cause, road jam is the effect",
+            "B": "Road jam is the cause, early departure is the effect",
+            "C": "Early departure is the cause, road jam is the effect",
+            "D": "Weather forecast and road jam are independent events"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "CE06",
+          "question": "Statement: The price of vegetables increased due to insufficient rainfall. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Price increase is the cause, insufficient rainfall is the effect",
+            "B": "Insufficient rainfall is the cause, price increase is the effect",
+            "C": "Both are effects of climate change",
+            "D": "Neither is related"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "CE07",
+          "question": "Statement: Many people fell ill after consuming food at the festival. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Festival is the cause, illness is the effect",
+            "B": "Food consumption is the cause, illness is the effect",
+            "C": "Illness is the cause, food consumption is the effect",
+            "D": "Both are independent events"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "CE08",
+          "question": "Statement: The plants died as they were not watered for weeks. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Plant death is the cause, lack of watering is the effect",
+            "B": "Both are effects of neglect",
+            "C": "Lack of watering is the cause, plant death is the effect",
+            "D": "Neither is related as cause and effect"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "CE09",
+          "question": "Statement: The sales of air conditioners increased during the summer season. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Increased sales is the cause, summer season is the effect",
+            "B": "Summer season is the cause, increased sales is the effect",
+            "C": "Both are effects of global warming",
+            "D": "No cause-effect relationship exists"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "CE10",
+          "question": "Statement: The child cried after falling down from the bicycle. Which is the cause and which is the effect?",
+          "options": {
+            "A": "Crying is the cause, falling down is the effect",
+            "B": "Both are independent events",
+            "C": "Falling down is the cause, crying is the effect",
+            "D": "Neither is related as cause and effect"
+          },
+          "correct_option": "C"
+        }
+      ]
+    },
+    {
+      "name": "Puzzle Solving",
+      "questions": [
+        {
+          "id": "PS01",
+          "question": "Five friends A, B, C, D, and E are sitting in a row. A is to the right of B and E is to the left of C and right of A. If B is to the right of D, then who is sitting in the middle?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "E"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "PS02",
+          "question": "If FRIEND is coded as HUMJTK, how is CANDLE coded?",
+          "options": {
+            "A": "EDRIHW",
+            "B": "DCQJNG",
+            "C": "ESJFME",
+            "D": "FYOBQM"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "PS03",
+          "question": "In a certain code, PRINTER is written as NPGRVCP. How is COMPUTER written in that code?",
+          "options": {
+            "A": "AMKNSRCP",
+            "B": "AMONUTGS",
+            "C": "DNLQVUGS",
+            "D": "EQNRWVGT"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "PS04",
+          "question": "Six people P, Q, R, S, T, and U are sitting in a circle. P is between U and R; S is between Q and T; Q is to the immediate right of P. Who is sitting opposite to P?",
+          "options": {
+            "A": "Q",
+            "B": "S",
+            "C": "T",
+            "D": "U"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "PS05",
+          "question": "If South-East becomes North, North-East becomes West, and so on, what will South become?",
+          "options": {
+            "A": "North-East",
+            "B": "North-West",
+            "C": "South-West",
+            "D": "East"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "PS06",
+          "question": "In a row of children, Ravi is 7th from the left and Amit is 12th from the right. If they interchange their positions, Ravi becomes 22nd from the left. How many children are there in the row?",
+          "options": {
+            "A": "32",
+            "B": "33",
+            "C": "34",
+            "D": "35"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "PS07",
+          "question": "If 'BASIC' is coded as '25-1-19-9-3', then how will 'LEADERSHIP' be coded?",
+          "options": {
+            "A": "12-5-1-4-5-18-19-8-9-16",
+            "B": "12-5-1-4-5-19-8-9-16",
+            "C": "12-5-1-4-5-20-19-8-9-16",
+            "D": "12-5-1-4-5-18-19-8-16"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "PS08",
+          "question": "Four cars - Audi, BMW, Chevrolet, and Dodge are parked in a row. BMW is parked to the right of Chevrolet. Audi is parked to the left of Dodge but to the right of BMW. Which car is parked at the extreme left?",
+          "options": {
+            "A": "Audi",
+            "B": "BMW",
+            "C": "Chevrolet",
+            "D": "Dodge"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "PS09",
+          "question": "In a certain language, TRIANGLE is written as SQHZMFKD. How is RECTANGLE written in that code?",
+          "options": {
+            "A": "QDCQZMFKD",
+            "B": "QDFSZMFKD",
+            "C": "QDBSZMFKD",
+            "D": "QDBFZMFKD"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "PS10",
+          "question": "Five books A, B, C, D, and E are placed on a shelf. A is to the right of B and to the left of C. D is to the right of C and E is to the left of B. Which book is at the extreme right?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+          },
+          "correct_option": "D"
+        }
+      ]
+    }
+  ]
+}

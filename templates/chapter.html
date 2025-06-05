@@ -1,0 +1,147 @@
+{% extends "base.html" %}
+
+{% block title %}{{ chapter_name }} - Assessment System{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="d-flex align-items-center mb-4">
+            <a href="{{ url_for('subject_page', subject_name=subject_name) }}" class="btn btn-outline-secondary me-3">
+                <i class="fas fa-arrow-left"></i> Back to {{ subject_name.title() }}
+            </a>
+            <h2 class="mb-0">{{ chapter_name }}</h2>
+        </div>
+    </div>
+</div>
+
+<!-- Learning Options -->
+<div class="row">
+    <div class="col-lg-4 mb-4">
+        <div class="card border-0 shadow-sm h-100 learning-option">
+            <div class="card-body text-center">
+                <div class="learning-icon mb-3">
+                    <i class="fas fa-book-reader fa-4x text-primary"></i>
+                </div>
+                <h5 class="card-title">Basic Concepts</h5>
+                <p class="card-text text-muted">
+                    Start with fundamental concepts and simple examples to build your foundation.
+                </p>
+                <ul class="list-unstyled text-start">
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Theory and concepts</li>
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Step-by-step examples</li>
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Basic problem solving</li>
+                </ul>
+                <a href="{{ url_for('practice_page', subject_name=subject_name, chapter_name=chapter_name, level='basic') }}" class="btn btn-primary btn-lg w-100 mt-3">
+                    <i class="fas fa-play"></i> Start Basic
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-4 mb-4">
+        <div class="card border-0 shadow-sm h-100 learning-option">
+            <div class="card-body text-center">
+                <div class="learning-icon mb-3">
+                    <i class="fas fa-graduation-cap fa-4x text-warning"></i>
+                </div>
+                <h5 class="card-title">Advanced Topics</h5>
+                <p class="card-text text-muted">
+                    Dive deeper into complex problems and advanced techniques.
+                </p>
+                <ul class="list-unstyled text-start">
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Complex problem types</li>
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Advanced strategies</li>
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Time-saving techniques</li>
+                </ul>
+                <a href="{{ url_for('practice_page', subject_name=subject_name, chapter_name=chapter_name, level='advanced') }}" class="btn btn-warning btn-lg w-100 mt-3">
+                    <i class="fas fa-rocket"></i> Start Advanced
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-4 mb-4">
+        <div class="card border-0 shadow-sm h-100 learning-option">
+            <div class="card-body text-center">
+                <div class="learning-icon mb-3">
+                    <i class="fas fa-test fa-4x text-success"></i>
+                </div>
+                <h5 class="card-title">Practice Test</h5>
+                <p class="card-text text-muted">
+                    Test your knowledge with timed practice questions and detailed solutions.
+                </p>
+                <ul class="list-unstyled text-start">
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Timed practice questions</li>
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Detailed explanations</li>
+                    <li><i class="fas fa-check-circle text-success me-2"></i>Performance analysis</li>
+                </ul>
+                <a href="{{ url_for('practice_page', subject_name=subject_name, chapter_name=chapter_name, level='test') }}" class="btn btn-success btn-lg w-100 mt-3">
+                    <i class="fas fa-stopwatch"></i> Start Practice Test
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Progress Tracking -->
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card border-0 shadow-sm">
+            <div class="card-header bg-light">
+                <h5 class="mb-0">
+                    <i class="fas fa-chart-line"></i>
+                    Your Progress in {{ chapter_name }}
+                </h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="progress-section">
+                            <div class="progress-header">
+                                <span class="progress-title">Basic</span>
+                                <span class="progress-percentage">0%</span>
+                            </div>
+                            <div class="progress mb-2">
+                                <div class="progress-bar bg-primary" role="progressbar" style="width: 0%"></div>
+                            </div>
+                            <small class="text-muted">0/10 lessons completed</small>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="progress-section">
+                            <div class="progress-header">
+                                <span class="progress-title">Advanced</span>
+                                <span class="progress-percentage">0%</span>
+                            </div>
+                            <div class="progress mb-2">
+                                <div class="progress-bar bg-warning" role="progressbar" style="width: 0%"></div>
+                            </div>
+                            <small class="text-muted">0/8 lessons completed</small>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="progress-section">
+                            <div class="progress-header">
+                                <span class="progress-title">Practice</span>
+                                <span class="progress-percentage">0%</span>
+                            </div>
+                            <div class="progress mb-2">
+                                <div class="progress-bar bg-success" role="progressbar" style="width: 0%"></div>
+                            </div>
+                            <small class="text-muted">0/5 tests completed</small>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-4">
+                    <h6>Recent Activity</h6>
+                    <div class="alert alert-light">
+                        <i class="fas fa-info-circle text-muted"></i>
+                        No recent activity in this chapter. Start learning to track your progress!
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

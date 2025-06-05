@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container mt-4">
+
+  <div class="mb-3">
+    <a href="{{ url_for('dashboard') }}" class="btn btn-secondary">
+      ← Back to Dashboard
+    </a>
+  </div>
+
+  <h3 class="mb-4">Mock Test Menu</h3>
+
+  <!-- Full-Length Mock -->
+  <div class="card mb-3 shadow-sm" onclick="startMockTest('FULLMOCK01')">
+    <div class="card-body">
+      <h5 class="card-title">📝 Full-Length Mock Test</h5>
+      <p class="card-text text-muted">Includes all sections | 190 minutes</p>
+    </div>
+  </div>
+
+  <!-- Sectional Mocks -->
+  <h5 class="mt-4 mb-3">Sectional Tests</h5>
+
+  <div class="card mb-2 shadow-sm" onclick="startMockTest('SECTIONAL_VERBAL_01')">
+    <div class="card-body">
+      <h6 class="card-title">📚 Verbal Section</h6>
+      <p class="card-text text-muted">50 questions | 50 minutes</p>
+    </div>
+  </div>
+
+  <div class="card mb-2 shadow-sm" onclick="startMockTest('SECTIONAL_QUANT_01')">
+    <div class="card-body">
+      <h6 class="card-title">📐 Quantitative Section</h6>
+      <p class="card-text text-muted">40 questions | 50 minutes</p>
+    </div>
+  </div>
+
+  <div class="card mb-2 shadow-sm" onclick="startMockTest('SECTIONAL_REASONING_01')">
+    <div class="card-body">
+      <h6 class="card-title">🧠 Reasoning Section</h6>
+      <p class="card-text text-muted">40 questions | 50 minutes</p>
+    </div>
+  </div>
+
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  function startMockTest(testId) {
+    // This route is tied to the new minimalist system
+    window.location.href = `/mock_test?testId=${testId}`;
+  }
+</script>
+{% endblock %}

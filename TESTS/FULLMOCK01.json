@@ -1,0 +1,613 @@
+{
+  "test_id": "FULLMOCK01",
+  "title": "Full Length Mock Test",
+  "sections": [
+    {
+      "title": "Section 1",
+      "duration_minutes": 75,
+      "questions": [
+        {
+          "id": "VERB01",
+          "question": "Choose the correct synonym for 'abundant'.",
+          "options": {
+            "A": "Rare",
+            "B": "Scarce",
+            "C": "Plentiful",
+            "D": "Minimal"
+          },
+          "correct_option": "C",
+          "topic": "Synonyms",
+          "section": "Verbal"
+        },
+        {
+          "id": "VERB02",
+          "question": "Choose the correct antonym for 'brave'.",
+          "options": {
+            "A": "Courageous",
+            "B": "Bold",
+            "C": "Timid",
+            "D": "Fearless"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms",
+          "section": "Verbal"
+        },
+        {
+          "id": "VERB03",
+          "question": "Complete the analogy: Doctor is to Hospital as Teacher is to ___.",
+          "options": {
+            "A": "Book",
+            "B": "School",
+            "C": "Student",
+            "D": "Pen"
+          },
+          "correct_option": "B",
+          "topic": "Analogies",
+          "section": "Verbal"
+        },
+        {
+          "id": "VERB04",
+          "question": "Choose the word that best fits the blank: She ___ a new song.",
+          "options": {
+            "A": "sang",
+            "B": "sing",
+            "C": "sung",
+            "D": "sings"
+          },
+          "correct_option": "A",
+          "topic": "Sentence Completion",
+          "section": "Verbal"
+        },
+        {
+          "id": "VERB05",
+          "question": "Identify the misspelled word.",
+          "options": {
+            "A": "Believe",
+            "B": "Recieve",
+            "C": "Achieve",
+            "D": "Perceive"
+          },
+          "correct_option": "B",
+          "topic": "Spelling",
+          "section": "Verbal"
+        },
+        {
+          "id": "VERB06",
+          "question": "Choose the correct synonym for 'ephemeral'.",
+          "options": {"A": "Eternal", "B": "Temporary", "C": "Lasting", "D": "Permanent"},
+          "correct_option": "B", "topic": "Synonyms", "section": "Verbal"
+        },
+        {
+          "id": "VERB07",
+          "question": "Choose the correct antonym for 'optimistic'.",
+          "options": {"A": "Hopeful", "B": "Joyful", "C": "Pessimistic", "D": "Positive"},
+          "correct_option": "C", "topic": "Antonyms", "section": "Verbal"
+        },
+        {
+          "id": "VERB08",
+          "question": "Complete the analogy: Leaf is to Tree as Petal is to ___.",
+          "options": {"A": "Flower", "B": "Stem", "C": "Root", "D": "Garden"},
+          "correct_option": "A", "topic": "Analogies", "section": "Verbal"
+        },
+        {
+          "id": "VERB09",
+          "question": "Choose the word that best fits the blank: The cat jumped ___ the table.",
+          "options": {"A": "on", "B": "in", "C": "at", "D": "under"},
+          "correct_option": "A", "topic": "Prepositions", "section": "Verbal"
+        },
+        {
+          "id": "VERB10",
+          "question": "Identify the part of speech for 'quickly' in 'He ran quickly'.",
+          "options": {"A": "Noun", "B": "Verb", "C": "Adjective", "D": "Adverb"},
+          "correct_option": "D", "topic": "Parts of Speech", "section": "Verbal"
+        },
+        {
+          "id": "VERB11",
+          "question": "Choose the correct synonym for 'ubiquitous'.",
+          "options": {"A": "Rare", "B": "Scarce", "C": "Omnipresent", "D": "Limited"},
+          "correct_option": "C", "topic": "Synonyms", "section": "Verbal"
+        },
+        {
+          "id": "VERB12",
+          "question": "Choose the correct antonym for 'common'.",
+          "options": {"A": "Usual", "B": "Frequent", "C": "Rare", "D": "Ordinary"},
+          "correct_option": "C", "topic": "Antonyms", "section": "Verbal"
+        },
+        {
+          "id": "VERB13",
+          "question": "Complete the analogy: Author is to Book as Composer is to ___.",
+          "options": {"A": "Music", "B": "Song", "C": "Symphony", "D": "Instrument"},
+          "correct_option": "C", "topic": "Analogies", "section": "Verbal"
+        },
+        {
+          "id": "VERB14",
+          "question": "Choose the correct form of the verb: They ___ to the park yesterday.",
+          "options": {"A": "go", "B": "goes", "C": "went", "D": "gone"},
+          "correct_option": "C", "topic": "Verb Tenses", "section": "Verbal"
+        },
+        {
+          "id": "VERB15",
+          "question": "Find the odd one out.",
+          "options": {"A": "Apple", "B": "Banana", "C": "Carrot", "D": "Orange"},
+          "correct_option": "C", "topic": "Classification", "section": "Verbal"
+        },
+        {
+          "id": "VERB16",
+          "question": "Choose the correct meaning of the idiom 'kick the bucket'.",
+          "options": {"A": "To get angry", "B": "To die", "C": "To start a project", "D": "To spill something"},
+          "correct_option": "B", "topic": "Idioms and Phrases", "section": "Verbal"
+        },
+        {
+          "id": "VERB17",
+          "question": "Choose the correct synonym for 'lucid'.",
+          "options": {"A": "Unclear", "B": "Vague", "C": "Clear", "D": "Confusing"},
+          "correct_option": "C", "topic": "Synonyms", "section": "Verbal"
+        },
+        {
+          "id": "VERB18",
+          "question": "Choose the correct antonym for 'fragile'.",
+          "options": {"A": "Delicate", "B": "Weak", "C": "Robust", "D": "Brittle"},
+          "correct_option": "C", "topic": "Antonyms", "section": "Verbal"
+        },
+        {
+          "id": "VERB19",
+          "question": "Select the correct passive voice for 'She wrote a letter.'",
+          "options": {"A": "A letter was written by her.", "B": "A letter is wrote by her.", "C": "She was writing a letter.", "D": "A letter wrote she."},
+          "correct_option": "A", "topic": "Active/Passive Voice", "section": "Verbal"
+        },
+        {
+          "id": "VERB20",
+          "question": "What is the plural of 'mouse'?",
+          "options": {"A": "Mouses", "B": "Mice", "C": "Mouse", "D": "Mooses"},
+          "correct_option": "B", "topic": "Nouns (Plural)", "section": "Verbal"
+        },
+        {
+          "id": "VERB21",
+          "question": "Choose the correctly punctuated sentence.",
+          "options": {"A": "Lets eat Grandma.", "B": "Let's eat, Grandma.", "C": "Lets eat, Grandma!", "D": "Lets eat Grandma?"},
+          "correct_option": "B", "topic": "Punctuation", "section": "Verbal"
+        },
+        {
+          "id": "VERB22",
+          "question": "Synonym for 'benevolent'.",
+          "options": {"A": "Malevolent", "B": "Kind", "C": "Cruel", "D": "Selfish"},
+          "correct_option": "B", "topic": "Synonyms", "section": "Verbal"
+        },
+        {
+          "id": "VERB23",
+          "question": "Antonym for 'ancient'.",
+          "options": {"A": "Old", "B": "Modern", "C": "Aged", "D": "Historic"},
+          "correct_option": "B", "topic": "Antonyms", "section": "Verbal"
+        },
+        {
+          "id": "VERB24",
+          "question": "A person who studies stars and planets is an ___.",
+          "options": {"A": "Astrologer", "B": "Astronomer", "C": "Geologist", "D": "Biologist"},
+          "correct_option": "B", "topic": "One Word Substitution", "section": "Verbal"
+        },
+        {
+          "id": "VERB25",
+          "question": "Choose the sentence with correct subject-verb agreement.",
+          "options": {"A": "The dogs barks loudly.", "B": "The dog bark loudly.", "C": "The dogs bark loudly.", "D": "The dog barks loud."},
+          "correct_option": "C", "topic": "Subject-Verb Agreement", "section": "Verbal"
+        },
+        {
+          "id": "QUANT01",
+          "question": "What is the HCF of 60 and 72?",
+          "options": {
+            "A": "6",
+            "B": "12",
+            "C": "18",
+            "D": "24"
+          },
+          "correct_option": "B",
+          "topic": "Number System",
+          "section": "Quantitative"
+        },
+        {
+          "id": "QUANT02",
+          "question": "If a car travels 150 km in 3 hours, what is its speed?",
+          "options": {
+            "A": "40 km/hr",
+            "B": "50 km/hr",
+            "C": "60 km/hr",
+            "D": "75 km/hr"
+          },
+          "correct_option": "B",
+          "topic": "Speed, Distance, Time",
+          "section": "Quantitative"
+        },
+        {
+          "id": "QUANT03",
+          "question": "What is 20% of 500?",
+          "options": {
+            "A": "50",
+            "B": "100",
+            "C": "150",
+            "D": "200"
+          },
+          "correct_option": "B",
+          "topic": "Percentage",
+          "section": "Quantitative"
+        },
+        
+        {
+          "id": "QUANT04",
+          "question": "Solve for x: 2x + 5 = 15",
+          "options": {"A": "3", "B": "4", "C": "5", "D": "6"},
+          "correct_option": "C", "topic": "Algebra", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT05",
+          "question": "What is the area of a square with side 5 cm?",
+          "options": {"A": "20 sq cm", "B": "25 sq cm", "C": "30 sq cm", "D": "10 sq cm"},
+          "correct_option": "B", "topic": "Geometry", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT06",
+          "question": "Find the average of 10, 20, and 30.",
+          "options": {"A": "15", "B": "20", "C": "25", "D": "60"},
+          "correct_option": "B", "topic": "Average", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT07",
+          "question": "If the cost price of an item is $100 and selling price is $120, what is the profit percentage?",
+          "options": {"A": "10%", "B": "15%", "C": "20%", "D": "25%"},
+          "correct_option": "C", "topic": "Profit and Loss", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT08",
+          "question": "What is the LCM of 12 and 18?",
+          "options": {"A": "24", "B": "36", "C": "48", "D": "72"},
+          "correct_option": "B", "topic": "Number System", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT09",
+          "question": "If 3 apples cost $6, how much do 7 apples cost?",
+          "options": {"A": "$10", "B": "$12", "C": "$14", "D": "$16"},
+          "correct_option": "C", "topic": "Ratio and Proportion", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT10",
+          "question": "The sum of angles in a triangle is?",
+          "options": {"A": "90 degrees", "B": "180 degrees", "C": "270 degrees", "D": "360 degrees"},
+          "correct_option": "B", "topic": "Geometry", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT11",
+          "question": "Calculate the simple interest on $1000 at 5% per annum for 2 years.",
+          "options": {"A": "$50", "B": "$100", "C": "$150", "D": "$200"},
+          "correct_option": "B", "topic": "Simple Interest", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT12",
+          "question": "What is $\\sqrt{144}$?",
+          "options": {"A": "10", "B": "11", "C": "12", "D": "13"},
+          "correct_option": "C", "topic": "Square Roots", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT13",
+          "question": "A train 100m long is running at a speed of 36 km/hr. How long will it take to pass a pole?",
+          "options": {"A": "5 seconds", "B": "10 seconds", "C": "15 seconds", "D": "20 seconds"},
+          "correct_option": "B", "topic": "Time, Speed, Distance", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT14",
+          "question": "If $a:b = 2:3$ and $b:c = 3:4$, what is $a:c$?",
+          "options": {"A": "1:2", "B": "2:4", "C": "1:3", "D": "2:3"},
+          "correct_option": "A", "topic": "Ratio and Proportion", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT15",
+          "question": "The perimeter of a rectangle is 30 cm. If its length is 10 cm, what is its width?",
+          "options": {"A": "5 cm", "B": "7 cm", "C": "10 cm", "D": "15 cm"},
+          "correct_option": "A", "topic": "Geometry", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT16",
+          "question": "What is $3^4$?",
+          "options": {"A": "12", "B": "27", "C": "64", "D": "81"},
+          "correct_option": "D", "topic": "Exponents", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT17",
+          "question": "A can do a work in 10 days and B can do it in 15 days. In how many days can they do it together?",
+          "options": {"A": "5 days", "B": "6 days", "C": "7 days", "D": "8 days"},
+          "correct_option": "B", "topic": "Time and Work", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT18",
+          "question": "Convert 0.25 into a fraction.",
+          "options": {"A": "1/2", "B": "1/3", "C": "1/4", "D": "1/5"},
+          "correct_option": "C", "topic": "Fractions and Decimals", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT19",
+          "question": "The price of a shirt increased from $50 to $60. What is the percentage increase?",
+          "options": {"A": "10%", "B": "15%", "C": "20%", "D": "25%"},
+          "correct_option": "C", "topic": "Percentage", "section": "Quantitative"
+        },
+        {
+          "id": "QUANT20",
+          "question": "What is the probability of getting a head when a coin is tossed?",
+          "options": {"A": "0", "B": "1/2", "C": "1", "D": "1/4"},
+          "correct_option": "B", "topic": "Probability", "section": "Quantitative"
+        },
+        {
+          "id": "REAS01",
+          "question": "Find the next term in the series: 2, 4, 8, 16, ?",
+          "options": {
+            "A": "24",
+            "B": "30",
+            "C": "32",
+            "D": "34"
+          },
+          "correct_option": "C",
+          "topic": "Series Completion",
+          "section": "Reasoning"
+        },
+        {
+          "id": "REAS02",
+          "question": "If 'CAT' is coded as 'DBU', how is 'DOG' coded?",
+          "options": {
+            "A": "EPH",
+            "B": "FPI",
+            "C": "EPG",
+            "D": "FOH"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding",
+          "section": "Reasoning"
+        },
+        {
+          "id": "REAS03",
+          "question": "Which word does not belong with the others?",
+          "options": {
+            "A": "Apple",
+            "B": "Mango",
+            "C": "Potato",
+            "D": "Orange"
+          },
+          "correct_option": "C",
+          "topic": "Odd One Out",
+          "section": "Reasoning"
+        },
+       
+        {
+          "id": "REAS04",
+          "question": "Find the missing number: 3, 6, 9, 12, ?",
+          "options": {"A": "14", "B": "15", "C": "16", "D": "18"},
+          "correct_option": "B", "topic": "Number Series", "section": "Reasoning"
+        },
+        {
+          "id": "REAS05",
+          "question": "A is B's sister. C is B's mother. D is C's father. How is D related to A?",
+          "options": {"A": "Father", "B": "Grandfather", "C": "Uncle", "D": "Brother"},
+          "correct_option": "B", "topic": "Blood Relations", "section": "Reasoning"
+        },
+        {
+          "id": "REAS06",
+          "question": "If 'Chair' is to 'Furniture', then 'Shirt' is to ___.",
+          "options": {"A": "Cloth", "B": "Garment", "C": "Tailor", "D": "Wear"},
+          "correct_option": "B", "topic": "Analogies", "section": "Reasoning"
+        },
+        {
+          "id": "REAS07",
+          "question": "Find the next term in the series: A, C, E, G, ?",
+          "options": {"A": "H", "B": "I", "C": "J", "D": "K"},
+          "correct_option": "B", "topic": "Alphabet Series", "section": "Reasoning"
+        },
+        {
+          "id": "REAS08",
+          "question": "Pointing to a photograph, a man said, 'I have no brother or sister but that man's father is my father's son.' Whose photograph was it?",
+          "options": {"A": "His own", "B": "His son's", "C": "His father's", "D": "His nephew's"},
+          "correct_option": "B", "topic": "Blood Relations", "section": "Reasoning"
+        },
+        {
+          "id": "REAS09",
+          "question": "Which figure completes the pattern? (Visual question - options are images)",
+          "options": {"A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D"},
+          "correct_option": "A", "topic": "Pattern Completion", "section": "Reasoning"
+        },
+        {
+          "id": "REAS10",
+          "question": "If 'WATER' is written as 'XBUFS', then 'FIRE' is written as?",
+          "options": {"A": "GJSF", "B": "GJRE", "C": "FJSF", "D": "HJRE"},
+          "correct_option": "B", "topic": "Coding-Decoding", "section": "Reasoning"
+        },
+        {
+          "id": "REAS11",
+          "question": "Choose the odd one out: Car, Bus, Bicycle, Boat.",
+          "options": {"A": "Car", "B": "Bus", "C": "Bicycle", "D": "Boat"},
+          "correct_option": "D", "topic": "Classification", "section": "Reasoning"
+        },
+        {
+          "id": "REAS12",
+          "question": "A man walks 5 km East, then 3 km North. How far is he from his starting point?",
+          "options": {"A": "$\\sqrt{30}$ km", "B": "$\\sqrt{34}$ km", "C": "8 km", "D": "2 km"},
+          "correct_option": "B", "topic": "Direction Sense", "section": "Reasoning"
+        },
+        {
+          "id": "REAS13",
+          "question": "Find the next term: 1, 1, 2, 3, 5, 8, ?",
+          "options": {"A": "11", "B": "12", "C": "13", "D": "14"},
+          "correct_option": "C", "topic": "Number Series (Fibonacci)", "section": "Reasoning"
+        },
+        {
+          "id": "REAS14",
+          "question": "If '+' means 'x', '-' means '+', 'x' means '/', and '/' means '-', what is the value of 10 + 2 x 5 - 3 / 1?",
+          "options": {"A": "10", "B": "12", "C": "15", "D": "17"},
+          "correct_option": "D", "topic": "Mathematical Operations", "section": "Reasoning"
+        },
+        {
+          "id": "REAS15",
+          "question": "Arrange the words in a meaningful order: 1. Key 2. Door 3. Lock 4. Room 5. Switch on",
+          "options": {"A": "1,3,2,4,5", "B": "5,4,2,3,1", "C": "1,2,3,4,5", "D": "4,2,1,3,5"},
+          "correct_option": "A", "topic": "Logical Sequence", "section": "Reasoning"
+        },
+        {
+          "id": "REAS16",
+          "question": "Find the mirror image of 'WATER'. (Assuming standard mirror)",
+          "options": {"A": "ЯƎTAW", "B": "WATEЯ", "C": "RET∀W", "D": "RƎTAW"},
+          "correct_option": "A", "topic": "Mirror Images", "section": "Reasoning"
+        },
+        {
+          "id": "REAS17",
+          "question": "How many triangles are there in the given figure? (Visual question - figure needed)",
+          "options": {"A": "5", "B": "8", "C": "10", "D": "12"},
+          "correct_option": "C", "topic": "Counting Figures", "section": "Reasoning"
+        },
+        {
+          "id": "REAS18",
+          "question": "Consider the statement: All apples are fruits. Some fruits are red. Conclusion: Some apples are red.",
+          "options": {"A": "True", "B": "False", "C": "Cannot Say", "D": "Irrelevant"},
+          "correct_option": "C", "topic": "Syllogism", "section": "Reasoning"
+        },
+        {
+          "id": "REAS19",
+          "question": "Find the next letter pair: AZ, BY, CX, ?",
+          "options": {"A": "DU", "B": "DV", "C": "DW", "D": "EW"},
+          "correct_option": "C", "topic": "Letter Series", "section": "Reasoning"
+        },
+        {
+          "id": "REAS20",
+          "question": "If today is Monday, what will be the day after 61 days?",
+          "options": {"A": "Wednesday", "B": "Saturday", "C": "Sunday", "D": "Tuesday"},
+          "correct_option": "B", "topic": "Calendar", "section": "Reasoning"
+        }
+      ]
+    },
+    {
+      "title": "Section 2",
+      "duration_minutes": 115,
+      "questions": [
+        {
+          "id": "MIXED01",
+          "question": "What is the synonym of 'transient'?",
+          "options": {
+            "A": "Eternal",
+            "B": "Fleeting",
+            "C": "Permanent",
+            "D": "Lasting"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms",
+          "section": "Verbal"
+        },
+        {
+          "id": "MIXED02",
+          "question": "Solve: 5x - 3 = 2x + 6",
+          "options": {
+            "A": "x = 1",
+            "B": "x = 2",
+            "C": "x = 3",
+            "D": "x = 9/3" 
+          },
+          "correct_option": "C",
+          "topic": "Linear Equations",
+          "section": "Quantitative"
+        },
+        {
+          "id": "MIXED03",
+          "question": "Which of the following completes the series: A, C, F, J, O, ?",
+          "options": {
+            "A": "U",
+            "B": "V",
+            "C": "W",
+            "D": "X"
+          },
+          "correct_option": "A",
+          "topic": "Alphabet Series",
+          "section": "Reasoning"
+        },
+       
+        {
+          "id": "MIXED04",
+          "question": "Choose the antonym for 'explicit'.",
+          "options": {"A": "Clear", "B": "Implicit", "C": "Obvious", "D": "Direct"},
+          "correct_option": "B", "topic": "Antonyms", "section": "Verbal"
+        },
+        {
+          "id": "MIXED05",
+          "question": "What is the area of a circle with radius 7 cm? (Use $\\pi = 22/7$)",
+          "options": {"A": "144 sq cm", "B": "154 sq cm", "C": "164 sq cm", "D": "174 sq cm"},
+          "correct_option": "B", "topic": "Geometry", "section": "Quantitative"
+        },
+        {
+          "id": "MIXED06",
+          "question": "If Pen is to Write, then Needle is to ___.",
+          "options": {"A": "Thread", "B": "Sew", "C": "Cloth", "D": "Sharp"},
+          "correct_option": "B", "topic": "Analogies", "section": "Reasoning"
+        },
+        {
+          "id": "MIXED07",
+          "question": "Identify the correctly spelled word.",
+          "options": {"A": "Accomodate", "B": "Acommodate", "C": "Accommodate", "D": "Acomodate"},
+          "correct_option": "C", "topic": "Spelling", "section": "Verbal"
+        },
+        {
+          "id": "MIXED08",
+          "question": "A mixture contains milk and water in the ratio 4:1. If there are 20 liters of mixture, how much milk is there?",
+          "options": {"A": "12 liters", "B": "15 liters", "C": "16 liters", "D": "18 liters"},
+          "correct_option": "C", "topic": "Ratio and Proportion", "section": "Quantitative"
+        },
+        {
+          "id": "MIXED09",
+          "question": "Complete the series: 5, 10, 17, 26, ?",
+          "options": {"A": "35", "B": "36", "C": "37", "D": "38"},
+          "correct_option": "C", "topic": "Number Series", "section": "Reasoning"
+        },
+        {
+          "id": "MIXED10",
+          "question": "Select the most suitable one-word substitute for 'A place where birds are kept'.",
+          "options": {"A": "Aquarium", "B": "Apiary", "C": "Aviary", "D": "Zoo"},
+          "correct_option": "C", "topic": "One Word Substitution", "section": "Verbal"
+        },
+        {
+          "id": "MIXED11",
+          "question": "If the selling price of 10 articles is equal to the cost price of 12 articles, find the gain percent.",
+          "options": {"A": "10%", "B": "15%", "C": "20%", "D": "25%"},
+          "correct_option": "C", "topic": "Profit and Loss", "section": "Quantitative"
+        },
+         {
+          "id": "MIXED12",
+          "question": "Choose the word that is the odd one out.",
+          "options": {"A": "Guitar", "B": "Violin", "C": "Flute", "D": "Sitar"},
+          "correct_option": "C", "topic": "Classification", "section": "Reasoning"
+        },
+        {
+          "id": "MIXED13",
+          "question": "Find the simple interest on Rs. 5000 for 2 years at 10% per annum.",
+          "options": {"A": "Rs. 500", "B": "Rs. 1000", "C": "Rs. 1500", "D": "Rs. 2000"},
+          "correct_option": "B", "topic": "Simple Interest", "section": "Quantitative"
+        },
+        {
+          "id": "MIXED14",
+          "question": "Choose the option that best expresses the meaning of 'To call a spade a spade'.",
+          "options": {"A": "To be rude", "B": "To speak frankly", "C": "To be diplomatic", "D": "To be deceitful"},
+          "correct_option": "B", "topic": "Idioms and Phrases", "section": "Verbal"
+        },
+        {
+          "id": "PROG01",
+          "question": "Write a Python program to check if a number is prime.",
+          "input_format": "A single integer input.",
+          "output_format": "Print 'Prime' or 'Not Prime'.",
+          "sample_input": "7",
+          "sample_output": "Prime",
+          "topic": "Prime Numbers",
+          "section": "Programming"
+        },
+        {
+          "id": "PROG02",
+          "question": "Write a Python function to reverse a string.",
+          "input_format": "A string input.",
+          "output_format": "Reversed string.",
+          "sample_input": "hello",
+          "sample_output": "olleh",
+          "topic": "String Manipulation",
+          "section": "Programming"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "subject": "Quantitative Aptitude",
+  "topics": [
+    {
+      "name": "Number System",
+      "questions": [
+        {
+          "id": "QNS01",
+          "question": "What is the HCF of 54, 72 and 108?",
+          "options": {
+            "A": "6",
+            "B": "9",
+            "C": "18",
+            "D": "36"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "QNS02",
+          "question": "The sum of first 15 natural numbers is:",
+          "options": {
+            "A": "105",
+            "B": "115",
+            "C": "120",
+            "D": "130"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "QNS03",
+          "question": "If a number is divisible by both 3 and 4, it must be divisible by:",
+          "options": {
+            "A": "7",
+            "B": "12",
+            "C": "6",
+            "D": "9"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "QNS04",
+          "question": "The smallest 4-digit number exactly divisible by 88 is:",
+          "options": {
+            "A": "1000",
+            "B": "1056",
+            "C": "1012",
+            "D": "1016"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "QNS05",
+          "question": "What is the remainder when 2^25 is divided by 7?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "6"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "QNS06",
+          "question": "If the product of two consecutive integers is 72, what is their sum?",
+          "options": {
+            "A": "15",
+            "B": "16",
+            "C": "17",
+            "D": "18"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "QNS07",
+          "question": "What is the unit digit of 3^19?",
+          "options": {
+            "A": "3",
+            "B": "7",
+            "C": "1",
+            "D": "9"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "QNS08",
+          "question": "If the sum of digits of a two-digit number is 15 and the difference between the digits is 3, what is the number?",
+          "options": {
+            "A": "69",
+            "B": "78",
+            "C": "87",
+            "D": "96"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "QNS09",
+          "question": "How many numbers between 100 and 300 are divisible by both 5 and 7?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "QNS10",
+          "question": "The product of two co-prime numbers is 221. The numbers are:",
+          "options": {
+            "A": "13 and 17",
+            "B": "11 and 21",
+            "C": "13 and 19",
+            "D": "17 and 13"
+          },
+          "correct_option": "A"
+        }
+      ]
+    },
+    {
+      "name": "LCM & HCF",
+      "questions": [
+        {
+          "id": "QLCM01",
+          "question": "The LCM of 12, 18 and 30 is:",
+          "options": {
+            "A": "60",
+            "B": "90",
+            "C": "120",
+            "D": "180"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "QLCM02",
+          "question": "The HCF of two numbers is 12 and their LCM is 336. If one of the numbers is 84, what is the other number?",
+          "options": {
+            "A": "38",
+            "B": "42",
+            "C": "48",
+            "D": "58"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "QLCM03",
+          "question": "The LCM of two numbers is 495 and their HCF is 5. If one of the numbers is 55, what is the other number?",
+          "options": {
+            "A": "35",
+            "B": "40",
+            "C": "45",
+            "D": "50"
+          },
+          "correct_option": "C"
+        },
+        {
+          "id": "QLCM04",
+          "question": "The HCF of 1.2, 0.36 and 0.48 is:",
+          "options": {
+            "A": "0.12",
+            "B": "0.6",
+            "C": "0.06",
+            "D": "0.036"
+          },
+          "correct_option": "A"
+        },
+        {
+          "id": "QLCM05",
+          "question": "If the product of two numbers is 216 and their HCF is 6, how many different values can their LCM have?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+          },
+          "correct_option": "C"
+        }
+      ]
+    },
+    {
+      "name": "Averages",
+      "questions": [
+        {
+          "id": "QAVG01",
+          "question": "The average of first 50 natural numbers is:",
+          "options": {
+            "A": "25",
+            "B": "25.5",
+            "C": "50",
+            "D": "50.5"
+          },
+          "correct_option": "B"
+        },
+        {
+          "id": "QAVG02",
+          "question": "The average of 5 consecutive odd numbers is 55. What is the largest of these numbers?",
+          "options": {
+            "A": "57",
+            "B": "59",
+            "C": "61",
+            "D": "63"
+          },
+          "correct_option": "D"
+        },
+        {
+          "id": "QAVG03",
+          "question": "The average weight of 16 boys in a class is 50.25 kg. If the weight of the teacher is included, the average rises to 51 kg. What is the weight of the teacher?",
+          "options": {
+            "A": "62 kg",
+            "B": "64 kg",
+            "C": "66 kg",
+            "D": "68 kg"
+          },
+          "correct_option": "B"
+        }
+      ]
+    }
+  ]
+}

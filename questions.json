@@ -1,0 +1,2705 @@
+[
+    {
+        "id": 1,
+        "title": "Print Hello World",
+        "description": "Write a program that prints 'Hello, World!'",
+        "input_format": "None",
+        "output_format": "Hello, World!",
+        "example": "Output: Hello, World!",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 2,
+        "title": "Sum of Two Numbers",
+        "description": "Given two integers, print their sum.",
+        "input_format": "Two integers a and b separated by a space.",
+        "output_format": "Integer sum of a and b.",
+        "example": "Input: 3 5\nOutput: 8",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 3,
+        "title": "Even or Odd",
+        "description": "Given an integer, determine if it's even or odd.",
+        "input_format": "A single integer n.",
+        "output_format": "Print 'Even' if the number is even, 'Odd' otherwise.",
+        "example": "Input: 7\nOutput: Odd",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 4,
+        "title": "Maximum of Two Numbers",
+        "description": "Given two integers, print the larger one.",
+        "input_format": "Two integers a and b separated by a space.",
+        "output_format": "The maximum of the two integers.",
+        "example": "Input: 10 25\nOutput: 25",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 5,
+        "title": "Factorial of a Number",
+        "description": "Given a non-negative integer, print its factorial. Assume the input will be small enough that the result fits in a standard integer type.",
+        "input_format": "A single non-negative integer n.",
+        "output_format": "The factorial of n.",
+        "example": "Input: 5\nOutput: 120",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 6,
+        "title": "Area of a Rectangle",
+        "description": "Given the length and width of a rectangle, print its area.",
+        "input_format": "Two positive integers, length l and width w, separated by a space.",
+        "output_format": "The area of the rectangle.",
+        "example": "Input: 4 7\nOutput: 28",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 7,
+        "title": "Reverse a String",
+        "description": "Given a string, print its reverse.",
+        "input_format": "A single string s.",
+        "output_format": "The reversed string.",
+        "example": "Input: apple\nOutput: elppa",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 8,
+        "title": "Check for Palindrome",
+        "description": "Given a string, determine if it reads the same forwards and backward (is a palindrome). Ignore case and non-alphanumeric characters for a harder version, but for easy, assume simple strings.",
+        "input_format": "A single string s consisting of lowercase English letters.",
+        "output_format": "Print 'Palindrome' if it is, 'Not Palindrome' otherwise.",
+        "example": "Input: madam\nOutput: Palindrome",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 9,
+        "title": "Print Numbers from 1 to N",
+        "description": "Given an integer N, print all integers from 1 to N, each on a new line or space-separated based on language convention.",
+        "input_format": "A single positive integer N.",
+        "output_format": "Integers from 1 to N. For this example, space-separated.",
+        "example": "Input: 5\nOutput: 1 2 3 4 5",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 10,
+        "title": "Simple Interest Calculation",
+        "description": "Given principal amount, rate of interest, and time period, calculate and print the simple interest.",
+        "input_format": "Three numbers: principal P, rate R (as a percentage), and time T (in years), separated by spaces.",
+        "output_format": "The simple interest, potentially a floating-point number.",
+        "example": "Input: 1000 5 2\nOutput: 100.0",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 31,
+        "title": "Difference of Two Numbers",
+        "description": "Given two integers, print their difference (first - second).",
+        "input_format": "Two integers a and b separated by a space.",
+        "output_format": "Integer difference of a and b.",
+        "example": "Input: 10 4\nOutput: 6",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 32,
+        "title": "Product of Two Numbers",
+        "description": "Given two integers, print their product.",
+        "input_format": "Two integers a and b separated by a space.",
+        "output_format": "Integer product of a and b.",
+        "example": "Input: 7 6\nOutput: 42",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 33,
+        "title": "Quotient and Remainder",
+        "description": "Given two integers, dividend and divisor, print their integer quotient and remainder.",
+        "input_format": "Two integers, dividend and divisor, separated by a space.",
+        "output_format": "Two integers: quotient and remainder, separated by a space.",
+        "example": "Input: 17 5\nOutput: 3 2",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 34,
+        "title": "Simple Exponentiation",
+        "description": "Given two integers, base a and exponent b (non-negative and small), calculate and print a to the power of b.",
+        "input_format": "Two integers a and b separated by a space.",
+        "output_format": "The value of a raised to the power of b.",
+        "example": "Input: 2 5\nOutput: 32",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 35,
+        "title": "Average of N Numbers",
+        "description": "Given N, followed by N integers, calculate and print their average. The average can be a floating-point number.",
+        "input_format": "First line: an integer N. Second line: N space-separated integers.",
+        "output_format": "The average of the N integers (float with one decimal place).",
+        "example": "Input: 3\n10 20 15\nOutput: 15.0",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 36,
+        "title": "Swap Two Numbers",
+        "description": "Given two integers, swap their values and print the new values.",
+        "input_format": "Two integers a and b separated by a space.",
+        "output_format": "The two integers after swapping, separated by a space.",
+        "example": "Input: 5 10\nOutput: 10 5",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 37,
+        "title": "Largest Among Three Numbers",
+        "description": "Given three integers, find and print the largest among them.",
+        "input_format": "Three integers a, b, and c separated by spaces.",
+        "output_format": "The largest of the three integers.",
+        "example": "Input: 12 7 20\nOutput: 20",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 38,
+        "title": "Leap Year Checker",
+        "description": "Given a year, determine if it's a leap year. A year is a leap year if it is divisible by 4, unless it is divisible by 100 but not by 400.",
+        "input_format": "A single integer, year.",
+        "output_format": "Print 'Leap Year' or 'Not a Leap Year'.",
+        "example": "Input: 2000\nOutput: Leap Year",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 39,
+        "title": "Check Vowel or Consonant",
+        "description": "Given a single lowercase English alphabet character, determine if it's a vowel (a, e, i, o, u) or a consonant.",
+        "input_format": "A single lowercase English character.",
+        "output_format": "Print 'Vowel' or 'Consonant'.",
+        "example": "Input: e\nOutput: Vowel",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 40,
+        "title": "Celsius to Fahrenheit Conversion",
+        "description": "Given a temperature in Celsius, convert it to Fahrenheit and print the result. Formula: F = (C * 9/5) + 32.",
+        "input_format": "A single floating-point number representing temperature in Celsius.",
+        "output_format": "The temperature in Fahrenheit (float with two decimal places).",
+        "example": "Input: 25\nOutput: 77.00",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 41,
+        "title": "Sum of First N Natural Numbers",
+        "description": "Given an integer N, calculate and print the sum of natural numbers from 1 to N.",
+        "input_format": "A single positive integer N.",
+        "output_format": "The sum of the first N natural numbers.",
+        "example": "Input: 5\nOutput: 15",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 42,
+        "title": "Multiplication Table",
+        "description": "Given an integer N, print its multiplication table up to 10 (e.g., N x 1, N x 2, ..., N x 10).",
+        "input_format": "A single integer N.",
+        "output_format": "Ten lines, each showing 'N x i = Product'.",
+        "example": "Input: 3\nOutput:\n3 x 1 = 3\n3 x 2 = 6\n3 x 3 = 9\n3 x 4 = 12\n3 x 5 = 15\n3 x 6 = 18\n3 x 7 = 21\n3 x 8 = 24\n3 x 9 = 27\n3 x 10 = 30",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 43,
+        "title": "Count Digits in Integer",
+        "description": "Given a non-negative integer, count the number of digits it has.",
+        "input_format": "A single non-negative integer.",
+        "output_format": "The number of digits in the integer.",
+        "example": "Input: 12345\nOutput: 5",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 44,
+        "title": "Sum of Digits in Integer",
+        "description": "Given a non-negative integer, calculate the sum of its digits.",
+        "input_format": "A single non-negative integer.",
+        "output_format": "The sum of the digits.",
+        "example": "Input: 789\nOutput: 24",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 45,
+        "title": "Reverse an Integer",
+        "description": "Given an integer, print its reverse. (Handle leading zeros in output if any, e.g. reverse of 120 is 21, not 021).",
+        "input_format": "A single integer.",
+        "output_format": "The reversed integer.",
+        "example": "Input: 54321\nOutput: 12345",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 46,
+        "title": "Print Right-Angled Star Pattern",
+        "description": "Given an integer N, print a right-angled triangle pattern of stars with N rows.",
+        "input_format": "A single positive integer N.",
+        "output_format": "N lines, forming a right-angled triangle of stars.",
+        "example": "Input: 4\nOutput:\n*\n**\n***\n****",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 47,
+        "title": "Print Inverted Right-Angled Star Pattern",
+        "description": "Given an integer N, print an inverted right-angled triangle pattern of stars with N rows.",
+        "input_format": "A single positive integer N.",
+        "output_format": "N lines, forming an inverted right-angled triangle of stars.",
+        "example": "Input: 4\nOutput:\n****\n***\n**\n*",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 48,
+        "title": "Print Square Star Pattern",
+        "description": "Given an integer N, print a square pattern of stars of size N x N.",
+        "input_format": "A single positive integer N.",
+        "output_format": "N lines, each with N stars, forming a square.",
+        "example": "Input: 3\nOutput:\n***\n***\n***",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 49,
+        "title": "Perimeter of Rectangle",
+        "description": "Given the length and width of a rectangle, calculate and print its perimeter. Formula: P = 2 * (length + width).",
+        "input_format": "Two positive integers, length l and width w, separated by a space.",
+        "output_format": "The perimeter of the rectangle.",
+        "example": "Input: 5 8\nOutput: 26",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 50,
+        "title": "Area of Circle",
+        "description": "Given the radius of a circle, calculate and print its area. Formula: A = pi * r^2. Use pi = 3.14159.",
+        "input_format": "A single positive floating-point number r (radius).",
+        "output_format": "The area of the circle (float with two decimal places).",
+        "example": "Input: 7.0\nOutput: 153.94",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 51,
+        "title": "Check Number Sign",
+        "description": "Given an integer, determine if it's positive, negative, or zero.",
+        "input_format": "A single integer n.",
+        "output_format": "Print 'Positive', 'Negative', or 'Zero'.",
+        "example": "Input: -5\nOutput: Negative",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 52,
+        "title": "Smallest Among Three Numbers",
+        "description": "Given three integers, find and print the smallest among them.",
+        "input_format": "Three integers a, b, and c separated by spaces.",
+        "output_format": "The smallest of the three integers.",
+        "example": "Input: 12 7 20\nOutput: 7",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 53,
+        "title": "Sum of Array Elements",
+        "description": "Given an array of integers, calculate and print the sum of its elements.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "The sum of the array elements.",
+        "example": "Input: 4\n10 20 5 15\nOutput: 50",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 54,
+        "title": "Average of Array Elements",
+        "description": "Given an array of integers, calculate and print the average of its elements. The average can be a floating-point number.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "The average of the array elements (float with two decimal places).",
+        "example": "Input: 3\n2 3 5\nOutput: 3.33",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 55,
+        "title": "Count Occurrences in Array",
+        "description": "Given an array of integers and a target integer X, count how many times X appears in the array.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers. Third line: an integer X.",
+        "output_format": "The number of times X occurs in the array.",
+        "example": "Input: 5\n1 2 3 2 2\n2\nOutput: 3",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 56,
+        "title": "String to Uppercase",
+        "description": "Given a string, convert all its characters to uppercase and print the result.",
+        "input_format": "A single string s.",
+        "output_format": "The string in uppercase.",
+        "example": "Input: hello world\nOutput: HELLO WORLD",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 57,
+        "title": "String to Lowercase",
+        "description": "Given a string, convert all its characters to lowercase and print the result.",
+        "input_format": "A single string s.",
+        "output_format": "The string in lowercase.",
+        "example": "Input: HeLLo WoRLD\nOutput: hello world",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 58,
+        "title": "Check if Character is Alphabet",
+        "description": "Given a single character, determine if it's an English alphabet letter (a-z, A-Z).",
+        "input_format": "A single character.",
+        "output_format": "Print 'Alphabet' or 'Not an Alphabet'.",
+        "example": "Input: K\nOutput: Alphabet",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 59,
+        "title": "Calculate Compound Interest (Basic)",
+        "description": "Given principal, rate (annual), time (years), and compounds per year (n), calculate compound interest. A = P(1 + R/n)^(nt). Interest = A - P. For simplicity, assume n=1 (compounded annually).",
+        "input_format": "Three numbers: principal P, rate R (as a decimal, e.g., 0.05 for 5%), and time T (in years).",
+        "output_format": "The compound interest (float with two decimal places).",
+        "example": "Input: 1000 0.05 2\nOutput: 102.50",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 60,
+        "title": "Find Minimum in Array",
+        "description": "Given an array of integers, find and print the smallest element.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "The minimum integer in the array.",
+        "example": "Input: 5\n10 4 8 25 6\nOutput: 4",
+        "difficulty": "Easy"
+    },
+      {
+        "id": 121,
+        "title": "Print Number Pyramid Pattern",
+        "description": "Given an integer N, print a pyramid pattern of numbers.",
+        "input_format": "A single positive integer N.",
+        "output_format": "N lines, forming a number pyramid.",
+        "example": "Input: 4\nOutput:\n   1\n  232\n 34543\n4567654",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 122,
+        "title": "Check if Array is Sorted Ascendingly",
+        "description": "Given an array of integers, check if it is sorted in ascending order.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "Print 'Yes' if sorted, 'No' otherwise.",
+        "example": "Input: 5\n10 20 30 40 50\nOutput: Yes",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 123,
+        "title": "Copy an Array",
+        "description": "Given an array of integers, create a new array that is a copy of the original array and print the new array.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "The copied array, elements separated by spaces.",
+        "example": "Input: 4\n1 2 3 4\nOutput: 1 2 3 4",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 124,
+        "title": "Count Words in a String",
+        "description": "Given a string consisting of words separated by single spaces, count the number of words.",
+        "input_format": "A single string s.",
+        "output_format": "The number of words in the string.",
+        "example": "Input: Hello World from AI\nOutput: 4",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 125,
+        "title": "Count Specific Character in String",
+        "description": "Given a string and a character, count the occurrences of that character in the string (case-sensitive).",
+        "input_format": "First line: a string s. Second line: a character c.",
+        "output_format": "The number of times character c appears in string s.",
+        "example": "Input: programming\ng\nOutput: 2",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 126,
+        "title": "Check for Substring",
+        "description": "Given two strings, mainString and subString, check if subString is a part of mainString.",
+        "input_format": "First line: mainString. Second line: subString.",
+        "output_format": "Print 'Found' or 'Not Found'.",
+        "example": "Input: HelloWorld\nWor\nOutput: Found",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 127,
+        "title": "Check if Number is Multiple",
+        "description": "Given two positive integers, num1 and num2, check if num1 is a multiple of num2.",
+        "input_format": "Two positive integers num1 and num2, separated by a space.",
+        "output_format": "Print 'Yes' if num1 is a multiple of num2, 'No' otherwise.",
+        "example": "Input: 20 5\nOutput: Yes",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 128,
+        "title": "Sum of Even Numbers in a Range",
+        "description": "Given two integers L and R, find the sum of all even numbers in the range [L, R] inclusive.",
+        "input_format": "Two integers L and R separated by a space.",
+        "output_format": "The sum of even numbers in the range.",
+        "example": "Input: 1 10\nOutput: 30",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 129,
+        "title": "Binary to Decimal Conversion (Simple)",
+        "description": "Given a binary string (e.g., '1011'), convert it to its decimal equivalent. Assume valid binary input.",
+        "input_format": "A string representing a binary number.",
+        "output_format": "The decimal equivalent (integer).",
+        "example": "Input: 1011\nOutput: 11",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 130,
+        "title": "Volume of a Sphere",
+        "description": "Given the radius of a sphere, calculate and print its volume. Formula: V = (4/3) * pi * r^3. Use pi = 3.14159.",
+        "input_format": "A single positive floating-point number r (radius).",
+        "output_format": "The volume of the sphere (float with two decimal places).",
+        "example": "Input: 3.0\nOutput: 113.10",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 131,
+        "title": "Volume of a Cube",
+        "description": "Given the side length of a cube, calculate and print its volume. Formula: V = side^3.",
+        "input_format": "A single positive integer or float, side length s.",
+        "output_format": "The volume of the cube.",
+        "example": "Input: 4\nOutput: 64",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 132,
+        "title": "Days in a Month (Simple)",
+        "description": "Given a month number (1-12), print the number of days in that month. Assume it's not a leap year (so February has 28 days).",
+        "input_format": "A single integer, month (1-12).",
+        "output_format": "Number of days in that month.",
+        "example": "Input: 2\nOutput: 28",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 133,
+        "title": "Check if Character is Uppercase",
+        "description": "Given a single character, determine if it is an uppercase English alphabet letter (A-Z).",
+        "input_format": "A single character.",
+        "output_format": "Print 'Uppercase' or 'Not Uppercase'.",
+        "example": "Input: P\nOutput: Uppercase",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 134,
+        "title": "Check if Character is Lowercase",
+        "description": "Given a single character, determine if it is a lowercase English alphabet letter (a-z).",
+        "input_format": "A single character.",
+        "output_format": "Print 'Lowercase' or 'Not Lowercase'.",
+        "example": "Input: q\nOutput: Lowercase",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 135,
+        "title": "Check if Character is Digit",
+        "description": "Given a single character, determine if it is a digit (0-9).",
+        "input_format": "A single character.",
+        "output_format": "Print 'Digit' or 'Not a Digit'.",
+        "example": "Input: 7\nOutput: Digit",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 136,
+        "title": "Sum of Odd Numbers in a Range",
+        "description": "Given two integers L and R, find the sum of all odd numbers in the range [L, R] inclusive.",
+        "input_format": "Two integers L and R separated by a space.",
+        "output_format": "The sum of odd numbers in the range.",
+        "example": "Input: 1 10\nOutput: 25",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 137,
+        "title": "Decimal to Octal Conversion (Simple)",
+        "description": "Given a non-negative decimal integer (small enough), convert it to its octal representation.",
+        "input_format": "A single non-negative integer.",
+        "output_format": "The octal string.",
+        "example": "Input: 10\nOutput: 12",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 138,
+        "title": "Print Hollow Square Pattern",
+        "description": "Given an integer N, print a hollow square pattern of stars of size N x N.",
+        "input_format": "A single positive integer N (N >= 3).",
+        "output_format": "N lines, forming a hollow square of stars.",
+        "example": "Input: 5\nOutput:\n*****\n* *\n* *\n* *\n*****",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 139,
+        "title": "Calculate Power without pow()",
+        "description": "Given a base and an exponent (non-negative integer), calculate base raised to the power of exponent without using the built-in pow() function or ** operator.",
+        "input_format": "Two integers: base and exponent.",
+        "output_format": "The result of base^exponent.",
+        "example": "Input: 3 4\nOutput: 81",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 140,
+        "title": "Find ASCII Value of Character",
+        "description": "Given a character, print its ASCII value.",
+        "input_format": "A single character.",
+        "output_format": "The ASCII value (integer).",
+        "example": "Input: A\nOutput: 65",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 141,
+        "title": "Print Floyd's Triangle",
+        "description": "Given an integer N, print Floyd's Triangle with N rows. Floyd's Triangle is a right-angled triangular array of natural numbers.",
+        "input_format": "A single positive integer N.",
+        "output_format": "N lines, forming Floyd's Triangle.",
+        "example": "Input: 4\nOutput:\n1 \n2 3 \n4 5 6 \n7 8 9 10 ",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 142,
+        "title": "Concatenate Two Strings without library function",
+        "description": "Given two strings, concatenate them (join them end-to-end) without using built-in string concatenation library functions (like `+` for strings or `strcat`).",
+        "input_format": "Two strings, s1 and s2, each on a new line.",
+        "output_format": "The concatenated string.",
+        "example": "Input: Hello\nWorld\nOutput: HelloWorld",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 143,
+        "title": "Count Set Bits (Brian Kernighan's Algorithm)",
+        "description": "Given a non-negative integer, count the number of set bits (1s) in its binary representation using Brian Kernighan's Algorithm.",
+        "input_format": "A single non-negative integer n.",
+        "output_format": "The number of set bits.",
+        "example": "Input: 13\nOutput: 3",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 144,
+        "title": "Check if a number is power of 2",
+        "description": "Given a positive integer, determine if it is a power of 2.",
+        "input_format": "A single positive integer n.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 16\nOutput: Yes",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 145,
+        "title": "Simple Array Rotation (by 1 position to left)",
+        "description": "Given an array of integers, rotate it by one position to the left.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers.",
+        "output_format": "The array rotated by one position to the left.",
+        "example": "Input: 5\n1 2 3 4 5\nOutput: 2 3 4 5 1",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 146,
+        "title": "Find Remainder without % operator",
+        "description": "Given two positive integers, dividend and divisor, find the remainder when dividend is divided by divisor, without using the modulo (%) operator.",
+        "input_format": "Two positive integers, dividend and divisor.",
+        "output_format": "The remainder.",
+        "example": "Input: 17 5\nOutput: 2",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 147,
+        "title": "Sum of n-th terms of two Arithmetic Progressions",
+        "description": "Given the first term (a1, a2), common difference (d1, d2) of two APs, and an integer n, find the sum of the n-th terms of these two APs.",
+        "input_format": "Five integers: a1, d1, a2, d2, n.",
+        "output_format": "The sum of the n-th terms.",
+        "example": "Input: 1 2 3 4 5\nOutput: (1+(5-1)*2) + (3+(5-1)*4) = 9 + 19 = 28",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 148,
+        "title": "Convert Celsius to Kelvin",
+        "description": "Given a temperature in Celsius, convert it to Kelvin. Formula K = C + 273.15.",
+        "input_format": "A single floating-point number (Celsius).",
+        "output_format": "Temperature in Kelvin (float with two decimal places).",
+        "example": "Input: 0\nOutput: 273.15",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 149,
+        "title": "Print Full Pyramid Pattern of Stars",
+        "description": "Given an integer N, print a full pyramid pattern of stars with N rows.",
+        "input_format": "A single positive integer N.",
+        "output_format": "N lines forming a full pyramid of stars.",
+        "example": "Input: 4\nOutput:\n   *\n  ***\n *****\n*******",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 150,
+        "title": "Check if all elements in array are same",
+        "description": "Given an array of integers, check if all elements in the array are identical.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 4\n7 7 7 7\nOutput: Yes",
+        "difficulty": "Easy"
+    },
+      {
+        "id": 211,
+        "title": "Print Pascal's Triangle (Simple)",
+        "description": "Given an integer N, print the first N rows of Pascal's Triangle.",
+        "input_format": "A single positive integer N.",
+        "output_format": "N lines, forming Pascal's Triangle, numbers space-separated.",
+        "example": "Input: 5\nOutput:\n1 \n1 1 \n1 2 1 \n1 3 3 1 \n1 4 6 4 1 ",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 212,
+        "title": "Print Hollow Diamond Star Pattern",
+        "description": "Given an integer N (number of rows in the upper half including the middle), print a hollow diamond pattern of stars.",
+        "input_format": "A single odd positive integer N (e.g., for a 5-row diamond, input 3 for upper half's rows). Assume N is rows for one half.",
+        "output_format": "Pattern of stars forming a hollow diamond.",
+        "example": "Input: 3 (for a 5-row total diamond)\nOutput:\n  *\n * *\n* *\n * *\n  *",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 213,
+        "title": "Frequency of Each Element in Array (Simple)",
+        "description": "Given an array of integers (elements between 1 and M, where M is small), count the frequency of each element. Print element and its frequency.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers. Assume elements are small positive integers.",
+        "output_format": "For each unique element present, print 'Element: X, Frequency: Y' on a new line, sorted by element X.",
+        "example": "Input: 7\n1 2 2 1 3 1 4\nOutput:\nElement: 1, Frequency: 3\nElement: 2, Frequency: 2\nElement: 3, Frequency: 1\nElement: 4, Frequency: 1",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 214,
+        "title": "Toggle Case of Characters in String",
+        "description": "Given a string, convert all uppercase letters to lowercase and all lowercase letters to uppercase. Other characters remain unchanged.",
+        "input_format": "A single string s.",
+        "output_format": "The string with character cases toggled.",
+        "example": "Input: HeLlO wOrLd123\nOutput: hElLo WoRlD123",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 215,
+        "title": "Remove Vowels from String",
+        "description": "Given a string, remove all vowels (a, e, i, o, u, A, E, I, O, U) from it.",
+        "input_format": "A single string s.",
+        "output_format": "The string without vowels.",
+        "example": "Input: HelloWorld\nOutput: HllWrld",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 216,
+        "title": "Count Consonants in String",
+        "description": "Given a string, count the number of English consonants (alphabets that are not vowels). Case-insensitive.",
+        "input_format": "A single string s containing English alphabets and possibly spaces.",
+        "output_format": "The total count of consonants.",
+        "example": "Input: Programming is Fun\nOutput: 12",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 217,
+        "title": "Check for Armstrong Number (3 digits)",
+        "description": "An Armstrong number (for 3 digits) is an integer such that the sum of the cubes of its digits is equal to the number itself. E.g., 153 = 1^3 + 5^3 + 3^3. Check if a given 3-digit number is an Armstrong number.",
+        "input_format": "A single 3-digit positive integer.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 153\nOutput: Yes",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 218,
+        "title": "Check for Perfect Number",
+        "description": "A perfect number is a positive integer that is equal to the sum of its proper positive divisors (excluding the number itself). E.g., 6 is perfect because 1+2+3=6. Check if a number is perfect.",
+        "input_format": "A single positive integer n.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 28\nOutput: Yes",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 219,
+        "title": "Sum of Squares of First N Natural Numbers",
+        "description": "Given an integer N, calculate and print the sum of the squares of the first N natural numbers (1^2 + 2^2 + ... + N^2).",
+        "input_format": "A single positive integer N.",
+        "output_format": "The sum of squares.",
+        "example": "Input: 3\nOutput: 14",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 220,
+        "title": "Kilometers to Meters Conversion",
+        "description": "Given a distance in kilometers, convert it to meters. (1 km = 1000 m).",
+        "input_format": "A single floating-point number representing distance in kilometers.",
+        "output_format": "The distance in meters (float).",
+        "example": "Input: 2.5\nOutput: 2500.0",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 221,
+        "title": "Linear Search for Character in String",
+        "description": "Given a string and a character, find if the character exists in the string. If yes, print its first occurrence index (0-based). If not, print -1.",
+        "input_format": "First line: a string s. Second line: a character c.",
+        "output_format": "Index of first occurrence or -1.",
+        "example": "Input: abracadabra\nc\nOutput: 3",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 222,
+        "title": "Convert Seconds to HH:MM:SS Format",
+        "description": "Given a total number of seconds, convert it into HH:MM:SS format (Hours:Minutes:Seconds).",
+        "input_format": "A single non-negative integer representing total seconds.",
+        "output_format": "String in HH:MM:SS format (e.g., 02:30:45). Pad with leading zeros if needed.",
+        "example": "Input: 3661\nOutput: 01:01:01",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 223,
+        "title": "Check if Kth Bit is Set",
+        "description": "Given a non-negative integer n and an integer k (0-indexed from right), determine if the k-th bit in the binary representation of n is set (i.e., 1).",
+        "input_format": "Two integers n and k.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 13 2 (Binary of 13 is 1101. 2nd bit from right is 1)\nOutput: Yes",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 224,
+        "title": "Sum of Cubes of First N Natural Numbers",
+        "description": "Given an integer N, calculate and print the sum of the cubes of the first N natural numbers (1^3 + 2^3 + ... + N^3).",
+        "input_format": "A single positive integer N.",
+        "output_format": "The sum of cubes.",
+        "example": "Input: 3\nOutput: 36",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 225,
+        "title": "Meters to Kilometers Conversion",
+        "description": "Given a distance in meters, convert it to kilometers.",
+        "input_format": "A single floating-point number representing distance in meters.",
+        "output_format": "The distance in kilometers (float with appropriate precision).",
+        "example": "Input: 5500\nOutput: 5.5",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 226,
+        "title": "Print Diamond Star Pattern",
+        "description": "Given an integer N (number of rows in the upper half including the middle), print a filled diamond pattern of stars.",
+        "input_format": "A single odd positive integer N (e.g., for a 5-row diamond, input 3). Assume N is rows for one half.",
+        "output_format": "Pattern of stars forming a filled diamond.",
+        "example": "Input: 3\nOutput:\n  *\n ***\n*****\n ***\n  *",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 227,
+        "title": "Count Positive, Negative, and Zero Elements in Array",
+        "description": "Given an array of integers, count how many are positive, negative, and zero.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers.",
+        "output_format": "Three integers: count of positives, count of negatives, count of zeros, separated by spaces.",
+        "example": "Input: 7\n-1 0 5 -2 0 8 3\nOutput: 3 2 2",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 228,
+        "title": "Sum of Elements at Even and Odd Indices in Array",
+        "description": "Given an array of integers, calculate the sum of elements at even indices and the sum of elements at odd indices separately.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers.",
+        "output_format": "Two integers: sum_even_indices sum_odd_indices.",
+        "example": "Input: 6\n10 20 5 15 30 25\nOutput: 45 60",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 229,
+        "title": "Replace all occurrences of a character with another",
+        "description": "Given a string, a character to find (char_old), and a character to replace with (char_new), replace all occurrences of char_old with char_new in the string.",
+        "input_format": "First line: string s. Second line: char_old. Third line: char_new.",
+        "output_format": "The modified string.",
+        "example": "Input: abracadabra\na\nx\nOutput: xbrxcxdxbrx",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 230,
+        "title": "Check if two strings are equal (case-insensitive)",
+        "description": "Given two strings, check if they are equal ignoring case.",
+        "input_format": "Two strings, s1 and s2, each on a new line.",
+        "output_format": "Print 'Equal' or 'Not Equal'.",
+        "example": "Input: Hello\nhello\nOutput: Equal",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 231,
+        "title": "Calculate Body Mass Index (BMI)",
+        "description": "Given weight in kilograms and height in meters, calculate Body Mass Index (BMI). Formula: BMI = weight / (height * height).",
+        "input_format": "Two floating-point numbers: weight (kg) and height (m).",
+        "output_format": "The BMI value (float with two decimal places).",
+        "example": "Input: 70 1.75\nOutput: 22.86",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 232,
+        "title": "Print Characters in a Range",
+        "description": "Given two characters, char1 and char2 (assume char1 <= char2 and both are same case English letters), print all characters from char1 to char2 inclusive.",
+        "input_format": "Two characters char1 and char2 separated by a space.",
+        "output_format": "Space-separated characters in the range.",
+        "example": "Input: c g\nOutput: c d e f g",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 233,
+        "title": "Simple Calculator (Add, Subtract, Multiply, Divide)",
+        "description": "Write a program that takes two numbers and an operator (+, -, *, /) as input and performs the corresponding calculation. Handle division by zero.",
+        "input_format": "First line: first number (integer or float). Second line: operator (char). Third line: second number (integer or float).",
+        "output_format": "Result of the calculation, or 'Error: Division by zero'.",
+        "example": "Input: 10\n*\n5\nOutput: 50.0",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 234,
+        "title": "Find Number of Leap Years in a Range",
+        "description": "Given a range of years [start_year, end_year], count how many leap years are there in this range (inclusive).",
+        "input_format": "Two integers: start_year and end_year.",
+        "output_format": "The count of leap years.",
+        "example": "Input: 1999 2004\nOutput: 2",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 235,
+        "title": "Sum of numbers in a string",
+        "description": "Given a string containing alphanumeric characters, find the sum of all numbers present in the string. Numbers are contiguous sequences of digits.",
+        "input_format": "A single string s.",
+        "output_format": "The sum of all numbers in the string.",
+        "example": "Input: abc123xyz45pqr6\nOutput: 174",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 236,
+        "title": "Print Array in Reverse Order",
+        "description": "Given an array of integers, print its elements in reverse order.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The array elements in reverse order, space-separated.",
+        "example": "Input: 5\n10 20 30 40 50\nOutput: 50 40 30 20 10",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 237,
+        "title": "Convert Days to Years, Weeks, Days",
+        "description": "Given a number of days, convert it into years, weeks, and remaining days. Assume 1 year = 365 days, 1 week = 7 days.",
+        "input_format": "A single integer, total_days.",
+        "output_format": "Years: Y, Weeks: W, Days: D",
+        "example": "Input: 375\nOutput: Years: 1, Weeks: 1, Days: 3",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 238,
+        "title": "Print first N terms of Arithmetic Progression",
+        "description": "Given the first term 'a', common difference 'd', and number of terms 'n' of an Arithmetic Progression, print the first n terms.",
+        "input_format": "Three integers: a, d, n.",
+        "output_format": "N space-separated terms of the AP.",
+        "example": "Input: 2 3 5\nOutput: 2 5 8 11 14",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 239,
+        "title": "Check if a number is a palindrome (integer)",
+        "description": "Given an integer, check if it is a palindrome (reads the same forwards and backwards).",
+        "input_format": "A single integer n.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 12321\nOutput: Yes",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 240,
+        "title": "Swap Kth element from beginning and end in an array",
+        "description": "Given an array and an integer K (1-based), swap the Kth element from the beginning with the Kth element from the end.",
+        "input_format": "First line: N (size of array) and K. Second line: N space-separated integers.",
+        "output_format": "The modified array.",
+        "example": "Input: 8 3\n1 2 3 4 5 6 7 8\nOutput: 1 2 6 4 5 3 7 8",
+        "difficulty": "Easy"
+    },
+
+      {
+        "id": 11,
+        "title": "Prime Number Check",
+        "description": "Given an integer, determine if it's a prime number.",
+        "input_format": "A single positive integer n (n > 1).",
+        "output_format": "Print 'Prime' if the number is prime, 'Not Prime' otherwise.",
+        "example": "Input: 13\nOutput: Prime",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 12,
+        "title": "Fibonacci Sequence",
+        "description": "Given an integer N, print the Nth Fibonacci number (0-indexed or 1-indexed, specify, e.g., F(0)=0, F(1)=1).",
+        "input_format": "A single non-negative integer N.",
+        "output_format": "The Nth Fibonacci number (0-indexed: F(0)=0, F(1)=1).",
+        "example": "Input: 7\nOutput: 13",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 13,
+        "title": "Largest Element in Array",
+        "description": "Given an array of integers, find and print the largest element.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "The largest integer in the array.",
+        "example": "Input: 5\n10 4 8 25 6\nOutput: 25",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 14,
+        "title": "GCD of Two Numbers",
+        "description": "Given two non-negative integers, find their Greatest Common Divisor (GCD).",
+        "input_format": "Two non-negative integers a and b, separated by a space.",
+        "output_format": "The GCD of a and b.",
+        "example": "Input: 48 18\nOutput: 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 15,
+        "title": "Count Vowels and Consonants",
+        "description": "Given a string, count the number of vowels and consonants (assume input is lowercase English letters).",
+        "input_format": "A single string s consisting of lowercase English letters.",
+        "output_format": "Two integers: count of vowels and count of consonants, separated by a space.",
+        "example": "Input: programming\nOutput: 3 8",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 16,
+        "title": "Sort an Array (Bubble Sort)",
+        "description": "Given an array of integers, sort it in ascending order using the Bubble Sort algorithm and print the sorted array.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "The sorted array with elements separated by spaces.",
+        "example": "Input: 5\n5 1 4 2 8\nOutput: 1 2 4 5 8",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 17,
+        "title": "Binary Search",
+        "description": "Given a sorted array of integers and a target value, determine if the target exists in the array using binary search. If it exists, print its index (0-based); otherwise, print -1.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated sorted integers. Third line: an integer, the target value X.",
+        "output_format": "The 0-based index of X if found, otherwise -1.",
+        "example": "Input: 5\n2 5 8 12 16\n8\nOutput: 2",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 18,
+        "title": "Matrix Addition",
+        "description": "Given two matrices of the same dimensions, compute their sum.",
+        "input_format": "First line: two integers R and C (rows and columns). Next R lines: C integers for the first matrix. Next R lines: C integers for the second matrix.",
+        "output_format": "The resulting matrix, with R lines and C space-separated integers per line.",
+        "example": "Input: 2 2\n1 2\n3 4\n5 6\n7 8\nOutput:\n6 8\n10 12",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 19,
+        "title": "Check Anagrams",
+        "description": "Given two strings, determine if they are anagrams of each other (contain the same characters with the same frequencies).",
+        "input_format": "Two strings s1 and s2, each on a new line.",
+        "output_format": "Print 'Anagrams' if they are, 'Not Anagrams' otherwise.",
+        "example": "Input: listen\nsilent\nOutput: Anagrams",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 20,
+        "title": "Second Largest Element in Array",
+        "description": "Given an array of distinct integers, find and print the second largest element.",
+        "input_format": "First line: an integer N (size of the array, N >= 2). Second line: N space-separated distinct integers.",
+        "output_format": "The second largest integer in the array.",
+        "example": "Input: 5\n10 40 30 20 50\nOutput: 40",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 61,
+        "title": "Prime Factorization",
+        "description": "Given a positive integer N, print all its prime factors in ascending order.",
+        "input_format": "A single positive integer N (N > 1).",
+        "output_format": "Space-separated prime factors of N.",
+        "example": "Input: 84\nOutput: 2 2 3 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 62,
+        "title": "Rotate Array by K Positions (Left)",
+        "description": "Given an array of N integers and an integer K, rotate the array to the left by K positions.",
+        "input_format": "First line: N and K. Second line: N space-separated integers.",
+        "output_format": "The rotated array, elements separated by spaces.",
+        "example": "Input: 7 2\n1 2 3 4 5 6 7\nOutput: 3 4 5 6 7 1 2",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 63,
+        "title": "Find All Pairs with Given Sum",
+        "description": "Given an array of distinct integers and a target sum, find and print all pairs of elements whose sum is equal to the target sum. Print each pair once.",
+        "input_format": "First line: N (size of array) and S (target sum). Second line: N space-separated distinct integers.",
+        "output_format": "Each pair on a new line, elements in a pair sorted, and pairs themselves sorted. E.g., 'num1 num2'. If no pair, print 'No pairs found'.",
+        "example": "Input: 6 10\n1 3 4 6 7 9\nOutput:\n1 9\n3 7\n4 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 64,
+        "title": "Remove Duplicates from Sorted Array (In-place)",
+        "description": "Given a sorted array, remove the duplicates in-place such that each unique element appears only once. Return the new length of the array. The order of elements should be preserved.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated sorted integers.",
+        "output_format": "First line: The new length k. Second line: The first k elements of the modified array.",
+        "example": "Input: 7\n1 1 2 2 2 3 4\nOutput:\n4\n1 2 3 4",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 65,
+        "title": "Check if Strings are Rotations",
+        "description": "Given two strings s1 and s2, determine if s2 is a rotation of s1 (e.g., 'waterbottle' is a rotation of 'erbottlewat').",
+        "input_format": "Two strings s1 and s2, each on a new line.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: abcde\ncdeab\nOutput: Yes",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 66,
+        "title": "First Non-Repeating Character",
+        "description": "Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1. (Case-sensitive)",
+        "input_format": "A single string s.",
+        "output_format": "The 0-based index of the first non-repeating character, or -1.",
+        "example": "Input: leetcode\nOutput: 0",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 67,
+        "title": "Sieve of Eratosthenes",
+        "description": "Given an integer N, find all prime numbers up to N using the Sieve of Eratosthenes algorithm.",
+        "input_format": "A single integer N (N >= 2).",
+        "output_format": "Space-separated prime numbers up to N.",
+        "example": "Input: 30\nOutput: 2 3 5 7 11 13 17 19 23 29",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 68,
+        "title": "Kadane's Algorithm (Maximum Subarray Sum)",
+        "description": "Given an array of integers, find the contiguous subarray (containing at least one number) which has the largest sum and print this sum.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "The maximum subarray sum.",
+        "example": "Input: 8\n-2 -3 4 -1 -2 1 5 -3\nOutput: 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 69,
+        "title": "Implement Stack using Two Queues",
+        "description": "Implement a LIFO stack using only two queues. The implemented stack should support all functions of a normal stack (push, pop, top, isEmpty). For this problem, demonstrate push and pop operations.",
+        "input_format": "Sequence of operations: 'push x' or 'pop'. Assume valid operations.",
+        "output_format": "For each 'pop', print the popped element. For 'push', no output. If pop on empty, print 'Empty'.",
+        "example": "Input: push 1\npush 2\npop\npush 3\npop\npop\nOutput:\n2\n3\n1",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 70,
+        "title": "Matrix Transpose",
+        "description": "Given a 2D integer matrix, find its transpose. The transpose of a matrix is the matrix flipped over its main diagonal, switching the row and column indices.",
+        "input_format": "First line: two integers R and C (rows and columns). Next R lines: C integers for the matrix.",
+        "output_format": "The transposed matrix, with C lines and R space-separated integers per line.",
+        "example": "Input: 3 2\n1 2\n3 4\n5 6\nOutput:\n1 3 5\n2 4 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 71,
+        "title": "Search in a Row-Column Sorted Matrix",
+        "description": "Given an M x N matrix where each row and each column is sorted in ascending order, write an efficient algorithm to search for a target value.",
+        "input_format": "First line: M and N (rows and columns). Next M lines: N integers for the matrix. Last line: target integer X.",
+        "output_format": "Print 'Found' if X is in the matrix, 'Not Found' otherwise.",
+        "example": "Input: 3 4\n1 4 7 11\n2 5 8 12\n3 6 9 16\n5\nOutput: Found",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 72,
+        "title": "Balanced Parentheses Checker",
+        "description": "Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. An input string is valid if: open brackets must be closed by the same type of brackets, and open brackets must be closed in the correct order.",
+        "input_format": "A single string s.",
+        "output_format": "Print 'Balanced' or 'Not Balanced'.",
+        "example": "Input: ({[]})\nOutput: Balanced",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 73,
+        "title": "Longest Palindromic Substring (O(N^2))",
+        "description": "Given a string, find the longest substring which is a palindrome.",
+        "input_format": "A single string s.",
+        "output_format": "The longest palindromic substring. (If multiple, any one)",
+        "example": "Input: bananad\nOutput: anana",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 74,
+        "title": "Merge Two Sorted Arrays",
+        "description": "Given two sorted arrays, merge them into a single sorted array.",
+        "input_format": "First line: integer N (size of first array). Second line: N sorted integers. Third line: integer M (size of second array). Fourth line: M sorted integers.",
+        "output_format": "The merged sorted array, elements separated by spaces.",
+        "example": "Input: 4\n1 3 5 7\n3\n2 4 6\nOutput: 1 2 3 4 5 6 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 75,
+        "title": "Trailing Zeros in Factorial",
+        "description": "Given an integer N, find the number of trailing zeros in N! (N factorial).",
+        "input_format": "A single integer N (N >= 0).",
+        "output_format": "The number of trailing zeros in N!.",
+        "example": "Input: 25\nOutput: 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 76,
+        "title": "Implement Queue using Two Stacks",
+        "description": "Implement a FIFO queue using only two stacks. The implemented queue should support all functions of a normal queue (enqueue, dequeue, peek, isEmpty). For this problem, demonstrate enqueue and dequeue.",
+        "input_format": "Sequence of operations: 'enqueue x' or 'dequeue'. Assume valid operations.",
+        "output_format": "For each 'dequeue', print the dequeued element. For 'enqueue', no output. If dequeue on empty, print 'Empty'.",
+        "example": "Input: enqueue 1\nenqueue 2\ndequeue\nenqueue 3\ndequeue\ndequeue\nOutput:\n1\n2\n3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 77,
+        "title": "Next Greater Element",
+        "description": "Given an array, print the Next Greater Element (NGE) for every element. The NGE for an element x is the first greater element on the right side of x in the array. If no NGE exists, print -1.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers.",
+        "output_format": "N space-separated integers representing NGE for each element.",
+        "example": "Input: 5\n4 5 2 25 10\nOutput: 5 25 25 -1 -1",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 78,
+        "title": "Spiral Traversal of Matrix",
+        "description": "Given a 2D matrix, print its elements in spiral order.",
+        "input_format": "First line: two integers R and C (rows and columns). Next R lines: C integers for the matrix.",
+        "output_format": "Space-separated elements in spiral order.",
+        "example": "Input: 3 4\n1 2 3 4\n5 6 7 8\n9 10 11 12\nOutput: 1 2 3 4 8 12 11 10 9 5 6 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 79,
+        "title": "Find Missing Number in 1 to N",
+        "description": "Given an array containing N-1 distinct numbers taken from 1 to N, find the missing number.",
+        "input_format": "First line: an integer N. Second line: N-1 space-separated distinct integers from the range [1, N].",
+        "output_format": "The missing number.",
+        "example": "Input: 5\n1 2 4 5\nOutput: 3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 80,
+        "title": "Find Duplicate in N+1 Integers",
+        "description": "Given an array of N+1 integers where each integer is between 1 and N (inclusive), and there is exactly one duplicate number, find the duplicate.",
+        "input_format": "First line: an integer N. Second line: N+1 space-separated integers.",
+        "output_format": "The duplicate number.",
+        "example": "Input: 4\n1 3 4 2 2\nOutput: 2",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 81,
+        "title": "Wave Array",
+        "description": "Given an unsorted array of integers, sort the array into a wave-like array. An array 'arr[0..n-1]' is sorted in wave form if arr[0] >= arr[1] <= arr[2] >= arr[3] <= arr[4] >= ...",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers.",
+        "output_format": "The wave array, elements separated by spaces. (Multiple answers possible, print one).",
+        "example": "Input: 6\n1 2 3 4 5 6\nOutput: 2 1 4 3 6 5",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 82,
+        "title": "Segregate 0s and 1s",
+        "description": "Given an array of 0s and 1s, segregate all 0s to the left side and all 1s to the right side of the array in-place.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers (0s and 1s).",
+        "output_format": "The modified array with 0s followed by 1s.",
+        "example": "Input: 7\n0 1 0 1 1 0 1\nOutput: 0 0 0 1 1 1 1",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 83,
+        "title": "Stock Buy and Sell (One Transaction)",
+        "description": "You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit. If no profit can be achieved, return 0.",
+        "input_format": "First line: an integer N (number of days). Second line: N space-separated integers (prices).",
+        "output_format": "The maximum profit.",
+        "example": "Input: 6\n7 1 5 3 6 4\nOutput: 5",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 84,
+        "title": "Check if Number is Perfect Square",
+        "description": "Given a non-negative integer, determine if it is a perfect square without using any built-in square root functions.",
+        "input_format": "A single non-negative integer n.",
+        "output_format": "Print 'Yes' if it's a perfect square, 'No' otherwise.",
+        "example": "Input: 16\nOutput: Yes",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 85,
+        "title": "GCD of an Array of Numbers",
+        "description": "Given an array of positive integers, find the Greatest Common Divisor (GCD) of all numbers in the array.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated positive integers.",
+        "output_format": "The GCD of all numbers in the array.",
+        "example": "Input: 3\n12 18 30\nOutput: 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 86,
+        "title": "LCM of Two Numbers",
+        "description": "Given two positive integers, find their Least Common Multiple (LCM).",
+        "input_format": "Two positive integers a and b separated by a space.",
+        "output_format": "The LCM of a and b.",
+        "example": "Input: 15 20\nOutput: 60",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 87,
+        "title": "Majority Element",
+        "description": "Given an array of N integers, find the majority element. The majority element is the element that appears more than N/2 times. Assume that the majority element always exists.",
+        "input_format": "First line: an integer N (size of array). Second line: N space-separated integers.",
+        "output_format": "The majority element.",
+        "example": "Input: 7\n2 2 1 1 1 2 2\nOutput: 2",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 88,
+        "title": "Power(x, n) - Efficient",
+        "description": "Implement pow(x, n), which calculates x raised to the power n (i.e., x^n). Aim for O(log n) complexity.",
+        "input_format": "A double x and an integer n (can be negative).",
+        "output_format": "The value of x^n (double with specified precision, e.g., 5 decimal places).",
+        "example": "Input: 2.00000 -2\nOutput: 0.25000",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 89,
+        "title": "Convert Roman to Integer",
+        "description": "Given a roman numeral, convert it to an integer. Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M. Input is guaranteed to be a valid roman numeral in the range [1, 3999].",
+        "input_format": "A single string representing a Roman numeral.",
+        "output_format": "The integer equivalent.",
+        "example": "Input: MCMXCIV\nOutput: 1994",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 90,
+        "title": "Convert Integer to Roman",
+        "description": "Given an integer, convert it to a roman numeral. Input is guaranteed to be within the range [1, 3999].",
+        "input_format": "A single integer.",
+        "output_format": "The Roman numeral string.",
+        "example": "Input: 58\nOutput: LVIII",
+        "difficulty": "Medium"
+    },
+     {
+        "id": 151,
+        "title": "Rearrange Array Alternating Positive/Negative",
+        "description": "Given an array of positive and negative numbers, rearrange them in an alternating fashion (positive, negative, positive, negative...) without changing the relative order of positive and negative numbers. If there are more of one type, they appear at the end.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The rearranged array.",
+        "example": "Input: 6\n-1 2 -3 4 -5 6\nOutput: 2 -1 4 -3 6 -5",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 152,
+        "title": "Find Equilibrium Index",
+        "description": "An equilibrium index of an array is an index such that the sum of elements at lower indexes is equal to the sum of elements at higher indexes. Find the first equilibrium index. (0-indexed)",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The first equilibrium index, or -1 if none exists.",
+        "example": "Input: 7\n-7 1 5 2 -4 3 0\nOutput: 3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 153,
+        "title": "Leaders in an Array",
+        "description": "An element is a leader if it is greater than all the elements to its right side. The rightmost element is always a leader. Print all leaders from right to left.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "Space-separated leaders from right to left.",
+        "example": "Input: 6\n16 17 4 3 5 2\nOutput: 2 5 17",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 154,
+        "title": "Sort Array by Frequency of Elements",
+        "description": "Given an array of integers, sort the array according to frequency of elements. Elements with higher frequency come first. If frequencies are same, the smaller number comes first.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The sorted array based on frequency.",
+        "example": "Input: 8\n2 5 2 8 5 6 8 8\nOutput: 8 8 8 2 2 5 5 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 155,
+        "title": "Sort Array of 0s, 1s, and 2s (Dutch National Flag)",
+        "description": "Given an array containing only 0s, 1s, and 2s, sort the array in-place in a single pass.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers (0s, 1s, 2s).",
+        "output_format": "The sorted array.",
+        "example": "Input: 7\n0 1 2 0 1 2 1\nOutput: 0 0 1 1 1 2 2",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 156,
+        "title": "Check if String is K-Palindrome",
+        "description": "A string is k-palindrome if it can be transformed into a palindrome by removing at most k characters. Given a string and an integer k, determine if the string is k-palindrome.",
+        "input_format": "First line: string s. Second line: integer k.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: abcdca\n1\nOutput: Yes",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 157,
+        "title": "Group Anagrams Together",
+        "description": "Given an array of strings, group anagrams together. Print each group on a new line, with strings in a group sorted lexicographically, and groups themselves sorted by their first element.",
+        "input_format": "First line: N (number of strings). Next N lines: strings.",
+        "output_format": "Anagram groups, each on a new line.",
+        "example": "Input: 5\neat\ntea\ntan\nate\nnat\nOutput:\nate ate tea\nnat tan",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 158,
+        "title": "Check if Number is Ugly",
+        "description": "Ugly numbers are positive numbers whose prime factors only include 2, 3, 5. Given an integer, determine if it's an ugly number.",
+        "input_format": "A single positive integer n.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 12\nOutput: Yes",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 159,
+        "title": "Find Nth Ugly Number",
+        "description": "Ugly numbers are positive numbers whose prime factors only include 2, 3, 5. Find the Nth ugly number (1 is considered the 1st ugly number).",
+        "input_format": "A single positive integer N.",
+        "output_format": "The Nth ugly number.",
+        "example": "Input: 10\nOutput: 12",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 160,
+        "title": "Calculate Binomial Coefficient C(n, k)",
+        "description": "Given two non-negative integers n and k (k <= n), calculate the binomial coefficient C(n, k), which is the number of ways to choose k items from a set of n items. Result can be large, so consider properties or DP.",
+        "input_format": "Two integers n and k.",
+        "output_format": "The value of C(n, k).",
+        "example": "Input: 5 2\nOutput: 10",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 161,
+        "title": "Tower of Hanoi - Count Moves",
+        "description": "Given N disks in the Tower of Hanoi puzzle, calculate the minimum number of moves required to solve it.",
+        "input_format": "A single integer N (number of disks).",
+        "output_format": "The minimum number of moves.",
+        "example": "Input: 3\nOutput: 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 162,
+        "title": "Print All Subsequences of a String",
+        "description": "Given a string, print all its subsequences in lexicographical order. A subsequence is formed by deleting zero or more characters from the original string.",
+        "input_format": "A single string s.",
+        "output_format": "All non-empty subsequences, each on a new line, lexicographically sorted. Include empty string if required, or specify.",
+        "example": "Input: abc\nOutput:\na\nab\nabc\nac\nb\nbc\nc",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 163,
+        "title": "Print Boundary Elements of a Matrix",
+        "description": "Given a 2D matrix, print all the boundary elements in a clockwise manner starting from the top-left.",
+        "input_format": "First line: R and C (rows and columns). Next R lines: C integers for the matrix.",
+        "output_format": "Space-separated boundary elements.",
+        "example": "Input: 4 4\n1 2 3 4\n5 6 7 8\n9 10 11 12\n13 14 15 16\nOutput: 1 2 3 4 8 12 16 15 14 13 9 5",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 164,
+        "title": "Remove Loop from Linked List",
+        "description": "Given a linked list that may contain a loop, detect and remove the loop. If no loop, do nothing. (The list structure itself is the input, output is modified list).",
+        "input_format": "Conceptual: Head of a linked list. E.g. N nodes, values, then connection point for loop.",
+        "output_format": "Print 'Loop removed' or 'No loop found'. Verify by printing list (optional for problem).",
+        "example": "Input: Nodes 1->2->3->4->5, 5 points to 2.\nOutput: Loop removed (List becomes 1->2->3->4->5->NULL)",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 165,
+        "title": "Find Middle of Linked List",
+        "description": "Given a non-empty singly linked list, find its middle node. If there are two middle nodes, return the second middle node.",
+        "input_format": "Conceptual: Head of linked list. E.g. N nodes, then values.",
+        "output_format": "The value of the middle node.",
+        "example": "Input: 1->2->3->4->5\nOutput: 3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 166,
+        "title": "Reverse a Linked List in Groups of K",
+        "description": "Given a linked list, reverse the nodes of a linked list k at a time and return its modified list. k is a positive integer and is less than or equal to the length of the linked list. If the number of nodes is not a multiple of k then left-out nodes, in the end, should remain as it is.",
+        "input_format": "First line: k. Second line: N (number of nodes). Third line: N space-separated node values.",
+        "output_format": "The modified list, elements space-separated.",
+        "example": "Input: 3\n8\n1 2 3 4 5 6 7 8\nOutput: 3 2 1 6 5 4 8 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 167,
+        "title": "Sort a Stack using Temporary Stack",
+        "description": "Given a stack, sort it using only one additional temporary stack. No other data structures like arrays or lists allowed for storing elements.",
+        "input_format": "First line: N (number of elements in stack). Second line: N space-separated integers (top of stack is last).",
+        "output_format": "The sorted stack elements (bottom to top), space-separated.",
+        "example": "Input: 4\n3 1 4 2 (Stack: 2-top,4,1,3-bottom)\nOutput: 1 2 3 4 (Stack: 4-top,...,1-bottom)",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 168,
+        "title": "Celebrity Problem",
+        "description": "In a party of N people, a celebrity is a person who is known by everyone but knows no one. Find the celebrity. You can ask 'knows(A, B)' which returns true if A knows B. Minimize API calls.",
+        "input_format": "N (number of people). Adjacency matrix M where M[i][j]=1 if i knows j, else 0.",
+        "output_format": "ID of celebrity (0 to N-1) or -1 if none.",
+        "example": "Input: 3\n0 1 0\n0 0 0\n0 1 0\nOutput: 1",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 169,
+        "title": "Job Sequencing with Deadlines",
+        "description": "Given a set of N jobs where each job i has a deadline D_i and profit P_i associated with it. Each job takes 1 unit of time. Maximize total profit if only one job can be scheduled at a time.",
+        "input_format": "First line: N. Next N lines: JobID Deadline Profit.",
+        "output_format": "The maximum profit.",
+        "example": "Input: 4\na 4 20\nb 1 10\nc 1 40\nd 1 30\nOutput: 60",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 170,
+        "title": "Huffman Coding (Build Tree & Print Codes - Simplified)",
+        "description": "Given a set of characters and their frequencies, construct a Huffman tree and print the Huffman codes for each character. For simplicity, if frequencies are same, prefer character with smaller ASCII value for merging.",
+        "input_format": "First line: N (number of characters). Next N lines: character frequency.",
+        "output_format": "Each character and its Huffman code on a new line, sorted by character.",
+        "example": "Input: 6\na 5\nb 9\nc 12\nd 13\ne 16\nf 45\nOutput:\na: 1100\nb: 1101\nc: 100\nd: 101\ne: 111\nf: 0",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 171,
+        "title": "Infix to Postfix Conversion",
+        "description": "Given an infix expression, convert it to a postfix expression. Assume valid expression, operators +, -, *, /, ^ and parentheses. Standard operator precedence.",
+        "input_format": "A single string representing an infix expression.",
+        "output_format": "The postfix expression string.",
+        "example": "Input: (a+b)*c-(d/e)\nOutput: ab+c*de/-",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 172,
+        "title": "Evaluate Postfix Expression",
+        "description": "Given a postfix expression with single digit operands and operators +, -, *, /, evaluate it.",
+        "input_format": "A string representing a postfix expression.",
+        "output_format": "The result of the evaluation (integer).",
+        "example": "Input: 231*+9-\nOutput: -4",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 173,
+        "title": "Largest Rectangular Area in Histogram",
+        "description": "Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars. Assume width of each bar is 1.",
+        "input_format": "First line: N (number of bars). Second line: N space-separated integers (heights of bars).",
+        "output_format": "The largest rectangular area.",
+        "example": "Input: 7\n6 2 5 4 5 1 6\nOutput: 12",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 174,
+        "title": "Find Kth Smallest Element in an Array",
+        "description": "Given an array of distinct integers and an integer K, find the Kth smallest element in the array.",
+        "input_format": "First line: N (size of array) and K. Second line: N space-separated distinct integers.",
+        "output_format": "The Kth smallest element.",
+        "example": "Input: 6 3\n7 10 4 3 20 15\nOutput: 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 175,
+        "title": "Count Inversions (Naive O(N^2))",
+        "description": "An inversion in an array a[] is a pair of indices (i, j) such that i < j and a[i] > a[j]. Count the number of inversions in the given array using a naive approach.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The number of inversions.",
+        "example": "Input: 5\n2 4 1 3 5\nOutput: 3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 176,
+        "title": "Maximum difference between two elements (j > i)",
+        "description": "Given an array arr[], find the maximum j - i such that arr[j] > arr[i]. If no such pair exists, return -1.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The maximum difference j - i, or -1.",
+        "example": "Input: 9\n34 8 10 3 2 80 30 33 1\nOutput: 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 177,
+        "title": "Minimum Number of Platforms Required",
+        "description": "Given arrival and departure times of all trains that reach a railway station, find the minimum number of platforms required for the railway station so that no train waits.",
+        "input_format": "First line: N (number of trains). Second line: N arrival times. Third line: N departure times.",
+        "output_format": "Minimum number of platforms.",
+        "example": "Input: 6\n0900 0940 0950 1100 1500 1800\n0910 1200 1120 1130 1900 2000\nOutput: 3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 178,
+        "title": "Smallest Subarray with Sum Greater than X",
+        "description": "Given an array of integers and a number X, find the smallest subarray with sum greater than the given value X.",
+        "input_format": "First line: N (size of array) and X. Second line: N space-separated integers.",
+        "output_format": "Length of the smallest subarray, or -1 if no such subarray exists.",
+        "example": "Input: 6 51\n1 4 45 6 0 19\nOutput: 3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 179,
+        "title": "Find first and last positions of an element in a sorted array",
+        "description": "Given a sorted array arr with possibly duplicate elements, find the first and last occurrences of a target element x. If x is not found, return -1 -1.",
+        "input_format": "First line: N (size of array) and X (target). Second line: N space-separated sorted integers.",
+        "output_format": "Two space-separated integers: first and last index. (-1 -1 if not found)",
+        "example": "Input: 9 5\n1 3 5 5 5 5 67 123 125\nOutput: 2 5",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 180,
+        "title": "Stock Buy Sell to Maximize Profit (Multiple Transactions Allowed)",
+        "description": "Given an array of stock prices, find the maximum profit that can be earned by buying and selling stocks any number of times. You must sell before buying again.",
+        "input_format": "First line: N (number of days). Second line: N space-separated integers (prices).",
+        "output_format": "The maximum profit.",
+        "example": "Input: 7\n100 180 260 310 40 535 695\nOutput: 865",
+        "difficulty": "Medium"
+    },
+     {
+        "id": 241,
+        "title": "Find Subarray with Given Sum (Handles Negatives)",
+        "description": "Given an unsorted array of integers (can include negative numbers) and a target sum, find a contiguous subarray that sums to the target. If multiple, print the first one found (start and end indices).",
+        "input_format": "First line: N (size of array) and S (target sum). Second line: N space-separated integers.",
+        "output_format": "Print 'Start_Index End_Index' (0-based) or 'Not Found'.",
+        "example": "Input: 7 7\n1 4 0 0 3 10 5\nOutput: 0 4",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 242,
+        "title": "Chocolate Distribution Problem",
+        "description": "Given an array of N integers representing packets of chocolates with varying numbers of chocolates, and M students. Distribute one packet to each student such that the difference between the maximum chocolates given to a student and minimum chocolates given to a student is minimized.",
+        "input_format": "First line: N (number of packets). Second line: N space-separated integers (chocolates in packets). Third line: M (number of students).",
+        "output_format": "The minimum difference.",
+        "example": "Input: 8\n3 4 1 9 56 7 9 12\n5\nOutput: 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 243,
+        "title": "Trapping Rain Water (1D Array)",
+        "description": "Given an array of non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.",
+        "input_format": "First line: N (number of bars). Second line: N space-separated integers (heights).",
+        "output_format": "Total units of water trapped.",
+        "example": "Input: 7\n0 1 0 2 1 0 3\nOutput: 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 244,
+        "title": "Longest Common Prefix in an Array of Strings",
+        "description": "Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string.",
+        "input_format": "First line: N (number of strings). Next N lines: strings.",
+        "output_format": "The longest common prefix string.",
+        "example": "Input: 3\nflower\nflow\nflight\nOutput: fl",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 245,
+        "title": "Validate IP Address (IPv4)",
+        "description": "Given a string, determine if it is a valid IPv4 address. A valid IPv4 address is in the form 'x1.x2.x3.x4' where 0 <= xi <= 255 and xi cannot have leading zeros (unless it is '0' itself).",
+        "input_format": "A single string.",
+        "output_format": "Print 'Valid' or 'Invalid'.",
+        "example": "Input: 172.16.254.1\nOutput: Valid",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 246,
+        "title": "String to Integer (atoi)",
+        "description": "Implement the `atoi` function which converts a string to an integer. Handle leading/trailing whitespaces, optional sign, overflow/underflow (return INT_MAX/INT_MIN), and invalid characters.",
+        "input_format": "A single string s.",
+        "output_format": "The integer value, or INT_MAX/INT_MIN on overflow/underflow.",
+        "example": "Input: \" -42 with words\"\nOutput: -42",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 247,
+        "title": "Euler's Totient Function (phi(n))",
+        "description": "Euler's totient function phi(n) counts the number of positive integers up to a given integer n that are relatively prime to n. Calculate phi(n).",
+        "input_format": "A single positive integer n.",
+        "output_format": "The value of phi(n).",
+        "example": "Input: 9\nOutput: 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 248,
+        "title": "Extended Euclidean Algorithm",
+        "description": "Given two integers a and b, find integers x and y such that ax + by = gcd(a,b). Also print gcd(a,b).",
+        "input_format": "Two integers a and b.",
+        "output_format": "Three integers: gcd(a,b), x, and y.",
+        "example": "Input: 35 15\nOutput: 5 1 -2 (since 35*1 + 15*(-2) = 5)",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 249,
+        "title": "Josephus Problem (Recursive/Iterative)",
+        "description": "N people are standing in a circle waiting to be executed. The counting out begins at some point in the circle and proceeds around the circle in a fixed direction. In each step, a certain number of people K are skipped and the next person is executed. Find the position of the last person remaining (1-indexed).",
+        "input_format": "Two integers N and K.",
+        "output_format": "The position of the survivor.",
+        "example": "Input: 7 3\nOutput: 4",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 250,
+        "title": "Permutations of a String with Duplicates",
+        "description": "Given a string that may contain duplicate characters, print all unique permutations of the string in lexicographical order.",
+        "input_format": "A single string s.",
+        "output_format": "All unique permutations, each on a new line, sorted.",
+        "example": "Input: AAB\nOutput:\nAAB\nABA\nBAA",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 251,
+        "title": "Rotate Matrix by 90 Degrees (In-Place)",
+        "description": "Given an N x N square matrix, rotate it by 90 degrees clockwise in-place.",
+        "input_format": "First line: N. Next N lines: N integers for the matrix.",
+        "output_format": "The rotated N x N matrix.",
+        "example": "Input: 3\n1 2 3\n4 5 6\n7 8 9\nOutput:\n7 4 1 \n8 5 2 \n9 6 3 ",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 252,
+        "title": "Set Matrix Zeroes",
+        "description": "Given an M x N matrix, if an element is 0, set its entire row and column to 0. Do it in-place if possible, or with O(M+N) extra space.",
+        "input_format": "First line: M and N. Next M lines: N integers for the matrix.",
+        "output_format": "The modified matrix.",
+        "example": "Input: 3 3\n1 1 1\n1 0 1\n1 1 1\nOutput:\n1 0 1 \n0 0 0 \n1 0 1 ",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 253,
+        "title": "Add Two Numbers Represented by Linked Lists",
+        "description": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each node contains a single digit. Add the two numbers and return the sum as a linked list in the same format.",
+        "input_format": "Two lines, each representing a list: N (num nodes) then N digits (head to tail).",
+        "output_format": "The sum list, digits space-separated (head to tail).",
+        "example": "Input: 3\n2 4 3\n3\n5 6 4\nOutput: 7 0 8 (representing 342 + 465 = 807)",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 254,
+        "title": "Merge Two Sorted Linked Lists (Iterative)",
+        "description": "Merge two sorted linked lists and return it as a new sorted list. The new list should be made by splicing together the nodes of the first two lists.",
+        "input_format": "Two lines, each for a list: N (num nodes) then N sorted digits.",
+        "output_format": "The merged sorted list, digits space-separated.",
+        "example": "Input: 3\n1 2 4\n3\n1 3 4\nOutput: 1 1 2 3 4 4",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 255,
+        "title": "Intersection Point of Two Linked Lists",
+        "description": "Given the heads of two singly linked-lists, find the node at which the two lists intersect. If the two linked lists have no intersection at all, return null/print -1.",
+        "input_format": "Complex to represent shared nodes. Assume function takes two heads. Example describes structure.",
+        "output_format": "Value of the intersection node, or -1.",
+        "example": "ListA: 4->1->8->4->5, ListB: 5->6->1->8->4->5 (intersect at node with value 8, or node with value 1 if shared earlier).\nThis problem needs careful input spec or test harness. Conceptual: A=[4,1], B=[5,6], Common=[8,4,5]. Then A joins Common, B joins Common. Output: 8",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 256,
+        "title": "Implement Min Stack (O(1) getMin)",
+        "description": "Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.",
+        "input_format": "Sequence of operations: 'push x', 'pop', 'top', 'getMin'.",
+        "output_format": "For 'pop' no direct output unless empty. For 'top' print top. For 'getMin' print min. Handle empty cases.",
+        "example": "Input: push -2\npush 0\npush -3\ngetMin\npop\ntop\ngetMin\nOutput:\n-3\n0\n-2",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 257,
+        "title": "Sliding Window Maximum (Deque)",
+        "description": "Given an array and an integer k, find the maximum for each and every contiguous subarray of size k. Use a deque for O(N) solution.",
+        "input_format": "First line: N (size of array) and K (window size). Second line: N space-separated integers.",
+        "output_format": "Space-separated maximums for each window.",
+        "example": "Input: 8 3\n1 3 -1 -3 5 3 6 7\nOutput: 3 3 5 5 6 7",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 258,
+        "title": "Check if Binary Tree is Height-Balanced",
+        "description": "Given a binary tree, determine if it is height-balanced. A height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.",
+        "input_format": "Tree representation (e.g., level order array).",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Conceptual Input: Tree [3,9,20,null,null,15,7] is balanced.\nOutput: Yes",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 259,
+        "title": "Convert Sorted Array to Height-Balanced BST",
+        "description": "Given an array where elements are sorted in ascending order, convert it to a height-balanced Binary Search Tree (BST).",
+        "input_format": "First line: N (size of array). Second line: N sorted integers.",
+        "output_format": "Root of the BST (verify by printing inorder/preorder traversal). E.g., print preorder.",
+        "example": "Input: 7\n-10 -3 0 5 9 12 15\nOutput (Preorder of one possible BST): 0 -10 -3 9 5 12 15",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 260,
+        "title": "Lowest Common Ancestor in a BST",
+        "description": "Given a Binary Search Tree (BST) and two nodes n1 and n2, find the Lowest Common Ancestor (LCA) of the two nodes in the BST. Assume n1 and n2 are present.",
+        "input_format": "Tree representation (e.g. nodes for BST), and values of n1, n2.",
+        "output_format": "The value of the LCA node.",
+        "example": "Conceptual Tree: Root 6, Left 2 (0,4(3,5)), Right 8 (7,9). n1=2, n2=8. Output: 6",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 261,
+        "title": "Activity Selection Problem (Standard Greedy)",
+        "description": "You are given N activities with their start and finish times. Select the maximum number of activities that can be performed by a single person, assuming that a person can only work on a single activity at a time.",
+        "input_format": "First line: N. Next N lines: start_time finish_time for each activity.",
+        "output_format": "The maximum number of activities.",
+        "example": "Input: 6\n1 2\n3 4\n0 6\n5 7\n8 9\n5 9\nOutput: 4",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 262,
+        "title": "Kth Largest Element in an Array (Quickselect)",
+        "description": "Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element. Use Quickselect for average O(N) time.",
+        "input_format": "First line: N (size of array) and K. Second line: N space-separated integers.",
+        "output_format": "The Kth largest element.",
+        "example": "Input: 6 2\n3 2 1 5 6 4\nOutput: 5",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 263,
+        "title": "Maximum Product Subarray",
+        "description": "Given an integer array, find a contiguous non-empty subarray within the array that has the largest product, and return the product.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The maximum product.",
+        "example": "Input: 5\n2 3 -2 4 -1\nOutput: 48",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 264,
+        "title": "Print Matrix Diagonally (Zigzag)",
+        "description": "Given an M x N matrix, print all elements of the matrix in diagonal order (zigzag pattern).",
+        "input_format": "First line: M and N. Next M lines: N integers for the matrix.",
+        "output_format": "Space-separated elements in diagonal order.",
+        "example": "Input: 3 3\n1 2 3\n4 5 6\n7 8 9\nOutput: 1 2 4 7 5 3 6 8 9",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 265,
+        "title": "Gas Station (Circular Tour)",
+        "description": "There are N gas stations along a circular route, where the amount of gas at station i is gas[i]. You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from station i to its next station (i+1). You begin the journey with an empty tank at one of the gas stations. Return the starting gas station's index if you can travel around the circuit once in the clockwise direction, otherwise return -1.",
+        "input_format": "First line: N. Second line: N gas amounts. Third line: N cost amounts.",
+        "output_format": "The starting station index (0-based) or -1.",
+        "example": "Input: 5\n1 2 3 4 5\n3 4 5 1 2\nOutput: 3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 266,
+        "title": "Find Minimum Element in Rotated Sorted Array",
+        "description": "Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. Find the minimum element. Assume no duplicates.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers (rotated sorted array).",
+        "output_format": "The minimum element.",
+        "example": "Input: 7\n4 5 6 7 0 1 2\nOutput: 0",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 267,
+        "title": "Count Number of Islands (Matrix of 0s and 1s)",
+        "description": "Given a 2D grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically.",
+        "input_format": "First line: R and C (rows and columns). Next R lines: C characters ('0' or '1') for the grid.",
+        "output_format": "The number of islands.",
+        "example": "Input: 4 5\n11000\n11000\n00100\n00011\nOutput: 3",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 268,
+        "title": "Convert Binary Tree to Doubly Linked List (In-place)",
+        "description": "Given a Binary Tree, convert it to a Doubly Linked List (DLL) in-place. The left and right pointers in nodes are to be used as previous and next pointers respectively in DLL. The order of nodes in DLL must be same as Inorder of the given Binary Tree.",
+        "input_format": "Tree representation.",
+        "output_format": "Head of the DLL (verify by printing forwards and backwards).",
+        "example": "Conceptual Input: Tree [10,12,15,25,30,36]\nOutput DLL (forward): 25 <-> 12 <-> 30 <-> 10 <-> 36 <-> 15",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 269,
+        "title": "Find if Path Exists in Graph (Matrix Representation)",
+        "description": "Given a directed graph represented by an adjacency matrix and two vertices u and v, find if a path exists from u to v.",
+        "input_format": "First line: V (num vertices). Next V lines: V integers (0 or 1) for adj matrix. Last line: u and v (0-indexed).",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 4\n0 1 1 0\n0 0 1 0\n0 0 0 1\n0 0 0 0\n0 3\nOutput: Yes",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 270,
+        "title": "Merge Intervals",
+        "description": "Given a collection of intervals, merge all overlapping intervals.",
+        "input_format": "First line: N (number of intervals). Next N lines: start_i end_i for each interval.",
+        "output_format": "The merged intervals, each on a new line, sorted by start time.",
+        "example": "Input: 4\n1 3\n2 6\n8 10\n15 18\nOutput:\n1 6\n8 10\n15 18",
+        "difficulty": "Medium"
+    },
+
+    {
+        "id": 91,
+        "title": "Edit Distance",
+        "description": "Given two strings word1 and word2, return the minimum number of operations (insert, delete, replace a character) required to convert word1 to word2.",
+        "input_format": "Two strings word1 and word2, each on a new line.",
+        "output_format": "The minimum number of operations.",
+        "example": "Input: horse\nros\nOutput: 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 92,
+        "title": "Coin Change Problem (Minimum Coins)",
+        "description": "Given an array of coin denominations and a total amount, find the minimum number of coins needed to make up that amount. If it's not possible, return -1.",
+        "input_format": "First line: N (number of coin denominations) and Amount. Second line: N space-separated distinct coin denominations.",
+        "output_format": "Minimum number of coins, or -1.",
+        "example": "Input: 3 11\n1 2 5\nOutput: 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 93,
+        "title": "Matrix Chain Multiplication (Optimal Cost)",
+        "description": "Given a sequence of matrices, find the most efficient way to multiply these matrices together. The problem is not to perform the multiplications, but merely to decide the sequence of the matrix multiplications. Find the minimum number of scalar multiplications needed.",
+        "input_format": "First line: an integer N (number of matrices + 1, representing dimensions p[0]...p[N-1] where matrix A_i has dimension p[i-1] x p[i]). Second line: N space-separated integers representing the dimensions array.",
+        "output_format": "Minimum number of scalar multiplications.",
+        "example": "Input: 4\n10 30 5 60\nOutput: 4500",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 94,
+        "title": "Graph DFS Traversal",
+        "description": "Given a graph (adjacency list) and a starting vertex, perform Depth First Search traversal. Print the visited nodes in DFS order. Handle disconnected graphs if starting vertex explores only one component.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (edge between u and v). Last line: starting vertex S (0-indexed). Assume undirected graph for simplicity.",
+        "output_format": "Space-separated nodes in DFS order starting from S. If graph is disconnected, print DFS for the connected component of S.",
+        "example": "Input: 7 6\n0 1\n0 2\n1 3\n1 4\n2 5\n2 6\n0\nOutput: 0 1 3 4 2 5 6",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 95,
+        "title": "Graph BFS Traversal",
+        "description": "Given a graph (adjacency list) and a starting vertex, perform Breadth First Search traversal. Print the visited nodes in BFS order.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (edge between u and v). Last line: starting vertex S (0-indexed). Assume undirected graph.",
+        "output_format": "Space-separated nodes in BFS order starting from S.",
+        "example": "Input: 7 6\n0 1\n0 2\n1 3\n1 4\n2 5\n2 6\n0\nOutput: 0 1 2 3 4 5 6",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 96,
+        "title": "Topological Sort of DAG",
+        "description": "Given a Directed Acyclic Graph (DAG), print a topological sort of the graph. If multiple sorts are possible, print any one.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (directed edge from u to v). Vertices are 0-indexed.",
+        "output_format": "Space-separated nodes in topological order.",
+        "example": "Input: 6 6\n5 2\n5 0\n4 0\n4 1\n2 3\n3 1\nOutput: 5 4 2 0 3 1",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 97,
+        "title": "Sudoku Solver",
+        "description": "Write a program to solve a Sudoku puzzle by filling the empty cells. A Sudoku solution must satisfy all of the rules (each row, column, and 3x3 subgrid contains digits 1-9 without repetition). Empty cells are denoted by '0' or '.'. Assume one unique solution.",
+        "input_format": "Nine lines, each containing 9 characters (digits '1'-'9' or '0' for empty).",
+        "output_format": "The solved Sudoku grid, 9 lines, each with 9 space-separated digits.",
+        "example": "Input:\n530070000\n600195000\n098000060\n800060003\n400803001\n700020006\n060000280\n000419005\n000080079\nOutput:\n5 3 4 6 7 8 9 1 2 \n6 7 2 1 9 5 3 4 8 \n1 9 8 3 4 2 5 6 7 \n8 5 9 7 6 1 4 2 3 \n4 2 6 8 5 3 7 9 1 \n7 1 3 9 2 4 8 5 6 \n9 6 1 5 3 7 2 8 4 \n2 8 7 4 1 9 6 3 5 \n3 4 5 2 8 6 1 7 9 ",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 98,
+        "title": "Generate All Valid Parentheses",
+        "description": "Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.",
+        "input_format": "A single integer n.",
+        "output_format": "All combinations, each on a new line, in lexicographical order.",
+        "example": "Input: 3\nOutput:\n((()))\n(()())\n(())()\n()(())\n()()()",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 99,
+        "title": "Is Binary Tree a BST?",
+        "description": "Given the root of a binary tree, determine if it is a valid Binary Search Tree (BST). A valid BST is defined as: The left subtree of a node contains only nodes with keys less than the node's key. The right subtree of a node contains only nodes with keys greater than the node's key. Both the left and right subtrees must also be BSTs.",
+        "input_format": "Input format depends on tree representation (e.g., level order array where null indicates no child). For example: [2,1,3] is valid, [5,1,4,null,null,3,6] is not.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Conceptual Input: root = [Node(5, left=Node(1), right=Node(7, left=Node(6), right=Node(8)))]\nOutput: Yes",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 100,
+        "title": "Lowest Common Ancestor in Binary Tree",
+        "description": "Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree. Assume nodes p and q are present in the tree.",
+        "input_format": "Tree representation and two node values p and q.",
+        "output_format": "The value of the LCA node.",
+        "example": "Conceptual Input: Tree like [3,5,1,6,2,0,8,null,null,7,4], p=5, q=1\nOutput: 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 101,
+        "title": "KMP Pattern Searching",
+        "description": "Implement the Knuth-Morris-Pratt (KMP) algorithm to find all occurrences of a pattern in a text string.",
+        "input_format": "First line: text string T. Second line: pattern string P.",
+        "output_format": "Space-separated 0-based starting indices of all occurrences of P in T. If none, print 'Not found'.",
+        "example": "Input: ABABDABACDABABCABAB\nABABCABAB\nOutput: 10",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 102,
+        "title": "Convex Hull (Graham Scan)",
+        "description": "Given a set of N points in a 2D plane, find the convex hull using Graham Scan algorithm. The convex hull is the smallest convex polygon containing all the points.",
+        "input_format": "First line: integer N (number of points). Next N lines: two integers x y for each point.",
+        "output_format": "Coordinates (x y) of the points on the convex hull, listed in counter-clockwise order, each on a new line. Start with the point with the smallest y-coordinate (and smallest x if tie).",
+        "example": "Input: 7\n0 3\n1 1\n2 2\n4 4\n0 0\n1 2\n3 1\nOutput:\n0 0\n3 1\n4 4\n0 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 103,
+        "title": "Rod Cutting Problem",
+        "description": "Given a rod of length n inches and an array of prices that contains prices of all pieces of size smaller than n. Determine the maximum value obtainable by cutting up the rod and selling the pieces.",
+        "input_format": "First line: integer L (length of the rod). Second line: L space-separated integers where prices[i-1] is the price of a piece of length i.",
+        "output_format": "The maximum obtainable value.",
+        "example": "Input: 8\n1 5 8 9 10 17 17 20\nOutput: 22",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 104,
+        "title": "Word Break Problem",
+        "description": "Given a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of one or more dictionary words. The same word in the dictionary may be reused multiple times.",
+        "input_format": "First line: string s. Second line: integer N (number of words in dict). Next N lines: words in the dictionary.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: leetcode\n2\nleet\ncode\nOutput: Yes",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 105,
+        "title": "Bellman-Ford Algorithm",
+        "description": "Given a weighted, directed graph with V vertices and E edges, and a source vertex S, find the shortest paths from S to all other vertices. This algorithm can handle negative edge weights and detect negative cycles.",
+        "input_format": "First line: V and E. Next E lines: u, v, w (edge from u to v with weight w). Last line: source S (0-indexed).",
+        "output_format": "V space-separated integers: shortest distances from S. If negative cycle reachable from S, print 'Negative Cycle Detected'. If unreachable, use 'INF'.",
+        "example": "Input: 5 8\n0 1 -1\n0 2 4\n1 2 3\n1 3 2\n1 4 2\n3 2 5\n3 1 1\n4 3 -3\n0\nOutput: 0 -1 2 -2 0",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 106,
+        "title": "Floyd-Warshall Algorithm (All Pairs Shortest Path)",
+        "description": "Given a weighted directed graph, find the shortest paths between all pairs of vertices. The graph can have negative edge weights but no negative cycles.",
+        "input_format": "First line: V (number of vertices). Next V lines: V space-separated integers representing the adjacency matrix (use a large number for infinity if no direct edge).",
+        "output_format": "V lines, each with V space-separated integers: the shortest distance matrix. If no path, use 'INF'.",
+        "example": "Input: 4\n0 5 INF 10\nINF 0 3 INF\nINF INF 0 1\nINF INF INF 0\nOutput:\n0 5 8 9 \nINF 0 3 4 \nINF INF 0 1 \nINF INF INF 0 ",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 107,
+        "title": "Kruskal's Algorithm for MST",
+        "description": "Given a connected, undirected graph with weighted edges, find a Minimum Spanning Tree (MST) using Kruskal's algorithm. Print the sum of weights of edges in MST.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v w (edge between u and v with weight w). Vertices 0-indexed.",
+        "output_format": "The sum of weights of the MST.",
+        "example": "Input: 4 5\n0 1 10\n0 2 6\n0 3 5\n1 3 15\n2 3 4\nOutput: 19",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 108,
+        "title": "Prim's Algorithm for MST",
+        "description": "Given a connected, undirected graph with weighted edges, find a Minimum Spanning Tree (MST) using Prim's algorithm. Print the sum of weights of edges in MST.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v w (edge between u and v with weight w). Vertices 0-indexed.",
+        "output_format": "The sum of weights of the MST.",
+        "example": "Input: 4 5\n0 1 10\n0 2 6\n0 3 5\n1 3 15\n2 3 4\nOutput: 19",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 109,
+        "title": "N-Queens Problem (Print All Solutions)",
+        "description": "The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboard such that no two queens threaten each other. Given N, print all distinct solutions (configurations of the board).",
+        "input_format": "A single integer N (e.g., 1 <= N <= 8 for reasonable output size).",
+        "output_format": "Each solution as an N x N grid, where 'Q' denotes a queen and '.' an empty square. Solutions separated by a blank line.",
+        "example": "Input: 4\nOutput:\n.Q..\n...Q\nQ...\n..Q.\n\n..Q.\nQ...\n...Q\n.Q..",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 110,
+        "title": "Longest Increasing Path in a Matrix",
+        "description": "Given an m x n integers matrix, return the length of the longest increasing path in matrix. From each cell, you can either move in four directions: left, right, up, or down. You may not move diagonally or move outside the boundary.",
+        "input_format": "First line: m and n (rows and columns). Next m lines: n integers for the matrix.",
+        "output_format": "The length of the longest increasing path.",
+        "example": "Input: 3 3\n9 9 4\n6 6 8\n2 1 1\nOutput: 4",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 111,
+        "title": "Implement Trie (Prefix Tree)",
+        "description": "Implement a Trie (Prefix Tree) with insert, search, and startsWith methods. `insert(word)` inserts the string `word` into the trie. `search(word)` returns true if `word` is in the trie. `startsWith(prefix)` returns true if there is any word in the trie that starts with the given `prefix`.",
+        "input_format": "Series of operations: 'insert word', 'search word', 'startsWith prefix'.",
+        "output_format": "For 'search' and 'startsWith', print 'true' or 'false'. For 'insert', no output.",
+        "example": "Input:\ninsert apple\nsearch apple\nsearch app\nstartsWith app\ninsert app\nsearch app\nOutput:\ntrue\nfalse\ntrue\ntrue",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 112,
+        "title": "Max Flow (Edmonds-Karp)",
+        "description": "Given a directed graph with capacities on edges, a source S, and a sink T, find the maximum flow from S to T using the Edmonds-Karp algorithm (which uses BFS to find augmenting paths).",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v capacity. Last two lines: S (source) and T (sink). Vertices 0-indexed.",
+        "output_format": "The maximum flow value.",
+        "example": "Input: 6 7\n0 1 10\n0 2 10\n1 3 4\n1 2 2\n2 4 9\n3 5 10\n4 3 6\n0 5\nOutput: 14",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 113,
+        "title": "Articulation Points in a Graph",
+        "description": "Given an undirected connected graph, find all articulation points (cut vertices). An articulation point is a vertex whose removal increases the number of connected components.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (edge between u and v). Vertices 0-indexed.",
+        "output_format": "Space-separated articulation points in increasing order. If none, print 'None'.",
+        "example": "Input: 5 5\n0 1\n1 2\n2 0\n1 3\n3 4\nOutput: 1 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 114,
+        "title": "Bridges in a Graph",
+        "description": "Given an undirected connected graph, find all bridges. A bridge is an edge whose removal increases the number of connected components.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (edge between u and v). Vertices 0-indexed.",
+        "output_format": "Each bridge (u v, where u < v) on a new line, sorted by u then by v. If none, print 'None'.",
+        "example": "Input: 5 5\n0 1\n1 2\n2 0\n1 3\n3 4\nOutput:\n1 3\n3 4",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 115,
+        "title": "Strongly Connected Components (Kosaraju)",
+        "description": "Given a directed graph, find all its strongly connected components (SCCs) using Kosaraju's algorithm. An SCC is a subgraph where every vertex is reachable from every other vertex in that subgraph.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (directed edge from u to v). Vertices 0-indexed.",
+        "output_format": "Each SCC on a new line, with vertices in the SCC space-separated and sorted. SCCs themselves should be identifiable (e.g. sorted by first element).",
+        "example": "Input: 5 5\n0 1\n1 2\n2 0\n1 3\n3 4\nOutput:\n0 1 2 \n3 \n4 ",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 116,
+        "title": "Median of Two Sorted Arrays",
+        "description": "Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).",
+        "input_format": "First line: m (size of nums1). Second line: m sorted integers for nums1. Third line: n (size of nums2). Fourth line: n sorted integers for nums2.",
+        "output_format": "The median value (float with one decimal place if average of two).",
+        "example": "Input: 2\n1 3\n1\n2\nOutput: 2.0",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 117,
+        "title": "Text Justification",
+        "description": "Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified. Pack as many words as you can in each line. Pad extra spaces ' ' when necessary so that each line has exactly maxWidth characters. Extra spaces between words should be distributed as evenly as possible. If the number of spaces on a line does not divide evenly between words, the empty slots on the left will be assigned more spaces than the slots on the right. For the last line of text, it should be left-justified and no extra space is inserted between words.",
+        "input_format": "First line: integer N (number of words). Next N lines: words. Last line: integer maxWidth.",
+        "output_format": "The justified text, each line within quotes.",
+        "example": "Input: 4\nThis\nis\nan\nexample\n16\nOutput:\n\"This    is    an\"\n\"example  \"\n(Note: example output might need careful formatting for spaces to show correctly)",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 118,
+        "title": "Merge K Sorted Lists",
+        "description": "You are given an array of k linked-lists lists, each linked-list is sorted in ascending order. Merge all the linked-lists into one sorted linked-list and return it.",
+        "input_format": "First line: integer k (number of lists). Next k lines: each line starts with count N_i, followed by N_i sorted integers for that list.",
+        "output_format": "The merged sorted list, elements space-separated.",
+        "example": "Input: 3\n3 1 4 5\n3 1 3 4\n2 2 6\nOutput: 1 1 2 3 4 4 5 6",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 119,
+        "title": "LRU Cache Implementation",
+        "description": "Design and implement a data structure for Least Recently Used (LRU) cache. It should support `get(key)` and `put(key, value)` operations. `get(key)`: Get the value of the key if the key exists in the cache, otherwise return -1. `put(key, value)`: Set or insert the value if the key is not already present. When the cache reached its capacity, it should invalidate the least recently used item before inserting a new item.",
+        "input_format": "First line: capacity. Next lines: operations 'put key value' or 'get key'.",
+        "output_format": "For each 'get' operation, print the value or -1.",
+        "example": "Input: 2\nput 1 1\nput 2 2\nget 1\nput 3 3\nget 2\nput 4 4\nget 1\nget 3\nget 4\nOutput:\n1\n-1\n-1\n3\n4",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 120,
+        "title": "Regular Expression Matching (Simplified)",
+        "description": "Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'. '.' Matches any single character. '*' Matches zero or more of the preceding element. The matching should cover the entire input string (not partial).",
+        "input_format": "First line: string s. Second line: pattern p.",
+        "output_format": "Print 'true' or 'false'.",
+        "example": "Input: aab\nc*a*b\nOutput: true",
+        "difficulty": "Hard"
+    },
+
+    {
+        "id": 21,
+        "title": "Longest Common Subsequence (Length)",
+        "description": "Given two strings, find the length of their longest common subsequence.",
+        "input_format": "Two strings s1 and s2, each on a new line.",
+        "output_format": "An integer representing the length of the LCS.",
+        "example": "Input: AGGTAB\nGXTXAYB\nOutput: 4",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 22,
+        "title": "0/1 Knapsack Problem (Max Value)",
+        "description": "Given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. You cannot break an item, either pick the complete item or don’t pick it (0-1 property).",
+        "input_format": "First line: Two integers N (number of items) and W (knapsack capacity). Next N lines: two integers, value and weight of each item.",
+        "output_format": "The maximum total value.",
+        "example": "Input: 3 50\n60 10\n100 20\n120 30\nOutput: 220",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 23,
+        "title": "N-Queens Problem (Count Solutions)",
+        "description": "The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboard such that no two queens threaten each other. Given N, find the total number of distinct solutions.",
+        "input_format": "A single integer N (1 <= N <= 10).",
+        "output_format": "The total number of distinct ways to place N queens.",
+        "example": "Input: 4\nOutput: 2",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 24,
+        "title": "Tower of Hanoi (Print Moves)",
+        "description": "The Tower of Hanoi is a mathematical puzzle. It consists of three rods and a number of disks of different sizes which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top. The objective is to move the entire stack to another rod, obeying specific rules. Given N disks, print the sequence of moves.",
+        "input_format": "A single integer N (number of disks).",
+        "output_format": "Print each move in the format 'Move disk X from rod S to rod D', where X is disk number, S is source rod (e.g., A, B, C or 1, 2, 3), and D is destination rod. Assume source is 'A', auxiliary is 'B', destination is 'C'.",
+        "example": "Input: 2\nOutput:\nMove disk 1 from rod A to rod B\nMove disk 2 from rod A to rod C\nMove disk 1 from rod B to rod C",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 25,
+        "title": "Merge Sort Implementation",
+        "description": "Implement the Merge Sort algorithm to sort an array of integers in ascending order.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "The sorted array with elements separated by spaces.",
+        "example": "Input: 6\n12 11 13 5 6 7\nOutput: 5 6 7 11 12 13",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 26,
+        "title": "All Permutations of a String",
+        "description": "Given a string, print all its distinct permutations in lexicographical order.",
+        "input_format": "A single string s (characters may not be unique).",
+        "output_format": "All distinct permutations, each on a new line, in lexicographical order.",
+        "example": "Input: ABA\nOutput:\nAAB\nABA\nBAA",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 27,
+        "title": "Validate Sudoku Board",
+        "description": "Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules: Each row must contain the digits 1-9 without repetition. Each column must contain the digits 1-9 without repetition. Each of the nine 3x3 sub-grids of the grid must contain the digits 1-9 without repetition. (Empty cells are represented by '.' or 0).",
+        "input_format": "Nine lines, each containing 9 characters (digits '1'-'9' or '.').",
+        "output_format": "Print 'Valid' or 'Invalid'.",
+        "example": "Input:\n53..7....\n6..195...\n.98....6.\n8...6...3\n4..8.3..1\n7...2...6\n.6....28.\n...419..5\n....8..79\nOutput: Valid",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 28,
+        "title": "Dijkstra's Algorithm (Shortest Path)",
+        "description": "Given a weighted, directed graph and a source vertex, find the shortest paths from the source to all other vertices using Dijkstra's algorithm. Assume non-negative weights.",
+        "input_format": "First line: V (number of vertices) and E (number of edges). Next E lines: u, v, w (edge from u to v with weight w). Last line: source vertex S (0-indexed).",
+        "output_format": "Print V space-separated integers representing the shortest distance from S to each vertex i (0 to V-1). If a vertex is unreachable, print -1 or a very large number.",
+        "example": "Input: 5 6\n0 1 2\n0 2 4\n1 2 1\n1 3 7\n2 4 3\n3 4 1\n0\nOutput: 0 2 3 9 6",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 29,
+        "title": "Detect Cycle in a Linked List",
+        "description": "Given the head of a singly linked list, determine if the linked list has a cycle in it.",
+        "input_format": "The input will be specific to the environment, typically providing the head of a linked list. For a command-line example: first line N (number of nodes), then N values. Then an integer P, the 0-indexed position the last node's next pointer connects to (-1 if no cycle).",
+        "output_format": "Print 'Cycle Detected' or 'No Cycle'.",
+        "example": "Input structure (conceptual): Nodes: 1->2->3->4->5, and node 5 points back to node 2.\nOutput: Cycle Detected",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 30,
+        "title": "Longest Increasing Subsequence (Length)",
+        "description": "Given an array of integers, find the length of the longest subsequence in which the elements are in strictly increasing order.",
+        "input_format": "First line: an integer N (size of the array). Second line: N space-separated integers.",
+        "output_format": "An integer representing the length of the LIS.",
+        "example": "Input: 8\n10 22 9 33 21 50 41 60\nOutput: 5",
+        "difficulty": "Hard"
+    },
+       {
+        "id": 181,
+        "title": "Longest Palindromic Substring (DP O(N^2))",
+        "description": "Given a string, find the longest substring which is a palindrome using dynamic programming.",
+        "input_format": "A single string s.",
+        "output_format": "The longest palindromic substring. (If multiple, any one)",
+        "example": "Input: forgeeksskeegfor\nOutput: geeksskeeg",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 182,
+        "title": "Optimal Binary Search Tree (Cost)",
+        "description": "Given a sorted sequence of n keys and their frequencies of being searched, construct an optimal binary search tree that minimizes the expected search cost.",
+        "input_format": "First line: N (number of keys). Second line: N sorted keys. Third line: N frequencies for each key.",
+        "output_format": "The minimum cost of the optimal BST.",
+        "example": "Input: 3\n10 12 20\n34 8 50\nOutput: 142",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 183,
+        "title": "Boolean Parenthesization Count",
+        "description": "Given a boolean expression consisting of symbols 'T' (true), 'F' (false), and operators '&' (AND), '|' (OR), '^' (XOR). Count the number of ways to parenthesize the expression such that it evaluates to true.",
+        "input_format": "A string representing the boolean expression (e.g., T|F&T).",
+        "output_format": "Number of ways to make the expression true.",
+        "example": "Input: T^F|T\nOutput: 2",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 184,
+        "title": "Maximum Sum Increasing Subsequence",
+        "description": "Given an array of n positive integers, find the sum of the maximum sum subsequence of the given array such that the integers in the subsequence are sorted in increasing order.",
+        "input_format": "First line: N (size of array). Second line: N space-separated positive integers.",
+        "output_format": "The maximum sum of an increasing subsequence.",
+        "example": "Input: 7\n1 101 2 3 100 4 5\nOutput: 106",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 185,
+        "title": "Find Path Between Two Vertices in a Graph (DFS/BFS)",
+        "description": "Given a directed or undirected graph and two vertices S and D, determine if a path exists from S to D. If yes, print one such path.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (edge). Next line: S and D.",
+        "output_format": "Print 'Path Found: S -> ... -> D' or 'No Path Found'.",
+        "example": "Input: 7 6\n0 1\n0 2\n1 3\n1 4\n2 5\n2 6\n0 6\nOutput: Path Found: 0 -> 2 -> 6",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 186,
+        "title": "Detect Cycle in a Directed Graph (DFS)",
+        "description": "Given a directed graph, check whether the graph contains a cycle using DFS.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (directed edge from u to v).",
+        "output_format": "Print 'Cycle Detected' or 'No Cycle'.",
+        "example": "Input: 4 4\n0 1\n1 2\n2 3\n3 1\nOutput: Cycle Detected",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 187,
+        "title": "Check if Graph is Bipartite (BFS/DFS)",
+        "description": "Given an undirected graph, determine if it is bipartite. A graph is bipartite if its vertices can be divided into two disjoint sets U and V such that every edge connects a vertex in U to one in V.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (undirected edge).",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 4 4\n0 1\n0 3\n1 2\n2 3\nOutput: No",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 188,
+        "title": "Diameter of a Binary Tree",
+        "description": "The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root. Find the diameter.",
+        "input_format": "Tree representation (e.g., level order array with nulls).",
+        "output_format": "The diameter of the tree (number of edges).",
+        "example": "Conceptual Input: Root of tree where longest path is 5 nodes (4 edges).\nOutput: 4",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 189,
+        "title": "Convert Binary Tree to its Sum Tree",
+        "description": "Convert a given Binary Tree to its Sum Tree. A Sum Tree is a Binary Tree where the value of a node is equal to sum of the nodes present in its left subtree and right subtree. An empty node sum is 0. A leaf node value is 0 in sum tree.",
+        "input_format": "Tree representation.",
+        "output_format": "The root of the modified Sum Tree (verify by printing its inorder traversal).",
+        "example": "Input Tree:     10\n               /    \\\n             -2      6\n           /   \\   /  \\\n          8    -4 7    5\nOutput Sum Tree (represented by its inorder): 0 20 0 27 0 12 0",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 190,
+        "title": "Serialize and Deserialize a Binary Tree",
+        "description": "Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network. Design an algorithm to serialize and deserialize a binary tree.",
+        "input_format": "For serialize: root of tree. For deserialize: serialized string.",
+        "output_format": "Serialize: a string. Deserialize: root of reconstructed tree. Verify correctness.",
+        "example": "Tree: [1,2,3,null,null,4,5]\nSerialize: \"1,2,null,null,3,4,null,null,5,null,null,\"\nDeserialize from string to match original tree.",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 191,
+        "title": "Morris Traversal for Inorder",
+        "description": "Perform an inorder traversal of a binary tree using Morris Traversal, which uses O(1) extra space (excluding output).",
+        "input_format": "Tree representation.",
+        "output_format": "Space-separated inorder traversal of nodes.",
+        "example": "Conceptual Input: Tree [4,2,5,1,3]\nOutput: 1 2 3 4 5",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 192,
+        "title": "Construct Suffix Array (Naive O(N^2 logN) or better)",
+        "description": "Given a string, construct its suffix array. A suffix array is a sorted array of all suffixes of a given string. For this problem, print the starting indices of sorted suffixes.",
+        "input_format": "A single string s.",
+        "output_format": "Space-separated indices of the suffix array.",
+        "example": "Input: banana\nOutput: 5 3 1 0 4 2",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 193,
+        "title": "Print All Paths from Source to Destination in a Grid",
+        "description": "Given an M x N grid, find all possible paths from the top-left cell (0,0) to the bottom-right cell (M-1, N-1). You can only move right or down.",
+        "input_format": "Two integers M and N (dimensions of the grid).",
+        "output_format": "Each path on a new line (e.g., sequence of R and D moves, or list of cells).",
+        "example": "Input: 2 2\nOutput:\nRD\nDR",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 194,
+        "title": "M-Coloring Problem (Graph Coloring)",
+        "description": "Given an undirected graph and a number of colors M, determine if the graph can be colored with at most M colors such that no two adjacent vertices have the same color. If yes, print one such coloring.",
+        "input_format": "First line: V (vertices), E (edges), M (colors). Next E lines: u v (edge).",
+        "output_format": "Print 'Possible' and the color assignment (0 to M-1 for each vertex), or 'Not Possible'.",
+        "example": "Input: 4 5 3\n0 1\n0 2\n0 3\n1 2\n2 3\nOutput: Possible\nColors: 0 1 2 1 (example assignment)",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 195,
+        "title": "Count Inversions in an Array (Merge Sort based O(N logN))",
+        "description": "An inversion in an array a[] is a pair of indices (i, j) such that i < j and a[i] > a[j]. Count the number of inversions in the given array using an efficient O(N logN) approach (e.g., modify merge sort).",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The number of inversions.",
+        "example": "Input: 5\n2 4 1 3 5\nOutput: 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 196,
+        "title": "Maximum Points on a Line",
+        "description": "Given N_POINTS points on a 2D plane, find the maximum number of points that lie on the same straight line.",
+        "input_format": "First line: N_POINTS. Next N_POINTS lines: x y coordinates.",
+        "output_format": "The maximum number of collinear points.",
+        "example": "Input: 6\n1 1\n2 2\n3 3\n1 2\n2 3\n3 4\nOutput: 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 197,
+        "title": "Find K Largest Elements in an Array (Heap)",
+        "description": "Given an unsorted array of integers, find the K largest elements using a min-heap of size K.",
+        "input_format": "First line: N (size of array) and K. Second line: N space-separated integers.",
+        "output_format": "The K largest elements, space-separated (order among them doesn't matter).",
+        "example": "Input: 7 3\n3 10 4 7 15 2 9\nOutput: 10 15 9",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 198,
+        "title": "Median in a Stream of Integers",
+        "description": "Given that integers are read from a data stream, find the median of the elements read so far at each step. Use two heaps (max-heap for left half, min-heap for right half).",
+        "input_format": "First line: N (number of integers in stream). Second line: N space-separated integers.",
+        "output_format": "N lines, each showing the median after reading the current integer (float with one decimal place).",
+        "example": "Input: 5\n5 15 1 3 8\nOutput:\n5.0\n10.0\n5.0\n4.0\n5.0",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 199,
+        "title": "Find Element Appearing Once (Others Twice)",
+        "description": "In a given array of integers, all elements appear twice except for one element which appears only once. Find that unique element efficiently (e.g., using XOR).",
+        "input_format": "First line: N (size of array, N is odd). Second line: N space-separated integers.",
+        "output_format": "The unique element.",
+        "example": "Input: 7\n2 3 5 4 5 3 2\nOutput: 4",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 200,
+        "title": "Aho-Corasick Algorithm (Conceptual Pattern Matching)",
+        "description": "Implement a basic version or describe the process of the Aho-Corasick algorithm for finding all occurrences of a set of patterns (dictionary) in a text. For a practical problem, find if any of a given set of keywords appear in a text.",
+        "input_format": "First line: text string. Second line: K (number of keywords). Next K lines: keywords.",
+        "output_format": "Print 'Found' and list keywords found, or 'None found'.",
+        "example": "Input: ushers\n3\nhe\nshe\nhers\nOutput: Found: he hers",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 201,
+        "title": "Word Ladder (Shortest Transformation Sequence)",
+        "description": "Given two words (beginWord and endWord) and a dictionary's word list, find the length of the shortest transformation sequence from beginWord to endWord, such that: Only one letter can be changed at a time. Each transformed word must exist in the word list. Return 0 if no such sequence.",
+        "input_format": "First line: beginWord. Second line: endWord. Third line: N (number of words in list). Next N lines: words in list.",
+        "output_format": "Length of the shortest sequence (number of words).",
+        "example": "Input: hit\ncog\n5\nhot\ndot\ndog\nlot\nlog\nOutput: 5",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 202,
+        "title": "Largest Number from Array",
+        "description": "Given a list of non-negative integers, arrange them such that they form the largest possible number.",
+        "input_format": "First line: N (number of integers). Second line: N space-separated non-negative integers.",
+        "output_format": "The largest number string.",
+        "example": "Input: 4\n54 546 548 60\nOutput: 6054854654",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 203,
+        "title": "Painter's Partition Problem",
+        "description": "Given N boards of varying lengths and K painters, where each painter takes 1 unit of time to paint 1 unit of board. Find the minimum time to paint all boards if painters work in parallel, and each painter can only paint contiguous sections of boards.",
+        "input_format": "First line: K (number of painters). Second line: N (number of boards). Third line: N space-separated lengths of boards.",
+        "output_format": "The minimum time required.",
+        "example": "Input: 2\n4\n10 20 30 40\nOutput: 60",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 204,
+        "title": "Maximum Sum Path in Two Arrays",
+        "description": "Given two sorted arrays, find the maximum sum path. Path can switch from one array to another only at common elements. If no common elements, sum all elements of the array with greater sum.",
+        "input_format": "First line: M (size of arr1). Second line: M sorted integers. Third line: N (size of arr2). Fourth line: N sorted integers.",
+        "output_format": "The maximum sum path.",
+        "example": "Input: 8\n2 3 7 10 12 15 30 34\n7\n1 5 7 8 10 15 20\nOutput: 122",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 205,
+        "title": "Find Smallest Range Covering Elements from K Lists",
+        "description": "You have k lists of sorted integers. Find the smallest range [a, b] that includes at least one number from each of the k lists. The range [a,b] is smaller than [c,d] if b-a < d-c or a < c if b-a == d-c.",
+        "input_format": "First line: K (number of lists). Next K lines: first integer N_i (size of list i), then N_i sorted integers.",
+        "output_format": "Two integers a and b representing the smallest range.",
+        "example": "Input: 3\n4 4 10 15 24\n3 0 9 12\n5 5 18 22 30\nOutput: 20 24",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 206,
+        "title": "Connect Ropes with Minimum Cost",
+        "description": "Given N ropes of different lengths, connect them into a single rope with minimum cost. The cost to connect two ropes is equal to the sum of their lengths.",
+        "input_format": "First line: N (number of ropes). Second line: N space-separated lengths.",
+        "output_format": "The minimum cost.",
+        "example": "Input: 4\n4 3 2 6\nOutput: 29",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 207,
+        "title": "Vertex Cover Problem (Approximate for general, exact for small/trees)",
+        "description": "A vertex cover of an undirected graph is a subset of its vertices such that for every edge (u, v) of the graph, either 'u' or 'v' is in the vertex cover. Find a minimum size vertex cover. (This is NP-Hard for general graphs. For this problem, maybe assume a small graph or a tree where it's polynomial).",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (edge). For a tree input, specify if parent array or adjacency list is given.",
+        "output_format": "Size of the minimum vertex cover.",
+        "example": "Input (Tree example): 6 5\n0 1\n0 2\n1 3\n1 4\n2 5\nOutput: 2 (e.g., {0,1} or {1,2})",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 208,
+        "title": "Find itinerary from a list of tickets",
+        "description": "Given a list of tickets (source, destination) for a journey, find the itinerary in order. Assume there's one valid itinerary, and it forms a single path without cycles starting from a unique source.",
+        "input_format": "First line: N (number of tickets). Next N lines: source destination.",
+        "output_format": "The itinerary as a sequence of locations: src1 -> dest1 (=src2) -> dest2 ...",
+        "example": "Input: 3\nChennai Bangalore\nBombay Delhi\nGoa Chennai\nOutput: Bombay -> Delhi -> Goa -> Chennai -> Bangalore (This example requires finding start first. Re-example: Start: Goa; Goa -> Chennai, Chennai -> Bangalore, Delhi -> Bombay. Path: Delhi -> Bombay ) Needs better example or clearer problem for itinerary. Let's make it: Find unique start and reconstruct. Input: 4\nJFK MUC\nLHR SFO\nMUC LHR\nSJC SFO\nOutput: Not a single path. Example: Input: 3\nBOM DEL\nGOA BOM\nDEL GOA\nOutput: No, still cyclic. Example for simple path: Input: 3\nSFO DFW\nJFK SFO\nDFW ATL\nOutput: JFK -> SFO -> DFW -> ATL",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 209,
+        "title": "Subset Sum Problem (DP)",
+        "description": "Given a set of non-negative integers and a value sum, determine if there is a subset of the given set with sum equal to the given sum.",
+        "input_format": "First line: N (size of set) and target_sum. Second line: N space-separated integers.",
+        "output_format": "Print 'Yes' or 'No'.",
+        "example": "Input: 6 9\n3 34 4 12 5 2\nOutput: Yes",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 210,
+        "title": "Optimal Strategy for a Game (Game Theory with DP)",
+        "description": "Consider a row of n coins of values v1 ... vn. Two players take turns to pick a coin from one of the ends of the row until no coins are left. The player with the larger sum of coins wins. Assuming both play optimally, find the maximum possible amount of money the first player can definitely win.",
+        "input_format": "First line: N (number of coins, N is even). Second line: N space-separated coin values.",
+        "output_format": "The maximum amount the first player can win.",
+        "example": "Input: 4\n8 15 3 7\nOutput: 22",
+        "difficulty": "Hard"
+    },
+      {
+        "id": 271,
+        "title": "Word Wrap Problem (DP)",
+        "description": "Given a sequence of words, and a line width limit, arrange the words into lines such that the sum of squares of extra spaces in each line (except the last) is minimized.",
+        "input_format": "First line: N (number of words). Second line: N space-separated integers (lengths of words). Third line: L (line width limit).",
+        "output_format": "The minimum cost (sum of squares of extra spaces).",
+        "example": "Input: 4\n3 2 2 5\n6\nOutput: 10",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 272,
+        "title": "Box Stacking Problem",
+        "description": "You are given a set of N types of rectangular 3-D boxes, where the i-th box has height h(i), width w(i) and depth d(i). You want to create a stack of boxes which is as tall as possible, but you can only stack a box on top of another box if the dimensions of the 2-D base of the lower box are each strictly larger than those of the 2-D base of the higher box. You can rotate a box so that any side functions as its base. Find the maximum possible height of the stack.",
+        "input_format": "First line: N. Next N lines: h w d for each box type.",
+        "output_format": "Maximum height of stack.",
+        "example": "Input: 4\n4 6 7\n1 2 3\n4 5 6\n10 12 32\nOutput: 60",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 273,
+        "title": "Egg Dropping Puzzle (DP)",
+        "description": "You are given K eggs and a building with N floors (from 1 to N). Find the minimum number of trials in the worst case to find the critical floor (the lowest floor from which an egg will break if dropped).",
+        "input_format": "Two integers K (eggs) and N (floors).",
+        "output_format": "Minimum number of trials.",
+        "example": "Input: 2 10\nOutput: 4",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 274,
+        "title": "Longest Bitonic Subsequence",
+        "description": "Given an array arr[0..n-1] of n positive integers, a subsequence of arr[] is called Bitonic if it is first increasing, then decreasing. Find the length of the longest bitonic subsequence.",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "Length of the longest bitonic subsequence.",
+        "example": "Input: 8\n1 11 2 10 4 5 2 1\nOutput: 6",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 275,
+        "title": "Traveling Salesperson Problem (DP with Bitmask, Small N)",
+        "description": "Given a set of N cities and distances between every pair of cities, find the shortest possible route that visits each city exactly once and returns to the starting city. N will be small (e.g., <= 15).",
+        "input_format": "First line: N. Next N lines: N space-separated integers for the adjacency matrix representing distances (dist[i][j]).",
+        "output_format": "The minimum tour length.",
+        "example": "Input: 4\n0 10 15 20\n10 0 35 25\n15 35 0 30\n20 25 30 0\nOutput: 80",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 276,
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "description": "Given preorder and inorder traversal of a tree, construct the binary tree. Assume that duplicates do not exist in the tree.",
+        "input_format": "First line: N (number of nodes). Second line: N space-separated integers for preorder. Third line: N space-separated integers for inorder.",
+        "output_format": "Root of constructed tree (Verify by printing postorder, for example).",
+        "example": "Input: 6\n3 9 20 15 7 8\n9 3 15 20 7 8\nOutput (Postorder): 9 15 7 8 20 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 277,
+        "title": "Populating Next Right Pointers in Each Node (Perfect Binary Tree)",
+        "description": "You are given a perfect binary tree where all leaves are at the same level, and every parent has two children. Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL. Initially, all next pointers are NULL.",
+        "input_format": "Tree representation of a perfect binary tree.",
+        "output_format": "The modified tree (verify by level order traversal showing next pointers).",
+        "example": "Input Tree: 1 -> (2,3), 2 -> (4,5), 3 -> (6,7)\nOutput: 1->NULL, 2->3, 3->NULL, 4->5, 5->6, 6->7, 7->NULL (next pointers)",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 278,
+        "title": "Max Path Sum in a Binary Tree (Any Node to Any Node)",
+        "description": "A path in a binary tree is a sequence of nodes where each pair of adjacent nodes in the sequence has an edge connecting them. A node can only appear in the sequence at most once. A path must contain at least one node. Find the maximum sum of any path.",
+        "input_format": "Tree representation.",
+        "output_format": "The maximum path sum.",
+        "example": "Input Tree: [-10,9,20,null,null,15,7]\nOutput: 42 (Path: 15-20-7)",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 279,
+        "title": "Minimum Window Substring",
+        "description": "Given two strings S and T, find the minimum window in S which will contain all the characters in T in complexity O(n). If there is no such window, return an empty string. If there are multiple such windows, return the one with the earliest start index.",
+        "input_format": "First line: string S. Second line: string T.",
+        "output_format": "The minimum window substring or empty string.",
+        "example": "Input: ADOBECODEBANC\nABC\nOutput: BANC",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 280,
+        "title": "Combination Sum (Unique Combinations, Numbers Reusable)",
+        "description": "Given a set of candidate numbers (candidates) (without duplicates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target. The same repeated number may be chosen from candidates an unlimited number of times. Unique combinations means the frequency of numbers used matters.",
+        "input_format": "First line: N (num candidates) and target. Second line: N candidate numbers.",
+        "output_format": "Each unique combination on a new line, numbers sorted, combinations sorted.",
+        "example": "Input: 4 7\n2 3 6 7\nOutput:\n2 2 3 \n7 ",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 281,
+        "title": "Palindrome Partitioning",
+        "description": "Given a string s, partition s such that every substring of the partition is a palindrome. Return all possible palindrome partitioning of s.",
+        "input_format": "A single string s.",
+        "output_format": "Each valid partitioning on a new line, partitions sorted.",
+        "example": "Input: aab\nOutput:\na a b \naa b ",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 282,
+        "title": "Bipartite Matching (Max Cardinality using Ford-Fulkerson / Hopcroft-Karp conceptual)",
+        "description": "Given a bipartite graph, find the maximum number of edges that can be chosen such that no two edges share a common vertex (maximum cardinality matching).",
+        "input_format": "First line: U (nodes in set 1), V (nodes in set 2), E (edges). Next E lines: u v (edge from u in U to v in V). Nodes 0-indexed.",
+        "output_format": "The size of the maximum matching.",
+        "example": "Input: 4 4 5\n0 0\n0 1\n1 1\n2 2\n3 2\nOutput: 3",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 283,
+        "title": "Implement Segment Tree (Range Sum Query, Point Update)",
+        "description": "Implement a segment tree that supports range sum queries and point updates on an array.",
+        "input_format": "First line: N (array size). Second line: N array elements. Next line: Q (num queries). Next Q lines: 'query l r' or 'update idx val'.",
+        "output_format": "For each 'query', print the sum. For 'update', no output.",
+        "example": "Input: 5\n1 2 3 4 5\n3\nquery 0 2\nupdate 1 10\nquery 0 2\nOutput:\n6\n14",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 284,
+        "title": "Implement Fenwick Tree (BIT - Range Sum, Point Update)",
+        "description": "Implement a Fenwick Tree (Binary Indexed Tree) that supports prefix sum queries (hence range sum) and point updates on an array.",
+        "input_format": "Similar to Segment Tree: array, then queries 'query r' (for prefix sum up to r) or 'update idx val'.",
+        "output_format": "For each 'query', print prefix sum. For 'update', no output.",
+        "example": "Input: 5\n1 2 3 4 5\n3\nquery 2 (sum up to index 2)\nupdate 1 10 (arr[1] becomes 10)\nquery 2\nOutput:\n6\n14",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 285,
+        "title": "Chinese Remainder Theorem (Application)",
+        "description": "Given k congruences of the form x = rem[i] (mod num[i]), find the smallest positive integer x that satisfies all congruences. Assume num[i] are pairwise coprime.",
+        "input_format": "First line: K (number of congruences). Next K lines: num[i] rem[i].",
+        "output_format": "The smallest positive integer x.",
+        "example": "Input: 3\n3 2\n5 3\n7 2\nOutput: 23",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 286,
+        "title": "Karger's Algorithm for Min Cut (Conceptual/Randomized)",
+        "description": "Implement Karger's randomized algorithm to find a minimum cut in a connected, undirected graph. Since it's randomized, one run may not give the true min cut; typically run multiple times.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (edge).",
+        "output_format": "The size of a cut found (potentially minimum cut).",
+        "example": "Input: 4 5\n0 1\n0 2\n0 3\n1 3\n2 3\nOutput: 2 (one possible min cut)",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 287,
+        "title": "Tarjan's Algorithm for Strongly Connected Components",
+        "description": "Implement Tarjan's algorithm to find all Strongly Connected Components (SCCs) in a directed graph.",
+        "input_format": "First line: V (vertices) and E (edges). Next E lines: u v (directed edge).",
+        "output_format": "Each SCC on a new line, vertices space-separated and sorted. SCCs sorted by first element.",
+        "example": "Input: 5 5\n0 1\n1 2\n2 0\n1 3\n3 4\nOutput:\n0 1 2 \n3 \n4 ",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 288,
+        "title": "Count of Smaller Numbers After Self (Merge Sort/BIT)",
+        "description": "You are given an integer array nums and you have to return a new counts array. The counts array has the property where counts[i] is the number of smaller elements to the right of nums[i].",
+        "input_format": "First line: N (size of array). Second line: N space-separated integers.",
+        "output_format": "The counts array, space-separated.",
+        "example": "Input: 4\n5 2 6 1\nOutput: 2 1 1 0",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 289,
+        "title": "Alien Dictionary (Topological Sort variant)",
+        "description": "There is a new alien language which uses the latin alphabet. However, the order among letters are unknown to you. You receive a list of non-empty words from the dictionary, where words are sorted lexicographically by the rules of this new language. Derive the order of letters in this language.",
+        "input_format": "First line: N (number of words). Next N lines: words.",
+        "output_format": "A string representing the letter order. If invalid order or multiple, handle appropriately (e.g., one valid order, or error).",
+        "example": "Input: 3\nwrt\nwrf\ner\nOutput: wertf",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 290,
+        "title": "Wildcard Pattern Matching",
+        "description": "Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'. '?' Matches any single character. '*' Matches any sequence of characters (including the empty sequence). The matching should cover the entire input string.",
+        "input_format": "First line: string s. Second line: pattern p.",
+        "output_format": "Print 'true' or 'false'.",
+        "example": "Input: aa\na*\nOutput: true",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 291,
+        "title": "Maximum Rectangle of 1s in a Binary Matrix",
+        "description": "Given a 2D binary matrix filled with 0s and 1s, find the largest rectangle containing only 1s and return its area. (Hint: Use largest rectangle in histogram for each row).",
+        "input_format": "First line: R and C (rows and columns). Next R lines: C characters ('0' or '1').",
+        "output_format": "The area of the largest rectangle of 1s.",
+        "example": "Input: 4 5\n10100\n10111\n11111\n10010\nOutput: 6",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 292,
+        "title": "Smallest Superstring",
+        "description": "Given a set of n strings, find the smallest superstring that contains each string in the set as a substring. The strings are not necessarily distinct. (This is NP-hard, aim for an approach for small n or a greedy approximation).",
+        "input_format": "First line: N (number of strings). Next N lines: strings.",
+        "output_format": "The smallest superstring.",
+        "example": "Input: 3\ncatg\nctaagt\nagcat\nOutput: agcatgctaagt (or similar, depending on overlap strategy)",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 293,
+        "title": "Number of Atoms (Parse Chemical Formula)",
+        "description": "Given a chemical formula (string), count the number of atoms of each element. A formula can contain element names (start with uppercase, followed by lowercase), counts (digits after element/parentheses), and parentheses.",
+        "input_format": "A string representing a chemical formula.",
+        "output_format": "String representing counts of elements sorted alphabetically (e.g., H2O, Mg(OH)2 -> H2MgO2).",
+        "example": "Input: K4(ON(SO3)2)2\nOutput: K4N2O14S4",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 294,
+        "title": "Find K Pairs with Smallest Sums",
+        "description": "You are given two integer arrays nums1 and nums2 sorted in ascending order and an integer k. Define a pair (u,v) which consists of one element from the first array and one element from the second array. Find the k pairs (u1,v1),(u2,v2) ...(uk,vk) with the smallest sums.",
+        "input_format": "First line: M (size of nums1). Second line: M integers. Third line: N (size of nums2). Fourth line: N integers. Fifth line: K.",
+        "output_format": "K pairs (u v), each on a new line, sorted by sum.",
+        "example": "Input: 3\n1 7 11\n3\n2 4 6\n3\nOutput:\n1 2\n1 4\n1 6",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 295,
+        "title": "Optimal Account Balancing (Transaction Settlement)",
+        "description": "A group of friends went on a trip and now want to settle up. Given a list of transactions where transactions[i] = [from_i, to_i, amount_i], representing person from_i gave person to_i amount_i dollars. Return the minimum number of transactions required to settle the debt.",
+        "input_format": "First line: N_people (people are 0 to N-1). Second line: T (num transactions). Next T lines: from_id to_id amount.",
+        "output_format": "Minimum number of transactions to settle.",
+        "example": "Input: 3\n2\n0 1 10\n1 2 5\nOutput: 2 (e.g., 0 pays 5 to 2, 1 pays 5 to 2)",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 296,
+        "title": "Split Array Largest Sum",
+        "description": "Given an array nums which consists of non-negative integers and an integer m, you can split the array into m non-empty continuous subarrays. Write an algorithm to minimize the largest sum among these m subarrays.",
+        "input_format": "First line: N (size of nums) and M. Second line: N non-negative integers.",
+        "output_format": "The minimized largest sum.",
+        "example": "Input: 5 2\n7 2 5 10 8\nOutput: 18",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 297,
+        "title": "Remove Invalid Parentheses",
+        "description": "Given a string s that contains parentheses and letters, remove the minimum number of invalid parentheses to make the input string valid. Return all possible results (in any order).",
+        "input_format": "A single string s.",
+        "output_format": "All valid strings after removing minimum parentheses, each on a new line.",
+        "example": "Input: (a)())()\nOutput:\n(a())()\n(a)()()",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 298,
+        "title": "Burst Balloons (DP)",
+        "description": "You are given n balloons, indexed from 0 to n-1. Each balloon has a number painted on it represented by an array nums. You are asked to burst all the balloons. If you burst the ith balloon, you will get nums[left] * nums[i] * nums[right] coins. Here left and right are adjacent indices of i. After the burst, the left and right then become adjacent. Find the maximum coins you can collect by bursting the balloons wisely. (Assume nums[-1] = nums[n] = 1).",
+        "input_format": "First line: N (number of balloons). Second line: N integers for nums array.",
+        "output_format": "Maximum coins.",
+        "example": "Input: 4\n3 1 5 8\nOutput: 167",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 299,
+        "title": "Range Frequency Queries (MO's Algorithm or Sqrt Decomposition)",
+        "description": "Given an array and Q queries. Each query consists of a range [L, R] and a number X. For each query, find the frequency of X in the subarray arr[L...R]. (Focus on an efficient approach for many queries).",
+        "input_format": "First line: N (array size). Second line: N array elements. Third line: Q (num queries). Next Q lines: L R X (0-indexed L, R).",
+        "output_format": "For each query, print the frequency.",
+        "example": "Input: 8\n1 2 2 3 2 3 4 2\n3\n0 4 2\n1 6 3\n0 7 5\nOutput:\n3\n2\n0",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 300,
+        "title": "Find the Shortest Supersequence (Two Strings)",
+        "description": "Given two strings X and Y, find the length of the shortest string that has both X and Y as subsequences. This is related to LCS.",
+        "input_format": "Two strings X and Y, each on a new line.",
+        "output_format": "Length of the shortest supersequence.",
+        "example": "Input: AGGTAB\nGXTXAYB\nOutput: 9",
+        "difficulty": "Hard"
+    }
+]
