@@ -1,0 +1,492 @@
+{
+  "test_id": "SECTIONAL_REASONING_01",
+  "title": "Reasoning Sectional Mock Test",
+  "sections": [
+    {
+      "title": "Reasoning",
+      "duration_minutes": 50,
+      "questions": [
+        {
+          "id": "REAS01",
+          "question": "Find the next term in the series: 2, 4, 8, 16, ?",
+          "options": {
+            "A": "24",
+            "B": "30",
+            "C": "32",
+            "D": "34"
+          },
+          "correct_option": "C",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS02",
+          "question": "If 'FLOWER' is coded as 'GKNVDQ', how is 'GARDEN' coded?",
+          "options": {
+            "A": "HBSCOF",
+            "B": "HBSCOE",
+            "C": "HBSEOC",
+            "D": "HCSBOF"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS03",
+          "question": "Choose the word which is least like the other words in the group: Apple, Mango, Orange, Rose",
+          "options": {
+            "A": "Apple",
+            "B": "Mango",
+            "C": "Orange",
+            "D": "Rose"
+          },
+          "correct_option": "D",
+          "topic": "Classification (Odd one out)"
+        },
+        {
+          "id": "REAS04",
+          "question": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is the woman in the photograph related to the man?",
+          "options": {
+            "A": "Mother",
+            "B": "Sister",
+            "C": "Aunt",
+            "D": "Daughter"
+          },
+          "correct_option": "B",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS05",
+          "question": "A man walks 5 km East, then turns South and walks 5 km. He then turns East again and walks 5 km. Which direction is he facing now?",
+          "options": {
+            "A": "North",
+            "B": "South",
+            "C": "East",
+            "D": "West"
+          },
+          "correct_option": "C",
+          "topic": "Direction Sense"
+        },
+        {
+          "id": "REAS06",
+          "question": "Complete the analogy: Doctor is to Patient as Lawyer is to ___.",
+          "options": {
+            "A": "Court",
+            "B": "Client",
+            "C": "Judge",
+            "D": "Law"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "REAS07",
+          "question": "Find the next term in the series: A, D, G, J, ?",
+          "options": {
+            "A": "K",
+            "B": "L",
+            "C": "M",
+            "D": "N"
+          },
+          "correct_option": "C",
+          "topic": "Series Completion (Alphabet)"
+        },
+        {
+          "id": "REAS08",
+          "question": "Statements: 1. All cats are animals. 2. All tigers are animals. Conclusions: I. All cats are tigers. II. Some animals are tigers.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "B",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS09",
+          "question": "If '+' means 'x', '-' means '+', 'x' means '/', and '/' means '-', what is the value of $16 + 4 - 2 \\times 8 / 1$?",
+          "options": {
+            "A": "58",
+            "B": "65",
+            "C": "70",
+            "D": "60"
+          },
+          "correct_option": "B",
+          "topic": "Mathematical Operations"
+        },
+        {
+          "id": "REAS10",
+          "question": "In a row of trees, one tree is 5th from either end of the row. How many trees are there in the row?",
+          "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+          },
+          "correct_option": "B",
+          "topic": "Order & Ranking"
+        },
+        {
+          "id": "REAS11",
+          "question": "Find the odd one out: 3, 5, 7, 9, 11, 13",
+          "options": {
+            "A": "5",
+            "B": "7",
+            "C": "9",
+            "D": "13"
+          },
+          "correct_option": "C",
+          "topic": "Classification (Number)"
+        },
+        {
+          "id": "REAS12",
+          "question": "If 'WATER' is written as 'XBUFS', then 'BREAD' is written as:",
+          "options": {
+            "A": "CSFBE",
+            "B": "CSDEC",
+            "C": "DSFBE",
+            "D": "CQFBC"
+          },
+          "correct_option": "C",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS13",
+          "question": "Anil is Ravi's brother. Sonia is Ravi's sister. Rahul is Sonia's father. How is Anil related to Rahul?",
+          "options": {
+            "A": "Son",
+            "B": "Brother",
+            "C": "Nephew",
+            "D": "Father"
+          },
+          "correct_option": "A",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS14",
+          "question": "Which of the following diagrams best represents the relationship between Elephants, Carnivores, and Tigers?",
+          "options": {
+            "A": "Three separate circles",
+            "B": "One circle inside another, and a third separate",
+            "C": "One circle (Tigers) inside another (Carnivores), and Elephants separate",
+            "D": "All three circles intersecting each other partially"
+          },
+          "correct_option": "C",
+          "topic": "Logical Venn Diagrams"
+        },
+        {
+          "id": "REAS15",
+          "question": "Find the missing number: 4, 9, 16, 25, ?, 49",
+          "options": {
+            "A": "30",
+            "B": "32",
+            "C": "36",
+            "D": "40"
+          },
+          "correct_option": "C",
+          "topic": "Series Completion (Number)"
+        },
+        {
+          "id": "REAS16",
+          "question": "Analogy: Flow : River :: Stagnant : ?",
+          "options": {
+            "A": "Rain",
+            "B": "Stream",
+            "C": "Pool",
+            "D": "Canal"
+          },
+          "correct_option": "C",
+          "topic": "Analogies (Word)"
+        },
+        {
+          "id": "REAS17",
+          "question": "If P means 'division', T means 'addition', M means 'subtraction' and D means 'multiplication', then what will be the value of the expression 12 M 12 D 28 P 7 T 15?",
+          "options": {
+            "A": "-30",
+            "B": "-15",
+            "C": "15",
+            "D": "-21"
+          },
+          "correct_option": "D",
+          "topic": "Mathematical Operations"
+        },
+        {
+          "id": "REAS18",
+          "question": "Statement: Should there be a complete ban on plastic bags in India? Arguments: I. Yes, it will help in reducing environmental pollution. II. No, it will cause inconvenience to people and job losses in the plastic industry.",
+          "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Both I and II are strong"
+          },
+          "correct_option": "D",
+          "topic": "Statement and Arguments"
+        },
+        {
+          "id": "REAS19",
+          "question": "Choose the mirror image of 'REASONING' if the mirror is placed vertically to the right.",
+          "options": {
+            "A": "GNINOSAER",
+            "B": "\u00d0\u00af\u00c6\u017dA\u00c6\u00a7O\u00d0\u02dcI\u00d0\u02dcG",
+            "C": "REASO\u00d0\u02dcING",
+            "D": "\u00d7\u00a4\u00d0\u02dcI\u00d0\u02dcOSA\u00c6\u017d\u00d0\u00af"
+          },
+          "correct_option": "D",
+          "topic": "Mirror Images"
+        },
+        {
+          "id": "REAS20",
+          "question": "Find the next pattern: A1Z, B2Y, C3X, ?",
+          "options": {
+            "A": "D4W",
+            "B": "D4V",
+            "C": "E4W",
+            "D": "E5V"
+          },
+          "correct_option": "A",
+          "topic": "Series Completion (Alphanumeric)"
+        },
+        {
+          "id": "REAS21",
+          "question": "Choose the figure that is different from the rest. (Assume figures are: Square, Circle, Triangle, Rectangle with one side curved)",
+          "options": {
+            "A": "Square",
+            "B": "Circle",
+            "C": "Triangle",
+            "D": "Rectangle with one side curved"
+          },
+          "correct_option": "D",
+          "topic": "Classification (Visual - Descriptive)"
+        },
+        {
+          "id": "REAS22",
+          "question": "If 'DELHI' is coded as '73541' and 'CALCUTTA' as '82589662', how can 'CALICUT' be coded?",
+          "options": {
+            "A": "8251896",
+            "B": "8251862",
+            "C": "8521896",
+            "D": "5281896"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS23",
+          "question": "A man is facing North-West. He turns 90 degrees in the clockwise direction and then 135 degrees in the anti-clockwise direction. Which direction is he facing now?",
+          "options": {
+            "A": "East",
+            "B": "West",
+            "C": "North",
+            "D": "South"
+          },
+          "correct_option": "B",
+          "topic": "Direction Sense"
+        },
+        {
+          "id": "REAS24",
+          "question": "Statements: Some actors are singers. All singers are dancers. Conclusions: I. Some actors are dancers. II. No singer is an actor.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "A",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS25",
+          "question": "Analogy: 4 : 16 :: 7 : ?",
+          "options": {
+            "A": "49",
+            "B": "28",
+            "C": "42",
+            "D": "56"
+          },
+          "correct_option": "A",
+          "topic": "Analogies (Number)"
+        },
+        {
+          "id": "REAS26",
+          "question": "Arrange the words in a meaningful logical order: 1. Police 2. Punishment 3. Crime 4. Judge 5. Judgement",
+          "options": {
+            "A": "3, 1, 4, 5, 2",
+            "B": "3, 1, 2, 4, 5",
+            "C": "1, 3, 4, 5, 2",
+            "D": "3, 1, 5, 4, 2"
+          },
+          "correct_option": "A",
+          "topic": "Logical Sequence of Words"
+        },
+        {
+          "id": "REAS27",
+          "question": "In a certain code, 'go home' is written as 'ta na' and 'sweet home' is written as 'ja na'. How is 'sweet' written in that code?",
+          "options": {
+            "A": "ja",
+            "B": "na",
+            "C": "ta",
+            "D": "Cannot be determined"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS28",
+          "question": "How many meaningful English words can be formed with the letters A, E, R, T, using each letter only once in each word?",
+          "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "More than three"
+          },
+          "correct_option": "C",
+          "topic": "Word Formation"
+        },
+        {
+          "id": "REAS29",
+          "question": "Find the next term in the series: 2, 5, 10, 17, 26, ?",
+          "options": {
+            "A": "35",
+            "B": "36",
+            "C": "37",
+            "D": "38"
+          },
+          "correct_option": "C",
+          "topic": "Series Completion (Number)"
+        },
+        {
+          "id": "REAS30",
+          "question": "If 'sky' is 'star', 'star' is 'cloud', 'cloud' is 'earth', 'earth' is 'tree', and 'tree' is 'book', then where do birds fly?",
+          "options": {
+            "A": "Star",
+            "B": "Cloud",
+            "C": "Earth",
+            "D": "Sky"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding (Word Substitution)"
+        },
+        {
+          "id": "REAS31",
+          "question": "Ravi is 7 ranks ahead of Sumit in a class of 39. If Sumit's rank is 17th from the last, what is Ravi's rank from the start?",
+          "options": {
+            "A": "10th",
+            "B": "14th",
+            "C": "15th",
+            "D": "16th"
+          },
+          "correct_option": "D",
+          "topic": "Order & Ranking"
+        },
+        {
+          "id": "REAS32",
+          "question": "Find the odd one out: (A) Pen (B) Pencil (C) Paper (D) Eraser",
+          "options": {
+            "A": "Pen",
+            "B": "Pencil",
+            "C": "Paper",
+            "D": "Eraser"
+          },
+          "correct_option": "C",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS33",
+          "question": "Introducing a boy, a girl said, 'His mother is the only daughter of my mother.' How is the girl related to the boy?",
+          "options": {
+            "A": "Mother",
+            "B": "Sister",
+            "C": "Aunt",
+            "D": "Niece"
+          },
+          "correct_option": "A",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS34",
+          "question": "If $5 \\times 3 = 19$ and $8 \\times 5 = 45$, then $6 \\times 4 = ?",
+          "options": {
+            "A": "28",
+            "B": "26",
+            "C": "30",
+            "D": "24"
+          },
+          "correct_option": "A",
+          "topic": "Mathematical Operations (Pattern based)"
+        },
+        {
+          "id": "REAS35",
+          "question": "What is the water image of the word 'NUCLEAR'?",
+          "options": {
+            "A": "\u00d0\u02dc\u00e2\u02c6\u00a9C\u00ce\u201c\u00d0\u2022\u00e2\u02c6\u20ac\u00d0\u2019",
+            "B": "N\u00d5\u02c6\u00c6\u2020\u00cb\u00a5E\u00e2\u02c6\u20ac\u00d0\u00af",
+            "C": "\u00d0\u02dcUCL\u00c6\u017dAR",
+            "D": "NUCLEAR (inverted vertically)"
+          },
+          "correct_option": "B",
+          "topic": "Water Images"
+        },
+        {
+          "id": "REAS36",
+          "question": "Statement: The government has decided to levy a surcharge of 5% on all airline tickets to fund the drought relief programme. Assumptions: I. The amount collected through surcharge will be sufficient for the drought relief programme. II. People will be willing to pay the surcharge for airline tickets.",
+          "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Both I and II are implicit",
+            "D": "Neither I nor II is implicit"
+          },
+          "correct_option": "C",
+          "topic": "Statement and Assumptions"
+        },
+        {
+          "id": "REAS37",
+          "question": "Find the next term: Z, X, V, T, R, ?, ?",
+          "options": {
+            "A": "P, N",
+            "B": "O, M",
+            "C": "P, M",
+            "D": "Q, O"
+          },
+          "correct_option": "A",
+          "topic": "Series Completion (Alphabet)"
+        },
+        {
+          "id": "REAS38",
+          "question": "Analogy: Reading : Knowledge :: Work : ?",
+          "options": {
+            "A": "Money",
+            "B": "Experience",
+            "C": "Employment",
+            "D": "Experiment"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "REAS39",
+          "question": "Question: Is X the brother of Y? Statements: I. Y is the sister of Z. II. Z is the brother of X.",
+          "options": {
+            "A": "Statement I alone is sufficient.",
+            "B": "Statement II alone is sufficient.",
+            "C": "Both statements together are sufficient.",
+            "D": "Both statements together are not sufficient."
+          },
+          "correct_option": "C",
+          "topic": "Data Sufficiency"
+        },
+        {
+          "id": "REAS40",
+          "question": "A dice is rolled twice. What is the probability of getting a sum of 9?",
+          "options": {
+            "A": "1/6",
+            "B": "1/9",
+            "C": "1/12",
+            "D": "1/8"
+          },
+          "correct_option": "B",
+          "topic": "Probability (Dice)"
+        }
+      ]
+    }
+  ]
+}
