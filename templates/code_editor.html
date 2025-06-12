@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+
+{% block title %}{{ question.title }}{% endblock %}
+
+{% block content %}
+<div class="container my-4">
+  <div class="row">
+    <!-- Left column: 25% width with vertical border -->
+    <div class="col-md-3 border-end pe-4">
+      <a href="{{ url_for('programming_questions') }}" class="btn btn-secondary mb-3">&larr; Back to Questions</a>
+
+      <h3>{{ question.title }}</h3>
+      <p>{{ question.description }}</p>
+      <p><strong>Input Format:</strong> {{ question.input_format }}</p>
+      <p><strong>Output Format:</strong> {{ question.output_format }}</p>
+      <p><strong>Example:</strong> {{ question.example }}</p>
+    </div>
+
+    <!-- Right column: 75% width -->
+    <div class="col-md-9 ps-4">
+      <label for="language" class="form-label">Select Language:</label>
+      <select class="form-select mb-3" id="language">
+        <option value="71" selected>Python</option>
+        <option value="54">C++</option>
+        <option value="62">Java</option>
+      </select>
+
+      <label for="code" class="form-label">Code Editor:</label>
+      <textarea id="code" class="form-control mb-3" rows="15">print("Hello, World!")</textarea>
+
+      <label for="stdin" class="form-label">Custom Input:</label>
+      <input type="text" id="stdin" class="form-control mb-3" placeholder="Enter input (optional)" />
+
+      <div class="text-center">
+        <button class="btn btn-primary" onclick="runCode()">Run Code</button>
+      </div>
+
+
+
+      <h5 class="mt-4">Output:</h5>
+      <pre id="output" class="bg-light p-3 rounded" style="min-height: 150px;"></pre>
+    </div>
+  </div>
+</div>
+
+<!-- CodeMirror CSS and JS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/codemirror.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/codemirror.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/mode/python/python.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/mode/clike/clike.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.5/mode/javascript/javascript.min.js"></script>
+
+<script>
+  // Initialize CodeMirror editor
+  const editor = CodeMirror.fromTextArea(document.getElementById('code'), {
+    lineNumbers: true,
+    mode: 'python',
+    theme: 'default',
+    indentUnit: 4,
+    tabSize: 4,
+    indentWithTabs: false,
+  });
+
+  // Change editor mode based on language selected
+  document.getElementById('language').addEventListener('change', function () {
+    const lang = this.value;
+    let mode = 'python';
+    if (lang == '54') mode = 'text/x-c++src';
+    else if (lang == '62') mode = 'text/x-java';
+    else mode = 'python';
+    editor.setOption('mode', mode);
+  });
+
+  async function runCode() {
+    const source_code = editor.getValue();
+    const language_id = document.getElementById('language').value;
+    const stdin = document.getElementById('stdin').value;
+
+    const res = await fetch('/run_code', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ source_code, language_id, stdin })
+    });
+
+    const data = await res.json();
+    document.getElementById('output').textContent =
+      data.stdout || data.stderr || data.compile_output || "No output.";
+  }
+</script>
+{% endblock %}

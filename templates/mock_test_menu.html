@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container mt-4">
+  <div class="mb-3">
+    <a href="{{ url_for('dashboard') }}" class="btn btn-secondary">← Back to Dashboard</a>
+  </div>
+
+  <h3 class="mb-4">Mock Test Menu</h3>
+
+  {% if verbal_tests %}
+  <!-- 📚 Verbal Section -->
+  <h5 class="mt-4 mb-3">📚 Verbal Section</h5>
+  {% for test in verbal_tests %}
+    <div class="card mb-2 shadow-sm" onclick="startMockTest('{{ test.id }}')">
+      <div class="card-body">
+        <h6 class="card-title">{{ test.title }}</h6>
+        <p class="card-text text-muted">{{ test.description }}</p>
+      </div>
+    </div>
+  {% endfor %}
+  {% endif %}
+
+  {% if quant_tests %}
+  <!-- 📐 Quantitative Section -->
+  <h5 class="mt-4 mb-3">📐 Quantitative Section</h5>
+  {% for test in quant_tests %}
+    <div class="card mb-2 shadow-sm" onclick="startMockTest('{{ test.id }}')">
+      <div class="card-body">
+        <h6 class="card-title">{{ test.title }}</h6>
+        <p class="card-text text-muted">{{ test.description }}</p>
+      </div>
+    </div>
+  {% endfor %}
+  {% endif %}
+
+  {% if reasoning_tests %}
+  <!-- 🧠 Reasoning Section -->
+  <h5 class="mt-4 mb-3">🧠 Reasoning Section</h5>
+  {% for test in reasoning_tests %}
+    <div class="card mb-2 shadow-sm" onclick="startMockTest('{{ test.id }}')">
+      <div class="card-body">
+        <h6 class="card-title">{{ test.title }}</h6>
+        <p class="card-text text-muted">{{ test.description }}</p>
+      </div>
+    </div>
+  {% endfor %}
+  {% endif %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  function startMockTest(testId) {
+    window.location.href = `/mock_test?testId=${testId}`;
+  }
+</script>
+{% endblock %}
