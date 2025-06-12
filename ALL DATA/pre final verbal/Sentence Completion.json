@@ -1,0 +1,850 @@
+{
+  "Subject": "Verbal",
+  "Chapters": [
+    {
+      "Chapter Name": "Sentence Completion",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "She likes to ___ books in her free time.",
+              "options": {
+                "a": "read",
+                "b": "writes",
+                "c": "plays",
+                "d": "cooks"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "The cat is sleeping ___ the sofa.",
+              "options": {
+                "a": "in",
+                "b": "on",
+                "c": "under",
+                "d": "with"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "He is a very ___ student and always gets good grades.",
+              "options": {
+                "a": "lazy",
+                "b": "noisy",
+                "c": "diligent",
+                "d": "slow"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "We went to the beach ___ summer.",
+              "options": {
+                "a": "next",
+                "b": "last",
+                "c": "every",
+                "d": "now"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "Please ___ the door when you leave.",
+              "options": {
+                "a": "open",
+                "b": "close",
+                "c": "break",
+                "d": "push"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "The sun ___ in the east.",
+              "options": {
+                "a": "sets",
+                "b": "rises",
+                "c": "falls",
+                "d": "shines"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "I am hungry, so I will ___ a sandwich.",
+              "options": {
+                "a": "drink",
+                "b": "make",
+                "c": "drive",
+                "d": "sing"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "She wears glasses to ___ better.",
+              "options": {
+                "a": "hear",
+                "b": "taste",
+                "c": "see",
+                "d": "smell"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "The birds are ___ in the tree.",
+              "options": {
+                "a": "running",
+                "b": "swimming",
+                "c": "singing",
+                "d": "sleeping"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "My favorite color is ___.",
+              "options": {
+                "a": "square",
+                "b": "happy",
+                "c": "blue",
+                "d": "big"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "They ___ football every Sunday.",
+              "options": {
+                "a": "eats",
+                "b": "plays",
+                "c": "play",
+                "d": "sleep"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "It's raining ___, so take an umbrella.",
+              "options": {
+                "a": "lightly",
+                "b": "heavily",
+                "c": "softly",
+                "d": "warmly"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "The opposite of \"hot\" is ___.",
+              "options": {
+                "a": "warm",
+                "b": "cold",
+                "c": "cool",
+                "d": "mild"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "He has a dog ___ a cat.",
+              "options": {
+                "a": "but",
+                "b": "or",
+                "c": "and",
+                "d": "so"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "I drink coffee ___ the morning.",
+              "options": {
+                "a": "at",
+                "b": "on",
+                "c": "in",
+                "d": "by"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "She ___ her teeth twice a day.",
+              "options": {
+                "a": "cleans",
+                "b": "combs",
+                "c": "washes",
+                "d": "brushes"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "We need to ___ to the airport early.",
+              "options": {
+                "a": "walk",
+                "b": "drive",
+                "c": "fly",
+                "d": "run"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "He is feeling ___ because he lost his phone.",
+              "options": {
+                "a": "happy",
+                "b": "excited",
+                "c": "sad",
+                "d": "angry"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "The library is a place where you can ___ books.",
+              "options": {
+                "a": "borrow",
+                "b": "buy",
+                "c": "sell",
+                "d": "eat"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "What time do you ___ up in the morning?",
+              "options": {
+                "a": "sit",
+                "b": "get",
+                "c": "stand",
+                "d": "wake"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "I bought some fresh ___ from the market.",
+              "options": {
+                "a": "chairs",
+                "b": "shoes",
+                "c": "vegetables",
+                "d": "cars"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "The child was ___ after playing all day.",
+              "options": {
+                "a": "energetic",
+                "b": "bored",
+                "c": "tired",
+                "d": "hungry"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "He knows how to ___ a bicycle.",
+              "options": {
+                "a": "drive",
+                "b": "ride",
+                "c": "sail",
+                "d": "fly"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "My parents are always ___ of me.",
+              "options": {
+                "a": "proud",
+                "b": "afraid",
+                "c": "angry",
+                "d": "shy"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 25,
+              "question": "Please turn ___ the lights when you leave the room.",
+              "options": {
+                "a": "on",
+                "b": "off",
+                "c": "up",
+                "d": "down"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "She speaks three languages ___.",
+              "options": {
+                "a": "slowly",
+                "b": "loudly",
+                "c": "fluently",
+                "d": "angrily"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 27,
+              "question": "The firemen quickly ___ the fire.",
+              "options": {
+                "a": "started",
+                "b": "extinguished",
+                "c": "watched",
+                "d": "enjoyed"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "The opposite of \"start\" is ___.",
+              "options": {
+                "a": "begin",
+                "b": "end",
+                "c": "launch",
+                "d": "initiate"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "He likes to ___ coffee in the morning.",
+              "options": {
+                "a": "eat",
+                "b": "drink",
+                "c": "bite",
+                "d": "cook"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "The student raised ___ hand to ask a question.",
+              "options": {
+                "a": "his",
+                "b": "her",
+                "c": "its",
+                "d": "their"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Despite the overwhelming evidence, he continued to ___ his innocence.",
+              "options": {
+                "a": "assert",
+                "b": "concede",
+                "c": "relinquish",
+                "d": "propagate"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "The ancient ruins were surprisingly well-___ given their age.",
+              "options": {
+                "a": "preserved",
+                "b": "destroyed",
+                "c": "exposed",
+                "d": "renovated"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 3,
+              "question": "Her ___ approach to problem-solving often leads to innovative solutions.",
+              "options": {
+                "a": "conventional",
+                "b": "unorthodox",
+                "c": "predictable",
+                "d": "rigid"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "The orator's eloquent speech managed to ___ the restless crowd.",
+              "options": {
+                "a": "agitate",
+                "b": "pacify",
+                "c": "infuriate",
+                "d": "provoke"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "The artist's work is characterized by its ___ use of vibrant colors.",
+              "options": {
+                "a": "subdued",
+                "b": "lavish",
+                "c": "scarce",
+                "d": "restrained"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "The judge ruled that the contract was ___ due to a technicality.",
+              "options": {
+                "a": "valid",
+                "b": "void",
+                "c": "binding",
+                "d": "enforceable"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "His ___ for knowledge led him to spend countless hours in the library.",
+              "options": {
+                "a": "apathy",
+                "b": "disdain",
+                "c": "thirst",
+                "d": "aversion"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "The company faced a ___ challenge in adapting to the new market demands.",
+              "options": {
+                "a": "trivial",
+                "b": "formidable",
+                "c": "negligible",
+                "d": "superficial"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "The politician's promises were met with widespread ___, as voters had heard them before.",
+              "options": {
+                "a": "enthusiasm",
+                "b": "skepticism",
+                "c": "admiration",
+                "d": "belief"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "The sudden economic downturn had a ___ impact on global markets.",
+              "options": {
+                "a": "positive",
+                "b": "benign",
+                "c": "detrimental",
+                "d": "trivial"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "She had a ___ ability to recall minute details from her past.",
+              "options": {
+                "a": "remarkable",
+                "b": "ordinary",
+                "c": "limited",
+                "d": "average"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "The scientist's findings were so ___ that they overturned decades of established theory.",
+              "options": {
+                "a": "insignificant",
+                "b": "mundane",
+                "c": "revolutionary",
+                "d": "conventional"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "The dictator maintained his power through ___ and intimidation.",
+              "options": {
+                "a": "benevolence",
+                "b": "compassion",
+                "c": "coercion",
+                "d": "persuasion"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "The ancient manuscript was ___ by centuries of neglect.",
+              "options": {
+                "a": "enhanced",
+                "b": "preserved",
+                "c": "deteriorated",
+                "d": "restored"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "His ___ comments only served to escalate the already tense situation.",
+              "options": {
+                "a": "conciliatory",
+                "b": "provocative",
+                "c": "soothing",
+                "d": "reassuring"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "The new policy was designed to ___ efficiency and reduce waste.",
+              "options": {
+                "a": "impede",
+                "b": "hinder",
+                "c": "optimize",
+                "d": "diminish"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 17,
+              "question": "The widespread ___ of antibiotics has led to antibiotic resistance.",
+              "options": {
+                "a": "underuse",
+                "b": "overuse",
+                "c": "precise use",
+                "d": "limited use"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "The jury delivered a ___ verdict after hours of deliberation.",
+              "options": {
+                "a": "unanimous",
+                "b": "divided",
+                "c": "ambiguous",
+                "d": "contentious"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "The speaker's arguments were so ___ that it was impossible to refute them.",
+              "options": {
+                "a": "fallacious",
+                "b": "cogent",
+                "c": "illogical",
+                "d": "flimsy"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "Despite her initial ___, she soon embraced the new challenge.",
+              "options": {
+                "a": "eagerness",
+                "b": "reluctance",
+                "c": "enthusiasm",
+                "d": "willingness"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "The documentary aimed to ___ the complexities of climate change.",
+              "options": {
+                "a": "obscure",
+                "b": "elucidate",
+                "c": "confuse",
+                "d": "complicate"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "His ___ nature made him unsuitable for a leadership role.",
+              "options": {
+                "a": "decisive",
+                "b": "resolute",
+                "c": "irresolute",
+                "d": "assertive"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "The monument serves as a ___ to those who lost their lives in the war.",
+              "options": {
+                "a": "deterrent",
+                "b": "reminder",
+                "c": "warning",
+                "d": "memorial"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 24,
+              "question": "The company's financial records were found to be ___, suggesting fraudulent activity.",
+              "options": {
+                "a": "transparent",
+                "b": "impeccable",
+                "c": "fraudulent",
+                "d": "dubious"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "The new evidence will likely ___ the outcome of the trial.",
+              "options": {
+                "a": "clarify",
+                "b": "alter",
+                "c": "stabilize",
+                "d": "reinforce"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "Her ___ for adventure led her to explore remote corners of the world.",
+              "options": {
+                "a": "indifference",
+                "b": "penchant",
+                "c": "dislike",
+                "d": "aversion"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "The politician's speech was full of ___, promising everything to everyone.",
+              "options": {
+                "a": "sincerity",
+                "b": "platitudes",
+                "c": "insights",
+                "d": "realism"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "The journalist's ___ reporting uncovered a major scandal.",
+              "options": {
+                "a": "superficial",
+                "b": "incisive",
+                "c": "biased",
+                "d": "careless"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "The artist was known for his ___ use of light and shadow to create dramatic effects.",
+              "options": {
+                "a": "crude",
+                "b": "masterful",
+                "c": "amateurish",
+                "d": "careless"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "The committee reached a ___ agreement after a long debate.",
+              "options": {
+                "a": "fragmented",
+                "b": "unified",
+                "c": "contentious",
+                "d": "superficial"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The antique clock, though beautiful, was no longer ___.",
+              "options": {
+                "a": "functional",
+                "b": "decorative",
+                "c": "modern",
+                "d": "cheap"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "The witness's testimony was highly ___, contradicting previous statements.",
+              "options": {
+                "a": "consistent",
+                "b": "reliable",
+                "c": "erratic",
+                "d": "credible"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "The company was forced to ___ operations due to severe financial losses.",
+              "options": {
+                "a": "expand",
+                "b": "commence",
+                "c": "cease",
+                "d": "accelerate"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "Despite her talent, the young artist remained ___, never boasting about her work.",
+              "options": {
+                "a": "arrogant",
+                "b": "humble",
+                "c": "pretentious",
+                "d": "ostentatious"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "The novel offers a ___ insight into the human condition.",
+              "options": {
+                "a": "shallow",
+                "b": "superficial",
+                "c": "profound",
+                "d": "simple"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "He managed to ___ a confession from the suspect after hours of interrogation.",
+              "options": {
+                "a": "suppress",
+                "b": "conceal",
+                "c": "elicit",
+                "d": "prohibit"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "The manager's ___ attitude fostered a positive work environment.",
+              "options": {
+                "a": "authoritarian",
+                "b": "condescending",
+                "c": "supportive",
+                "d": "indifferent"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "The rare manuscript was ___ by historians for its unique perspective.",
+              "options": {
+                "a": "disregarded",
+                "b": "criticized",
+                "c": "revered",
+                "d": "overlooked"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "The new trade agreement aims to ___ economic ties between the two nations.",
+              "options": {
+                "a": "weaken",
+                "b": "strengthen",
+                "c": "sever",
+                "d": "ignore"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "Her ___ commitment to her principles earned her widespread respect.",
+              "options": {
+                "a": "fleeting",
+                "b": "unwavering",
+                "c": "casual",
+                "d": "doubtful"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "The scientist was praised for his ___ research, which opened up new avenues of study.",
+              "options": {
+                "a": "conventional",
+                "b": "groundbreaking",
+                "c": "repetitive",
+                "d": "flawed"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "The ancient civilization's collapse was a result of a ___ of factors.",
+              "options": {
+                "a": "single",
+                "b": "solitary",
+                "c": "confluence",
+                "d": "separation"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "The speaker's ___ tone immediately put the audience at ease.",
+              "options": {
+                "a": "aggressive",
+                "b": "abrasive",
+                "c": "soothing",
+                "d": "harsh"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "The artwork was considered ___ due to its departure from traditional styles.",
+              "options": {
+                "a": "conventional",
+                "b": "innovative",
+                "c": "imitative",
+                "d": "derivative"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "It is ___ that all safety regulations are strictly followed.",
+              "options": {
+                "a": "optional",
+                "b": "advisable",
+                "c": "imperative",
+                "d": "flexible"
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

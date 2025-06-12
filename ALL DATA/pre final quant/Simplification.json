@@ -1,0 +1,1406 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Simplification",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "What is 304 times 141? (Bank Recruitment, 2009)",
+              "options": {
+                "a": "39640",
+                "b": "38760",
+                "c": "42864",
+                "d": "45942",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "If A + B = 96 and A is half of B, then the value of \nA will be",
+              "options": {
+                "a": "22",
+                "b": "32",
+                "c": "48",
+                "d": "64",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "1888 ÷ 32 ÷ 8 =? (Bank P.O., 2008)",
+              "options": {
+                "a": "7.375",
+                "b": "9.485",
+                "c": "29.5",
+                "d": "472",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "– 76 × 33 + 221 =? (NABARD, 2009)",
+              "options": {
+                "a": "– 2287",
+                "b": "2287",
+                "c": "– 19304",
+                "d": "19304",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "4848 ÷ 24 × 11 – 222 =? (Bank P.O., 2010)",
+              "options": {
+                "a": "200",
+                "b": "2444",
+                "c": "2000",
+                "d": "3 115\n8",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "(425 × 4000) ÷ 16000 × 12 =? (Bank Recruitment, 2009)",
+              "options": {
+                "a": "8.85",
+                "b": "925",
+                "c": "1275",
+                "d": "1700",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "[(84)2 ÷ 28 × 12] ÷ 24 = 7 ×? (Bank P.O., 2009)",
+              "options": {
+                "a": "15",
+                "b": "17",
+                "c": "19",
+                "d": "21",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 8,
+              "question": "(98764 + 89881 + 99763 + 66342) ÷ (1186 +? + 1040 \n+ 1870) = 55 (Bank Recruitment, 2008)",
+              "options": {
+                "a": "2254",
+                "b": "2354",
+                "c": "2368",
+                "d": "2404",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "1148 ÷ 28 × 1408 ÷ 32 =? (S.B.I.P.O., 2008)",
+              "options": {
+                "a": "1800",
+                "b": "1804",
+                "c": "1814",
+                "d": "1822",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "– 224 + (– 314) × (– 9) =?",
+              "options": {
+                "a": "– 547",
+                "b": "– 2602",
+                "c": "547",
+                "d": "2602",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "853 +? ÷ 17 = 1000",
+              "options": {
+                "a": "2482",
+                "b": "2499",
+                "c": "2516",
+                "d": "16147",
+                "e": "None of these\nEXERCISE"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "(? – 968) ÷ 79 × 4 = 512 (Bank Recruitment, 2007)",
+              "options": {
+                "a": "10185",
+                "b": "10190",
+                "c": "11075",
+                "d": "11080",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "[(125)2 ÷ 50 × 20] ÷ 25 =?",
+              "options": {
+                "a": "11",
+                "b": "100",
+                "c": "150",
+                "d": "250",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "999 × 99 × 9 ÷ 99 ÷ 9 ÷ 3 =? (Bank P.O., 2009)",
+              "options": {
+                "a": "99",
+                "b": "111",
+                "c": "333",
+                "d": "999",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "If a, b, c, ........., x, y, z are 26 natural numbers, then \nthe value of \n (x – a) (x – b) (x – c) ......... (x – y) (x – z) is",
+              "options": {
+                "a": "0",
+                "b": "1",
+                "c": "13",
+                "d": "26"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "Simplify: 1 [1 {1 (1 1 1)}] − − − −−",
+              "options": {
+                "a": "0",
+                "b": "1",
+                "c": "2",
+                "d": "3"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "What mathematical operation should come at the \nplace of '?' in the equation:\n 2? 6 – 12 ÷ 4 + 2 = 11.",
+              "options": {
+                "a": "+",
+                "b": "–",
+                "c": "×",
+                "d": "÷"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "If 45 – [28 – {37 – (15 – *)}] = 58, then * is equal to:",
+              "options": {
+                "a": "– 29",
+                "b": "– 19",
+                "c": "19",
+                "d": "29"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "343 49 ?\n216 16 81\n× = × × (Bank P.O., 2010)",
+              "options": {
+                "a": "5\n7\n7\n6",
+                "b": "5\n8\n7\n6",
+                "c": "4\n8\n7\n6",
+                "d": "6\n7\n7\n6",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "The value of x in the equation \n113 4 – 2\n13 9 – 5 7\n× ×\n× ×\nx\n= 5 is\n(P.C.S., 2008)",
+              "options": {
+                "a": "21",
+                "b": "27",
+                "c": "35",
+                "d": "42"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "18 14 – 6 8 ?\n488 4 – 20\n× × = ÷ (L.I.C.A.D.O., 2007)",
+              "options": {
+                "a": "1\n2",
+                "b": "3\n4",
+                "c": "2",
+                "d": "4",
+                "e": "None of these\n108 QUANTITATIVE APTITUDE"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "555 55 – ? 5\n777 77 7\n++ +\n+ =\n++ +",
+              "options": {
+                "a": "1\n7",
+                "b": "3\n7",
+                "c": "5\n7",
+                "d": "13\n14"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "3 423 ?\n4 323\n+ ÷× = +×÷",
+              "options": {
+                "a": "7\n36",
+                "b": "11\n18",
+                "c": "3\n2",
+                "d": "9\n4"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 24,
+              "question": "4 4 18 – 6 – 8 ?\n123 6 – 146 5\n+ × = × ×",
+              "options": {
+                "a": "1",
+                "b": "2",
+                "c": "6.65",
+                "d": "7.75"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "180 15 – 12 20 ?\n140 8 2 55\n× × = ×+×",
+              "options": {
+                "a": "1\n7",
+                "b": "4\n5",
+                "c": "2",
+                "d": "4",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "Evaluate: 8 – [5 – (– 3 2)] 2\n|5 – 3|–|5 – 8| 3\n+ ÷\n÷",
+              "options": {
+                "a": "2",
+                "b": "3",
+                "c": "4",
+                "d": "5"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "Given that (12 + 22 + 32 + ..... + 102) = 385, the value \nof (22 + 42 + 62 + ..... + 202) is equal to (M.B.A., 2006)",
+              "options": {
+                "a": "770",
+                "b": "1155",
+                "c": "1540",
+                "d": ""
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 28,
+              "question": "111 2 1 –4 ?\n432\n+ = (Bank Recruitment, 2010)",
+              "options": {
+                "a": "1 – 1\n12",
+                "b": "11\n12",
+                "c": "11 – 12",
+                "d": "1 1\n12",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 29,
+              "question": "4 –1 ? 2 33 3\n7 14 28\n= + (Bank P.O., 2010)",
+              "options": {
+                "a": "3 1\n28",
+                "b": "1 3\n14",
+                "c": "3 3\n14",
+                "d": "1 3\n28",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "111? 315\n458\n−+= (Bank Recruitment, 2010)",
+              "options": {
+                "a": "7 2\n40",
+                "b": "7 3\n40",
+                "c": "5 9\n8",
+                "d": "7 10\n8",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 31,
+              "question": "12 10 – 7 – 1 ? 1 524\n3 6 37\n+ = (Bank P.O., 2008)",
+              "options": {
+                "a": "13 11\n14",
+                "b": "11 13\n14",
+                "c": "13 13\n14",
+                "d": "11 14\n13",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 32,
+              "question": "6 –4 2 ? 9 42\n13 11 5\n+ = (Bank P.O., 2006)",
+              "options": {
+                "a": "596 4\n715",
+                "b": "521 4\n715",
+                "c": "324 9\n715",
+                "d": "386 9\n715",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 33,
+              "question": "++++ +\n111 1 1 1 is equal to 2 4 7 14 28",
+              "options": {
+                "a": "2",
+                "b": "2.5",
+                "c": "3",
+                "d": "3.5"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 34,
+              "question": "1 1\n      2 1\n3 4\n1 3\n+\n   \nis equal to",
+              "options": {
+                "a": "7\n14",
+                "b": "12\n49",
+                "c": "1 4\n12",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 35,
+              "question": "5 3 ?1 5 8\n6 9 − −=",
+              "options": {
+                "a": "2\n3",
+                "b": "3\n2",
+                "c": "17\n18",
+                "d": "3"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 36,
+              "question": "If 111 4, then ? 3 2\n++= = x\nx",
+              "options": {
+                "a": "5\n18",
+                "b": "6\n19",
+                "c": "18\n5",
+                "d": "24\n11\nSIMPLIFICATION 109"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 37,
+              "question": "532 432 ?\n648 588\n× = (L.I.C.A.D.O., 2007)",
+              "options": {
+                "a": "2\n21",
+                "b": "38\n63",
+                "c": "21\n64",
+                "d": "19\n21",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 38,
+              "question": "1 17 36 ? 10 2 1\n11 7 6\n××=",
+              "options": {
+                "a": "397\n6\n5",
+                "b": "1 397\n2",
+                "c": "1193\n6\n5",
+                "d": "1 1193\n2",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 39,
+              "question": "3 5 of 455 of 456 ?\n7 8\n+ = (Bank Recruitment, 2009)",
+              "options": {
+                "a": "448",
+                "b": "464",
+                "c": "476",
+                "d": "480",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 40,
+              "question": "3 4 5 21 of of of of 504 ?\n5 7 9 24 =",
+              "options": {
+                "a": "63",
+                "b": "69",
+                "c": "96",
+                "d": "109",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 41,
+              "question": "6 5 17 4 ? 51 21\n63 32\n×+ ×=",
+              "options": {
+                "a": "1 112\n3",
+                "b": "2 116\n3",
+                "c": "240",
+                "d": "663",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 42,
+              "question": "4 2 46?\n5 5 ÷ = (Bank Recruitment, 2009)",
+              "options": {
+                "a": "3\n4",
+                "b": "5\n7",
+                "c": "5\n8",
+                "d": "7\n11",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 43,
+              "question": "1 116 ? 155 1\n4 98 2\n+×÷ = (Bank P.O., 2009)",
+              "options": {
+                "a": "17",
+                "b": "27",
+                "c": "18",
+                "d": "42",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 44,
+              "question": "225 152 43 1 ?\n836 245 77\n×÷= (Bank Recruitment, 2009)",
+              "options": {
+                "a": "6\n49",
+                "b": "6\n11",
+                "c": "3\n28",
+                "d": "1\n7",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 45,
+              "question": "21 4 16 – 12 3 ?\n5 15 81\n  ÷ =    ",
+              "options": {
+                "a": "9 1\n19",
+                "b": "9 1\n13",
+                "c": "8 2\n13",
+                "d": "2 3\n19",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 46,
+              "question": "18 ? 1480 3 6\n4 37\n×÷ =",
+              "options": {
+                "a": "7 11\n12",
+                "b": "4 11\n5",
+                "c": "5 12\n12",
+                "d": "4 12\n5",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 47,
+              "question": "3 11 25 11 33 ?\n2 5 44 5 15\n  ×÷ × ÷=    ",
+              "options": {
+                "a": "1\n2",
+                "b": "2\n3",
+                "c": "126\n125",
+                "d": "101 5\n125",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 48,
+              "question": "If 3 2 10\n7 5\nx\n× = y , then the values of x and y\nrespectively, would be",
+              "options": {
+                "a": "3, 4",
+                "b": "5, 7",
+                "c": "4, 3",
+                "d": "4, 4"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 49,
+              "question": "1 1 2 1 2 1 is equal to 3\n    +÷ +÷ +        ",
+              "options": {
+                "a": "4 1\n5",
+                "b": "1 2\n4",
+                "c": "1 4\n5",
+                "d": "1 5\n4"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 50,
+              "question": "1 12 35 20 Simplify: 10 of of . 8 15 36 49 ÷",
+              "options": {
+                "a": "5 17\n12",
+                "b": "8 17\n17",
+                "c": "3 20\n25",
+                "d": "103 20\n250"
+              },
+              "answer": "d"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The value of 998 998 998 998 2358\n17 17 17 17\n+++\n998 is 16\n17\n+ (I.A.M., 2007)",
+              "options": {
+                "a": "4990",
+                "b": "4992",
+                "c": "9998",
+                "d": "10000"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "The simplest value of 111 .... 12 23 34\n+++\n×××\n1 is\n9 10\n+\n× (P.C.S., 2008)",
+              "options": {
+                "a": "1\n10",
+                "b": "9\n10",
+                "c": "1",
+                "d": "10"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "11 1 1 1 is equal to 1.4 4.7 7.10 10.13 13.16\n  ++ + +    \n(S.S.C., 2007)",
+              "options": {
+                "a": "1\n3",
+                "b": "3\n8",
+                "c": "5\n16",
+                "d": "41\n7280"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "When simplified, the sum 11 1\n2 6 12\n+ +\n1 1\n20 30\n+++\n1 .... n n( 1)\n+\n+ is equal to (S.S.C., 2006)",
+              "options": {
+                "a": "1\nn",
+                "b": "1\nn + 1",
+                "c": "+ 1\nn\nn",
+                "d": "2"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "++ +\n× × × 2 3 The value of 1 11 1 is\n4 3 43 43",
+              "options": {
+                "a": "121\n108",
+                "b": "3\n2",
+                "c": "31\n2",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "1111\n+++ is equal to 123 234 345 456 .. .. .. ..",
+              "options": {
+                "a": "7\n30",
+                "b": "11\n30",
+                "c": "13\n30",
+                "d": "17\n30"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "The value of 22 22 22 22 22\n3 5 7 9 11\n12 23 34 45 56 ..... +++++\n+++ 22 22 22 2 2\n13 15 17 19 is\n6 7 7 8 8 9 9 10 .... (S.S.C., 2004)",
+              "options": {
+                "a": "1\n100",
+                "b": "99\n100",
+                "c": "1",
+                "d": "101\n100"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "The sum of the first 99 terms of the series \n35 7 9 .... 4 36 144 400\n++ + +",
+              "options": {
+                "a": "99\n100",
+                "b": "999\n1000",
+                "c": "9999\n10000",
+                "d": "1"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "Mayank, Mirza, Little and Jaspal bought a motorbike \nfor ` 60000. Mayank paid one-half of the sum of the \namounts paid by the other boys, Mirza paid one-third \nof the sum of the amounts paid by the other boys \nand Little paid one-fourth of the sum of the amounts \npaid by the other boys. How much did Jaspal have \nto pay?",
+              "options": {
+                "a": "` 13000",
+                "b": "` 15000",
+                "c": "17000",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "Income of a company doubles after every one year. \nIf the initial income was ` 4 lakhs, what would be \nthe income after 5 years?\t\t(Bank P.O., 2003)",
+              "options": {
+                "a": "` 1.24 crores",
+                "b": "` 1.28 crores",
+                "c": "` 2.52 crores",
+                "d": "` 2.56 crores",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "Breeding of a certain species of insects is incredible \neveryday the total number of such insects in a closed \nglass jar is double the number on the previous day. \nThere was just one insect in the jar on 1/2/2007, \nand the jar was full to the brim with these insects \non 28/2/2007. On which date of February was the \njar quarter-full? (P.C.S., 2008)",
+              "options": {
+                "a": "7",
+                "b": "14",
+                "c": "26",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "The flowers in a basket double every minute and \nthe basket gets full in one hour. In how much time, \nthe basket was 1\n32\n full?",
+              "options": {
+                "a": "12 minutes",
+                "b": "32 minutes",
+                "c": "45 minutes",
+                "d": "55 minutes"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "A man's investment doubles in every 5 years. If he \ninvested ` 5000 in each of the years 1990, 1995, 2000 \nand 2005, then what was the total amount received \nby him in 2010?",
+              "options": {
+                "a": "` 30000",
+                "b": "` 70000",
+                "c": "` 140000",
+                "d": "` 150000"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "After measuring 120 metres of a rope, it was \ndiscovered that the measuring metre rod was 3 cm \nlonger. The true length of the rope measured is\n(S.S.C., 2007)",
+              "options": {
+                "a": "116 m 40 cm",
+                "b": "121 m 20 cm",
+                "c": "123 m",
+                "d": "123 m 60 cm"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "Smita was asked to multiply a certain number by 36. \nShe multiplied it by 63 instead and got an answer \n3834 more than the correct one. What was the number \nto be multiplied? (Bank P.O., 2008)\nSIMPLIFICATION 121",
+              "options": {
+                "a": "126",
+                "b": "142",
+                "c": "148",
+                "d": "152",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "A boy multiplied 423 by a number and obtained \n65589 as his answer. If both the fives in the answer \nare wrong and all other figures are correct, the correct \nanswer is:",
+              "options": {
+                "a": "60489",
+                "b": "61189",
+                "c": "62189",
+                "d": "62389"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "A candidate was asked to find 7\n8 of a positive \nnumber. He found 7\n18 of the same by mistake. If \nhis answer was 770 less than the correct one, then \nthe original given number was\n(Campus Recruitment, 2010)",
+              "options": {
+                "a": "1260",
+                "b": "1548",
+                "c": "6160",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 18,
+              "question": "A student was asked to divide a number by 17\n8 .\nInstead, he actually multiplied it by 17\n8\n and hence \ngot 225 more than the expected answer. What was\nthe expected answer ?",
+              "options": {
+                "a": "64",
+                "b": "126",
+                "c": "136",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "One junior student is asked to divide half a num￾ber by 6 and the other half by 4 and then add the \nquantities. Instead of doing so, the student divides \nthe given number by 5. If the answer is 4 short of \nthe correct answer, then the number is",
+              "options": {
+                "a": "320",
+                "b": "360",
+                "c": "400",
+                "d": "480"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "If 2 3\n3\n is subtracted from 1 9\n9\n and the difference is \nmultiplied by 450, what is the final answer?\n(Bank P.O., 2009)",
+              "options": {
+                "a": "2045",
+                "b": "2250",
+                "c": "2540",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 21,
+              "question": "By how much is 3\n4\n of 968 less than 7\n8\n of 1008?\n(Bank P.O., 2010)",
+              "options": {
+                "a": "146",
+                "b": "154",
+                "c": "158",
+                "d": "165",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 22,
+              "question": "If , = − 10\ny x y where y is a positive integer which \nincreases in value, then x (P.C.S., 2009)",
+              "options": {
+                "a": "first increases in value then decreases",
+                "b": "decreases in value",
+                "c": "increases in value",
+                "d": "first decreases then increases in value"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "The difference between 3 4 th of th\n4 5\n of a number and \n1 2 th of th\n6 5\n of the same number is 648. What is the \nnumber? (Bank P.O., 2009)",
+              "options": {
+                "a": "1110",
+                "b": "1215",
+                "c": "1325",
+                "d": "1440",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "Which number gives the same result when added \nto \n1 1\n2 and when multiplied by 1 1 ?\n2",
+              "options": {
+                "a": "1",
+                "b": "3",
+                "c": "5",
+                "d": "7"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "5\n12 of which sum is equal to 3 3\n4\n of ` 100?",
+              "options": {
+                "a": "` 750",
+                "b": "` 800",
+                "c": "` 900",
+                "d": "` 1000"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "3\n8 is what part of 1 ?\n12",
+              "options": {
+                "a": "3\n7",
+                "b": "1\n12",
+                "c": "4\n3",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "The smallest fraction which should be subtracted \nfrom the sum of 1 ,2 ,5 , 31 7\n4 2 12 3 and 2 1 1\n3 4\n to make \nthe result a whole number is",
+              "options": {
+                "a": "5\n12",
+                "b": "7\n12",
+                "c": "1\n2",
+                "d": "7"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "What fraction should be added to the sum of \n5 , 4 and 7 34 3\n45 8\n to make the result a whole \nnumber? (M.B.A., 2006)",
+              "options": {
+                "a": "1\n40",
+                "b": "2\n40",
+                "c": "3\n40",
+                "d": "4\n40"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 29,
+              "question": "If \ning fractions has the greatest value\nx is a positive number, then which of the follow\n?\n-",
+              "options": {
+                "a": "x\nx",
+                "b": "+ 1\nx\nx",
+                "c": "x + 1\nx",
+                "d": "2\n3\n+\n+\nx\nx\n122 QUANTITATIVE APTITUDE"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "6 6/7 By how much does exceed ? 7/8 8",
+              "options": {
+                "a": "1 6\n8",
+                "b": "3 6\n4",
+                "c": "3 7\n4",
+                "d": "5 7\n6"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 31,
+              "question": "If 4\n5\n of an estate be worth ` 16,800, then the value \nof 3\n7\n of the estate is",
+              "options": {
+                "a": "` 9000",
+                "b": "` 21,000",
+                "c": "` 72,000",
+                "d": "` 90,000"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 32,
+              "question": "Two-fifth of one-fourth of three-seventh of a number \nis 15. What is half of that number ?",
+              "options": {
+                "a": "94",
+                "b": "96",
+                "c": "188",
+                "d": "196",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 33,
+              "question": "What fraction of an hour is a second?",
+              "options": {
+                "a": "1\n24",
+                "b": "1\n60",
+                "c": "1\n120",
+                "d": "1\n3600"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 34,
+              "question": "When a ball bounces, it rises to 3\n4 of the height from \nwhich it fell. If the ball is dropped from a height of \n32 m, how high will it rise at the third bounce?",
+              "options": {
+                "a": "13 m",
+                "b": "1 13 m\n2",
+                "c": "1 14 m\n2",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 35,
+              "question": "Sanket earns twice as much in the month of March \nas in each of the other months of the year. What part \nof his entire annual earnings was earned in March?",
+              "options": {
+                "a": "1\n7",
+                "b": "1\n6",
+                "c": "2\n11",
+                "d": "2\n13"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 36,
+              "question": "If one-third of a tank holds 80 litres of water, then \nthe quantity of water that half of the tank holds is",
+              "options": {
+                "a": "80\n3\nlitres",
+                "b": "100 litres",
+                "c": "120 litres",
+                "d": "240 litres"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 37,
+              "question": "A person travels 3.5 km from place A to place B. \nOut of this distance, he travels 2 1 km\n3 on bicycle, \n1 km\n6\n1 on scooter and the rest on foot. What portion \nof the whole distance does he cover on foot?",
+              "options": {
+                "a": "3\n19",
+                "b": "4\n11",
+                "c": "4\n21",
+                "d": "5\n6"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 38,
+              "question": "What fraction of 4\n7\n must be added to itself to make \nthe sum 1 1 ?\n14",
+              "options": {
+                "a": "1\n2",
+                "b": "4\n7",
+                "c": "7\n8",
+                "d": "15\n14"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 39,
+              "question": "Express \n2 1\n3 4\nof of ` 25.20 as a fraction of 1 1\n2\n of \n` 36.",
+              "options": {
+                "a": "5\n8",
+                "b": "5\n42",
+                "c": "7\n90",
+                "d": "11\n90"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 40,
+              "question": "A 70 cm long wire is to be cut into two pieces such \nthat one piece will be 2\n5 as long as the other. How \nmany centimetres will the shorter piece be?",
+              "options": {
+                "a": "10",
+                "b": "14",
+                "c": "20",
+                "d": "28"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 41,
+              "question": "A certain amount is distributed among A, B and C. \nA gets \n3\n16\n and B gets \n1\n4\n of the whole amount. If C\ngets ` 81, then B gets",
+              "options": {
+                "a": "` 30",
+                "b": "` 32",
+                "c": "` 36",
+                "d": "` 40"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 42,
+              "question": "1\n10 of a pole is coloured red, 1\n20 white, 1\n30 blue, \n1\n40 black, 1\n50 violet, 1\n60 yellow and the rest is \ngreen. If the length of the green portion of the pole \nis 12.08 metres, then the length of the pole is\n(S.S.C., 2004)",
+              "options": {
+                "a": "16 m",
+                "b": "18 m",
+                "c": "20 m",
+                "d": "30 m"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 43,
+              "question": "If we multiply a fraction by itself and divide the \nproduct by its reciprocal, the fraction thus obtained \nis 18 . 26\n27 The original fraction is",
+              "options": {
+                "a": "8\n27",
+                "b": "1 1\n3",
+                "c": "2 2\n3",
+                "d": "None of these\nSIMPLIFICATION 123"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 44,
+              "question": "The marks scored in an examination are converted \nfrom 50 to 10 for the purpose of internal assessment. \nThe highest marks were 47 and the lowest were",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 45,
+              "question": "The difference between the maximum and the \nminimum internal assessment scores is",
+              "options": {
+                "a": "3.3",
+                "b": "4.8",
+                "c": "6.6",
+                "d": "7.4"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 46,
+              "question": "One-third of Rahul’s savings in National Savings \nCertificate is equal to one-half of his savings in Public \nProvident Fund. If he has ` 1,50,000 as total savings, \nhow much has he saved in Public Provident Fund?",
+              "options": {
+                "a": "` 30,000",
+                "b": "` 50,000",
+                "c": "` 60,000",
+                "d": "` 90,000"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 47,
+              "question": "In a family, the father took 1\n4\n of the cake and he \nhad 3 times as much as each of the other members \nhad. The total number of family members is",
+              "options": {
+                "a": "3",
+                "b": "7",
+                "c": "10",
+                "d": "12"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 48,
+              "question": "A waiter’s salary consists of his salary and tips. \nDuring one week his tips were 5\n4 of his salary. What \nfraction of his income came from tips?",
+              "options": {
+                "a": "4\n9",
+                "b": "5\n4",
+                "c": "5\n8",
+                "d": "5\n9"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 49,
+              "question": "A sum of ` 1360 has been divided among A, B and \nC such that A gets \n2\n3\n of what B gets and B gets \n1\n4\nof what C gets. B’s share is (M.A.T., 2002)",
+              "options": {
+                "a": "` 120",
+                "b": "` 160",
+                "c": "` 240",
+                "d": "` 300"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 50,
+              "question": "Three friends had dinner at a restaurant. When the \nbill was received, Amita paid 2\n3\n as much as Veena \npaid and Veena paid 1\n2 as much as Tanya paid. \nWhat fraction of the bill did Veena pay? (SNAP, 2005)",
+              "options": {
+                "a": "1\n3",
+                "b": "3\n11",
+                "c": "12\n31",
+                "d": "5\n8"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 51,
+              "question": "1\n4 of a tank holds 135 litres of water. What part of \nthe tank is full if it contains 180 litres of water?",
+              "options": {
+                "a": "1\n6",
+                "b": "1\n3",
+                "c": "2\n3",
+                "d": "2\n5"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "A tank is 2\n5\n full. If 16 litres of water is added to the \ntank, it becomes 6\n7 full. The capacity of the tank is",
+              "options": {
+                "a": "28 litres",
+                "b": "32 litres",
+                "c": "35 litres",
+                "d": "42 litres"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "A drum of kerosene is 3\n4\n full. When 30 litres of \nkerosene is drawn from it, it remains 7\n12\n full. The \ncapacity of the drum is\t\t(S.S.C., 2010)",
+              "options": {
+                "a": "120 litres",
+                "b": "135 litres",
+                "c": "150 litres",
+                "d": "180 litres"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "A tin of oil was 5\n8\n full. When 10 bottles of oil was \ntaken out and 8 bottles of oil was poured into it, it \nwas \n3\n5 full. How many bottles of oil can the tin \ncontain?",
+              "options": {
+                "a": "20",
+                "b": "30",
+                "c": "40",
+                "d": "80"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "1 m of an object is to be represented by 10 cm on \nthe drawing scale. The representative fraction (R.F.) \nof the scale is",
+              "options": {
+                "a": "1\n10",
+                "b": "1\n20",
+                "c": "1\n100",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "An area of 100 sq. cm on the map represents an area \nof 49 sq. km on the field. The R.F. of the scale to be \nused is",
+              "options": {
+                "a": "1\n10000",
+                "b": "1\n20000",
+                "c": "1\n49000",
+                "d": "1\n70000"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 6,
+              "question": "The fluid contained in a bucket can fill four large \nbottles or seven small bottles. A full large bottle is \nused to fill an empty small bottle. What fraction of \nthe fluid is left over in the large bottle when the \nsmall one is full?",
+              "options": {
+                "a": "2\n7",
+                "b": "3\n7",
+                "c": "4\n7",
+                "d": "5\n7"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "To fill a tank, 25 buckets of water is required. How \nmany buckets of water will be required to fill the \nsame tank if the capacity of the bucket is reduced \nto two-fifth of its present?",
+              "options": {
+                "a": "10",
+                "b": "35",
+                "c": "1 62\n2",
+                "d": "Cannot be determined",
+                "e": "None of these\n124 QUANTITATIVE APTITUDE"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "A stationary engine has enough fuel to run 12 hours \nwhen its tank is 4\n5 full. How long will it run when \nthe tank is 1\n3\n full? (Campus Recruitment, 2009)",
+              "options": {
+                "a": "Less than 2 hours",
+                "b": "2 hours",
+                "c": "3 hours",
+                "d": "4 hours",
+                "e": "5 hours"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 9,
+              "question": "A tree grows only 3\n5\n as fast as the one beside it. In \nfour years the combined growth of the trees is eight \nfeet. How much does the shorter tree grow in 2 \nyears? (Campus Recruitment, 2008)",
+              "options": {
+                "a": "Less than 2 feet",
+                "b": "2 feet",
+                "c": "1 2 feet\n2",
+                "d": "3 feet",
+                "e": "More than 3 feet"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "A car is filled with four and a half gallons of fuel \nfor a round trip. If the amount of fuel taken while \ngoing is \n1\n4 more than the amount taken for coming, \nwhat is the amount of fuel consumed while coming \nback? (Campus Recruitment, 2009)",
+              "options": {
+                "a": "Less than 2 gallons",
+                "b": "2 gallons",
+                "c": "1 2 gallons\n2",
+                "d": "3 gallons",
+                "e": "More than 3 gallons"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "The lowest temperature in the night in a city is one￾third more than 1\n2 the highest during the day. Sum \nof the lowest temperature and the highest temperature \nis 100 degrees. Then what is the lowest \ntemperature? (Campus Recruitment, 2010)",
+              "options": {
+                "a": "30 degrees",
+                "b": "40 degrees",
+                "c": "36 degrees",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "In a class there are 18 boys who are over 160 cm tall. \nIf these boys constitute three-fourths of the boys and \nthe total number of boys is two-thirds of the number \nof students in the class, then what is the number of \ngirls in the class?",
+              "options": {
+                "a": "6",
+                "b": "12",
+                "c": "18",
+                "d": "24"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "Peter gave one-fourth of the amount he had to \nMichael. Michael in turn gave half of what he \nreceived from Peter to Sam. If the difference between \nthe remaining amount with Peter and the amount \nreceived by Sam is ` 500, how much money did \nMichael receive from Peter?",
+              "options": {
+                "a": "` 100",
+                "b": "` 200",
+                "c": "` 400",
+                "d": "Data inadequate",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "Four children A, B, C and D divide a bag of sweets. \nA takes 1\n3 of them, B\n2\n5\nth of the remainder and \nthe rest is equally shared between C and D. What \nfraction of the sweets did C or D get?",
+              "options": {
+                "a": "1\n4",
+                "b": "1\n5",
+                "c": "1\n6",
+                "d": "1\n17"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "Rita travelled 1200 km by air, which formed 2\n5\nth\nof her journey. One-third of the whole journey she \ntravelled by car and the remaining journey by train. \nFind the distance travelled by the train. (R.R.B., 2006)",
+              "options": {
+                "a": "480 km",
+                "b": "800 km",
+                "c": "1600 km",
+                "d": "1800 km"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "A man spends one-quarter of his income on food, \none-fifth of it on rent and remaining, which is ` 231, \non other commodities. Find his total income.",
+              "options": {
+                "a": "` 400",
+                "b": "` 410",
+                "c": "` 420",
+                "d": "` 460"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 17,
+              "question": "A boy read 3\n8\nth of a book on one day and 4 th\n5\n of \nthe remainder on another day. If there were 30 pages \nunread, how many pages did the book contain?\n(I.M.T. 2002; XAT, 2006)",
+              "options": {
+                "a": "240",
+                "b": "300",
+                "c": "600",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "An institute organised a fete and 1\n5 of the girls and \n1\n8 of the boys participated in the same. What fraction \nof the total number of students took part in the fete?",
+              "options": {
+                "a": "2\n13",
+                "b": "13\n40",
+                "c": "Data inadequate",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "At an International Dinner, 1\n5 of the people attending \nwere French men. If the number of French women \nat the dinner was 2\n3 greater than the number of \nFrench men, and there were no other French people \nat the dinner, then what fraction of the people at the \ndinner were not French? (M.B.A., 2003)",
+              "options": {
+                "a": "1\n5",
+                "b": "2\n5",
+                "c": "2\n3",
+                "d": "7\n15\nSIMPLIFICATION 125"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "In a class, 3\n5 of the students are girls and rest are \nboys. If 2\n9 of the girls and 1\n4 of the boys are absent, \nwhat part of the total number of students is present?",
+              "options": {
+                "a": "17\n25",
+                "b": "18\n49",
+                "c": "23\n30",
+                "d": "23\n36"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "One-third of the boys and one-half of the girls of a \ncollege participated in a social work project. If the \nnumber of participating students is 300 out of which \n100 are boys, what is the total number of students \nin the college?",
+              "options": {
+                "a": "500",
+                "b": "600",
+                "c": "700",
+                "d": "800"
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

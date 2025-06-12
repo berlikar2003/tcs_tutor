@@ -1,0 +1,82 @@
+{
+  "Ages": {
+    "basic": 25,
+    "advanced": 26,
+    "test": 7
+  },
+  "Average": {
+    "basic": 52,
+    "advanced": 52,
+    "test": 22
+  },
+  "Chain Rule": {
+    "basic": 31,
+    "advanced": 30,
+    "test": 20
+  },
+  "Compound Interest": {
+    "basic": 26,
+    "advanced": 25,
+    "test": 10
+  },
+  "Decimal Fractions": {
+    "basic": 50,
+    "advanced": 81,
+    "test": 23
+  },
+  "Number System": {
+    "basic": 50,
+    "advanced": 56,
+    "test": 21
+  },
+  "Partnership": {
+    "basic": 25,
+    "advanced": 25,
+    "test": 10
+  },
+  "Percentage": {
+    "basic": 50,
+    "advanced": 51,
+    "test": 21
+  },
+  "Problems on Trains": {
+    "basic": 25,
+    "advanced": 25,
+    "test": 23
+  },
+  "Profit and Loss": {
+    "basic": 24,
+    "advanced": 19,
+    "test": 1
+  },
+  "Ratio and Proportion": {
+    "basic": 50,
+    "advanced": 51,
+    "test": 21
+  },
+  "Simple Interest": {
+    "basic": 45,
+    "advanced": 48,
+    "test": 15
+  },
+  "Simplification": {
+    "basic": 50,
+    "advanced": 51,
+    "test": 21
+  },
+  "Square Roots and Cube Rootsication": {
+    "basic": 51,
+    "advanced": 51,
+    "test": 23
+  },
+  "Time and Distance": {
+    "basic": 50,
+    "advanced": 53,
+    "test": 21
+  },
+  "Time and Work": {
+    "basic": 50,
+    "advanced": 50,
+    "test": 20
+  }
+}

@@ -1,0 +1,850 @@
+{
+  "Subject": "Verbal",
+  "Chapters": [
+    {
+      "Chapter Name": " Word Usage",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "I need to ___ my car keys.",
+              "options": {
+                "a": "loose",
+                "b": "lose",
+                "c": "loss",
+                "d": "lost"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "___ going to the cinema tonight.",
+              "options": {
+                "a": "Their",
+                "b": "There",
+                "c": "They're",
+                "d": "There're"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "The loud music had a strange ___ on the baby.",
+              "options": {
+                "a": "affect",
+                "b": "effect",
+                "c": "effecting",
+                "d": "affective"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "Can I have ___ slice of pizza?",
+              "options": {
+                "a": "another",
+                "b": "other",
+                "c": "others",
+                "d": "the other"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "My mom always gives me good ___.",
+              "options": {
+                "a": "advice",
+                "b": "advise",
+                "c": "adivce",
+                "d": "advised"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "Please ___ the book on the shelf.",
+              "options": {
+                "a": "lay",
+                "b": "lie",
+                "c": "laid",
+                "d": "lain"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "He is taller ___ his sister.",
+              "options": {
+                "a": "then",
+                "b": "than",
+                "c": "that",
+                "d": "through"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "___ a beautiful day for a walk!",
+              "options": {
+                "a": "Its",
+                "b": "It's",
+                "c": "Its'",
+                "d": "It is'"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "I cannot ___ such behavior.",
+              "options": {
+                "a": "accept",
+                "b": "except",
+                "c": "expecting",
+                "d": "excepting"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "The bird ___ from the tree.",
+              "options": {
+                "a": "flu",
+                "b": "flew",
+                "c": "flown",
+                "d": "flee"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "She ___ to the market an hour ago.",
+              "options": {
+                "a": "go",
+                "b": "goes",
+                "c": "went",
+                "d": "gone"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "There are ___ students in this class than in that one.",
+              "options": {
+                "a": "less",
+                "b": "fewer",
+                "c": "little",
+                "d": "much"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "The cat groomed ___ fur.",
+              "options": {
+                "a": "its",
+                "b": "it's",
+                "c": "its'",
+                "d": "it is"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "The ___ reason for his success is hard work.",
+              "options": {
+                "a": "principle",
+                "b": "principal",
+                "c": "principled",
+                "d": "principally"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "I can ___ the faint music from next door.",
+              "options": {
+                "a": "hear",
+                "b": "here",
+                "c": "heard",
+                "d": "hearing"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "He ___ the ball to his teammate.",
+              "options": {
+                "a": "past",
+                "b": "passed",
+                "c": "passing",
+                "d": "paste"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "___ a spider in the corner of the room.",
+              "options": {
+                "a": "Their",
+                "b": "There's",
+                "c": "They're",
+                "d": "There are"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "I'm ___ excited to go on vacation.",
+              "options": {
+                "a": "to",
+                "b": "too",
+                "c": "two",
+                "d": "towards"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "The doctor wrote out a ___ for the medicine.",
+              "options": {
+                "a": "prescription",
+                "b": "proscription",
+                "c": "precription",
+                "d": "inscription"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "He ___ the stone into the lake.",
+              "options": {
+                "a": "threw",
+                "b": "through",
+                "c": "thorough",
+                "d": "thrown"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "I bought a new ___ of jeans.",
+              "options": {
+                "a": "pair",
+                "b": "pear",
+                "c": "pare",
+                "d": "peer"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "She plays the piano very ___.",
+              "options": {
+                "a": "good",
+                "b": "well",
+                "c": "better",
+                "d": "best"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "___ welcome to join us for dinner.",
+              "options": {
+                "a": "Your",
+                "b": "You're",
+                "c": "You are'",
+                "d": "Yours"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "I ___ a fascinating article this morning.",
+              "options": {
+                "a": "read",
+                "b": "red",
+                "c": "reading",
+                "d": "reade"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 25,
+              "question": "The school ___ announced the holiday.",
+              "options": {
+                "a": "principle",
+                "b": "principal",
+                "c": "principled",
+                "d": "principling"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "I always ___ my work before I go home.",
+              "options": {
+                "a": "finish",
+                "b": "finishes",
+                "c": "finished",
+                "d": "finishing"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "The news had a positive ___ on the stock market.",
+              "options": {
+                "a": "affect",
+                "b": "effect",
+                "c": "affecting",
+                "d": "effective"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "He didn't ___ to the meeting on time.",
+              "options": {
+                "a": "come",
+                "b": "came",
+                "c": "coming",
+                "d": "comes"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "We must ___ the terms of the agreement.",
+              "options": {
+                "a": "accept",
+                "b": "except",
+                "c": "excepting",
+                "d": "accepting"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "The ___ forecast predicts rain tomorrow.",
+              "options": {
+                "a": "whether",
+                "b": "weather",
+                "c": "wether",
+                "d": "whither"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The company decided to ___ a new strategy for marketing.",
+              "options": {
+                "a": "adopt",
+                "b": "adapt",
+                "c": "adept",
+                "d": "opting"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "The ongoing protests will undoubtedly ___ social change.",
+              "options": {
+                "a": "affect",
+                "b": "effect",
+                "c": "effecting",
+                "d": "effective"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "From her vague statements, I could ___ that she was unhappy.",
+              "options": {
+                "a": "imply",
+                "b": "infer",
+                "c": "inferring",
+                "d": "implicit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "Proper maintenance will ___ the longevity of the machine.",
+              "options": {
+                "a": "ensure",
+                "b": "insure",
+                "c": "assure",
+                "d": "assuring"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "He is ___ to any form of public speaking.",
+              "options": {
+                "a": "adverse",
+                "b": "averse",
+                "c": "advert",
+                "d": "aversion"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "The story reached its ___ conclusion in the final chapter.",
+              "options": {
+                "a": "climactic",
+                "b": "climatic",
+                "c": "climaxing",
+                "d": "climacteric"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "Many skilled workers chose to ___ from the country for better opportunities.",
+              "options": {
+                "a": "emigrate",
+                "b": "immigrate",
+                "c": "migrate",
+                "d": "imigrate"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "His silence seemed to ___ agreement with the proposal.",
+              "options": {
+                "a": "infer",
+                "b": "imply",
+                "c": "deduce",
+                "d": "connote"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "His speech was full of literary ___ to Shakespeare.",
+              "options": {
+                "a": "allusion",
+                "b": "illusion",
+                "c": "elusion",
+                "d": "allude"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "The financial consultant will ___ us on investment strategies.",
+              "options": {
+                "a": "advice",
+                "b": "advise",
+                "c": "advisory",
+                "d": "advices"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "She had a strong ___ of impending doom.",
+              "options": {
+                "a": "premonition",
+                "b": "presentiment",
+                "c": "both A and B",
+                "d": "premonishing"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "The police tried to ___ information from the reluctant witness.",
+              "options": {
+                "a": "elicit",
+                "b": "illicit",
+                "c": "solicit",
+                "d": "elicitate"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "The engineer came up with an ___ solution to the complex problem.",
+              "options": {
+                "a": "ingenious",
+                "b": "ingenuous",
+                "c": "ingenious's",
+                "d": "ingenius"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "The painting captured the subtle ___ of light and shadow.",
+              "options": {
+                "a": "nuance",
+                "b": "nonplus",
+                "c": "nuisance",
+                "d": "nuanced"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "His ultimate ___ is to achieve financial independence.",
+              "options": {
+                "a": "aim",
+                "b": "objective",
+                "c": "goal",
+                "d": "all of the above"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "The detective conducted an ___ search of the premises.",
+              "options": {
+                "a": "exhaustive",
+                "b": "exhausting",
+                "c": "exhausted",
+                "d": "exhaust"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "The new product launch was ___ with overwhelming success.",
+              "options": {
+                "a": "met",
+                "b": "met with",
+                "c": "meeting",
+                "d": "having met"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "The organization is ___ to environmental conservation.",
+              "options": {
+                "a": "committed",
+                "b": "commited",
+                "c": "committing",
+                "d": "committment"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "Although siblings, they are not very ___ in appearance.",
+              "options": {
+                "a": "alike",
+                "b": "similar",
+                "c": "like",
+                "d": "comparable"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "The earthquake caused ___ damage to the city.",
+              "options": {
+                "a": "devastating",
+                "b": "devasting",
+                "c": "devastated",
+                "d": "devastation"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "He found inner ___ after years of conflict.",
+              "options": {
+                "a": "peace",
+                "b": "piece",
+                "c": "peice",
+                "d": "peaceful"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "The new medicine is expected to ___ the patient's suffering.",
+              "options": {
+                "a": "alleviate",
+                "b": "elevate",
+                "c": "allieviate",
+                "d": "alleviates"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "Her performance was a true ___ of vocal artistry.",
+              "options": {
+                "a": "bravado",
+                "b": "bravura",
+                "c": "bravery",
+                "d": "brave"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "The jury voted to ___ the defendant.",
+              "options": {
+                "a": "acquit",
+                "b": "admit",
+                "c": "acquite",
+                "d": "acquitted"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 25,
+              "question": "The discovery of the new species was ___ in scientific circles.",
+              "options": {
+                "a": "unprecedented",
+                "b": "unprecidented",
+                "c": "unpresidented",
+                "d": "unprecedentedly"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "She was ___ that she would pass the exam.",
+              "options": {
+                "a": "confident",
+                "b": "confidant",
+                "c": "confiding",
+                "d": "confidence"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "The colors in the painting ___ each other perfectly.",
+              "options": {
+                "a": "compliment",
+                "b": "complement",
+                "c": "completing",
+                "d": "complied"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "Scientists are working to ___ a new energy source.",
+              "options": {
+                "a": "device",
+                "b": "devise",
+                "c": "devises",
+                "d": "devising"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "His arguments were ___ and easy to follow.",
+              "options": {
+                "a": "coherent",
+                "b": "cohesive",
+                "c": "adhesive",
+                "d": "cohere"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "All employees must ___ the company's dress code.",
+              "options": {
+                "a": "adhere to",
+                "b": "abide with",
+                "c": "adhere with",
+                "d": "abide to"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The economic downturn will likely ___ the entire industry.",
+              "options": {
+                "a": "affect",
+                "b": "effect",
+                "c": "affecting",
+                "d": "effected"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "I ___ if you could tell me the way to the station.",
+              "options": {
+                "a": "wonder",
+                "b": "wander",
+                "c": "wondered",
+                "d": "wandering"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 3,
+              "question": "For ___ information, please refer to the website.",
+              "options": {
+                "a": "further",
+                "b": "farther",
+                "c": "furthest",
+                "d": "farthest"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "Children are not ___ to play near the road.",
+              "options": {
+                "a": "allowed",
+                "b": "aloud",
+                "c": "allowing",
+                "d": "allow"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "The movie reached its ___ point with the dramatic chase scene.",
+              "options": {
+                "a": "climatic",
+                "b": "climactic",
+                "c": "climax",
+                "d": "climaxed"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "He managed to ___ control of the runaway horse.",
+              "options": {
+                "a": "seize",
+                "b": "cease",
+                "c": "seise",
+                "d": "ceased"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "The mentor gave us some excellent ___ on career development.",
+              "options": {
+                "a": "advice",
+                "b": "advise",
+                "c": "advices",
+                "d": "advising"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "She was ___ pleased with the results.",
+              "options": {
+                "a": "quiet",
+                "b": "quite",
+                "c": "quit",
+                "d": "quilt"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "Don't ___ your temper over small things.",
+              "options": {
+                "a": "loose",
+                "b": "lose",
+                "c": "loss",
+                "d": "lost"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "The new tax law had a significant ___ on small businesses.",
+              "options": {
+                "a": "affect",
+                "b": "effect",
+                "c": "affecting",
+                "d": "effective"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "His work often makes ___ to historical events.",
+              "options": {
+                "a": "allusion",
+                "b": "illusion",
+                "c": "elusion",
+                "d": "allude"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "The committee decided to ___ the new safety standards.",
+              "options": {
+                "a": "accede",
+                "b": "accede to",
+                "c": "acceded",
+                "d": "accedence"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "The new software is designed to ___ data management.",
+              "options": {
+                "a": "ameliorate",
+                "b": "ameliorate with",
+                "c": "ameliorates",
+                "d": "ameliorating"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "The police were called to ___ the unruly crowd.",
+              "options": {
+                "a": "disperse",
+                "b": "disburse",
+                "c": "dispurse",
+                "d": "disburse to"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "Please be ___ when discussing sensitive information.",
+              "options": {
+                "a": "discrete",
+                "b": "discreet",
+                "c": "discreat",
+                "d": "discretely"
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

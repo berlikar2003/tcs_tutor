@@ -1,0 +1,880 @@
+{
+  "Subject": "logical reasoning",
+  "Chapters": [
+    {
+      "Chapter Name": "Seating Arrangement",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Six friends A, B, C, D, E, and F are sitting in a row facing North. C is to the right of E and left of A. D is to the left of F and right of A. Who is sitting at the extreme right end?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "F"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 2,
+              "question": "P, Q, R, S, T, U are sitting in a circle facing the center. R is immediately to the right of Q. P is between S and U. T is immediately to the left of S. Who is sitting immediately to the right of P?",
+              "options": {
+                "a": "S",
+                "b": "U",
+                "c": "T",
+                "d": "Q"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "Five boys A, B, C, D, E are sitting in a row. A is to the right of B. E is to the left of B but to the right of C. A is to the left of D. Who is second from the left?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "D",
+                "d": "E"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "Six persons M, N, O, P, Q, R are sitting around a circular table facing the center. N is immediate right of P. Q is immediate left of O. M is between P and Q. R is not immediate right of Q. Who is immediate left of R?",
+              "options": {
+                "a": "M",
+                "b": "N",
+                "c": "O",
+                "d": "P"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "Seven friends A, B, C, D, E, F, G are sitting in a straight line facing North. E is to the immediate right of G. B is at an extreme end. D is exactly between B and F. A is to the immediate left of C. C is to the immediate left of E. Who is sitting in the middle of the row?",
+              "options": {
+                "a": "A",
+                "b": "C",
+                "c": "D",
+                "d": "E"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "In a circle, P, Q, R, S, T, U are seated facing the center. R is between S and Q. P is to the immediate right of S. U is between P and T. Who is sitting to the immediate left of T?",
+              "options": {
+                "a": "P",
+                "b": "S",
+                "c": "U",
+                "d": "R"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "Five girls are sitting in a row. Rina is to the right of Meena. Tina is to the left of Meena. Seema is to the right of Rina. Beena is to the left of Meena but to the right of Tina. Who is sitting in the middle?",
+              "options": {
+                "a": "Meena",
+                "b": "Rina",
+                "c": "Tina",
+                "d": "Seema"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "Six persons A, B, C, D, E, F are sitting in a row facing North. A is second to the left of C. B is to the immediate right of A. F is at an extreme end. D is not next to A. Who is at the extreme left end?",
+              "options": {
+                "a": "F",
+                "b": "E",
+                "c": "B",
+                "d": "D"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 9,
+              "question": "Four friends P, Q, R, S are sitting around a square table. P is to the right of Q. R is to the left of S. If Q and R are facing each other, who is to the right of S?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "R",
+                "d": "Cannot be determined"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting around a circular table facing the center. B is second to the right of G. H is third to the left of B. F is second to the right of C. C is not an immediate neighbor of B. D is second to the left of A. Who is immediate left of D?",
+              "options": {
+                "a": "E",
+                "b": "F",
+                "c": "H",
+                "d": "G"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "Five students P, Q, R, S, T are sitting in a row. R is to the right of Q and left of S. T is to the right of P and left of Q. Who is sitting in the middle?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "R",
+                "d": "S"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "Six friends K, L, M, N, O, P are sitting in a circle facing the center. K is to the immediate left of M. O is to the immediate right of N. L is between M and O. Who is sitting opposite to K?",
+              "options": {
+                "a": "N",
+                "b": "O",
+                "c": "L",
+                "d": "P"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "Six persons A, B, C, D, E, F are sitting in two rows, three in each. E is not at the end of any row. D is second to the left of F. C is the neighbor of E and is sitting diagonally opposite to D. B is the neighbor of F. Who is opposite to B?",
+              "options": {
+                "a": "A",
+                "b": "C",
+                "c": "E",
+                "d": "D"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "A, B, C, D, E, F are sitting in a row facing West. A is to the left of C. B is to the right of D. F is between B and C. D is to the left of A. Who is second from the right end?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "E"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting around a square table in such a way that four of them sit at four corners while four sit in the middle of each of the four sides. Those who sit at the corners face the center and those who sit in the middle of the sides face outside. C sits at one of the corners. G sits third to the right of C. H sits third to the right of D. D is not an immediate neighbor of C or G. A sits second to the left of E. E is not an immediate neighbor of D. F is an immediate neighbor of A. Who sits between F and D?",
+              "options": {
+                "a": "E",
+                "b": "B",
+                "c": "H",
+                "d": "C"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "Five friends M, N, O, P, Q are sitting in a row. N is to the left of P and to the right of Q. O is to the right of P. M is to the left of Q. Who is sitting at the extreme right?",
+              "options": {
+                "a": "M",
+                "b": "N",
+                "c": "O",
+                "d": "P"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 17,
+              "question": "Six persons A, B, C, D, E, F are sitting in a circle facing the center. B is to the immediate left of C. A is between E and F. D is to the immediate right of E. Who is sitting opposite to B?",
+              "options": {
+                "a": "D",
+                "b": "E",
+                "c": "F",
+                "d": "A"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "Five students John, Smith, Alex, David, and Harry are sitting in a row. John is between Alex and Harry. David is to the right of Alex. Smith is to the left of Harry. Who is sitting in the middle?",
+              "options": {
+                "a": "John",
+                "b": "Smith",
+                "c": "Alex",
+                "d": "David"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "Seven persons A, B, C, D, E, F, G are sitting in a straight line facing South. D is to the immediate left of E. B is to the right of C. F is second to the right of D. A is to the immediate left of B. G is at one of the extreme ends. Who is second from the left end?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "D"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "Six friends are sitting in a circle and are facing the center. They are A, B, C, D, E, F. A is to the immediate left of B. C is between A and E. D is between F and B. Who is sitting opposite to F?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "E"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "Five people P, Q, R, S, T are sitting in a row facing North. S is to the left of Q and right of T. R is to the right of Q. P is to the left of T. Who is sitting in the second position from the left end?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "T",
+                "d": "S"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "Eight friends A, B, C, D, E, F, G, H are sitting in a circle facing the center. B is 3rd to the right of A. D is 2nd to the left of A. E is 3rd to the right of C. H is 2nd to the left of B. G is not an immediate neighbor of B. F is not an immediate neighbor of D. Who is 2nd to the right of F?",
+              "options": {
+                "a": "G",
+                "b": "H",
+                "c": "E",
+                "d": "A"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "Six professors P, Q, R, S, T, U are sitting in a row facing South. Q is between P and R. T is at the extreme left end. S is to the immediate right of U. P is second to the right of U. Who is sitting at the extreme right end?",
+              "options": {
+                "a": "R",
+                "b": "Q",
+                "c": "P",
+                "d": "S"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 24,
+              "question": "Five houses A, B, C, D, E are in a row. A is to the right of B. E is to the left of C and right of A. B is to the right of D. Which house is in the middle?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "E"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 25,
+              "question": "Six persons P, Q, R, S, T, U are sitting around a hexagonal table. P is sitting opposite to Q. R is sitting to the immediate right of T. S is sitting to the immediate left of Q. U is sitting opposite to T. Who is sitting to the immediate right of P?",
+              "options": {
+                "a": "R",
+                "b": "S",
+                "c": "U",
+                "d": "T"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "Seven friends M, N, O, P, Q, R, S are sitting in a straight line facing North. M is at one extreme end. P is second to the right of M. O is to the immediate left of Q. S is third to the left of Q. N is between Q and R. Who is sitting to the immediate left of P?",
+              "options": {
+                "a": "N",
+                "b": "O",
+                "c": "R",
+                "d": "S"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting around a square table, four at corners facing center, four in middle of sides facing outside. G sits at a corner. B is third to the right of G. D is third to the left of B. A is to the immediate right of D. F sits between A and G. E sits second to the left of H. Who is sitting opposite to C?",
+              "options": {
+                "a": "A",
+                "b": "F",
+                "c": "H",
+                "d": "E"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 28,
+              "question": "Five boys are standing in a row. Ram is taller than Shyam but shorter than Rohan. Shyam is taller than Dev but shorter than Mohan. Who is the shortest?",
+              "options": {
+                "a": "Ram",
+                "b": "Shyam",
+                "c": "Dev",
+                "d": "Mohan"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 29,
+              "question": "Six friends P, Q, R, S, T, U are sitting around a circular table facing the center. Q is to the immediate left of R. S is between R and T. U is between P and Q. Who is sitting to the immediate right of T?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "S",
+                "d": "R"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "Five students A, B, C, D, E are sitting in a row. D is to the right of E. B is to the left of E. A is to the right of C. C is to the left of B. Who is sitting in the middle?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "E"
+              },
+              "answer": "d"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Eight persons P, Q, R, S, T, U, V, W are sitting around a circular table, facing the center. Each of them likes a different color among Red, Blue, Green, Yellow, Orange, Pink, Black, and White. T sits third to the right of R. The one who likes Black sits to the immediate left of T. The one who likes Pink sits second to the left of Q. Q is not an immediate neighbor of T. S sits second to the right of the one who likes Black. W sits opposite to the one who likes Yellow. The one who likes Blue sits second to the left of P. P is not an immediate neighbor of the one who likes Pink. The one who likes White sits to the immediate left of V. U does not like Black. The one who likes Orange sits between R and Q. How many persons are sitting between R and the one who likes Red, when counted from the right of R?",
+              "options": {
+                "a": "One",
+                "b": "Two",
+                "c": "Three",
+                "d": "Four",
+                "e": "None"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "Ten persons A, B, C, D, E, F, G, H, I, J are sitting in two parallel rows containing five persons each. In Row 1: A, B, C, D, E are sitting and all of them are facing South. In Row 2: F, G, H, I, J are sitting and all of them are facing North. In the given arrangement, each person in Row 1 faces a person in Row 2. C sits third to the right of A. G faces C. D sits second to the left of E. H faces D. B sits to the immediate left of C. J sits at one of the extreme ends. F faces E. Who sits second to the right of the person who faces B?",
+              "options": {
+                "a": "F",
+                "b": "G",
+                "c": "H",
+                "d": "I",
+                "e": "J"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 3,
+              "question": "Seven friends M, N, O, P, Q, R, S are sitting in a straight line facing North. S sits at one of the extreme ends. P is second to the right of S. R sits exactly in the middle. M is not an immediate neighbor of P. Q is to the immediate left of N. N is to the right of R. Who is sitting second to the right of Q?",
+              "options": {
+                "a": "M",
+                "b": "P",
+                "c": "R",
+                "d": "S",
+                "e": "N"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting around a circular table. Some of them are facing the center and some are facing outside. Not more than two adjacent persons face the same direction. B sits third to the right of D. E is an immediate neighbor of B. The one who sits opposite to D faces outside. G sits second to the left of E. C sits to the immediate right of H. H sits opposite to A. Both A and C face the same direction as B. D faces the same direction as G. F sits second to the left of B. How many persons are facing outside?",
+              "options": {
+                "a": "Two",
+                "b": "Three",
+                "c": "Four",
+                "d": "Five",
+                "e": "Cannot be determined"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "Eight persons P, Q, R, S, T, U, V, W are sitting in a straight line. Four of them are facing North and four are facing South. No two persons facing the same direction are immediate neighbors. P faces North. S sits second to the right of P. Q sits third to the left of S. R sits to the immediate right of Q. U sits second to the left of R. V sits at one of the extreme ends. W is not an immediate neighbor of U. The immediate neighbors of V face the opposite direction to V. Who sits second to the right of T?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "R",
+                "d": "S",
+                "e": "U"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "Nine persons P, Q, R, S, T, U, V, W, X are sitting around a circular table, but not necessarily in the same order. Some are facing the center and some are facing outside.\nR sits second to the right of T. Only three persons sit between R and W. V sits third to the left of W. P sits second to the left of V. P and Q are immediate neighbors. U sits fourth to the right of Q. S sits second to the left of U. X is an immediate neighbor of R.\nImmediate neighbors of V face the same direction. S faces opposite to P. X faces opposite to R. U faces the center. If T faces outside, what is the position of X with respect to W?",
+              "options": {
+                "a": "Third to the left",
+                "b": "Second to the right",
+                "c": "Immediate left",
+                "d": "Third to the right",
+                "e": "Immediate right"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "Six friends A, B, C, D, E, F are sitting around a circular table. Some are facing center and some are facing outside.\nA is second to the left of C. B is to the immediate right of A. D is third to the left of B. F is to the immediate left of D. E is second to the right of F. D faces outside. A and B face the same direction. C and E face the same direction. F faces opposite to D. How many persons are facing outside?",
+              "options": {
+                "a": "Two",
+                "b": "Three",
+                "c": "Four",
+                "d": "Five",
+                "e": "Cannot be determined"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "Seven persons A, B, C, D, E, F, G are sitting in a straight line. Some of them are facing North and some are facing South.\nA sits third from one of the extreme ends. B sits second to the right of A. C sits to the immediate left of B. Only two persons sit between C and E. F sits to the immediate left of G. G is an immediate neighbor of C. F and G face the same direction. B faces South. Immediate neighbors of A face opposite directions to A. The person at the extreme ends face opposite directions. How many persons are facing North?",
+              "options": {
+                "a": "Two",
+                "b": "Three",
+                "c": "Four",
+                "d": "Five",
+                "e": "Cannot be determined"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 9,
+              "question": "Eight employees P, Q, R, S, T, U, V, W work in a company. They are sitting around a square table in such a way that four of them sit at four corners while four sit in the middle of each of the four sides. Those who sit at the corners face the center and those who sit in the middle of the sides face outside.\nS sits at one of the corners. P sits second to the right of S. Q sits second to the left of P. R sits at one of the middle of the sides. T is not an immediate neighbor of Q or P. V faces inside. W sits third to the right of V. U is an immediate neighbor of T. Who among the following sits opposite to the one who sits immediate left of S?",
+              "options": {
+                "a": "Q",
+                "b": "R",
+                "c": "T",
+                "d": "U",
+                "e": "V"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "Seven persons A, B, C, D, E, F, G are sitting in a straight line. Some are facing North and some are facing South. Not more than two adjacent persons face the same direction.\nD sits third from the right end. A sits second to the left of D. B is an immediate neighbor of A. B and A face the same direction. C sits third to the right of B. G sits at an extreme end. E is not an immediate neighbor of D. F is an immediate neighbor of G. C and F face opposite directions to G. How many persons face South?",
+              "options": {
+                "a": "Two",
+                "b": "Three",
+                "c": "Four",
+                "d": "Five",
+                "e": "Cannot be determined"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "Twelve persons are sitting in two parallel rows containing six persons each. In row 1 – P, Q, R, S, T, U are sitting and all of them are facing South. In row 2 – A, B, C, D, E, F are sitting and all of them are facing North. Each person in row 1 faces a person in row 2.\nOnly two persons sit between P and U. The one who faces P sits third to the left of C. No one sits between Q and S. Q is not an immediate neighbor of P. The one who faces S sits second to the right of A. T faces E. F is not an immediate neighbor of E. R is not an immediate neighbor of T. Who faces B?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "R",
+                "d": "S",
+                "e": "T"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "Eight friends P, Q, R, S, T, U, V, W are sitting around a circular table facing the center. Each of them has a different profession, viz. Doctor, Engineer, Architect, Pilot, Teacher, Manager, Journalist, and Banker.\nP sits third to the right of the Journalist. The Manager is an immediate neighbor of the Journalist. V sits second to the left of the Manager. R is not an immediate neighbor of P or V. The Architect sits to the immediate left of R. The Doctor sits opposite to Q. The Pilot sits second to the right of the Teacher. T is the Teacher. The Banker sits to the immediate right of U. S is not the Manager. Who is the Architect?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "S",
+                "d": "U",
+                "e": "W"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "Six boxes A, B, C, D, E, F are kept one above the other but not necessarily in the same order. Each box is of a different color, viz. Red, Blue, Green, Yellow, Orange, and Pink.\nThe Yellow box is kept at the top. Only two boxes are kept between the Yellow box and the Green box. The Blue box is kept immediately above the Orange box. The Pink box is not kept immediately above or below the Yellow box. Box D is kept immediately above Box A. Box C is kept immediately below Box B. Box E is of Red color. Box F is not of Orange color. Which box is of Pink color?",
+              "options": {
+                "a": "Box A",
+                "b": "Box B",
+                "c": "Box C",
+                "d": "Box D",
+                "e": "Box F"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 14,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting around a square table. Four of them sit at the corners while four sit in the middle of each of the four sides. Those who sit at the corners face outside and those who sit in the middle of the sides face inside.\nH sits at one of the middle sides. G sits third to the right of H. A sits second to the right of G. D sits to the immediate left of A. C sits opposite to B. F sits second to the left of E. B and E are not immediate neighbors of H. Who among the following sits opposite to F?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "D",
+                "e": "E"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "Seven friends P, Q, R, S, T, U, V are sitting in a row facing North. Each of them has a different number of books among 10, 15, 20, 25, 30, 35, 40.\nP sits third to the right of the one who has 20 books. Only two persons sit between P and Q. The one who has 35 books sits to the immediate left of Q. R sits second to the left of the one who has 35 books. The one who has 15 books sits to the immediate right of T. T does not sit at any extreme end. S has 5 more books than R. V sits to the left of U. The one who has 10 books sits at an extreme end. How many books does U have?",
+              "options": {
+                "a": "10",
+                "b": "15",
+                "c": "20",
+                "d": "25",
+                "e": "30"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting in a row. Some of them are facing North and some are facing South.\nA sits third from the right end. B sits second to the right of A. C is an immediate neighbor of A and faces opposite direction to A. Only two persons sit between C and D. E sits second to the left of D. F is an immediate neighbor of E. G sits at an extreme end and faces North. H is an immediate neighbor of B. Immediate neighbors of E face opposite direction to E. Immediate neighbors of A face opposite direction to A. How many persons are facing North?",
+              "options": {
+                "a": "Two",
+                "b": "Three",
+                "c": "Four",
+                "d": "Five",
+                "e": "Cannot be determined"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "Six persons L, M, N, O, P, Q are sitting around a hexagonal table, but not necessarily in the same order. Three of them are facing the center and three are facing outside.\nL is sitting opposite to M. O is sitting to the immediate right of N. P is sitting to the immediate left of M. Q is sitting opposite to N. L and P face the same direction. N faces opposite to M. O faces outside. How many persons are facing outside?",
+              "options": {
+                "a": "Two",
+                "b": "Three",
+                "c": "Four",
+                "d": "Five",
+                "e": "Cannot be determined"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "Eight boxes A, B, C, D, E, F, G, H are placed one above another in a stack. The lowermost stack is numbered 1 and the topmost stack is numbered 8.\nBox E is placed at an odd numbered position. Only one box is placed between E and C. Box G is placed immediately below Box C. Only three boxes are placed between G and B. Box F is placed immediately above Box A. Box A is placed above Box H. Box D is not placed immediately above or immediately below Box B. Which box is placed at the topmost position?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "D",
+                "d": "F",
+                "e": "G"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 19,
+              "question": "Seven persons P, Q, R, S, T, U, V are sitting in a straight line, facing North. Each has a different profession among Doctor, Engineer, Teacher, Pilot, Manager, Banker, and Chef.\nThe Teacher sits third from the left end. Only two persons sit between the Teacher and the Pilot. The Manager sits to the immediate left of the Pilot. P sits third to the right of the Manager. Q is an immediate neighbor of P. The Banker sits second to the left of Q. T is not the Engineer. U is not the Chef. R is the Doctor. How many persons sit between the Chef and the Banker?",
+              "options": {
+                "a": "One",
+                "b": "Two",
+                "c": "Three",
+                "d": "Four",
+                "e": "None"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "Eight friends A, B, C, D, E, F, G, H are sitting around a circular table facing the center. Each of them likes a different fruit among Apple, Banana, Orange, Mango, Grape, Kiwi, Litchi, and Peach.\nD sits third to the right of G. The one who likes Mango sits to the immediate left of D. The one who likes Litchi sits second to the left of B. B is not an immediate neighbor of D. E sits second to the right of the one who likes Mango. H sits opposite to the one who likes Apple. The one who likes Orange sits second to the left of A. A is not an immediate neighbor of the one who likes Litchi. The one who likes Peach sits to the immediate left of C. F does not like Mango. Who is the one who likes Banana?",
+              "options": {
+                "a": "A",
+                "b": "E",
+                "c": "F",
+                "d": "H",
+                "e": "C"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 21,
+              "question": "Twelve persons are sitting in two parallel rows containing six persons each. In row 1 – P, Q, R, S, T, U are sitting and all of them are facing South. In row 2 – A, B, C, D, E, F are sitting and all of them are facing North. Each person in row 1 faces a person in row 2.\nU sits third to the right of R. The one who faces U sits to the immediate left of B. Only one person sits between B and F. The one who faces F sits second to the left of T. S is not an immediate neighbor of T. Q faces A. D sits second to the right of E. P does not face C. How many persons sit between P and Q?",
+              "options": {
+                "a": "One",
+                "b": "Two",
+                "c": "Three",
+                "d": "Four",
+                "e": "None"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "Six persons P, Q, R, S, T, U are sitting around a circular table, facing the center. Each of them is from a different city among Delhi, Mumbai, Chennai, Kolkata, Bangalore, and Hyderabad.\nR sits second to the left of the person from Mumbai. Only two persons sit between R and the person from Chennai. The person from Kolkata sits to the immediate right of the person from Chennai. Q is not from Mumbai. The person from Bangalore sits second to the right of Q. T is from Delhi. The person from Hyderabad is an immediate neighbor of P. S is not from Hyderabad. Who is from Chennai?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "S",
+                "d": "U",
+                "e": "T"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 23,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting in a straight line facing North. Each has a different age among 15, 18, 20, 22, 25, 28, 30, 32.\nThe person aged 20 sits third to the left of G. Only two persons sit between the person aged 20 and B. The person aged 25 sits to the immediate right of B. D sits second to the left of the person aged 25. The person aged 18 sits at an extreme end. A is an immediate neighbor of the person aged 18. Only one person sits between A and F. The person aged 30 sits second to the right of F. H is not aged 22. E is not aged 32. Who is sitting at the extreme right end?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "D",
+                "d": "E",
+                "e": "H"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 24,
+              "question": "Nine persons P, Q, R, S, T, U, V, W, X are sitting around a circular table, some are facing center and some outside.\nS sits third to the left of R. Only two persons sit between S and Q. T is not an immediate neighbor of S. P sits second to the right of T. U sits fourth to the left of P. V is an immediate neighbor of U. W sits second to the right of V. X is not an immediate neighbor of R. Immediate neighbors of Q face the opposite direction to Q. T faces the center. Q faces opposite to P. V faces the same direction as W. How many persons are facing outside?",
+              "options": {
+                "a": "Four",
+                "b": "Five",
+                "c": "Six",
+                "d": "Seven",
+                "e": "Three"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "Six persons A, B, C, D, E, F are sitting around a circular table. Each has a different number of coins among 10, 20, 30, 40, 50, 60.\nA sits third to the right of the person with 30 coins. The person with 50 coins sits to the immediate left of A. C has 10 more coins than B. Only two persons sit between the person with 50 coins and D. E sits second to the left of D. F has 10 more coins than A. The person with 20 coins sits to the immediate right of E. How many coins does C have?",
+              "options": {
+                "a": "10",
+                "b": "20",
+                "c": "30",
+                "d": "40",
+                "e": "50"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 26,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting in a row facing North. They have different heights.\nThe tallest person sits at one of the extreme ends. Only two persons sit between the tallest and B. E is taller than F but shorter than G. A is not the tallest. H is not the shortest. C is taller than D but shorter than E. The shortest person sits to the immediate right of A. F sits third to the left of D. The second shortest person sits to the immediate right of H. How many persons are shorter than E?",
+              "options": {
+                "a": "One",
+                "b": "Two",
+                "c": "Three",
+                "d": "Four",
+                "e": "Five"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 27,
+              "question": "Twelve persons are sitting in two parallel rows containing six persons each. In row 1 – P, Q, R, S, T, U are sitting and all of them are facing South. In row 2 – A, B, C, D, E, F are sitting and all of them are facing North. Each person in row 1 faces a person in row 2.\nP sits third to the right of S. The one who faces P sits to the immediate left of B. Only two persons sit between B and E. The one who faces E sits second to the left of Q. T is not an immediate neighbor of Q. R is an immediate neighbor of T. U does not face A. C is an immediate neighbor of A. Who faces U?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "D",
+                "d": "F",
+                "e": "C"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 28,
+              "question": "Seven persons A, B, C, D, E, F, G are sitting around a circular table facing the center. Each has a different hobby among Reading, Singing, Dancing, Painting, Traveling, Cooking, and Gardening.\nA sits second to the left of the one whose hobby is Painting. Only two persons sit between A and the one whose hobby is Cooking. The one whose hobby is Gardening sits to the immediate right of the one whose hobby is Cooking. B is not an immediate neighbor of the one whose hobby is Painting. D sits third to the right of B. The one whose hobby is Singing sits to the immediate left of G. C is not the one whose hobby is Reading. F is not the one whose hobby is Traveling. Who is the one whose hobby is Dancing?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "E",
+                "e": "F"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 29,
+              "question": "Eight friends P, Q, R, S, T, U, V, W are sitting around a square table. Four of them sit at the corners and four in the middle of the sides. Those at corners face away from the center and those in the middle face towards the center.\nP sits at a corner. S sits third to the right of P. Q sits to the immediate right of S. R sits at one of the middle sides. T is not an immediate neighbor of Q or S. U faces outside. V sits second to the left of U. W is an immediate neighbor of T. Who sits between Q and T?",
+              "options": {
+                "a": "P",
+                "b": "R",
+                "c": "S",
+                "d": "U",
+                "e": "V"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "Seven persons A, B, C, D, E, F, G are sitting in a row facing North. They like different fruits among Apple, Banana, Orange, Mango, Grape, Kiwi, and Litchi.\nThe one who likes Mango sits third from the right end. Only two persons sit between the one who likes Mango and B. The one who likes Grape sits to the immediate left of B. C sits second to the left of the one who likes Grape. The one who likes Kiwi sits to the immediate right of F. F does not sit at any extreme end. A is an immediate neighbor of the one who likes Apple. G is not the one who likes Banana. E does not like Litchi. Who is the one who likes Apple?",
+              "options": {
+                "a": "A",
+                "b": "C",
+                "c": "D",
+                "d": "E",
+                "e": "G"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Six friends A, B, C, D, E, F are sitting in a straight line facing North. A is second to the right of C. B is to the immediate left of A. D is not next to A. F is at one of the extreme ends. E is to the right of D. Who is second from the left?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "D",
+                "d": "E"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "Eight persons P, Q, R, S, T, U, V, W are sitting around a circular table, facing the center. R is third to the right of Q. S is immediate left of T. P is between V and S. W is immediate left of Q. Who is second to the left of P?",
+              "options": {
+                "a": "R",
+                "b": "Q",
+                "c": "T",
+                "d": "U"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "Five friends M, N, O, P, Q are sitting in a row. O is to the right of P and left of Q. N is to the right of M and left of P. Who is sitting in the middle?",
+              "options": {
+                "a": "M",
+                "b": "N",
+                "c": "O",
+                "d": "P"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "Seven persons A, B, C, D, E, F, G are sitting in a straight line facing South. E is at one of the extreme ends. D is second to the left of E. B is between G and F. A is to the immediate right of D. C is to the immediate left of G. Who is sitting in the middle?",
+              "options": {
+                "a": "B",
+                "b": "D",
+                "c": "F",
+                "d": "G"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "Six persons L, M, N, O, P, Q are sitting around a circular table facing the center. L is to the immediate right of N. M is opposite to P. Q is between O and N. Who is sitting to the immediate left of P?",
+              "options": {
+                "a": "O",
+                "b": "Q",
+                "c": "L",
+                "d": "N"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "Eight persons A, B, C, D, E, F, G, H are sitting around a square table. Four of them sit at the corners facing outside and four in the middle of sides facing inside. A sits at a corner. B is third to the right of A. C is to the immediate left of B. D sits opposite to E. F is second to the right of H. G is not an immediate neighbor of A. Who sits between D and F?",
+              "options": {
+                "a": "A",
+                "b": "B",
+                "c": "C",
+                "d": "H"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "Five books are stacked one above another. Math is above Physics. Chemistry is above Math. Biology is below Chemistry but above Physics. History is below Physics. Which book is at the bottom?",
+              "options": {
+                "a": "Math",
+                "b": "Physics",
+                "c": "Biology",
+                "d": "History"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 8,
+              "question": "Seven friends P, Q, R, S, T, U, V are sitting in a row facing North. T is at one of the extreme ends. R is second to the right of T. Q is to the immediate left of R. S is exactly between Q and U. V is to the right of U. Who is sitting third from the left end?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "R",
+                "d": "S"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 9,
+              "question": "Six persons M, N, O, P, Q, R are sitting around a circular table facing outside. N is second to the left of P. Q is immediate right of O. M is between O and R. S is not used. Who is immediate right of P?",
+              "options": {
+                "a": "M",
+                "b": "N",
+                "c": "R",
+                "d": "Q"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "Five cities A, B, C, D, E are located such that A is to the East of B. C is to the South of B. D is to the West of C. E is to the North of D. Which city is to the South-East of B?",
+              "options": {
+                "a": "A",
+                "b": "C",
+                "c": "D",
+                "d": "E"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "Eight persons J, K, L, M, N, O, P, Q are sitting around a circular table. Some face center, some face outside. L sits 3rd to the right of K. N is an immediate neighbor of L. P sits 2nd to the left of N. J sits opposite to Q. O is an immediate neighbor of P. M sits 2nd to the right of O. If K faces outside, what is the position of J with respect to M?",
+              "options": {
+                "a": "Second to the right",
+                "b": "Immediate left",
+                "c": "Third to the left",
+                "d": "Immediate right"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "Six friends F, G, H, I, J, K are sitting in a row facing South. H is second to the right of G. F is to the immediate right of H. I is not at any end. J is to the left of K. K is not at an end. Who is sitting at the extreme right end?",
+              "options": {
+                "a": "F",
+                "b": "G",
+                "c": "H",
+                "d": "K"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "Seven students A, B, C, D, E, F, G are sitting in a row. B is to the right of A. C is to the left of A. D is between A and G. E is to the right of D. F is to the left of C. Which student is in the middle?",
+              "options": {
+                "a": "A",
+                "b": "C",
+                "c": "D",
+                "d": "G"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "Four friends are playing cards around a square table. A, B, C, D. A is to the right of B. D is to the left of C. B and D are facing each other. Who is to the left of A?",
+              "options": {
+                "a": "B",
+                "b": "C",
+                "c": "D",
+                "d": "Cannot be determined"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "Six persons P, Q, R, S, T, U are sitting in a circle facing the center. Q is to the immediate right of P. R is between S and P. T is to the immediate left of U. Who is sitting opposite to T?",
+              "options": {
+                "a": "P",
+                "b": "Q",
+                "c": "R",
+                "d": "S"
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

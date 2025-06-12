@@ -1,0 +1,850 @@
+{
+  "Subject": "Verbal",
+  "Chapters": [
+    {
+      "Chapter Name": "Synonyms",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "What is the synonym of **LIKELY**?",
+              "options": {
+                "a": "Doubtful",
+                "b": "Probable",
+                "c": "Unsure",
+                "d": "Improbable"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "What is the synonym of **HAPPY**?",
+              "options": {
+                "a": "Sad",
+                "b": "Joyful",
+                "c": "Angry",
+                "d": "Tired"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "What is the synonym of **BIG**?",
+              "options": {
+                "a": "Small",
+                "b": "Tiny",
+                "c": "Large",
+                "d": "Thin"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "What is the synonym of **FAST**?",
+              "options": {
+                "a": "Slow",
+                "b": "Quick",
+                "c": "Steady",
+                "d": "Calm"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "What is the synonym of **BEGIN**?",
+              "options": {
+                "a": "End",
+                "b": "Finish",
+                "c": "Start",
+                "d": "Stop"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "What is the synonym of **CLEAN**?",
+              "options": {
+                "a": "Dirty",
+                "b": "Filthy",
+                "c": "Tidy",
+                "d": "Messy"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "What is the synonym of **HARD**?",
+              "options": {
+                "a": "Easy",
+                "b": "Difficult",
+                "c": "Soft",
+                "d": "Simple"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "What is the synonym of **BRAVE**?",
+              "options": {
+                "a": "Cowardly",
+                "b": "Fearful",
+                "c": "Courageous",
+                "d": "Timid"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "What is the synonym of **COLD**?",
+              "options": {
+                "a": "Warm",
+                "b": "Chilly",
+                "c": "Hot",
+                "d": "Mild"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "What is the synonym of **SHOUT**?",
+              "options": {
+                "a": "Whisper",
+                "b": "Speak",
+                "c": "Yell",
+                "d": "Murmur"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "What is the synonym of **GIFT**?",
+              "options": {
+                "a": "Present",
+                "b": "Take",
+                "c": "Borrow",
+                "d": "Lend"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "What is the synonym of **QUIET**?",
+              "options": {
+                "a": "Loud",
+                "b": "Silent",
+                "c": "Noisy",
+                "d": "Busy"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "What is the synonym of **EMPTY**?",
+              "options": {
+                "a": "Full",
+                "b": "Vacant",
+                "c": "Packed",
+                "d": "Crowded"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "What is the synonym of **ODD**?",
+              "options": {
+                "a": "Normal",
+                "b": "Strange",
+                "c": "Common",
+                "d": "Regular"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "What is the synonym of **FINISH**?",
+              "options": {
+                "a": "Begin",
+                "b": "Stop",
+                "c": "Complete",
+                "d": "Start"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "What is the synonym of **HELP**?",
+              "options": {
+                "a": "Hinder",
+                "b": "Assist",
+                "c": "Harm",
+                "d": "Delay"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "What is the synonym of **SMALL**?",
+              "options": {
+                "a": "Big",
+                "b": "Tiny",
+                "c": "Huge",
+                "d": "Large"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "What is the synonym of **TRUE**?",
+              "options": {
+                "a": "False",
+                "b": "Correct",
+                "c": "Wrong",
+                "d": "Incorrect"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "What is the synonym of **RIGHT**?",
+              "options": {
+                "a": "Wrong",
+                "b": "Correct",
+                "c": "Left",
+                "d": "Bad"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "What is the synonym of **CLOSE**?",
+              "options": {
+                "a": "Open",
+                "b": "Near",
+                "c": "Far",
+                "d": "Shut"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "What is the synonym of **RICH**?",
+              "options": {
+                "a": "Poor",
+                "b": "Wealthy",
+                "c": "Needy",
+                "d": "Beggar"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "What is the synonym of **ASK**?",
+              "options": {
+                "a": "Answer",
+                "b": "Question",
+                "c": "Tell",
+                "d": "Reply"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "What is the synonym of **GIVE**?",
+              "options": {
+                "a": "Take",
+                "b": "Offer",
+                "c": "Receive",
+                "d": "Keep"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "What is the synonym of **BUY**?",
+              "options": {
+                "a": "Sell",
+                "b": "Purchase",
+                "c": "Rent",
+                "d": "Loan"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "What is the synonym of **WALK**?",
+              "options": {
+                "a": "Run",
+                "b": "Stroll",
+                "c": "Jump",
+                "d": "Sit"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "What is the synonym of **OLD**?",
+              "options": {
+                "a": "New",
+                "b": "Young",
+                "c": "Ancient",
+                "d": "Fresh"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 27,
+              "question": "What is the synonym of **EASY**?",
+              "options": {
+                "a": "Difficult",
+                "b": "Simple",
+                "c": "Hard",
+                "d": "Complex"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "What is the synonym of **LOVE**?",
+              "options": {
+                "a": "Hate",
+                "b": "Affection",
+                "c": "Dislike",
+                "d": "Anger"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "What is the synonym of **SAFE**?",
+              "options": {
+                "a": "Dangerous",
+                "b": "Secure",
+                "c": "Risky",
+                "d": "Harmful"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "What is the synonym of **BRIGHT**?",
+              "options": {
+                "a": "Dull",
+                "b": "Dim",
+                "c": "Shiny",
+                "d": "Dark"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "What is the synonym of **ABROGATE**?",
+              "options": {
+                "a": "Institute",
+                "b": "Annul",
+                "c": "Sanction",
+                "d": "Uphold"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "What is the synonym of **ACCOLADE**?",
+              "options": {
+                "a": "Censure",
+                "b": "Award",
+                "c": "Criticism",
+                "d": "Reprimand"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "What is the synonym of **AMELIORATE**?",
+              "options": {
+                "a": "Worsen",
+                "b": "Deteriorate",
+                "c": "Improve",
+                "d": "Aggravate"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "What is the synonym of **ANOMALY**?",
+              "options": {
+                "a": "Regularity",
+                "b": "Peculiarity",
+                "c": "Conformity",
+                "d": "Standard"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "What is the synonym of **BENIGN**?",
+              "options": {
+                "a": "Malignant",
+                "b": "Harmless",
+                "c": "Hostile",
+                "d": "Cruel"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "What is the synonym of **CACOPHONY**?",
+              "options": {
+                "a": "Harmony",
+                "b": "Melody",
+                "c": "Discord",
+                "d": "Silence"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "What is the synonym of **COPIOUS**?",
+              "options": {
+                "a": "Scanty",
+                "b": "Abundant",
+                "c": "Scarce",
+                "d": "Meager"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "What is the synonym of **DELECTABLE**?",
+              "options": {
+                "a": "Unpleasant",
+                "b": "Delicious",
+                "c": "Distasteful",
+                "d": "Nauseating"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "What is the synonym of **DIDACTIC**?",
+              "options": {
+                "a": "Uninstructive",
+                "b": "Instructive",
+                "c": "Confusing",
+                "d": "Misleading"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "What is the synonym of **EFFULGENT**?",
+              "options": {
+                "a": "Dull",
+                "b": "Radiant",
+                "c": "Dark",
+                "d": "Obscure"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "What is the synonym of **EQUIVOCAL**?",
+              "options": {
+                "a": "Clear",
+                "b": "Ambiguous",
+                "c": "Certain",
+                "d": "Unquestionable"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "What is the synonym of **ESCHEW**?",
+              "options": {
+                "a": "Embrace",
+                "b": "Shun",
+                "c": "Seek",
+                "d": "Pursue"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "What is the synonym of **FORTUITOUS**?",
+              "options": {
+                "a": "Deliberate",
+                "b": "Accidental",
+                "c": "Intentional",
+                "d": "Planned"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "What is the synonym of **GARRULOUS**?",
+              "options": {
+                "a": "Silent",
+                "b": "Talkative",
+                "c": "Reserved",
+                "d": "Reticent"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "What is the synonym of **HAPHAZARD**?",
+              "options": {
+                "a": "Orderly",
+                "b": "Random",
+                "c": "Systematic",
+                "d": "Organized"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "What is the synonym of **IMPECUNIOUS**?",
+              "options": {
+                "a": "Wealthy",
+                "b": "Affluent",
+                "c": "Poor",
+                "d": "Prosperous"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 17,
+              "question": "What is the synonym of **INCIPIENT**?",
+              "options": {
+                "a": "Developed",
+                "b": "Nascent",
+                "c": "Mature",
+                "d": "Ending"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "What is the synonym of **INDOLENT**?",
+              "options": {
+                "a": "Active",
+                "b": "Diligent",
+                "c": "Lazy",
+                "d": "Energetic"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "What is the synonym of **JOCULAR**?",
+              "options": {
+                "a": "Serious",
+                "b": "Humorous",
+                "c": "Solemn",
+                "d": "Grave"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "What is the synonym of **LACONIC**?",
+              "options": {
+                "a": "Verbose",
+                "b": "Concise",
+                "c": "Talkative",
+                "d": "Rambling"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "What is the synonym of **LAMENT**?",
+              "options": {
+                "a": "Celebrate",
+                "b": "Mourn",
+                "c": "Rejoice",
+                "d": "Commend"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "What is the synonym of **MENDACIOUS**?",
+              "options": {
+                "a": "Truthful",
+                "b": "Deceptive",
+                "c": "Honest",
+                "d": "Sincere"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "What is the synonym of **OBFUSCATE**?",
+              "options": {
+                "a": "Clarify",
+                "b": "Confuse",
+                "c": "Elucidate",
+                "d": "Explain"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "What is the synonym of **PALPABLE**?",
+              "options": {
+                "a": "Imperceptible",
+                "b": "Tangible",
+                "c": "Intangible",
+                "d": "Vague"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "What is the synonym of **PERNICIOUS**?",
+              "options": {
+                "a": "Harmless",
+                "b": "Beneficial",
+                "c": "Destructive",
+                "d": "Wholesome"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "What is the synonym of **PROLIFIC**?",
+              "options": {
+                "a": "Barren",
+                "b": "Fertile",
+                "c": "Unproductive",
+                "d": "Sterile"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "What is the synonym of **RECIPROCAL**?",
+              "options": {
+                "a": "One-sided",
+                "b": "Mutual",
+                "c": "Independent",
+                "d": "Unilateral"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "What is the synonym of **SAGACIOUS**?",
+              "options": {
+                "a": "Foolish",
+                "b": "Wise",
+                "c": "Naive",
+                "d": "Ignorant"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "What is the synonym of **TENUOUS**?",
+              "options": {
+                "a": "Strong",
+                "b": "Flimsy",
+                "c": "Solid",
+                "d": "Thick"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "What is the synonym of **ZEALOUS**?",
+              "options": {
+                "a": "Indifferent",
+                "b": "Apathetic",
+                "c": "Enthusiastic",
+                "d": "Disinterested"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "What is the synonym of **ADROIT**?",
+              "options": {
+                "a": "Clumsy",
+                "b": "Skillful",
+                "c": "Awkward",
+                "d": "Inept"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "What is the synonym of **CANDID**?",
+              "options": {
+                "a": "Dishonest",
+                "b": "Frank",
+                "c": "Deceitful",
+                "d": "Secretive"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "What is the synonym of **DEFER**?",
+              "options": {
+                "a": "Hasten",
+                "b": "Postpone",
+                "c": "Expedite",
+                "d": "Rush"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "What is the synonym of **EMULATE**?",
+              "options": {
+                "a": "Invent",
+                "b": "Imitate",
+                "c": "Originate",
+                "d": "Deviate"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "What is the synonym of **GAUDY**?",
+              "options": {
+                "a": "Tasteful",
+                "b": "Flashy",
+                "c": "Subtle",
+                "d": "Modest"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "What is the synonym of **HOMOGENEOUS**?",
+              "options": {
+                "a": "Diverse",
+                "b": "Varied",
+                "c": "Uniform",
+                "d": "Mixed"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "What is the synonym of **INTRICATE**?",
+              "options": {
+                "a": "Simple",
+                "b": "Complex",
+                "c": "Plain",
+                "d": "Straightforward"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "What is the synonym of **LUCID**?",
+              "options": {
+                "a": "Confusing",
+                "b": "Clear",
+                "c": "Vague",
+                "d": "Obscure"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "What is the synonym of **MALEVOLENT**?",
+              "options": {
+                "a": "Benevolent",
+                "b": "Kind",
+                "c": "Spiteful",
+                "d": "Generous"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "What is the synonym of **OBLIVIOUS**?",
+              "options": {
+                "a": "Aware",
+                "b": "Conscious",
+                "c": "Unaware",
+                "d": "Mindful"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "What is the synonym of **PLETHORA**?",
+              "options": {
+                "a": "Scarcity",
+                "b": "Shortage",
+                "c": "Abundance",
+                "d": "Deficiency"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "What is the synonym of **QUINTESSENTIAL**?",
+              "options": {
+                "a": "Typical",
+                "b": "Unusual",
+                "c": "Peripheral",
+                "d": "Secondary"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "What is the synonym of **RESILIENT**?",
+              "options": {
+                "a": "Fragile",
+                "b": "Weak",
+                "c": "Flexible",
+                "d": "Brittle"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "What is the synonym of **SUPERFICIAL**?",
+              "options": {
+                "a": "Deep",
+                "b": "Profound",
+                "c": "Shallow",
+                "d": "Thorough"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "What is the synonym of **UBIQUITOUS**?",
+              "options": {
+                "a": "Rare",
+                "b": "Scarce",
+                "c": "Omnipresent",
+                "d": "Limited"
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

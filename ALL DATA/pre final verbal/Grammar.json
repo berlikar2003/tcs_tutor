@@ -1,0 +1,850 @@
+{
+  "Subject": "Verbal",
+  "Chapters": [
+    {
+      "Chapter Name": "Grammar",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "I have ___ apple.",
+              "options": {
+                "a": "a",
+                "b": "an",
+                "c": "the",
+                "d": "some"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "She ___ to school every day.",
+              "options": {
+                "a": "go",
+                "b": "goes",
+                "c": "going",
+                "d": "went"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "They ___ playing in the garden now.",
+              "options": {
+                "a": "is",
+                "b": "am",
+                "c": "are",
+                "d": "be"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "My brother ___ tall.",
+              "options": {
+                "a": "am",
+                "b": "is",
+                "c": "are",
+                "d": "be"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "We ___ happy to see you.",
+              "options": {
+                "a": "am",
+                "b": "is",
+                "c": "are",
+                "d": "be"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "This is ___ book.",
+              "options": {
+                "a": "I",
+                "b": "my",
+                "c": "me",
+                "d": "mine"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "He is ___ good student.",
+              "options": {
+                "a": "a",
+                "b": "an",
+                "c": "the",
+                "d": "some"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "The cat is ___ the table.",
+              "options": {
+                "a": "in",
+                "b": "on",
+                "c": "under",
+                "d": "at"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "She likes ___ read books.",
+              "options": {
+                "a": "to",
+                "b": "for",
+                "c": "with",
+                "d": "by"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "We ___ a big house.",
+              "options": {
+                "a": "has",
+                "b": "have",
+                "c": "having",
+                "d": "had"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "He ___ a new car yesterday.",
+              "options": {
+                "a": "buy",
+                "b": "buys",
+                "c": "bought",
+                "d": "buying"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "They ___ not like coffee.",
+              "options": {
+                "a": "is",
+                "b": "does",
+                "c": "do",
+                "d": "has"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "___ you speak English?",
+              "options": {
+                "a": "Is",
+                "b": "Does",
+                "c": "Do",
+                "d": "Are"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "The sun ___ in the East.",
+              "options": {
+                "a": "rise",
+                "b": "rises",
+                "c": "rising",
+                "d": "rose"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "I ___ my homework now.",
+              "options": {
+                "a": "do",
+                "b": "does",
+                "c": "am doing",
+                "d": "did"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "She ___ very beautiful.",
+              "options": {
+                "a": "look",
+                "b": "looks",
+                "c": "looking",
+                "d": "looked"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "We ___ to the beach last summer.",
+              "options": {
+                "a": "go",
+                "b": "goes",
+                "c": "went",
+                "d": "gone"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "There ___ many birds in the tree.",
+              "options": {
+                "a": "is",
+                "b": "are",
+                "c": "am",
+                "d": "be"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "Can you ___ me a pen?",
+              "options": {
+                "a": "give",
+                "b": "gives",
+                "c": "giving",
+                "d": "gave"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "He is taller ___ me.",
+              "options": {
+                "a": "then",
+                "b": "than",
+                "c": "that",
+                "d": "from"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "I ___ eat breakfast every morning.",
+              "options": {
+                "a": "usually",
+                "b": "rarely",
+                "c": "never",
+                "d": "often"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "What ___ your name?",
+              "options": {
+                "a": "is",
+                "b": "are",
+                "c": "am",
+                "d": "be"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "This is ___ car. (belonging to him)",
+              "options": {
+                "a": "he",
+                "b": "his",
+                "c": "him",
+                "d": "himself"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "She is a doctor, ___?",
+              "options": {
+                "a": "isn't she",
+                "b": "doesn't she",
+                "c": "wasn't she",
+                "d": "didn't she"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 25,
+              "question": "The children ___ playing outside.",
+              "options": {
+                "a": "is",
+                "b": "are",
+                "c": "am",
+                "d": "be"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "I have ___ books than you.",
+              "options": {
+                "a": "much",
+                "b": "many",
+                "c": "a lot",
+                "d": "few"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "He ___ finished his work.",
+              "options": {
+                "a": "has",
+                "b": "have",
+                "c": "did",
+                "d": "is"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "They ___ visit us next week.",
+              "options": {
+                "a": "will",
+                "b": "would",
+                "c": "can",
+                "d": "might"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "She likes ___ cakes.",
+              "options": {
+                "a": "bake",
+                "b": "bakes",
+                "c": "baking",
+                "d": "baked"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "The weather ___ cold today.",
+              "options": {
+                "a": "is",
+                "b": "are",
+                "c": "am",
+                "d": "be"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Had she known the truth, she ___ differently.",
+              "options": {
+                "a": "would have acted",
+                "b": "would act",
+                "c": "will act",
+                "d": "had acted"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "The company, ___ profits have soared, is expanding rapidly.",
+              "options": {
+                "a": "who",
+                "b": "which",
+                "c": "whose",
+                "d": "that"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "He denied ___ the confidential documents.",
+              "options": {
+                "a": "to steal",
+                "b": "stealing",
+                "c": "having stolen",
+                "d": "to have stolen"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "Hardly ___ the station when the train departed.",
+              "options": {
+                "a": "he had reached",
+                "b": "had he reached",
+                "c": "he reached",
+                "d": "did he reach"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "She insisted ___ paying for the entire meal.",
+              "options": {
+                "a": "on",
+                "b": "in",
+                "c": "with",
+                "d": "by"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "The research suggests that regular exercise ___ cognitive decline.",
+              "options": {
+                "a": "may prevent",
+                "b": "prevents",
+                "c": "will prevent",
+                "d": "preventing"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "Not only ___ a talented musician, but he is also an excellent painter.",
+              "options": {
+                "a": "he is",
+                "b": "is he",
+                "c": "he was",
+                "d": "was he"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "If only I ___ her advice, I wouldn't be in this predicament.",
+              "options": {
+                "a": "took",
+                "b": "had taken",
+                "c": "have taken",
+                "d": "take"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "The government is committed ___ poverty.",
+              "options": {
+                "a": "to eradicate",
+                "b": "eradicating",
+                "c": "to eradicating",
+                "d": "for eradicating"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "The manager prefers employees ___ arrive on time.",
+              "options": {
+                "a": "which",
+                "b": "whom",
+                "c": "whose",
+                "d": "who"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "By the time he retires, he ___ for the company for thirty years.",
+              "options": {
+                "a": "will work",
+                "b": "will have worked",
+                "c": "would work",
+                "d": "would have worked"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "The antique vase was accidentally ___.",
+              "options": {
+                "a": "broke",
+                "b": "broken",
+                "c": "breaking",
+                "d": "breaked"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "___ the challenges, they managed to complete the project on time.",
+              "options": {
+                "a": "Despite",
+                "b": "Although",
+                "c": "In spite",
+                "d": "However"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "The more you practice, ___ you become.",
+              "options": {
+                "a": "good",
+                "b": "better",
+                "c": "the better",
+                "d": "the best"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "He expressed a desire ___ improve his public speaking skills.",
+              "options": {
+                "a": "to",
+                "b": "for",
+                "c": "of",
+                "d": "in"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "She was annoyed ___ him for his constant interruptions.",
+              "options": {
+                "a": "with",
+                "b": "at",
+                "c": "by",
+                "d": "about"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "This is the house ___ Shakespeare was born.",
+              "options": {
+                "a": "which",
+                "b": "where",
+                "c": "that",
+                "d": "in which"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "He made her ___ the entire report.",
+              "options": {
+                "a": "to rewrite",
+                "b": "rewrite",
+                "c": "rewriting",
+                "d": "rewrites"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "The new policy is aimed ___ increasing efficiency.",
+              "options": {
+                "a": "at",
+                "b": "for",
+                "c": "to",
+                "d": "with"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 20,
+              "question": "___ all the evidence, he was still found guilty.",
+              "options": {
+                "a": "Due to",
+                "b": "In spite of",
+                "c": "Because of",
+                "d": "Thanks to"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "It's high time you ___ your responsibilities seriously.",
+              "options": {
+                "a": "take",
+                "b": "took",
+                "c": "will take",
+                "d": "had taken"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "The committee decided ___ the proposal.",
+              "options": {
+                "a": "to accept",
+                "b": "accepting",
+                "c": "on accepting",
+                "d": "accept"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "Had I known you were coming, I ___ a cake.",
+              "options": {
+                "a": "would bake",
+                "b": "would have baked",
+                "c": "will bake",
+                "d": "had baked"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "She couldn't help ___ at his silly jokes.",
+              "options": {
+                "a": "to laugh",
+                "b": "laughing",
+                "c": "laugh",
+                "d": "for laughing"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "The problem ___ requires immediate attention.",
+              "options": {
+                "a": "itself",
+                "b": "oneself",
+                "c": "itself",
+                "d": "himself"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "Little ___ that the secret would be revealed.",
+              "options": {
+                "a": "he knew",
+                "b": "did he know",
+                "c": "he did know",
+                "d": "knew he"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "The project is due ___ completion next month.",
+              "options": {
+                "a": "for",
+                "b": "to",
+                "c": "on",
+                "d": "at"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "There's no point ___ arguing with him.",
+              "options": {
+                "a": "in",
+                "b": "on",
+                "c": "for",
+                "d": "at"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "He is said ___ a fortune in the stock market.",
+              "options": {
+                "a": "to have made",
+                "b": "to make",
+                "c": "to be making",
+                "d": "having made"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "The manager suggested that the meeting ___ postponed.",
+              "options": {
+                "a": "be",
+                "b": "is",
+                "c": "was",
+                "d": "should be"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "If I ___ a bird, I would fly.",
+              "options": {
+                "a": "am",
+                "b": "was",
+                "c": "were",
+                "d": "have been"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "Neither John ___ his brother is coming to the party.",
+              "options": {
+                "a": "or",
+                "b": "nor",
+                "c": "and",
+                "d": "but"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "The news ___ surprising.",
+              "options": {
+                "a": "is",
+                "b": "are",
+                "c": "were",
+                "d": "be"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "She looks ___ she has seen a ghost.",
+              "options": {
+                "a": "like",
+                "b": "as",
+                "c": "as if",
+                "d": "similar"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "He ___ in London for ten years before he moved to Paris.",
+              "options": {
+                "a": "lived",
+                "b": "has lived",
+                "c": "had lived",
+                "d": "was living"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "I wish I ___ more time to travel.",
+              "options": {
+                "a": "have",
+                "b": "had",
+                "c": "will have",
+                "d": "had had"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "The old man, ___ was very tired, sat down on the bench.",
+              "options": {
+                "a": "who",
+                "b": "whom",
+                "c": "which",
+                "d": "that"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "They prevented us ___ entering the building.",
+              "options": {
+                "a": "from",
+                "b": "to",
+                "c": "for",
+                "d": "with"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "Hard work is the key ___ success.",
+              "options": {
+                "a": "of",
+                "b": "to",
+                "c": "for",
+                "d": "in"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "The children enjoyed ___ at the amusement park.",
+              "options": {
+                "a": "themselves",
+                "b": "themself",
+                "c": "theirselves",
+                "d": "them"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "Scarcely had she finished speaking ___ the audience applauded.",
+              "options": {
+                "a": "when",
+                "b": "than",
+                "c": "then",
+                "d": "as soon as"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "He advised me ___ early.",
+              "options": {
+                "a": "to arrive",
+                "b": "arriving",
+                "c": "arrive",
+                "d": "for arriving"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "The company offers a wide ___ of products.",
+              "options": {
+                "a": "range",
+                "b": "vary",
+                "c": "selection",
+                "d": "number"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "Despite ___ rich, he lives a simple life.",
+              "options": {
+                "a": "being",
+                "b": "is",
+                "c": "he is",
+                "d": "his"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "It's imperative that he ___ the report by tomorrow.",
+              "options": {
+                "a": "submit",
+                "b": "submits",
+                "c": "submitted",
+                "d": "will submit"
+              },
+              "answer": "a"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

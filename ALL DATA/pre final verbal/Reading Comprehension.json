@@ -1,0 +1,850 @@
+{
+  "Subject": "Verbal",
+  "Chapters": [
+    {
+      "Chapter Name": "Reading Comprehension",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "My name is Alex, and I love animals. I have a small dog named Buster. Buster is very friendly and loves to play in the yard. Every morning, I take Buster for a walk in the park. He wags his tail when he sees other dogs.\n\n    What kind of animal is Buster?\n    (A) A cat\n    (B) A bird\n    (C) A dog\n    (D) A fish",
+              "options": {
+                "a": "A cat",
+                "b": "A bird",
+                "c": "A dog",
+                "d": "A fish"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "The sun is shining, and the sky is blue. It's a warm day, perfect for going to the beach. I packed my swimsuit, a towel, and some sunscreen. I can't wait to swim in the ocean and build sandcastles.\n\n    What is the person going to do today?\n    (A) Go to the mountains\n    (B) Stay home\n    (C) Go to the beach\n    (D) Visit a museum",
+              "options": {
+                "a": "Go to the mountains",
+                "b": "Stay home",
+                "c": "Go to the beach",
+                "d": "Visit a museum"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "My favorite fruit is an apple. Apples are red, green, or yellow. They are healthy and crunchy. I eat one apple every day for a snack. My mom says \"An apple a day keeps the doctor away!\"\n\n    What is the person's favorite fruit?\n    (A) Banana\n    (B) Orange\n    (C) Grapes\n    (D) Apple",
+              "options": {
+                "a": "Banana",
+                "b": "Orange",
+                "c": "Grapes",
+                "d": "Apple"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "The classroom is big and bright. There are twenty desks and chairs for the students. On the wall, there's a whiteboard where the teacher writes. We have many colorful posters about science and history.\n\n    What is on the wall in the classroom?\n    (A) A clock\n    (B) A bookshelf\n    (C) A whiteboard\n    (D) A window",
+              "options": {
+                "a": "A clock",
+                "b": "A bookshelf",
+                "c": "A whiteboard",
+                "d": "A window"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "After school, I like to play outside. I usually ride my bicycle or play soccer with my friends. Sometimes, if it's raining, I stay inside and read a book or play board games with my sister.\n\n    What does the person do if it's raining?\n    (A) Play soccer outside\n    (B) Ride a bicycle\n    (C) Read a book inside\n    (D) Go to the park",
+              "options": {
+                "a": "Play soccer outside",
+                "b": "Ride a bicycle",
+                "c": "Read a book inside",
+                "d": "Go to the park"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "My grandmother lives in a small house with a big garden. She grows many vegetables like tomatoes, carrots, and lettuce. She also has beautiful flowers. In the summer, I help her water the plants.\n\n    What does the grandmother grow in her garden?\n    (A) Only flowers\n    (B) Only fruits\n    (C) Vegetables and flowers\n    (D) Trees",
+              "options": {
+                "a": "Only flowers",
+                "b": "Only fruits",
+                "c": "Vegetables and flowers",
+                "d": "Trees"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "The restaurant serves delicious food. My favorite dish is the pasta with cheese. They also have good pizza and fresh salads. It's usually very busy, especially on weekends, so we make a reservation.\n\n    What is the person's favorite dish at the restaurant?\n    (A) Pizza\n    (B) Fresh salads\n    (C) Pasta with cheese\n    (D) Soup",
+              "options": {
+                "a": "Pizza",
+                "b": "Fresh salads",
+                "c": "Pasta with cheese",
+                "d": "Soup"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "Last night, there was a big storm. The wind blew very hard, and it rained a lot. The power went out for a few hours. We lit candles and told stories until the lights came back on.\n\n    What happened to the power during the storm?\n    (A) It got stronger\n    (B) It went out\n    (C) It flickered\n    (D) It stayed on",
+              "options": {
+                "a": "It got stronger",
+                "b": "It went out",
+                "c": "It flickered",
+                "d": "It stayed on"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "My brother is learning to play the guitar. He practices every evening for an hour. He says it's difficult, but he loves the sound. Soon, he hopes to play songs for our family.\n\n    What instrument is the brother learning to play?\n    (A) Piano\n    (B) Drums\n    (C) Guitar\n    (D) Violin",
+              "options": {
+                "a": "Piano",
+                "b": "Drums",
+                "c": "Guitar",
+                "d": "Violin"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "The museum has many old things. I saw ancient pottery, old coins, and statues from long ago. There was also a dinosaur skeleton! It was very interesting to see things from the past.\n\n    What did the person see at the museum that was a skeleton?\n    (A) A bird\n    (B) A fish\n    (C) A dinosaur\n    (D) A horse",
+              "options": {
+                "a": "A bird",
+                "b": "A fish",
+                "c": "A dinosaur",
+                "d": "A horse"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "My parents bought a new car yesterday. It's a big, blue car, and it's very comfortable. Now, we can go on long trips easily. We are planning to visit the mountains next month in our new car.\n\n    What color is the new car?\n    (A) Red\n    (B) Green\n    (C) Blue\n    (D) Yellow",
+              "options": {
+                "a": "Red",
+                "b": "Green",
+                "c": "Blue",
+                "d": "Yellow"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "The cat sat on the mat and watched the bird outside the window. The bird was hopping on the grass, looking for worms. The cat wanted to catch the bird, but the window was closed.\n\n    What was the bird doing on the grass?\n    (A) Singing\n    (B) Flying\n    (C) Looking for worms\n    (D) Sleeping",
+              "options": {
+                "a": "Singing",
+                "b": "Flying",
+                "c": "Looking for worms",
+                "d": "Sleeping"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "I drink milk every morning for breakfast. It helps me grow strong. Sometimes, I add chocolate powder to make chocolate milk. It's a delicious way to start my day.\n\n    When does the person drink milk?\n    (A) For lunch\n    (B) For dinner\n    (C) For breakfast\n    (D) Before bed",
+              "options": {
+                "a": "For lunch",
+                "b": "For dinner",
+                "c": "For breakfast",
+                "d": "Before bed"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "The little girl lost her red balloon. It floated up into the sky and disappeared behind the clouds. She felt very sad and started to cry. Her mom gave her a hug.\n\n    What did the little girl lose?\n    (A) Her doll\n    (B) Her ball\n    (C) Her red balloon\n    (D) Her hat",
+              "options": {
+                "a": "Her doll",
+                "b": "Her ball",
+                "c": "Her red balloon",
+                "d": "Her hat"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "Our school has a big playground. There are swings, a slide, and a climbing frame. During break time, all the children run outside to play. We have a lot of fun together.\n\n    What can children find on the playground?\n    (A) A swimming pool\n    (B) Swings and a slide\n    (C) A library\n    (D) A computer room",
+              "options": {
+                "a": "A swimming pool",
+                "b": "Swings and a slide",
+                "c": "A library",
+                "d": "A computer room"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "My friend Sarah has a birthday party next week. She is turning seven. I bought her a toy car as a gift. I hope she likes it. We are going to have cake and play games.\n\n    How old is Sarah turning?\n    (A) Six\n    (B) Seven\n    (C) Eight\n    (D) Nine",
+              "options": {
+                "a": "Six",
+                "b": "Seven",
+                "c": "Eight",
+                "d": "Nine"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "The farmer works hard on his farm. He grows corn and wheat. He also has animals: cows, chickens, and pigs. Every morning, he feeds the animals before the sun comes up.\n\n    What two crops does the farmer grow?\n    (A) Rice and potatoes\n    (B) Corn and wheat\n    (C) Beans and peas\n    (D) Apples and oranges",
+              "options": {
+                "a": "Rice and potatoes",
+                "b": "Corn and wheat",
+                "c": "Beans and peas",
+                "d": "Apples and oranges"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "I love to read scary stories at night. I turn on my bedside lamp and read until I get sleepy. Sometimes, the stories are so scary that I have to hide under my blanket.\n\n    What does the person do to read at night?\n    (A) Turn off the lights\n    (B) Use a flashlight\n    (C) Turn on a bedside lamp\n    (D) Read in the dark",
+              "options": {
+                "a": "Turn off the lights",
+                "b": "Use a flashlight",
+                "c": "Turn on a bedside lamp",
+                "d": "Read in the dark"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "The postman delivers letters and packages to our house every day. He rides a bicycle. He always smiles and says hello. He is a very important person in our community.\n\n    How does the postman deliver letters?\n    (A) By car\n    (B) By foot\n    (C) By bicycle\n    (D) By bus",
+              "options": {
+                "a": "By car",
+                "b": "By foot",
+                "c": "By bicycle",
+                "d": "By bus"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "My family went camping last weekend. We slept in a tent under the stars. We made a campfire and roasted marshmallows. It was very cold at night, but we had warm sleeping bags.\n\n    What did they sleep in during camping?\n    (A) A cabin\n    (B) A hotel\n    (C) A tent\n    (D) A caravan",
+              "options": {
+                "a": "A cabin",
+                "b": "A hotel",
+                "c": "A tent",
+                "d": "A caravan"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "My little brother loves trains. He has many toy trains of different colors. He builds long tracks all over the living room floor. He can play with his trains for hours without getting bored.\n\n    What does the little brother play with?\n    (A) Toy cars\n    (B) Toy trains\n    (C) Toy planes\n    (D) Building blocks",
+              "options": {
+                "a": "Toy cars",
+                "b": "Toy trains",
+                "c": "Toy planes",
+                "d": "Building blocks"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "The chef in the restaurant wears a tall white hat. He cooks delicious meals for many people. He uses fresh ingredients and special spices. Everyone loves his cooking.\n\n    What does the chef wear on his head?\n    (A) A small cap\n    (B) A tall white hat\n    (C) A scarf\n    (D) A bandana",
+              "options": {
+                "a": "A small cap",
+                "b": "A tall white hat",
+                "c": "A scarf",
+                "d": "A bandana"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "Today is my mom's birthday. I made her a special card with colorful drawings. My dad bought her flowers. We are going to have a small party with cake and ice cream in the evening.\n\n    What did the person make for Mom's birthday?\n    (A) A cake\n    (B) A card\n    (C) Flowers\n    (D) Ice cream",
+              "options": {
+                "a": "A cake",
+                "b": "A card",
+                "c": "Flowers",
+                "d": "Ice cream"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "The cat climbed up the tree very fast. It was chasing a bird. But then the cat couldn't get down. My dad had to get a ladder to help the cat come back to the ground.\n\n    What was the cat chasing up the tree?\n    (A) A mouse\n    (B) A squirrel\n    (C) A bird\n    (D) A butterfly",
+              "options": {
+                "a": "A mouse",
+                "b": "A squirrel",
+                "c": "A bird",
+                "d": "A butterfly"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 25,
+              "question": "My favorite subject in school is art. I love to paint and draw. We use different colors and brushes. Last week, I painted a picture of a beautiful landscape with mountains and a river.\n\n    What is the person's favorite subject in school?\n    (A) Math\n    (B) Science\n    (C) Art\n    (D) History",
+              "options": {
+                "a": "Math",
+                "b": "Science",
+                "c": "Art",
+                "d": "History"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "The lake is calm and clear today. You can see the fish swimming in the water. Many people are fishing, and some are just sitting by the shore, enjoying the peace and quiet.\n\n    What can you see in the lake?\n    (A) Boats\n    (B) Fish\n    (C) Birds\n    (D) Trees",
+              "options": {
+                "a": "Boats",
+                "b": "Fish",
+                "c": "Birds",
+                "d": "Trees"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "I need to buy some new shoes. My old ones are too small for my feet. I want a pair of running shoes because I love to run. I will go to the shoe store this afternoon.\n\n    Why does the person need new shoes?\n    (A) Their old ones are broken.\n    (B) Their old ones are too small.\n    (C) They don't like their old ones.\n    (D) They lost their old ones.",
+              "options": {
+                "a": "Their old ones are broken.",
+                "b": "Their old ones are too small.",
+                "c": "They don't like their old ones.",
+                "d": "They lost their old ones."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "The farmer drives a big tractor in the fields. He uses it to plow the land before planting seeds. The tractor is noisy but very strong. It helps him do his work quickly.\n\n    What does the farmer use the tractor for?\n    (A) To carry water\n    (B) To plow the land\n    (C) To feed animals\n    (D) To drive to the market",
+              "options": {
+                "a": "To carry water",
+                "b": "To plow the land",
+                "c": "To feed animals",
+                "d": "To drive to the market"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "My brother's favorite sport is basketball. He practices shooting hoops every day after school. He dreams of playing in a big stadium someday. He is very good at it.\n\n    What is the brother's favorite sport?\n    (A) Soccer\n    (B) Tennis\n    (C) Basketball\n    (D) Swimming",
+              "options": {
+                "a": "Soccer",
+                "b": "Tennis",
+                "c": "Basketball",
+                "d": "Swimming"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "The small shop sells many sweet things. They have chocolates, candies, and ice cream. Children love to visit this shop after school to buy a treat. It always smells like sugar inside.\n\n    What kind of food does the shop sell?\n    (A) Salty snacks\n    (B) Fresh fruits\n    (C) Sweet things\n    (D) Healthy drinks",
+              "options": {
+                "a": "Salty snacks",
+                "b": "Fresh fruits",
+                "c": "Sweet things",
+                "d": "Healthy drinks"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The concept of **neuroplasticity**, the brain's remarkable ability to reorganize itself by forming new neural connections throughout life, offers profound implications for rehabilitation after injury and for learning. Far from being a static organ, the brain continuously adapts in response to new experiences, learning, and even damage. This adaptability underlies the success of therapies that encourage the brain to reroute functions around damaged areas and allows individuals to acquire new skills well into old age.\n\n    What is the core concept of neuroplasticity as described in the passage?\n    (A) The brain's inability to form new connections.\n    (B) The brain's capacity to regenerate damaged neurons.\n    (C) The brain's ability to reorganize and form new connections.\n    (D) The brain's static and unchanging nature.",
+              "options": {
+                "a": "The brain's inability to form new connections.",
+                "b": "The brain's capacity to regenerate damaged neurons.",
+                "c": "The brain's ability to reorganize and form new connections.",
+                "d": "The brain's static and unchanging nature."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "The **advent of blockchain technology**, initially popularized by cryptocurrencies, is now being explored for its potential beyond financial transactions. Its inherent characteristics—decentralization, immutability, and transparency—make it a compelling solution for various applications, including supply chain management, digital identity verification, and secure voting systems. While significant hurdles, such as scalability and regulatory clarity, remain, the foundational principles of blockchain promise to reshape how data is managed and trusted across industries.\n\n    Which characteristic makes blockchain appealing for diverse applications beyond finance?\n    (A) Its dependence on centralized authorities.\n    (B) Its capacity for quick financial profits.\n    (C) Its decentralization, immutability, and transparency.\n    (D) Its ease of integration with legacy systems.",
+              "options": {
+                "a": "Its dependence on centralized authorities.",
+                "b": "Its capacity for quick financial profits.",
+                "c": "Its decentralization, immutability, and transparency.",
+                "d": "Its ease of integration with legacy systems."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "The rise of **misinformation**, often disseminated through social media platforms, poses a significant threat to democratic processes and public health. Distinguishing fact from fiction has become increasingly challenging for the average citizen. This phenomenon is exacerbated by echo chambers, where individuals are primarily exposed to information that reinforces their existing beliefs, leading to polarization and distrust in legitimate sources. Effective countermeasures require a multi-pronged approach, encompassing media literacy education, platform accountability, and critical thinking skills.\n\n    What is a primary factor contributing to the challenge of distinguishing fact from fiction?\n    (A) Limited access to social media.\n    (B) The presence of **echo chambers**.\n    (C) A lack of public health information.\n    (D) The decline of democratic processes.",
+              "options": {
+                "a": "Limited access to social media.",
+                "b": "The presence of **echo chambers**.",
+                "c": "A lack of public health information.",
+                "d": "The decline of democratic processes."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "**Quantum computing** represents a revolutionary leap in computational power, promising to tackle problems currently intractable for even the most powerful supercomputers. By leveraging quantum-mechanical phenomena like superposition and entanglement, quantum computers can process information in fundamentally different ways. While still in its nascent stages, with significant engineering challenges to overcome, the potential applications span drug discovery, materials science, and complex optimization problems.\n\n    What fundamental difference in information processing does quantum computing offer?\n    (A) It uses traditional binary code more efficiently.\n    (B) It relies on older, more stable technologies.\n    (C) It leverages **quantum-mechanical phenomena**.\n    (D) It only processes financial data.",
+              "options": {
+                "a": "It uses traditional binary code more efficiently.",
+                "b": "It relies on older, more stable technologies.",
+                "c": "It leverages **quantum-mechanical phenomena**.",
+                "d": "It only processes financial data."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "The concept of a \"**circular economy**,\" in contrast to the traditional linear \"take-make-dispose\" model, aims to minimize waste and maximize resource efficiency. This involves designing products for durability, reuse, and recyclability, keeping materials in use for as long as possible. Implementing a circular economy requires systemic changes across industries, consumer behavior shifts, and innovative business models that prioritize closed-loop material flows, ultimately fostering sustainability and reducing environmental impact.\n\n    What is a core principle of the circular economy?\n    (A) Maximizing the disposal of waste materials.\n    (B) Designing products for single-use consumption.\n    (C) Keeping materials in use for as long as possible.\n    (D) Focusing solely on faster production cycles.",
+              "options": {
+                "a": "Maximizing the disposal of waste materials.",
+                "b": "Designing products for single-use consumption.",
+                "c": "Keeping materials in use for as long as possible.",
+                "d": "Focusing solely on faster production cycles."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "The **advent of digital photography** profoundly reshaped the landscape of visual art and journalism. While traditional film photography demanded meticulous planning and limited exposures, digital cameras offered instant feedback and virtually limitless shots, democratizing image-making. This shift, however, also raised questions about authenticity and the proliferation of manipulated images, necessitating new ethical guidelines for media professionals and a more critical eye from the public.\n\n    What was one significant impact of digital photography on image-making?\n    (A) It made photography more expensive.\n    (B) It reduced the need for planning and limited exposures.\n    (C) It increased the demand for traditional film.\n    (D) It diminished the public's interest in images.",
+              "options": {
+                "a": "It made photography more expensive.",
+                "b": "It reduced the need for planning and limited exposures.",
+                "c": "It increased the demand for traditional film.",
+                "d": "It diminished the public's interest in images."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "The concept of \"**cognitive load**\" in educational psychology refers to the amount of mental effort expended in working memory. Effective instructional design aims to optimize cognitive load, ensuring that learners are challenged sufficiently but not overwhelmed by excessive information or irrelevant distractions. When cognitive load is too high, it can impede learning and retention, regardless of the learner's intrinsic ability.\n\n    What is the primary goal of optimizing cognitive load in instructional design?\n    (A) To increase the amount of information presented to learners.\n    (B) To make learning more challenging and difficult.\n    (C) To ensure learners are challenged but not overwhelmed.\n    (D) To reduce the need for working memory.",
+              "options": {
+                "a": "To increase the amount of information presented to learners.",
+                "b": "To make learning more challenging and difficult.",
+                "c": "To ensure learners are challenged but not overwhelmed.",
+                "d": "To reduce the need for working memory."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "**Deforestation**, the clearing of forests for other land uses, continues to be a major environmental concern globally. Beyond its immediate impact on biodiversity loss and the displacement of indigenous communities, it significantly contributes to climate change by releasing stored carbon dioxide into the atmosphere and diminishing the planet's capacity for carbon sequestration. Addressing this complex issue requires a multi-faceted approach, combining sustainable forestry, reforestation efforts, and economic incentives for preserving forest ecosystems.\n\n    How does deforestation contribute to climate change?\n    (A) By creating new habitats for wildlife.\n    (B) By increasing the absorption of carbon dioxide.\n    (C) By releasing stored carbon dioxide and reducing carbon sequestration.\n    (D) By enhancing agricultural productivity.",
+              "options": {
+                "a": "By creating new habitats for wildlife.",
+                "b": "By increasing the absorption of carbon dioxide.",
+                "c": "By releasing stored carbon dioxide and reducing carbon sequestration.",
+                "d": "By enhancing agricultural productivity."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "The rapid pace of **technological innovation** often outstrips the development of corresponding legal and ethical frameworks. This creates a regulatory vacuum where emerging technologies, such as advanced AI or gene editing, operate without clear guidelines, leading to potential societal risks. Bridging this gap requires proactive dialogue between technologists, policymakers, and ethicists to anticipate future challenges and establish responsible parameters for development and deployment.\n\n    What problem arises when technological innovation outpaces regulatory development?\n    (A) Increased investment in new technologies.\n    (B) A clear set of guidelines for emerging technologies.\n    (C) A **regulatory vacuum** leading to potential societal risks.\n    (D) Enhanced public trust in new technologies.",
+              "options": {
+                "a": "Increased investment in new technologies.",
+                "b": "A clear set of guidelines for emerging technologies.",
+                "c": "A **regulatory vacuum** leading to potential societal risks.",
+                "d": "Enhanced public trust in new technologies."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "**Symbiotic relationships**, where two different organisms live in close association to the mutual benefit of both, are ubiquitous in nature. An iconic example is the relationship between clownfish and sea anemones. The clownfish gains protection from predators within the anemone's stinging tentacles, to which it is immune, while the clownfish, in turn, defends the anemone from its predators and cleans it of parasites. This interdependence highlights the intricate balance within ecosystems.\n\n    What is the primary benefit the clownfish gains from the sea anemone?\n    (A) A source of food.\n    (B) **Protection from predators**.\n    (C) A place to lay eggs.\n    (D) A way to communicate with other fish.",
+              "options": {
+                "a": "A source of food.",
+                "b": "**Protection from predators**.",
+                "c": "A place to lay eggs.",
+                "d": "A way to communicate with other fish."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "The **Renaissance**, a period spanning roughly from the 14th to the 17th century, marked a profound cultural and intellectual rebirth in Europe, following the Middle Ages. Characterized by a renewed interest in classical Greek and Roman art, literature, and philosophy, it fostered an explosion of creativity across various disciplines. This era also saw significant advancements in science, exploration, and political thought, laying much of the groundwork for the modern world.\n\n    What was a key characteristic of the Renaissance?\n    (A) A decline in interest in classical works.\n    (B) A focus solely on religious art.\n    (C) A renewed interest in classical Greek and Roman culture.\n    (D) The emergence of new empires in Asia.",
+              "options": {
+                "a": "A decline in interest in classical works.",
+                "b": "A focus solely on religious art.",
+                "c": "A renewed interest in classical Greek and Roman culture.",
+                "d": "The emergence of new empires in Asia."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "The concept of **herd immunity** is crucial in epidemiology, describing the indirect protection from an infectious disease that happens when a population is immune either through vaccination or immunity developed through previous infection. This collective resistance makes it less likely for the disease to spread, protecting even those individuals who are not immune. However, achieving herd immunity through natural infection often comes at a high cost of illness and death, making vaccination a safer and more effective path.\n\n    How is herd immunity primarily achieved?\n    (A) By isolating all infected individuals.\n    (B) Through individual immunity from vaccination or prior infection.\n    (C) By encouraging mass travel and interaction.\n    (D) By strictly controlling food supplies.",
+              "options": {
+                "a": "By isolating all infected individuals.",
+                "b": "Through individual immunity from vaccination or prior infection.",
+                "c": "By encouraging mass travel and interaction.",
+                "d": "By strictly controlling food supplies."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "The **Industrial Revolution**, beginning in the late 18th century, transformed human societies from agrarian and handicraft economies into industrial and urban ones. Key innovations included the steam engine, new machine tools, and factory systems, leading to unprecedented levels of production and efficiency. While it brought immense economic growth and new opportunities, it also created significant social challenges, including harsh working conditions, rapid urbanization, and increased pollution.\n\n    What was a significant social consequence of the Industrial Revolution?\n    (A) A decrease in urban populations.\n    (B) Improved working conditions for all laborers.\n    (C) Increased pollution and harsh working conditions.\n    (D) A return to agrarian economies.",
+              "options": {
+                "a": "A decrease in urban populations.",
+                "b": "Improved working conditions for all laborers.",
+                "c": "Increased pollution and harsh working conditions.",
+                "d": "A return to agrarian economies."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "**Cognitive biases** are systematic errors in thinking that affect the decisions and judgments that people make. They are often adaptive, allowing for quicker decisions, but can also lead to irrational behavior and flawed reasoning. Examples include confirmation bias, where individuals seek out information that confirms their existing beliefs, and anchoring bias, where individuals rely too heavily on the first piece of information encountered. Understanding these biases is crucial for improving critical thinking.\n\n    What is a defining characteristic of cognitive biases?\n    (A) They are random errors in thought.\n    (B) They are always beneficial for decision-making.\n    (C) They are systematic errors in thinking.\n    (D) They only affect people with low intelligence.",
+              "options": {
+                "a": "They are random errors in thought.",
+                "b": "They are always beneficial for decision-making.",
+                "c": "They are systematic errors in thinking.",
+                "d": "They only affect people with low intelligence."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "The **development of sustainable agriculture** practices is imperative to address global food security challenges while mitigating environmental degradation. Unlike conventional farming, which often relies on monoculture and chemical inputs, sustainable approaches emphasize biodiversity, soil health, and efficient resource use. Techniques like crop rotation, agroforestry, and integrated pest management aim to create resilient food systems that can endure long-term ecological and climate pressures.\n\n    What is a key focus of sustainable agriculture practices?\n    (A) Relying heavily on chemical inputs.\n    (B) Prioritizing monoculture farming.\n    (C) Enhancing biodiversity and soil health.\n    (D) Minimizing water conservation efforts.",
+              "options": {
+                "a": "Relying heavily on chemical inputs.",
+                "b": "Prioritizing monoculture farming.",
+                "c": "Enhancing biodiversity and soil health.",
+                "d": "Minimizing water conservation efforts."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "**Artificial neural networks (ANNs)**, a cornerstone of modern artificial intelligence, are computing systems inspired by the biological neural networks that constitute animal brains. They are designed to \"learn\" by processing vast amounts of data, identifying patterns, and making predictions or classifications. Unlike traditional algorithms that are explicitly programmed, ANNs improve their performance through experience, making them powerful tools for tasks like image recognition, natural language processing, and medical diagnosis.\n\n    How do Artificial Neural Networks primarily \"learn\"?\n    (A) Through explicit programming instructions.\n    (B) By mimicking human emotions.\n    (C) By processing vast amounts of data and identifying patterns.\n    (D) By physically connecting to human brains.",
+              "options": {
+                "a": "Through explicit programming instructions.",
+                "b": "By mimicking human emotions.",
+                "c": "By processing vast amounts of data and identifying patterns.",
+                "d": "By physically connecting to human brains."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 17,
+              "question": "The **concept of emotional intelligence (EQ)**, distinct from traditional intellectual intelligence (IQ), refers to the capacity to understand and manage one's own emotions, as well as to perceive and influence the emotions of others. High EQ is increasingly recognized as a crucial factor for success in personal relationships and professional environments, enabling effective communication, conflict resolution, and leadership. Developing EQ often involves self-awareness, empathy, and social skills.\n\n    What is a key aspect of emotional intelligence (EQ)?\n    (A) The ability to solve complex mathematical problems.\n    (B) The capacity to understand and manage emotions.\n    (C) Superior memory recall.\n    (D) A high level of academic achievement.",
+              "options": {
+                "a": "The ability to solve complex mathematical problems.",
+                "b": "The capacity to understand and manage emotions.",
+                "c": "Superior memory recall.",
+                "d": "A high level of academic achievement."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "**Biodiversity hotspots** are biogeographic regions with significant levels of biodiversity that are under threat from human habitation. To qualify as a hotspot, an area must contain at least 0.5% or 1,500 species of vascular plants as endemics (meaning they are found nowhere else on Earth) and have lost at least 70% of its primary vegetation. These areas, despite covering only 2.5% of Earth's land surface, support over half of the world's plant species and nearly 43% of bird, mammal, reptile, and amphibian species as endemics.\n\n    What is one criterion for a region to be classified as a biodiversity hotspot?\n    (A) It must have no human habitation.\n    (B) It must be a large desert area.\n    (C) It must have lost at least 70% of its primary vegetation.\n    (D) It must contain only aquatic species.",
+              "options": {
+                "a": "It must have no human habitation.",
+                "b": "It must be a large desert area.",
+                "c": "It must have lost at least 70% of its primary vegetation.",
+                "d": "It must contain only aquatic species."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "The **scientific method** is a systematic approach to inquiry that involves observation, hypothesis formulation, experimentation, data analysis, and conclusion. It is a cyclical process, as conclusions often lead to new questions and further investigation. Crucially, the scientific method emphasizes empirical evidence and logical reasoning, striving for objectivity and testability, which allows for the accumulation of reliable knowledge and the correction of errors over time.\n\n    What is a key characteristic of the scientific method?\n    (A) It relies primarily on intuition and personal beliefs.\n    (B) It is a one-time, linear process.\n    (C) It emphasizes empirical evidence and logical reasoning.\n    (D) It discourages further investigation once a conclusion is reached.",
+              "options": {
+                "a": "It relies primarily on intuition and personal beliefs.",
+                "b": "It is a one-time, linear process.",
+                "c": "It emphasizes empirical evidence and logical reasoning.",
+                "d": "It discourages further investigation once a conclusion is reached."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "**Urbanization**, the process by which populations shift from rural to urban areas, has been a defining trend of the past two centuries. While it offers opportunities for economic development, access to services, and cultural exchange, rapid and unplanned urbanization can lead to significant challenges. These include inadequate housing, strained infrastructure, increased pollution, and social inequality, necessitating thoughtful urban planning to create sustainable and equitable cities.\n\n    What is a potential negative consequence of rapid and unplanned urbanization?\n    (A) Increased access to green spaces.\n    (B) Improved social equality.\n    (C) Strained infrastructure and increased pollution.\n    (D) Decreased economic development.",
+              "options": {
+                "a": "Increased access to green spaces.",
+                "b": "Improved social equality.",
+                "c": "Strained infrastructure and increased pollution.",
+                "d": "Decreased economic development."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "The **exploration of Mars** represents a cornerstone of planetary science, driven by humanity's quest to understand the origins of life and the potential for extraterrestrial habitability. Missions to the Red Planet have yielded invaluable data, revealing evidence of past liquid water, complex geological processes, and atmospheric dynamics. While the technical challenges are immense, the insights gained continue to reshape our understanding of planetary evolution and our place in the cosmos.\n\n    What is a primary motivation behind the exploration of Mars?\n    (A) To discover new mineral resources.\n    (B) To understand the origins of life and potential habitability.\n    (C) To establish permanent human settlements immediately.\n    (D) To test new rocket propulsion systems exclusively.",
+              "options": {
+                "a": "To discover new mineral resources.",
+                "b": "To understand the origins of life and potential habitability.",
+                "c": "To establish permanent human settlements immediately.",
+                "d": "To test new rocket propulsion systems exclusively."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "**The rise of virtual reality (VR)** technology is poised to transform various sectors beyond entertainment, including education, healthcare, and engineering. By creating immersive simulated environments, VR offers unprecedented opportunities for hands-on learning, surgical training, and product design prototyping. However, widespread adoption still faces hurdles such as high hardware costs, potential for motion sickness, and the need for compelling, user-friendly content.\n\n    Which of the following is a potential application of VR technology mentioned in the passage, apart from entertainment?\n    (A) Traditional classroom teaching.\n    (B) Enhancing physical fitness programs.\n    (C) Surgical training.\n    (D) Improving traditional manufacturing.",
+              "options": {
+                "a": "Traditional classroom teaching.",
+                "b": "Enhancing physical fitness programs.",
+                "c": "Surgical training.",
+                "d": "Improving traditional manufacturing."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "**Climate modeling** is a crucial scientific tool used to predict future climate change and understand its impacts. These complex computer simulations incorporate a vast array of data, including atmospheric composition, ocean currents, and land-surface processes, to project how the Earth's climate system will respond to various forcing factors. While inherent uncertainties exist due to the complexity of the system, models have consistently demonstrated the significant role of human activities in recent warming trends.\n\n    What is the primary purpose of climate modeling?\n    (A) To record past weather patterns accurately.\n    (B) To predict future climate change and its impacts.\n    (C) To design weather control systems.\n    (D) To analyze short-term meteorological events.",
+              "options": {
+                "a": "To record past weather patterns accurately.",
+                "b": "To predict future climate change and its impacts.",
+                "c": "To design weather control systems.",
+                "d": "To analyze short-term meteorological events."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "**The concept of 'mindfulness'**, rooted in ancient meditative practices, has gained considerable traction in contemporary Western psychology and medicine. It involves focusing one's attention on the present moment, acknowledging thoughts, feelings, and bodily sensations without judgment. Regular mindfulness practice has been linked to numerous benefits, including reduced stress, improved emotional regulation, and enhanced cognitive flexibility, offering a valuable tool for mental well-being.\n\n    What is a key aspect of mindfulness practice?\n    (A) Planning extensively for the future.\n    (B) Dwelling on past experiences.\n    (C) Focusing attention on the present moment without judgment.\n    (D) Suppressing all negative thoughts and emotions.",
+              "options": {
+                "a": "Planning extensively for the future.",
+                "b": "Dwelling on past experiences.",
+                "c": "Focusing attention on the present moment without judgment.",
+                "d": "Suppressing all negative thoughts and emotions."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 25,
+              "question": "The **global phenomenon of plastic pollution** poses an escalating threat to marine ecosystems, wildlife, and human health. Plastics, particularly microplastics, pervade oceans, disrupting food chains and contaminating seafood. Efforts to combat this crisis range from international policy agreements and improved waste management infrastructure to innovative recycling technologies and a fundamental shift towards more sustainable material alternatives in product design.\n\n    What is one significant impact of plastic pollution mentioned in the passage?\n    (A) Increased availability of fresh water.\n    (B) Enhanced marine biodiversity.\n    (C) Disruption of food chains in oceans.\n    (D) Promotion of sustainable fishing practices.",
+              "options": {
+                "a": "Increased availability of fresh water.",
+                "b": "Enhanced marine biodiversity.",
+                "c": "Disruption of food chains in oceans.",
+                "d": "Promotion of sustainable fishing practices."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "**Forensic science**, the application of scientific principles and methods to legal problems, plays a critical role in criminal justice systems worldwide. From DNA analysis and fingerprint identification to ballistics and digital forensics, it provides objective evidence that can help establish guilt or innocence. The reliability of forensic evidence hinges on rigorous methodology, proper chain of custody, and the absence of bias in interpretation.\n\n    What is the primary role of forensic science in legal systems?\n    (A) To influence jury decisions through persuasive arguments.\n    (B) To provide objective evidence for legal problems.\n    (C) To conduct psychological profiles of criminals.\n    (D) To oversee police investigations.",
+              "options": {
+                "a": "To influence jury decisions through persuasive arguments.",
+                "b": "To provide objective evidence for legal problems.",
+                "c": "To conduct psychological profiles of criminals.",
+                "d": "To oversee police investigations."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "The **digital divide**, referring to the gap between those who have access to modern information and communication technology and those who do not, continues to be a significant challenge globally. This disparity in access, often linked to socioeconomic status, geographic location, and age, can exacerbate existing inequalities in education, economic opportunity, and civic participation. Bridging this divide requires concerted efforts in infrastructure development, affordability, and digital literacy programs.\n\n    What is the main definition of the digital divide?\n    (A) The gap between rural and urban populations.\n    (B) The difference in internet speeds between countries.\n    (C) The disparity in access to information and communication technology.\n    (D) The generational gap in tech usage.",
+              "options": {
+                "a": "The gap between rural and urban populations.",
+                "b": "The difference in internet speeds between countries.",
+                "c": "The disparity in access to information and communication technology.",
+                "d": "The generational gap in tech usage."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 28,
+              "question": "**Astrotourism**, a niche but growing segment of the tourism industry, focuses on observing celestial events and astronomical features in areas with minimal light pollution. These destinations, often remote and pristine, offer unparalleled views of the night sky, attracting enthusiasts and casual stargazers alike. The preservation of dark skies is paramount for this industry, highlighting the need for responsible lighting practices and conservation efforts.\n\n    What is a key characteristic of destinations for astrotourism?\n    (A) Proximity to large cities.\n    (B) Abundance of artificial lights.\n    (C) Minimal light pollution.\n    (D) High levels of air traffic.",
+              "options": {
+                "a": "Proximity to large cities.",
+                "b": "Abundance of artificial lights.",
+                "c": "Minimal light pollution.",
+                "d": "High levels of air traffic."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 29,
+              "question": "The **study of epigenetics** has revolutionized our understanding of how genes are expressed without altering the underlying DNA sequence. Epigenetic modifications, such as DNA methylation and histone modification, can turn genes \"on\" or \"off\" in response to environmental factors, diet, stress, and even early life experiences. This field highlights the dynamic interplay between our genes and our environment, offering new perspectives on disease development and inherited traits.\n\n    What do epigenetic modifications primarily do?\n    (A) Change the underlying DNA sequence permanently.\n    (B) Turn genes \"on\" or \"off\" without altering the DNA sequence.\n    (C) Predict future technological advancements.\n    (D) Determine an individual's personality traits.",
+              "options": {
+                "a": "Change the underlying DNA sequence permanently.",
+                "b": "Turn genes \"on\" or \"off\" without altering the DNA sequence.",
+                "c": "Predict future technological advancements.",
+                "d": "Determine an individual's personality traits."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "**Biohacking**, a broad term encompassing DIY biology and human augmentation, involves individuals making incremental changes to their biology, diet, or lifestyle with the aim of improving performance, health, or well-being. This can range from optimizing sleep patterns and nutrition to more experimental practices involving genetic modification or implantable devices. While driven by a desire for self-improvement, biohacking raises complex ethical questions regarding safety, regulation, and the definition of human limits.\n\n    What is the primary aim of biohacking activities?\n    (A) To gain new intellectual abilities.\n    (B) To improve performance, health, or well-being.\n    (C) To develop new software applications.\n    (D) To create artificial intelligence.",
+              "options": {
+                "a": "To gain new intellectual abilities.",
+                "b": "To improve performance, health, or well-being.",
+                "c": "To develop new software applications.",
+                "d": "To create artificial intelligence."
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The concept of **\"digital citizenship\"** emphasizes the responsible and ethical use of technology, particularly the internet. It encompasses understanding one's rights and responsibilities in the digital realm, promoting safe online behavior, respecting intellectual property, and engaging in constructive online discourse. As digital platforms become increasingly integral to daily life, fostering strong digital citizenship is crucial for navigating the complexities of the connected world and mitigating issues like cyberbullying and misinformation.\n\n    What is a key aspect of digital citizenship?\n    (A) Limiting all online interactions.\n    (B) Ignoring intellectual property rights.\n    (C) Responsible and ethical use of technology.\n    (D) Avoiding all digital platforms.",
+              "options": {
+                "a": "Limiting all online interactions.",
+                "b": "Ignoring intellectual property rights.",
+                "c": "Responsible and ethical use of technology.",
+                "d": "Avoiding all digital platforms."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "**Bio-luminescence**, the emission of light by living organisms, is a fascinating natural phenomenon widespread across various ecosystems, particularly in marine environments. This \"cold light\" is produced through chemical reactions within the organism, often serving diverse biological functions such as attracting mates, luring prey, deterring predators, or camouflage. The study of bio-luminescence has inspired innovations in fields ranging from medical diagnostics to environmental monitoring.\n\n    What is one common function of bio-luminescence in nature?\n    (A) Producing heat for warmth.\n    (B) Generating electricity for metabolism.\n    (C) Attracting mates or luring prey.\n    (D) Absorbing excess light from the environment.",
+              "options": {
+                "a": "Producing heat for warmth.",
+                "b": "Generating electricity for metabolism.",
+                "c": "Attracting mates or luring prey.",
+                "d": "Absorbing excess light from the environment."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "The **pyramids of ancient Egypt** stand as monumental testaments to the engineering prowess and socio-religious beliefs of a civilization that flourished for millennia. Constructed primarily as tombs for pharaohs and their consorts, these massive structures were believed to facilitate the deceased's journey into the afterlife. The sheer scale and precision of their construction, achieved without modern tools, continue to mystify and inspire awe, reflecting a highly organized society with advanced knowledge of astronomy and geometry.\n\n    What was the primary purpose of the ancient Egyptian pyramids?\n    (A) To serve as public gathering places.\n    (B) To act as defensive fortifications.\n    (C) To function as tombs for pharaohs.\n    (D) To serve as astronomical observatories.",
+              "options": {
+                "a": "To serve as public gathering places.",
+                "b": "To act as defensive fortifications.",
+                "c": "To function as tombs for pharaohs.",
+                "d": "To serve as astronomical observatories."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "**Ecological succession** describes the gradual process by which ecosystems change and develop over time, often following a disturbance. This process can be primary, beginning in an area devoid of life (like new volcanic rock), or secondary, occurring in areas where life previously existed but was disturbed (like after a forest fire). Over time, communities of organisms are replaced by others, leading to a more stable and complex ecosystem, known as a climax community, if left undisturbed.\n\n    What distinguishes secondary ecological succession from primary succession?\n    (A) Secondary succession occurs only in aquatic environments.\n    (B) Secondary succession begins in an area where life previously existed.\n    (C) Primary succession involves the gradual development of a climax community.\n    (D) Primary succession is always a faster process.",
+              "options": {
+                "a": "Secondary succession occurs only in aquatic environments.",
+                "b": "Secondary succession begins in an area where life previously existed.",
+                "c": "Primary succession involves the gradual development of a climax community.",
+                "d": "Primary succession is always a faster process."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "The **concept of \"cognitive dissonance\"** in psychology refers to the mental discomfort experienced by a person who holds two or more contradictory beliefs, ideas, or values, or is confronted by new information that conflicts with existing beliefs. People tend to seek consistency in their cognitions, so when dissonance occurs, they are motivated to reduce it, often by changing their beliefs, attitudes, or behaviors, or by rationalizing the contradiction.\n\n    What causes cognitive dissonance?\n    (A) Experiencing consistent and reinforcing beliefs.\n    (B) Holding contradictory beliefs or encountering conflicting information.\n    (C) Achieving a state of mental peace and harmony.\n    (D) Receiving new information that aligns with existing views.",
+              "options": {
+                "a": "Experiencing consistent and reinforcing beliefs.",
+                "b": "Holding contradictory beliefs or encountering conflicting information.",
+                "c": "Achieving a state of mental peace and harmony.",
+                "d": "Receiving new information that aligns with existing views."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "**Remote sensing technology**, utilizing satellites and aircraft, provides invaluable data for monitoring environmental changes on a global scale. By collecting information about Earth's surface without direct physical contact, it allows scientists to track deforestation, glacier melt, urban growth, and water resources with unprecedented accuracy and frequency. This data is critical for climate research, disaster management, and sustainable resource planning.\n\n    What is a primary benefit of remote sensing technology?\n    (A) It eliminates the need for any on-ground data collection.\n    (B) It allows for direct physical contact with distant objects.\n    (C) It enables monitoring of environmental changes on a global scale.\n    (D) It is primarily used for weather forecasting only.",
+              "options": {
+                "a": "It eliminates the need for any on-ground data collection.",
+                "b": "It allows for direct physical contact with distant objects.",
+                "c": "It enables monitoring of environmental changes on a global scale.",
+                "d": "It is primarily used for weather forecasting only."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "The **\"tragedy of the commons\"** is an economic problem where every individual consumer of a shared resource acts independently and rationally according to their own self-interest, despite knowing that depleting the common resource is against the long-term best interest of the whole group. This often leads to the overexploitation and eventual degradation of shared resources, such as fisheries, clean air, or common grazing lands. Solutions typically involve regulation, privatization, or community self-governance.\n\n    What is the main outcome of the \"tragedy of the commons\"?\n    (A) Sustainable management of shared resources.\n    (B) Optimal utilization of individual resources.\n    (C) Overexploitation and degradation of shared resources.\n    (D) Increased cooperation among individuals.",
+              "options": {
+                "a": "Sustainable management of shared resources.",
+                "b": "Optimal utilization of individual resources.",
+                "c": "Overexploitation and degradation of shared resources.",
+                "d": "Increased cooperation among individuals."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "**Personalized medicine**, also known as precision medicine, is an evolving approach to disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person. Instead of a one-size-fits-all approach, it aims to tailor medical decisions, treatments, practices, or products to the individual patient. This often involves genetic testing to identify specific biomarkers that can predict drug response or disease susceptibility.\n\n    What is the core principle of personalized medicine?\n    (A) Treating all patients with the same standardized methods.\n    (B) Focusing only on environmental factors for disease prevention.\n    (C) Tailoring treatment based on individual variability in genes, environment, and lifestyle.\n    (D) Relying solely on a patient's symptoms for diagnosis.",
+              "options": {
+                "a": "Treating all patients with the same standardized methods.",
+                "b": "Focusing only on environmental factors for disease prevention.",
+                "c": "Tailoring treatment based on individual variability in genes, environment, and lifestyle.",
+                "d": "Relying solely on a patient's symptoms for diagnosis."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "The **Socratic method**, a form of cooperative argumentative dialogue between individuals, is based on asking and answering questions to stimulate critical thinking and to draw out ideas and underlying presumptions. Attributed to the classical Greek philosopher Socrates, it is a pedagogical approach that seeks to uncover truth by progressively questioning a student's beliefs until a contradiction is exposed, thereby leading the student to a new understanding.\n\n    What is the primary aim of the Socratic method?\n    (A) To provide direct answers to complex questions.\n    (B) To stimulate critical thinking through questioning.\n    (C) To encourage rote memorization of facts.\n    (D) To promote competitive debate among students.",
+              "options": {
+                "a": "To provide direct answers to complex questions.",
+                "b": "To stimulate critical thinking through questioning.",
+                "c": "To encourage rote memorization of facts.",
+                "d": "To promote competitive debate among students."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "**Climate engineering**, or geoengineering, refers to large-scale intervention in Earth's climate system to counteract global warming. Proposed methods include solar radiation management (e.g., injecting aerosols into the stratosphere) and carbon dioxide removal (e.g., direct air capture). While these technologies offer potential to mitigate climate change, they also carry significant risks, including unintended environmental consequences and complex ethical and governance challenges.\n\n    What is the main objective of climate engineering?\n    (A) To study historical climate patterns.\n    (B) To prevent natural climate variability.\n    (C) To counteract global warming through large-scale intervention.\n    (D) To enhance the greenhouse effect.",
+              "options": {
+                "a": "To study historical climate patterns.",
+                "b": "To prevent natural climate variability.",
+                "c": "To counteract global warming through large-scale intervention.",
+                "d": "To enhance the greenhouse effect."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "**Cryptocurrencies**, such as Bitcoin, represent a paradigm shift in financial technology by operating on a decentralized network using cryptography for security. Unlike traditional currencies issued by central banks, cryptocurrencies are typically managed through distributed ledger technology, like blockchain, which records transactions across a network of computers. Their volatility, regulatory uncertainty, and energy consumption remain significant challenges for widespread adoption, despite their innovative features.\n\n    What is a key characteristic of cryptocurrencies compared to traditional currencies?\n    (A) They are issued and controlled by central banks.\n    (B) They operate on a decentralized network using cryptography.\n    (C) Their value is always stable and predictable.\n    (D) They do not require any computer technology.",
+              "options": {
+                "a": "They are issued and controlled by central banks.",
+                "b": "They operate on a decentralized network using cryptography.",
+                "c": "Their value is always stable and predictable.",
+                "d": "They do not require any computer technology."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "The **placebo effect** describes a phenomenon where a patient's symptoms improve after receiving a treatment that has no active therapeutic ingredient, simply because the patient expects the treatment to work. This psychological and physiological response highlights the powerful connection between the mind and body in healing. It is a critical consideration in clinical trials, where new drugs are tested against a placebo to determine their true efficacy beyond patient expectation.\n\n    What is the core idea behind the placebo effect?\n    (A) Symptoms worsen after receiving a non-active treatment.\n    (B) A patient's symptoms improve due to expectation of treatment.\n    (C) All medical treatments are equally effective.\n    (D) It only occurs with surgical procedures.",
+              "options": {
+                "a": "Symptoms worsen after receiving a non-active treatment.",
+                "b": "A patient's symptoms improve due to expectation of treatment.",
+                "c": "All medical treatments are equally effective.",
+                "d": "It only occurs with surgical procedures."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "**Biomimicry** is an innovative approach to design that seeks sustainable solutions to human challenges by emulating nature's time-tested patterns and strategies. Instead of just extracting resources, biomimicry learns from and applies the functional principles found in natural systems and organisms. Examples range from designing buildings that mimic termite mounds' ventilation to creating adhesive materials inspired by gecko feet, fostering solutions that are inherently energy-efficient and regenerative.\n\n    What is the central principle of biomimicry?\n    (A) Exploiting natural resources for human benefit.\n    (B) Developing technology that competes with nature.\n    (C) Emulating nature's patterns and strategies for sustainable solutions.\n    (D) Ignoring natural systems in favor of purely artificial designs.",
+              "options": {
+                "a": "Exploiting natural resources for human benefit.",
+                "b": "Developing technology that competes with nature.",
+                "c": "Emulating nature's patterns and strategies for sustainable solutions.",
+                "d": "Ignoring natural systems in favor of purely artificial designs."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "**Cognitive computing**, a subset of artificial intelligence, aims to simulate human thought processes in a computer model. Unlike traditional programming that follows explicit instructions, cognitive systems learn and interact naturally, reasoning with purpose and adapting over time. They are designed to understand complex human language, interpret vast amounts of unstructured data, and make decisions in uncertain situations, making them valuable in areas like customer service, financial analysis, and healthcare diagnostics.\n\n    How do cognitive computing systems primarily learn and interact?\n    (A) Through predefined, explicit programming instructions.\n    (B) By mimicking human thought processes, reasoning, and adapting.\n    (C) By only processing structured, numerical data.\n    (D) By strictly following rule-based algorithms.",
+              "options": {
+                "a": "Through predefined, explicit programming instructions.",
+                "b": "By mimicking human thought processes, reasoning, and adapting.",
+                "c": "By only processing structured, numerical data.",
+                "d": "By strictly following rule-based algorithms."
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "The **philosophical concept of nihilism** suggests that life is without objective meaning, purpose, or intrinsic value. It is often associated with profound pessimism and radical skepticism, questioning the existence of absolute truth, morality, and knowledge. While some interpretations can lead to despair, others see it as a call to create one's own values and meaning in an inherently meaningless universe, prompting a reevaluation of traditional beliefs and societal structures.\n\n    What is a central tenet of nihilism?\n    (A) Life possesses inherent and objective meaning.\n    (B) Absolute truth and morality are easily discoverable.\n    (C) Life is without objective meaning, purpose, or intrinsic value.\n    (D) Traditional beliefs provide all necessary answers.",
+              "options": {
+                "a": "Life possesses inherent and objective meaning.",
+                "b": "Absolute truth and morality are easily discoverable.",
+                "c": "Life is without objective meaning, purpose, or intrinsic value.",
+                "d": "Traditional beliefs provide all necessary answers."
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

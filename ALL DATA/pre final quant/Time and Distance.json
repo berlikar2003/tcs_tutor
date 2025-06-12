@@ -1,0 +1,1389 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Time and Distance",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "A speed of 30.6 km/hr is the same as (R.R.B., 2008)",
+              "options": {
+                "a": "5.1 m/sec",
+                "b": "8.5 m/sec",
+                "c": "110.16 m/sec",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "A man riding his bicycle covers 150 metres in 25 \nseconds. What is his speed in km per hour?\n(S.S.C., 2005)",
+              "options": {
+                "a": "20",
+                "b": "21.6",
+                "c": "23",
+                "d": "25"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "A bus covers a distance of 2924 km in 43 hours. \nWhat is the speed of the bus? (Bank Recruitment, 2008)",
+              "options": {
+                "a": "60 km/hr",
+                "b": "68 km/hr",
+                "c": "72 km/hr",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "A is travelling at 72 km per hour on a highway while \nB is travelling at a speed of 25 metres per second. \nWhat is the difference in their speeds in metres per \nsecond? (Campus Recruitment, 2010)",
+              "options": {
+                "a": "1 1 m/sec\n2",
+                "b": "2 m/sec",
+                "c": "3 m/sec",
+                "d": "5 m/sec"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 5,
+              "question": "A motorist travelled between two towns, which are \n65 km apart, in 2 hours and 10 minutes. Find the \nspeed in metres per minute. (R.R.B., 2006)",
+              "options": {
+                "a": "200",
+                "b": "500",
+                "c": "600",
+                "d": "700"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "In track meets both 100 yards and 100 metres are \nused as distances. By how many metres is 100 metres \nlonger than 100 yards?",
+              "options": {
+                "a": "0.0856 m",
+                "b": "0.856 m",
+                "c": "1 m",
+                "d": "8.56 m"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "Which of the following trains is the fastest?",
+              "options": {
+                "a": "25 m/sec",
+                "b": "1500 m/min",
+                "c": "90 km/hr",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 8,
+              "question": "A person crosses a 600 m long street in 5 minutes. \nWhat is his speed in km per hour?",
+              "options": {
+                "a": "3.6",
+                "b": "7.2",
+                "c": "8.4",
+                "d": "10"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "A car covers a distance of 432 km at the speed of \n48 km/hr. In how many hours will the car cover \nthis distance? (Bank Recruitment, 2009)",
+              "options": {
+                "a": "6 hours",
+                "b": "7 hours",
+                "c": "9 hours",
+                "d": "12 hours",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "A man covered a distance of 180 km in 4 hours \non a bike. How much distance will be cover on a \nbicycle in 8 hours if he rides the bicycle at one-sixth \nthe speed of the bike? (Bank Recruitment, 2010)",
+              "options": {
+                "a": "54 km",
+                "b": "60 km",
+                "c": "72 km",
+                "d": "84 km",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "The ratio of the speeds of a car, a train and a bus is \n5 : 9 : 4. The average speed of the car, the bus and \nthe train is 72 km/hr. What is the average speed of \nthe car and the train together? (Bank P.O., 2010)",
+              "options": {
+                "a": "78 km/hr",
+                "b": "82 km/hr",
+                "c": "84 km/hr",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "Car A travels at the speed of 65 km/hr and reaches \nits destination in 8 hours. Car B travels at the speed \nof 70 km/hr and reaches its destination in 4 hours. \nWhat is the ratio of the distance covered by car A \nand car B respectively? (Bank P.O., 2010)",
+              "options": {
+                "a": "7 : 11",
+                "b": "13 : 7",
+                "c": "7 : 13",
+                "d": "11 : 7",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "The average speed of a bus is one-third of the speed \nof a train. The train covers 1125 km in 15 hours. How \nmuch distance will the bus cover in 36 minutes?\n(Bank Recruitment, 2010)",
+              "options": {
+                "a": "12 km",
+                "b": "18 km",
+                "c": "21 km",
+                "d": "75 km",
+                "e": "None of these\nTIME AND DISTANCE 569"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 14,
+              "question": "The mileage of a motorbike A and a motorbike B\nis 42 km per litre and 52 km per litre respectively. \nMotorbike A covered 294 km and motorbike B covered \n208 km. If the cost of 1 litre of petrol is ` 48, how \nmuch amount would be spent on petrol to cover \nthe total distance by both the motor bikes together?\n(Bank P.O., 2010)",
+              "options": {
+                "a": "` 480",
+                "b": "` 528",
+                "c": "` 576",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "A train leaves Delhi at 4.10 P.M. and reaches Aligarh \nat 7.25 P.M. The average speed of the train is 40 \nkm/hr. What is the distance from Delhi to Aligarh?\n(R.R.B., 2006)",
+              "options": {
+                "a": "120 km",
+                "b": "130 km",
+                "c": "135 km",
+                "d": "140 km"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "A is 10 miles west of B. C is 30 miles north of B. D\nis 20 miles east of C. What is the distance from A\nto D? (M.B.A., 2006)",
+              "options": {
+                "a": "10 miles",
+                "b": "30 miles",
+                "c": "10 10 miles",
+                "d": "10 13 miles",
+                "e": "30 2 miles"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 17,
+              "question": "A plane flying north at 500 mph passes over a city\nat 12 noon. A plane flying east at the same altitude\npasses over the same city at 12 : 30 P.M. The plane \nis flying east at 400 mph. To the nearest hundred\nmiles, how far apart are the two planes at 2 P.M.?",
+              "options": {
+                "a": "600 miles",
+                "b": "1000 miles",
+                "c": "1100 miles",
+                "d": "1200 miles",
+                "e": "1300 miles"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 18,
+              "question": "A train travels at the speed of 65 km/hr and halts \nat 8 junctions for a certain time. It covers a distance \nof 1300 km in 1 day (24 hours). How long does the \ntrain stop at each junction, if it halts for the same \nperiod of time at all the junctions? (Bank P.O., 2006)",
+              "options": {
+                "a": "20 minutes",
+                "b": "30 minutes",
+                "c": "40 minutes",
+                "d": "60 minutes",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "Jane travelled 4\n7 as many miles on foot as by water \nand 2\n5 as many miles on horseback as by water. If \nshe covered a total of 3036 miles, how many miles \ndid she travel on foot? (SNAP, 2005)",
+              "options": {
+                "a": "1540",
+                "b": "880",
+                "c": "756",
+                "d": "616"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "A star is 8.1 × 1013 km away from the earth. Suppose \nlight travels at the speed of 3.0 × 105 km per second. \nHow long will it take the light from the star to reach \nthe earth? (R.R.B., 2005)",
+              "options": {
+                "a": "7.5 × 103 hours",
+                "b": "7.5 × 104 hours",
+                "c": "2.7 × 1010 seconds",
+                "d": "2.7 × 1011 seconds"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "Akash leaves home for school which is 12 km from \nhis house. After the school, he goes to his club which \nis 7 km from his school. If his house, school and club \nall fall in a line, then what is the minimum distance \nhe has to travel to get back home?",
+              "options": {
+                "a": "5 km",
+                "b": "7 km",
+                "c": "12 km",
+                "d": "17 km",
+                "e": "19 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "A train covers a distance of 193 km 1\n3\n in 4 1\n4\n hours \nwith one stoppage of 10 minutes, two of 5 minutes \nand one of 3 minutes on the way. The average speed \nof the train is",
+              "options": {
+                "a": "48 km/hr",
+                "b": "50 km/hr",
+                "c": "55 km/hr",
+                "d": "60 km/hr"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "Deepa rides her bike at an average speed of 30 \nkm/hr and reaches her destination in 6 hours. \nHema covers the same distance in 4 hours. If \nDeepa increases her average speed by 10 km/\nhr and Hema increases her average speed by \n5 km/hr, what would be the difference in their time \ntaken to reach the destination?",
+              "options": {
+                "a": "40 minutes",
+                "b": "45 minutes",
+                "c": "54 minutes",
+                "d": "1 hour",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 24,
+              "question": "A monkey climbing up a pole ascends 6 metres and \nslips 3 metres in alternate minutes. If the pole is 60 \nmetres high, how long will it take the monkey to \nreach the top? (Campus Recruitment, 2010)",
+              "options": {
+                "a": "31 min",
+                "b": "33 min",
+                "c": "35 min",
+                "d": "37 min"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "An aeroplane flies twice as fast as a train which\ncovers 60 miles in 80 minutes. What distance will \nthe aeroplane cover in 20 minutes? (E.S.I.C., 2006)",
+              "options": {
+                "a": "30 miles",
+                "b": "35 miles",
+                "c": "40 miles",
+                "d": "50 miles"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "A boy is running at a speed of p kmph to cover a \ndistance of 1 km. But, due to the slippery ground, \nhis speed is reduced by q kmph (p > q). If he takes \nr hours to cover the distance, then (M.B.A., 2006)",
+              "options": {
+                "a": "1\np q – r\n=",
+                "b": "r = p – q",
+                "c": "1\np q\nr\n= +",
+                "d": "r = p + q\n570 QUANTITATIVE APTITUDE"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "Ravi can walk a certain distance in 40 days when \nhe rests 9 hours a day. How long will he take to \nwalk twice the distance, twice as fast and rest twice \nas long each day? (A.A.O. Exam, 2010)",
+              "options": {
+                "a": "40 days",
+                "b": "50 days",
+                "c": "80 days",
+                "d": "100 days"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 28,
+              "question": "A car is driven at the speed of 100 km/hr and stops \nfor 10 minutes at the end of every 150 km. To cover \na distance of 1000 km, it will take",
+              "options": {
+                "a": "9 hours",
+                "b": "10 hours",
+                "c": "11 hours",
+                "d": "12 hours"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 29,
+              "question": "A man takes 50 minutes to cover a certain distance \nat a speed of 6 km/hr. If he walks with a speed of \n10 km/hr, he covers the same distance in",
+              "options": {
+                "a": "10 minutes",
+                "b": "20 minutes",
+                "c": "30 minutes",
+                "d": "40 minutes"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "A truck covers a distance of 550 metres in 1 minute \nwhereas a bus covers a distance of 33 kms in 45 \nminutes. The ratio of their speeds is",
+              "options": {
+                "a": "3 : 4",
+                "b": "4 : 3",
+                "c": "3 : 5",
+                "d": "50 : 3"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 31,
+              "question": "The ratio between the speeds of two trains is 7 : 8. \nIf the second train runs 400 kms in 4 hours, then \nthe speed of the first train is",
+              "options": {
+                "a": "70 km/hr",
+                "b": "75 km/hr",
+                "c": "84 km/hr",
+                "d": "87.5 km/hr"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 32,
+              "question": "A train travels at an average of 50 miles per hour \nfor 1 2\n2\n hours and then travels at a speed of 70 miles \nper hour for 1 1\n2\n hours. How far did the train travel \nin the entire 4 hours?",
+              "options": {
+                "a": "120 miles",
+                "b": "150 miles",
+                "c": "200 miles",
+                "d": "230 miles"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 33,
+              "question": "A man in a train notices that he can count 21 \ntelephone posts in one minute. If they are known to \nbe 50 metres apart, then at what speed is the train \ntravelling?",
+              "options": {
+                "a": "55 km/hr",
+                "b": "57 km/hr",
+                "c": "60 km/hr",
+                "d": "63 km/hr"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 34,
+              "question": "Sound is said to travel in air at about 1100 feet per \nsecond. A man hears the axe striking the tree, 11\n5\nseconds after he sees it strike the tree. How far is \nthe man from the wood chopper? (M.B.A., 2002)",
+              "options": {
+                "a": "2197 ft",
+                "b": "2420 ft",
+                "c": "2500 ft",
+                "d": "2629 ft"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 35,
+              "question": "An express train travelled at an average speed of \n100 km/hr, stopping for 3 minutes after every 75 \nkm. How long did it take to reach its destination\n600 km from the starting point? (M.A.T., 2003)",
+              "options": {
+                "a": "6 hrs 21 min",
+                "b": "6 hrs 24 min",
+                "c": "6 hrs 27 min",
+                "d": "6 hrs 30 min"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 36,
+              "question": "A certain distance is covered by a cyclist at a certain \nspeed. If a jogger covers half the distance in double \nthe time, the ratio of the speed of the jogger to that \nof the cyclist is :",
+              "options": {
+                "a": "1 : 2",
+                "b": "2 : 1",
+                "c": "1 : 4",
+                "d": "4 : 1"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 37,
+              "question": "A motor car starts with the speed of 70 km/hr with \nits speed increasing every two hours by 10 kmph. \nIn how many hours will it cover 345 kms?",
+              "options": {
+                "a": "1 2 hrs\n4",
+                "b": "4 hrs 5 min",
+                "c": "1 4\n2\n hrs",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 38,
+              "question": "A bus moving at a speed of 24 m/s begins to slow \nat a rate of 3 m/s each second. How far does it go \nbefore stopping? (N.D.A., 2007)",
+              "options": {
+                "a": "48 m",
+                "b": "60 m",
+                "c": "72 m",
+                "d": "96 m"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 39,
+              "question": "A boy goes three equal distances, each of length x\nkm, with a speed of y km/hr, 3\n5\ny km/hr and \n2\n5\ny km/hr respectively. If the total time taken is\n1 hour, then x : y is equal to",
+              "options": {
+                "a": "6 : 13",
+                "b": "6 : 23",
+                "c": "6 : 31",
+                "d": "6 : 37"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 40,
+              "question": "A long distance runner runs 9 laps of a 400 metres \ntrack everyday. His timings (in min) for four \nconsecutive days are 88, 96, 89 and 87 respectively. \nOn an average, how many metres/minute does the \nrunner cover? (M.A.T., 2008)",
+              "options": {
+                "a": "17.78",
+                "b": "40",
+                "c": "90",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 41,
+              "question": "An express train travelled at an average speed of \n100 kmph, stopping for 3 minutes after 75 km. A \nlocal train travelled at a speed of 50 kmph, stopping \nfor 1 minute after every 25 km. If the trains began \ntravelling at the same time, how many kilometres did \nthe local train travel in the time it took the express \ntrain to travel 600 km? (M.A.T., 2005)",
+              "options": {
+                "a": "287.5 km",
+                "b": "307.5 km",
+                "c": "325 km",
+                "d": "396 km\nTIME AND DISTANCE 571"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 42,
+              "question": "A car starts running with the initial speed of 40 kmph, \nwith its speed increasing every hour by 5 kmph. \nHow many hours will it take to cover a distance of \n385 km? (M.A.T., 2007)",
+              "options": {
+                "a": "7 hours",
+                "b": "1 8\n2\n hours",
+                "c": "9 hours",
+                "d": "1 9 hours\n2"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 43,
+              "question": "The speed of a car increases by 2 kms after every one \nhour. If the distance travelled in the first one hour\nwas 35 kms, what was the total distance travelled \nin 12 hours?",
+              "options": {
+                "a": "456 kms",
+                "b": "482 kms",
+                "c": "552 kms",
+                "d": "556 kms",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 44,
+              "question": "A bus started its journey from Ramgarh and reached \nDevgarh in 44 minutes at its average speed of 50 \nkm/hr. If the average speed of the bus is increased \nby 5 km/hr, how much time will it take to cover \nthe same distance? (Bank P.O., 2009)",
+              "options": {
+                "a": "31 min",
+                "b": "36 min",
+                "c": "38 min",
+                "d": "40 min",
+                "e": "49 min"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 45,
+              "question": "The speeds of three cars are in the ratio 2 : 3 : 4. \nThe ratio of the times taken by these cars to travel \nthe same distance is (S.S.C., 2005)",
+              "options": {
+                "a": "2 : 3 : 4",
+                "b": "4 : 3 : 2",
+                "c": "4 : 3 : 6",
+                "d": "6 : 4 : 3"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 46,
+              "question": "The speeds of A and B are in the ratio 3 : 4. A takes \n20 minutes more than B to reach a destination. In \nwhat time does A reach the destination? (S.S.C. , 2007)",
+              "options": {
+                "a": "1 1 hours\n3",
+                "b": "2 1 hours\n3",
+                "c": "2 hours",
+                "d": "2 2 hours\n3"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 47,
+              "question": "The speed of electric train is 25% more than that \nof steam engine train. What is the time taken by \nan electric train to cover a distance which a steam \nengine takes 4 hours 25 minutes to cover?\n(P.C.S., 2004)",
+              "options": {
+                "a": "1 3 hr\n10",
+                "b": "11 3\n15\n hr",
+                "c": "11 3\n12\n hr",
+                "d": "8 3 hr\n15"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 48,
+              "question": "A takes 2 hours more than B to walk d km, but if A\ndoubles his speed, then he can make it in 1 hour less \nthan B. How much time does B require for walking \nd km? (R.R.B., 2005)",
+              "options": {
+                "a": "2\nhours d",
+                "b": "3 hours",
+                "c": "4 hours",
+                "d": "2\n3\nhours d"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 49,
+              "question": "A train covers a distance of 10 km in 12 minutes. If \nits speed is decreased by 5 km/hr, the time taken \nby it to cover the same distance will be",
+              "options": {
+                "a": "10 min",
+                "b": "11 min 20 sec",
+                "c": "13 min",
+                "d": "13 min 20 sec"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 50,
+              "question": "Anna left for city A from city B at 5.20 a.m. She \ntravelled at the speed of 80 km/hr for 2 hours \n15 minutes. After that the speed was reduced to \n60 km/hr. If the distance between two cities is 350 \nkms, at what time did Anna reach city A?",
+              "options": {
+                "a": "9.20 a.m.",
+                "b": "9.25 a.m.",
+                "c": "9.35 a.m.",
+                "d": "10.05 a.m.",
+                "e": "None of these"
+              },
+              "answer": "e"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "A train covers a distance between two stations A\nand B in 45 minutes. If the speed of the train is \nreduced by 5 km/hr, then it covers the distance in \n48 minutes. The distance between the stations A and \nB is (P.C.S., 2009)",
+              "options": {
+                "a": "55 km",
+                "b": "60 km",
+                "c": "64 km",
+                "d": "80 km"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "A train travels a distance of 600 km at a constant \nspeed. If the speed of the train is increased by 5 \nkm/hr, the journey would take 4 hours less. Find \nthe speed of the train. (M.A.T., 2010)",
+              "options": {
+                "a": "25 km/hr",
+                "b": "50 km/hr",
+                "c": "100 km/hr",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 3,
+              "question": "A car takes 15 minutes less to cover a distance of \n75 km, if it increases its speed by 10 km/hr from \nits usual speed. How much time would it take to \ncover a distance of 300 km using this speed?\n(M.A.T., 2010)",
+              "options": {
+                "a": "5 hours",
+                "b": "5 1\n2\n hours",
+                "c": "6 hours",
+                "d": "1 6 hours\n2"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "With a uniform speed a car covers the distance in \n8 hours. Had the speed been increased by 4 km/hr, \nthe same distance could have been covered in 1 7\n2\nhours. What is the distance covered?",
+              "options": {
+                "a": "420 km",
+                "b": "480 km",
+                "c": "640 km",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "Two men start together to walk to a certain \ndestination, one at 3 kmph and another at 3.75 kmph. \nThe latter arrives half an hour before the former. \nThe distance is",
+              "options": {
+                "a": "6 km",
+                "b": "7.5 km",
+                "c": "8 km",
+                "d": "9.5 km"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "If a person walks at 14 km/hr instead of 10 km/hr, \nhe would have walked 20 km more. The actual \ndistance travelled by him is",
+              "options": {
+                "a": "50 km",
+                "b": "56 km",
+                "c": "70 km",
+                "d": "80 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "In covering a certain distance, the speeds of A and \nB are in the ratio of 3 : 4. A takes 30 minutes more \nthan B to reach the destination. The time taken by \nA to reach the destination is",
+              "options": {
+                "a": "1 hour",
+                "b": "1 1 hours\n2",
+                "c": "2 hours",
+                "d": "1 2 hours\n2"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "In covering a distance of 30 km, Abhay takes 2 hours \nmore than Sameer. If Abhay doubles his speed, then \nhe would take 1 hour less than Sameer. Abhay’s \nspeed is",
+              "options": {
+                "a": "5 kmph",
+                "b": "6 kmph",
+                "c": "6.25 kmph",
+                "d": "7.5 kmph"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "Three persons are walking from a place A to another \nplace B. Their speeds are in the ratio of 4 : 3 : 5. \nThe time ratio to reach B by these persons will be",
+              "options": {
+                "a": "4 : 3 : 5",
+                "b": "5 : 3 : 4",
+                "c": "15 : 9 : 20",
+                "d": "15 : 20 : 12"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "A journey of 192 km between two cities takes 2 \nhours less by a fast train than by a slow train. If \nthe average speed of the slow train is 16 km/hr less \nthan that of the fast train, then the average speed \nof the fast train is",
+              "options": {
+                "a": "32 km/hr",
+                "b": "36 km/hr",
+                "c": "48 km/hr",
+                "d": "64 km/hr"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "In a flight of 6000 km, an aircraft was slowed down\ndue to bad weather. The average speed for the trip \nwas reduced by 400 kmph and the time of flight\nincreased by 30 minutes. The original planned \nduration of the flight was\t \t (M.A.T., 2006)\n576 QUANTITATIVE APTITUDE",
+              "options": {
+                "a": "1 2 hours\n2",
+                "b": "1 3 hours\n3",
+                "c": "1 4 hours\n3",
+                "d": "1 5 hours\n3"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "An aeroplane first flew with a speed of 440 kmph\nand covered a certain distance. It still had to cover \n770 km less than what it had already covered, but it \nflew with a speed of 660 kmph. The average speed\nfor the entire flight was 500 kmph. Find the total\ndistance covered. (M.A.T., 2005)",
+              "options": {
+                "a": "1375 km",
+                "b": "2750 km",
+                "c": "3250 km",
+                "d": "4400 km"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "Two boys A and B start at the same time to ride \nfrom Delhi to Meerut, 60 km away. A travels 4 km \nan hour slower than B, B reaches Meerut and at once \nturns back meeting A, 12 km from Meerut. A’s rate \nwas (M.B.A., 2011)",
+              "options": {
+                "a": "4 km/hr",
+                "b": "8 km/hr",
+                "c": "12 km/hr",
+                "d": "16 km/hr"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "A cyclist drove one kilometre, with the wind in his \nback, in 3 minutes and drove the same way back, \nagainst the wind, in 4 minutes. If we assume that \nthe cyclist always puts constant force on the pedals, \nhow much time would it take him to drive 1 km \nwithout wind? (SNAP, 2008)",
+              "options": {
+                "a": "1 2 min\n3",
+                "b": "3 2 min\n7",
+                "c": "3 3 min\n7",
+                "d": "7 3 min\n12"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "Ramesh travels 760 km to his home, partly by train \nand partly by car. He takes 8 hours, if he travels \n160 km by train and the rest by car. He takes 12 \nminutes more, if he travels 240 km by train and the \nrest by car. What are the speeds of the car and the \ntrain respectively? (M.A.T., 2006)",
+              "options": {
+                "a": "90 km/hr, 60 km/hr",
+                "b": "100 km/hr, 80 km/\nhr",
+                "c": "80 km/hr, 70 km/hr",
+                "d": "100 km/hr, 90 km/\nhr"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "Two sea trawlers left a sea port simultaneously in \ntwo mutually perpendicular directions. Half an hour \nlater, the shortest distance between them was 17 km, \nand another 15 minutes later, one sea trawler was",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 17,
+              "question": "5 km farther from the origin than the other. Find \nthe speed of each sea trawler. (SNAP, 2008)",
+              "options": {
+                "a": "16 km/hr, 30 km/hr",
+                "b": "18 km/hr, 24 km/hr",
+                "c": "20 km/hr, 22 km/hr",
+                "d": "18 km/hr, 36 km/hr"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 18,
+              "question": "A runs twice as fast as B and B runs thrice as fast \nas C. The distance covered by C in 72 minutes, will \nbe covered by A in (C.P.O., 2007; R.R.B., 2006)",
+              "options": {
+                "a": "12 minutes",
+                "b": "16 minutes",
+                "c": "18 minutes",
+                "d": "24 minutes"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "A ship, 40 kilometres from the shore, springs a leak \nwhich admits 3 tonnes 3\n4 of water in 12 minutes. \n60 tonnes would suffice to sink her, but the ship’s\npumps can throw out 12 tonnes of water in one \nhour. Find the average rate of sailing, so that she \nmay reach the shore just as she begins to sink.\n(M.A.T. 2006, 2008)",
+              "options": {
+                "a": "1 1 km per hour\n2",
+                "b": "1 2 km per hour 2",
+                "c": "1 3 km per hour 2",
+                "d": "1 4 km per hour 2"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "Amit travelled back to home in a car, after \nvisiting his friend in a distant village. When he \nstarted at his friend’s house the car had exactly \n18 litres of petrol in it. He travelled along at a \nsteady 40 kilometres per hour and managed a \n10 kilometres per litre of petrol. As the car was old, \nthe fuel tank lost fuel at the rate of half a litre per \nhour. Amit was lucky as his car stopped just in front \nof his home because it had run out of fuel and he \nonly just made it. How far was it from his friend’s \nhome to Amit’s home? (I.I.F.T., 2005)",
+              "options": {
+                "a": "150 km",
+                "b": "170 km",
+                "c": "180 km",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 21,
+              "question": "Two men starting from the same place walk at the \nrate of 5 kmph and 5.5 kmph respectively. What \ntime will they take to be 8.5 km apart, if they walk \nin the same direction?",
+              "options": {
+                "a": "4 hrs 15 min",
+                "b": "8 hrs 30 min",
+                "c": "16 hrs",
+                "d": "17 hrs"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 22,
+              "question": "A walks around a circular field at the rate of one\nround per hour while B runs around it at the rate of \nsix rounds per hour. They start in the same direction \nfrom the same point at 7.30 a.m. They shall first\ncross each other at :",
+              "options": {
+                "a": "7.42 a.m.",
+                "b": "7.48 a.m.",
+                "c": "8.10 a.m.",
+                "d": "8.30 a.m."
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "A and B start from the same point and in the same \ndirection at 7 a.m. to walk around a rectangular \nfield 400 m × 300 m. A and B walk at the rate of \n3 km/hr and 2.5 km/hr respectively. How many \ntimes shall they cross each other if they continue \nto walk till 12 : 30 p.m.? (Civil Services, 2004)",
+              "options": {
+                "a": "Not even once",
+                "b": "Once",
+                "c": "Twice",
+                "d": "Thrice"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "There are 8 equidistant points A, B, C, D, E, F, G\nand H in the clockwise direction on the periphery of \na circle. In a time interval t, a person reaches from \nA to C with uniform motion while another person \nreaches the point E from the point B during the same \ntime interval with uniform motion. Both the persons \nmove in the same direction along the circumference \nTIME AND DISTANCE 577\nof the circle and start at the same instant. How much \ntime after the start, will the two persons meet each \nother? (Civil Services, 2006)",
+              "options": {
+                "a": "4t",
+                "b": "7t",
+                "c": "9t",
+                "d": "Never"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "A walks at 4 kmph and 4 hours after his start, B\ncycles after him at 10 kmph. How far from the start \ndoes B catch up with A?",
+              "options": {
+                "a": "16.7 km",
+                "b": "18.6 km",
+                "c": "21.5 km",
+                "d": "26.7 km"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 26,
+              "question": "Paschim Express left Delhi for Mumbai at 14.30 hrs \ntravelling at a speed of 60 kmph and August Kranti\nExpress left Delhi for Mumbai on the same day at",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 27,
+              "question": "30 hrs travelling at a speed of 80 kmph. How far \naway from Delhi will the two trains meet (excluding \nstoppages)? (M.B.A., 2004)",
+              "options": {
+                "a": "120 km",
+                "b": "360 km",
+                "c": "480 km",
+                "d": "500 km"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 28,
+              "question": "A thief is noticed by a policeman from a distance of \n200 m. The thief starts running and the policeman \nchases him. The thief and the policeman run at the \nrate of 10 km and 11 km per hour respectively. What \nis the distance between them after 6 minutes?",
+              "options": {
+                "a": "100 m",
+                "b": "150 m",
+                "c": "190 m",
+                "d": "200 m"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "A bus is moving with a speed of 30 km/hr ahead \nof a car with a speed of 50 km/hr. How many \nkilometres apart are they if it takes 15 minutes for \nthe car to catch up with the bus?",
+              "options": {
+                "a": "5 km",
+                "b": "7.5 km",
+                "c": "12.5 km",
+                "d": "15 km"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "A thief running at 8 km/hr is chased by a policeman \nwhose speed is 10 km/hr. If the thief is 100 metres \nahead of the policeman, then the time required for \nthe policeman to catch the thief will be",
+              "options": {
+                "a": "2 minutes",
+                "b": "3 minutes",
+                "c": "6 minutes",
+                "d": "10 minutes"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 31,
+              "question": "A thief steals a car at 2.30 p.m. and drives it at 60 \nkmph. The theft is discovered at 3 p.m. and the \nowner sets off in another car at 75 kmph. When \nwill he overtake the thief?",
+              "options": {
+                "a": "4.30 p.m.",
+                "b": "4.45 p.m.",
+                "c": "5 p.m.",
+                "d": "5.15 p.m."
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 32,
+              "question": "Aryan runs at a speed of 40 metres/minute. Rahul \nfollows him after an interval of 5 minutes and runs \nat a speed of 50 metres/minute. Rahul’s dog runs at \na speed of 60 metres/minute and starts along with \nRahul. The dog reaches Aryan and then comes back \nto Rahul, and continues to do so till Rahul reaches \nAryan. What is the total distance covered by the \ndog? (Civil Services, 2005)",
+              "options": {
+                "a": "600 m",
+                "b": "750 m",
+                "c": "980 m",
+                "d": "1200 m"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 33,
+              "question": "A thief, pursued by a policeman, was 100 m ahead \nat the start. If the ratio of the speed of the policeman \nto that of the thief was 5 : 4, then how far could the \nthief go before he was caught by the policeman?\n(S.S.C., 2005)",
+              "options": {
+                "a": "80 m",
+                "b": "200 m",
+                "c": "400 m",
+                "d": "600 m"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 34,
+              "question": "A walks at a uniform rate of 4 km an hour; and \n4 hours after his start, B bicycles after him at the \nuniform rate of 10 km an hour. How far from the \nstarting point will B catch A? (C.P.O., 2005)",
+              "options": {
+                "a": "16.7 km",
+                "b": "18.6 km",
+                "c": "21.5 km",
+                "d": "26.7 km"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 35,
+              "question": "A passenger train runs at the rate of 80 kmph. It \nstarts from the station, 6 hours after a goods train \nleaves the station. The passenger train overtakes the \ngoods train after 4 hours. The speed of goods train \nis (R.R.B., 2008)",
+              "options": {
+                "a": "32 km/hr",
+                "b": "45 km/hr",
+                "c": "50 km/hr",
+                "d": "64 km/hr"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 36,
+              "question": "An athlete claimed that his timing for a 100 m dash \nshould be corrected because the starting signal was \ngiven by a gun fired from a point 10 m away from\nhim and the timekeeper was standing close to the \ngun. The error due to this could be (in seconds)\n[Given: speed of sound = 300 m/s]",
+              "options": {
+                "a": "0.03",
+                "b": "0.1",
+                "c": "0.5",
+                "d": "0.7"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 37,
+              "question": "Sound waves travel at 300 m/s. Sound produced at \na point is heard by a person after 5 seconds while \nthe same sound is heard by another person after 6 \nseconds. What could be the maximum and minimum \ndistance between the two persons?",
+              "options": {
+                "a": "1.8 km, 0.15 km",
+                "b": "2.2 km, 0.20 km",
+                "c": "2.8 km, 0.25 km",
+                "d": "3.3 km, 0.3 km"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 38,
+              "question": "Two guns were fired from the same place at \nan interval of 8 minutes, A person approaching \nthe place observes that 5 minutes 52 seconds \nhave elapsed between the hearing of the sound \nof the two guns. If the velocity of the sound is \n330 m/sec, the man was approaching the place at \nwhat speed (in km/hr)? (S.S.C., 2007)",
+              "options": {
+                "a": "24",
+                "b": "27",
+                "c": "30",
+                "d": "36"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 39,
+              "question": "Two cyclists start from the same place in opposite \ndirections. One goes towards north at 18 kmph and \nthe other goes towards south at 20 kmph. What time \nwill they take to be 47.5 km apart?",
+              "options": {
+                "a": "1 1 hrs\n4",
+                "b": "1 2 hrs\n4",
+                "c": "2 hrs. 23 min.",
+                "d": "1 2 hrs\n2\n578 QUANTITATIVE APTITUDE"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 40,
+              "question": "A and B are two stations 10 km apart. A man, P\nstarts from A and travels towards B at the rate of 3 \nkm/hr, whereas another man Q starts from B and \ntravels to wards A at the rate of 2 km/hr. When \nand where do they meet? (P.C.S., 2008)",
+              "options": {
+                "a": "After 2 hours, 6 km from A",
+                "b": "After 3 hours, 9 km from A",
+                "c": "After 1 2\n2 hours, 7.5 km from A",
+                "d": "After 2 hours, 4 km from A"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 41,
+              "question": "Two cars X and Y start from places A and B respectively \nwhich are 700 km apart at 9 a.m. Both the cars run \nat an average speed of 60 km/hr. Car X stops at\n10 a.m. and again starts at 11 a.m. while the other \ncar continues to run without stopping. The two cars \ncross each other at (P.C.S., 2009)",
+              "options": {
+                "a": "2 : 40 p.m",
+                "b": "3 : 20 p.m",
+                "c": "4 : 10 p.m",
+                "d": "4 : 20 p.m"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 42,
+              "question": "A train started from station A and proceeded \ntowards station B at a speed of 48 km/hr. Forty\u0002five minutes later another train started from station\nB and proceeded towards station a at 50 km/hr. If \nthe distance between the two stations is 232 km, at \nwhat distance from station A will the trains meet?\n(M.A.T., 2009)",
+              "options": {
+                "a": "108 km",
+                "b": "132 km",
+                "c": "144 km",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 43,
+              "question": "The jogging track in a sports complex is 726 metres \nin circumference. Deepak and his wife start from \nthe same point and walk in opposite directions at",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 44,
+              "question": "5 km/hr and 3.75 km/hr respectively. They will \nmeet for the first time in",
+              "options": {
+                "a": "4.9 min",
+                "b": "5.28 min",
+                "c": "5.5 min",
+                "d": "6 min"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 45,
+              "question": "A and B walk around a circular track. They start at 8 \na.m. from the same point in the opposite directions. \nA and B walk at a speed of 2 rounds per hour and \n3 rounds per hour respectively. How many times \nshall they cross each other before 9.30 a.m.?",
+              "options": {
+                "a": "5",
+                "b": "6",
+                "c": "7",
+                "d": "8"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 46,
+              "question": "Two cyclists start on a circular track from a given \npoint but in opposite directions with speeds of 7 m/\nsec and 8 m/sec respectively. If the circumference \nof the circle is 300 metres, after what time will they \nmeet at the starting point? (M.A.T., 2007)",
+              "options": {
+                "a": "20 sec",
+                "b": "100 sec",
+                "c": "200 sec",
+                "d": "300 sec"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 47,
+              "question": "A distance of 425 km separates two trains moving \ntowards each other at a speed of 200 km/hr each. \nWhat will be the distance between them after 1 hr \n30 min, if they reduce their speed by half, every \nhalf an hour?",
+              "options": {
+                "a": "75 km",
+                "b": "120 km",
+                "c": "150 km",
+                "d": "200 km\nDirections"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 48,
+              "question": "At what time will A reach his destination?",
+              "options": {
+                "a": "Midnight",
+                "b": "2 a.m. the next day",
+                "c": "11 p.m.",
+                "d": "11 a.m. the next day"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 49,
+              "question": "In reaching his destination, how many more hours \nthan A, will B take?",
+              "options": {
+                "a": "8",
+                "b": "9",
+                "c": "10",
+                "d": "12"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 50,
+              "question": "A’s speed (in km/hr) is",
+              "options": {
+                "a": "4",
+                "b": "4.5",
+                "c": "5",
+                "d": "6"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 51,
+              "question": "Train X leaves New York at 1 A.M. and travels \neast at a constant speed of x mph. If train Z\nleaves New York at 2 A.M. and travels east, at \nwhat constant rate of speed will train Z have \nto travel in order to catch train X at exactly \n5 : 30 A.M.? (M.B.A., 2006)",
+              "options": {
+                "a": "5\n6\nx",
+                "b": "9\n8\nx",
+                "c": "6\n5\nx",
+                "d": "9\n7\nx",
+                "e": "3\n2\nx"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 52,
+              "question": "Two ladies simultaneously leave cities A and B\nconnected by a straight road and travel towards \neach other. The first lady travels 2 km/hr faster than\nthe second lady and reaches B one hour before the \nsecond lady reaches A. The two cities A and B are \n24 km apart. How many kilometres does each lady \ntravel in one hour?",
+              "options": {
+                "a": "5 km, 3 km",
+                "b": "7 km, 5 km",
+                "c": "8 km, 6 km",
+                "d": "6 km, 14 km"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 53,
+              "question": "Buses start from a bus terminal with a speed of 20 \nkm/hr at intervals of 10 minutes. What is the speed \nof a man coming from the opposite direction towards \nthe bus terminal if he meets the buses at intervals \nof 8 minutes? (S.S.C., 2010)",
+              "options": {
+                "a": "3 km/hr",
+                "b": "4 km/hr",
+                "c": "5 km/hr",
+                "d": "7 km/hr"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "A car covers the first 39 kms of its journey in 45\nminutes and covers the remaining 25 km in 35 \nminutes. What is the average speed of the car?\n (Bank P.O., 2007)",
+              "options": {
+                "a": "40 km/hr",
+                "b": "48 km/hr",
+                "c": "49 km/hr",
+                "d": "64 km/hr",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "A train travels at a speed of 30 km/hr for 12 minutes \nand at a speed of 45 km/hr for the next 8 minutes. \nThe average speed of the train for this journey is\n(S.S.C., 2005)",
+              "options": {
+                "a": "30 km/hr",
+                "b": "36 km/hr",
+                "c": "37.5 km/hr",
+                "d": "48 km/hr"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "A man on tour travels 160 km by car at 64 km/\nhr and another 160 km by bus at 80 km/hr. The \naverage speed for the whole journey is \n(L.I.C.A.D.O., 2008)",
+              "options": {
+                "a": "35.55 km/hr",
+                "b": "36 km/hr",
+                "c": "71.11 km/hr",
+                "d": "71 km/hr"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "A boy rides his bicycle 10 km at an average speed \nof 12 km/hr and again travels 12 km at an average \nspeed of 10 km/hr. His average speed for the entire \ntrip is approximately (M.B.A., 2008)",
+              "options": {
+                "a": "10.4 km/hr",
+                "b": "10.8 km/hr",
+                "c": "11 km/hr",
+                "d": "12.2 km/hr"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "A man travels 600 km by train at 80 km/hr, 800 \nkm by ship at 40 km/hr, 500 km by aeroplane at \n400 km/hr and 100 km by car at 50 km/hr. What \nis the average speed for the entire distance?\n(Teachers’ Exam., 2009)",
+              "options": {
+                "a": "60 km/hr",
+                "b": "5 60 km/hr 123",
+                "c": "62 km/hr",
+                "d": "5 65\n123 km/hr"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 6,
+              "question": "A cyclist rides 24 km at 16 kmph and further 36 \nkm at 15 kmph. Find his average speed for the \njourney. (R.R.B., 2008)",
+              "options": {
+                "a": "15.38 kmph",
+                "b": "15.5 kmph",
+                "c": "16 kmph",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "A person travels three equal distances at a speed of \nx km/hr, y km/hr and z km/hr respectively. What \nis the average speed for the whole journey?\n(S.C.C., 2007)",
+              "options": {
+                "a": "3",
+                "b": "",
+                "c": "",
+                "d": "3"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 8,
+              "question": "A car travels the first one-third of a certain distance\nwith a speed of 10 km/hr, the next one-third distance \nwith a speed of 20 km/hr, and the last one-third \ndistance with a speed of 60 km/hr. The average \nspeed of the car for the whole journey is",
+              "options": {
+                "a": "18 km/hr",
+                "b": "24 km/hr",
+                "c": "30 km/hr",
+                "d": "36 km/hr"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "A motorist covers a distance of 39 km in 45 minutes \nby moving at a speed of x kmph for the first 15 min￾utes, then moving at double the speed for the next \n20 minutes and then again moving at his original \nspeed for the rest of the journey. Then, x is equal to :",
+              "options": {
+                "a": "31.2",
+                "b": "36",
+                "c": "40",
+                "d": "52"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "Mary jogs 9 km at a speed of 6 km per hour. At \nwhat speed would she need to jog during the next",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 11,
+              "question": "5 hours to have an average of 9 km per hour for \nthe entire jogging session?",
+              "options": {
+                "a": "9 kmph",
+                "b": "10 kmph",
+                "c": "12 kmph",
+                "d": "14 kmph"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 12,
+              "question": "A family, planning a weekend trip, decides to spend \nnot more than a total of 8 hours driving. By leaving \nearly in the morning, they can average 40 miles per \nhour on the way to their destination. Due to the \nheavy Sunday traffic, they average only 30 miles\nper hour on the return trip. What is the farthest \ndistance from home they can plan to go? (Campus Recruitment, 2010)",
+              "options": {
+                "a": "120 miles or less",
+                "b": "Between 120 and 140 miles",
+                "c": "140 miles",
+                "d": "Between 140 and 160 miles",
+                "e": "160 miles or more"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "A car travelling with 5\n7 of its actual speed covers \n42 km in 1 hr 40 min 48 sec. Find the actual speed \nof the car. (S.S.C., 2005)",
+              "options": {
+                "a": "6 17 km/hr 7",
+                "b": "25 km/hr",
+                "c": "30 km/hr",
+                "d": "35 km/hr"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "A train running at \n7\n11 of its own speed reached a \nplace in 22 hours. How much time could be saved \nif the train would have run at its own speed?",
+              "options": {
+                "a": "7 hours",
+                "b": "8 hours",
+                "c": "14 hours",
+                "d": "16 hours\n574 QUANTITATIVE APTITUDE"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "A man can reach a certain place in 30 hours. If he \nreduces his speed by 1\n15 th, he goes 10 km less in \nthat time. Find his speed. (S.S.C., 2002)",
+              "options": {
+                "a": "4 km/hr",
+                "b": "5 km/hr",
+                "c": "1 5 km/hr 2",
+                "d": "6 km/hr"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "Walking 6\n7 th of his usual speed, a man is 12 minutes \ntoo late. The usual time taken by him to cover that \ndistance is",
+              "options": {
+                "a": "1 hour",
+                "b": "1 hr 12 min",
+                "c": "1 hr 15 min",
+                "d": "1 hr 20 min"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "The average speed of a train is 20% less on the return \njourney than on the onward journey. The train halts \nfor half an hour at the destination station before \nstarting on the return journey. If the total time taken \nfor the to and fro journey is 23 hours, covering a \ndistance of 1000 km, the speed of the train on the \nreturn journey is (M.A.T., 2010)",
+              "options": {
+                "a": "40 km/hr",
+                "b": "50 km/hr",
+                "c": "55 km/hr",
+                "d": "60 km/hr"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "A train increases its normal speed by 12.5% and \nreaches its destination 20 minutes earlier. What is \nthe actual time taken by the train in the journey?\n(P.C.S., 2008)",
+              "options": {
+                "a": "145 min",
+                "b": "160 min",
+                "c": "180 min",
+                "d": "220 min"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "A student walks from his house at a speed of 1 2\n2\nkm per hour and reaches his school 6 minutes late. \nThe next day he increases his speed by 1 km per \nhour and reaches 6 minutes before school time. How \nfar is the school from his house? (S.S.C., 2007)",
+              "options": {
+                "a": "1 km 1\n4",
+                "b": "3 1 km\n4",
+                "c": "1 2 km\n4",
+                "d": "3 2 km\n4"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "With an average speed of 50 km/hr, a train reaches \nits destination in time. If it goes with an average \nspeed of 40 km/hr, it is late by 24 minutes. The \ntotal journey is (N.M.A.T., 2008)",
+              "options": {
+                "a": "30 km",
+                "b": "40 km",
+                "c": "70 km",
+                "d": "80 km"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 21,
+              "question": "If a train runs at 40 kmph, it reaches its destination \nlate by 11 minutes but if it runs at 50 kmph, it is \nlate by 5 minutes only. The correct time for the train \nto complete its journey is",
+              "options": {
+                "a": "13 min",
+                "b": "15 min",
+                "c": "19 min",
+                "d": "21 min"
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

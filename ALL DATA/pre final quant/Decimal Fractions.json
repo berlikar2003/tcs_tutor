@@ -1,0 +1,1590 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Decimal Fractions",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The value of 42\n10000 in decimal fraction is\n(L.I.C.A.D.O., 2008)",
+              "options": {
+                "a": ".0042",
+                "b": ".00042",
+                "c": ".0420",
+                "d": "42000"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "The fraction 101 27\n100000 in decimal form is",
+              "options": {
+                "a": ".01027",
+                "b": ".10127",
+                "c": "101.00027",
+                "d": "101.000027"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "When .36 is written in simplest fractional form, the \nsum of the numerator and the denominator is",
+              "options": {
+                "a": "15",
+                "b": "34",
+                "c": "114",
+                "d": "135"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "The place value of 9 in 0.06945 is (L.I.C.A.D.O., 2008)",
+              "options": {
+                "a": "9",
+                "b": "9\n10",
+                "c": "9\n100",
+                "d": "9\n1000"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 5,
+              "question": "What decimal of an hour is a second?",
+              "options": {
+                "a": ".0025",
+                "b": ".0256",
+                "c": ".00027",
+                "d": ".000126"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "7 5 If 47.2506 = 4A + 2C 6E, B D\n+ ++ then the value \nof 5A + 3B + 6C + D + 3E is",
+              "options": {
+                "a": "53.6003",
+                "b": "53.6031",
+                "c": "153.6003",
+                "d": "213.0003"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "Express \n1999\n2111 in decimal. (R.R.B., 2006)",
+              "options": {
+                "a": "0.893",
+                "b": "0.904",
+                "c": "0.946",
+                "d": "0.986"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "How many times is 0.1 greater than 0.01?",
+              "options": {
+                "a": "1 time",
+                "b": "10 times",
+                "c": "100 times",
+                "d": "1000 times"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "Out of the fractions 3456 7 , ,, , ,\n7 11 9 13 12 which is the \nsecond largest? (Bank Recruitment, 2010)",
+              "options": {
+                "a": "3\n7",
+                "b": "4\n11",
+                "c": "5\n9",
+                "d": "6\n13",
+                "e": "7\n12"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "Which of the following has fractions in ascending \norder?",
+              "options": {
+                "a": "237 9 8\n3 5 9 11 9\n,,, ,",
+                "b": "32 9 78\n5 3 11 9 9\n,, ,,",
+                "c": "327 9 8\n5 3 9 11 9\n,,, ,",
+                "d": "8 9 723\n9 11 9 3 5\n, ,,,",
+                "e": "8 9 732\n9 11 9 5 3\n, ,,,"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "Which of the following are in descending order of \ntheir values?",
+              "options": {
+                "a": "5 7 8 11\n9 11 15 17\n,,,",
+                "b": "5 8 11 7\n9 15 17 11\n,,,",
+                "c": "11 7 8 5\n17 11 15 9 ,,,",
+                "d": "11 7 5 8\n17 11 9 15 , ,,"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 12,
+              "question": "What is the difference between the biggest and the \nsmallest fraction among 2 3\n3 4\n, , 4 5\n5 6\nand ? (S.S.C., 2006)",
+              "options": {
+                "a": "1\n6",
+                "b": "1\n12",
+                "c": "1\n20",
+                "d": "1\n30\nDECIMAL FRACTIONS 75"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 13,
+              "question": "The least among the following fractions is (S.S.C., 2010)",
+              "options": {
+                "a": "15\n16",
+                "b": "19\n20",
+                "c": "24\n25",
+                "d": "34\n35"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "Out of the fractions 9364 7 , , , and , 31 17 23 11 25 which \nis the largest? (Bank Recruitment, 2010)",
+              "options": {
+                "a": "9\n31",
+                "b": "3\n17",
+                "c": "6\n23",
+                "d": "4\n11",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "If the fractions 234 5 6 , , , and\n5 8 9 13 11 are arranged in \nascending order of their values, which one will be \nthe fourth? (S.B.I.P.O., 2008)",
+              "options": {
+                "a": "2\n5",
+                "b": "3\n8",
+                "c": "4\n9",
+                "d": "5\n13",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 16,
+              "question": "Which part contains the fractions in ascending order?",
+              "options": {
+                "a": "11 16 19\n14 19 21 , ,",
+                "b": "16 11 19\n19 14 21 , ,",
+                "c": "16 19 11\n19 21 14 , ,",
+                "d": "19 11 16\n21 14 19 , ,"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "Which of the following fractions is the smallest?",
+              "options": {
+                "a": "13\n16",
+                "b": "15\n19",
+                "c": "17\n21",
+                "d": "7\n8"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "Which of the following fractions is greater than 3\n4\nand less than 5\n6\n?",
+              "options": {
+                "a": "1\n2",
+                "b": "2\n3",
+                "c": "4\n5",
+                "d": "9\n10"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "Which of the following fractions is less than 7\n8\n and \ngreater than 1\n3\n?",
+              "options": {
+                "a": "1\n4",
+                "b": "23\n24",
+                "c": "11\n12",
+                "d": "17\n24"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "Which of the following numbers does not lie between \n4 7 and ?\n5 13",
+              "options": {
+                "a": "1\n2",
+                "b": "2\n3",
+                "c": "3\n4",
+                "d": "5\n7"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 21,
+              "question": "The arrangement of rational numbers \n7 5 2\n10 8 3 , , −\n− −\nin ascending order is",
+              "options": {
+                "a": "7 2 5\n3 8 10\n, , −\n− −",
+                "b": "5 2 7\n8 10 3\n, , −\n− −",
+                "c": "7 5 2\n10 8 3 , , −\n− −",
+                "d": "7 2 5\n10 3 8 , , −\n− −"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 22,
+              "question": "Which of the following fractions lies between \n2 3 and ?\n3 5 (C.P.O., 2006)",
+              "options": {
+                "a": "2\n5",
+                "b": "1\n3",
+                "c": "1\n15",
+                "d": "31\n50"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 23,
+              "question": "Which of the following fractions is less than 1\n5\n?\n(R.R.B., 2006)",
+              "options": {
+                "a": "8\n35",
+                "b": "8\n37",
+                "c": "8\n39",
+                "d": "2\n11"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 24,
+              "question": "Which of the following fractions is nearest to 2\n5\n?\n(R.R.B., 2006)",
+              "options": {
+                "a": "4\n5",
+                "b": "21\n50",
+                "c": "20001\n50000",
+                "d": "200001\n500000"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "The rational numbers lying between 1\n3\n and 3\n4 are",
+              "options": {
+                "a": "117 287\n300 400 ,",
+                "b": "95 301\n300 400 ,",
+                "c": "99 301\n300 400 ,",
+                "d": "97 299\n300 500 ,"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "Three rational numbers between 1\n5\n and 1\n6 are",
+              "options": {
+                "a": "4 9 17\n25 50 100 , ,",
+                "b": "4 17 167\n25 100 1000 , ,",
+                "c": "4 9 167\n25 50 1000 , ,",
+                "d": "9 17 167\n50 100 1000 , ,\n76 QUANTITATIVE APTITUDE"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "0.3 + 3 + 3.33 + 3.3 + 3.03 + 333 =?\t (NABARD, 2009)",
+              "options": {
+                "a": "345.99",
+                "b": "355.96",
+                "c": "375.66",
+                "d": "375.93",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 28,
+              "question": "636.66 + 366.36 + 363.33 =?\t (Bank Recruitment, 2009)",
+              "options": {
+                "a": "1336.35",
+                "b": "1363.25",
+                "c": "1366.25",
+                "d": "1636.25",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 29,
+              "question": "24.424 + 5.656 + 1.131 + 0.089 =?\t (Bank P.O., 2009)",
+              "options": {
+                "a": "31.003",
+                "b": "31.3",
+                "c": "31.0003",
+                "d": "31.03",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 30,
+              "question": "555.05 + 55.5 + 5.55 + 5 + 0.55 =?\t (S.B.I.P.O., 2008)",
+              "options": {
+                "a": "621.65",
+                "b": "634.85",
+                "c": "647.35",
+                "d": "655.75",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 31,
+              "question": "4 + 4.44 + 0.4 + 44.04 + 444 =?\t (Bank P.O., 2008)",
+              "options": {
+                "a": "469.88",
+                "b": "487.66",
+                "c": "496.88",
+                "d": "497.24",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 32,
+              "question": "999.99 + 99.99 + 9.99 =?\t (Bank Recruitment, 2008)",
+              "options": {
+                "a": "1019.89",
+                "b": "1099.88",
+                "c": "1108.99",
+                "d": "1109.99",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 33,
+              "question": "10.0001 + 9.9999 – 8.9995 =?\t (E.P.F.O.S.S.A., 2004)",
+              "options": {
+                "a": "9.0005",
+                "b": "10.9995",
+                "c": "11.0001",
+                "d": "11.0005",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 34,
+              "question": "48.95 – 32.006 =?",
+              "options": {
+                "a": "16.089",
+                "b": "16.35",
+                "c": "16.89",
+                "d": "16.944"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 35,
+              "question": "58.621 – 13.829 – 7.302 – 1.214 =? (Bank P.O., 2009)",
+              "options": {
+                "a": "31.254",
+                "b": "35.272",
+                "c": "36.276",
+                "d": "37.281",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 36,
+              "question": "341.42 – 53.74 =? – 62.86 (Bank Recruitment, 2010)",
+              "options": {
+                "a": "260.44",
+                "b": "340.44",
+                "c": "350.54",
+                "d": "450.54",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 37,
+              "question": "534.596 + 61.472 – 496.708 =? + 27.271\n(Bank P.O., 2010)",
+              "options": {
+                "a": "62.069",
+                "b": "72.089",
+                "c": "126.631",
+                "d": "132.788",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 38,
+              "question": "11.71 – 0.86 + 1.78 – 9.20 =?\t (Bank Recruitment, 2010)",
+              "options": {
+                "a": "2.43",
+                "b": "3.13",
+                "c": "3.43",
+                "d": "4.13",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 39,
+              "question": "726.34 + 888.12 –? = 1001.88\t (Bank P.O., 2009)",
+              "options": {
+                "a": "602.64",
+                "b": "618.78",
+                "c": "621.58",
+                "d": "654.54",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 40,
+              "question": "832.58 – 242.31 = 779.84 –?",
+              "options": {
+                "a": "179.57",
+                "b": "199.57",
+                "c": "295.05",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 41,
+              "question": "Which one of the following is wrong?",
+              "options": {
+                "a": "9\n4\n+ 1.75 = 4",
+                "b": "9\n5\n+ = 2.2 4",
+                "c": "6\n5\n+ = 2.8 4",
+                "d": "3\n2\n+ = 1.5 4"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 42,
+              "question": "If x = 10 and y = 0.1, which of the following is the \ngreatest?",
+              "options": {
+                "a": "x2 + y2",
+                "b": "x2 – y2",
+                "c": "x2 y2",
+                "d": "2\n2\nx\ny"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 43,
+              "question": "Which of the following is closest to zero?\n(M.C.A., 2005)",
+              "options": {
+                "a": "",
+                "b": "0.09",
+                "c": "",
+                "d": "1 –"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 44,
+              "question": "One hundredth of centimetre when written in \nfractions of kilometres, is equal to (M.C.A., 2005)",
+              "options": {
+                "a": "0.0000001",
+                "b": "0.000001",
+                "c": "0.0001",
+                "d": "0.001"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 45,
+              "question": "What will come in place of question mark in the \nfollowing equation?\n\t \t 54.(?)3 + 543 + 5.43 = 603.26",
+              "options": {
+                "a": "5",
+                "b": "6",
+                "c": "8",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 46,
+              "question": "Which of the following is equal to 3.14 × 106?\n(Hotel Management, 2003)",
+              "options": {
+                "a": "314",
+                "b": "3140",
+                "c": "3140000",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 47,
+              "question": "The number 518,000,000 when expressed in scientific\nnotation, equals",
+              "options": {
+                "a": "51.8 × 106",
+                "b": "51.8 × 107",
+                "c": "5.18 × 108",
+                "d": "5.18 × 109"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 48,
+              "question": "0.000006723 when expressed in scientific notation,\nis",
+              "options": {
+                "a": "6723 × 10–5",
+                "b": "67.23 × 10–7",
+                "c": "6.723 × 10–6",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 49,
+              "question": "If 1.125 × 10k\n = 0.001125, then the value of k is:",
+              "options": {
+                "a": "– 4",
+                "b": "– 3",
+                "c": "– 2",
+                "d": "– 1"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 50,
+              "question": "(0.1 × 0.01 × 0.001 × 107) is equal to\t (S.S.C., 2010)",
+              "options": {
+                "a": "1\n10",
+                "b": "1\n100",
+                "c": "10",
+                "d": "100"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "  ×+×   × +×  \n.896 .763 .896 .237 The value of is\n.7 .064 .7 .936",
+              "options": {
+                "a": ".976",
+                "b": "9.76",
+                "c": "1.28",
+                "d": "12.8"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "The value of (1.25)3 – 2.25 (1.25)2 + 3.75 (0.75)2 – \n(0.75)3 is",
+              "options": {
+                "a": "1",
+                "b": "1\n2",
+                "c": "1\n4",
+                "d": "1\n8"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "(78.95)2 – (43.35)2 =? (S.B.I.P.O., 2008)",
+              "options": {
+                "a": "4148",
+                "b": "4235.78",
+                "c": "4305",
+                "d": "4353.88",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "The value of (75.8 55.8 )\n2 2 ( )\n20\n− is",
+              "options": {
+                "a": "20",
+                "b": "40",
+                "c": "121.6",
+                "d": "131.6"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 5,
+              "question": "(3.63 2.37",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 6,
+              "question": "63 2.37\n)\n2 2\n+\n− ( ) is simplified to\t (C.P.O., 2006)",
+              "options": {
+                "a": "1.26",
+                "b": "1.36",
+                "c": "2.26",
+                "d": "6"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 7,
+              "question": "(36.54 3.46 )\n2 2 − ( ) = 40\n?",
+              "options": {
+                "a": "3.308",
+                "b": "4",
+                "c": "33.08",
+                "d": "330.8"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "The value of (67.542 32.458 )\n2 2 ( )",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 9,
+              "question": "458 40.374\n−\n− is",
+              "options": {
+                "a": "1",
+                "b": "10",
+                "c": "100",
+                "d": "None of these\n82 QUANTITATIVE APTITUDE"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 10,
+              "question": "     ",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 11,
+              "question": "49 14.9 0.51 5.1 ×−×",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 12,
+              "question": "9 5.1 − is equal to (S.S.C., 2004)",
+              "options": {
+                "a": "0.20",
+                "b": "2.00",
+                "c": "20",
+                "d": "22"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 13,
+              "question": "",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 14,
+              "question": "2 4.2 1.9 1.9 ?",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 15,
+              "question": "3 6.1\n×−× = ×",
+              "options": {
+                "a": "0.5",
+                "b": "1",
+                "c": "1.9",
+                "d": "4.2"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 16,
+              "question": "Simplify: ( )\n2 2 ( )",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 17,
+              "question": "32 56 5.32 44",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 18,
+              "question": "66 2.34\n×+ × ⋅ −",
+              "options": {
+                "a": "7.2",
+                "b": "8.5",
+                "c": "10",
+                "d": "12"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 19,
+              "question": "( ) ( )\n( ) ( )\n4 4\n2 2",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 20,
+              "question": "6 0.5",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 21,
+              "question": "6 0.5\n−\n+\n is equal to",
+              "options": {
+                "a": "0.1",
+                "b": "0.11",
+                "c": "1.1",
+                "d": "11"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 22,
+              "question": "(7.5 × 7.5 + 37.5 + 2.5 × 2.5) is equal to",
+              "options": {
+                "a": "30",
+                "b": "60",
+                "c": "80",
+                "d": "100"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 23,
+              "question": "The simplification of 0.2 0.2 0.02 0.02 0.4 0.02",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 24,
+              "question": "36\n×+ × −×\ngives",
+              "options": {
+                "a": "0.009",
+                "b": "0.09",
+                "c": "0.9",
+                "d": "9"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 25,
+              "question": "(99.75)2 – 2250.0625 =? (Bank P.O., 2008)",
+              "options": {
+                "a": "6545.625",
+                "b": "7700",
+                "c": "8875",
+                "d": "9900.625",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "(55.25)2 – 637.5625 =? (Bank P.O., 2008)",
+              "options": {
+                "a": "25.25",
+                "b": "625",
+                "c": "1375",
+                "d": "2415",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 28,
+              "question": "25 3.20 – 3.20 3.05",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 29,
+              "question": "064\n× ×\n is equal to (S.S.C., 2010)",
+              "options": {
+                "a": "1",
+                "b": "1\n2",
+                "c": "1\n10",
+                "d": "10"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 30,
+              "question": "The value of (.98)3 + (.02)3 + 3 × .98 × .02 – 1 is\n(S.S.C., 2005)",
+              "options": {
+                "a": "0",
+                "b": "1",
+                "c": "1.09",
+                "d": "1.98"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 31,
+              "question": "The expression (11.98 × 11.98 + 11.98 × x + 0.02 ×",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 32,
+              "question": "02) will be a perfect square for x equal to:",
+              "options": {
+                "a": "0.02",
+                "b": "0.2",
+                "c": "0.04",
+                "d": "0.4"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 33,
+              "question": "− ++\n×+×\n2 2\nThe value of (2.697 0.498) (2.697 0.498) is",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 34,
+              "question": "697 2.697 0.498 0.498",
+              "options": {
+                "a": "0.5",
+                "b": "2",
+                "c": "2.199",
+                "d": "3.195"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 35,
+              "question": "+ −−\n×\nThe value of (0.137 0.098) (0.137 0.098) 2 2\nis",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 36,
+              "question": "137 0.098",
+              "options": {
+                "a": "0.039",
+                "b": "0.235",
+                "c": "0.25",
+                "d": "4"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 37,
+              "question": "The value of\n 0.051 0.051 0.051 0.041 0.041 0.041",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 38,
+              "question": "051 0.051 0.051 0.041 0.041 0.041\n  ××+××   ×−×+×  \n is \n(S.S.C., 2003)",
+              "options": {
+                "a": "0.00092",
+                "b": "0.0092",
+                "c": "0.092",
+                "d": "0.92"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 39,
+              "question": "The value of 5.71 5.71 5.71 2.79 2.79 2.79",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 40,
+              "question": "71 5.71 5.71 2.79 2.79 2.79\n××−××\n×+×+×\n is \n(S.S.C., 2005)",
+              "options": {
+                "a": "2.82",
+                "b": "2.92",
+                "c": "8.5",
+                "d": "8.6"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 41,
+              "question": "The value of \n 0.943 0.943 0.943 0.057 0.057 0.057",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 42,
+              "question": "943 0.943 0.943 0.057 0.057 0.057\n  ×−×+×     ××+××\n is \n(M.B.A., 2005)",
+              "options": {
+                "a": "0.32",
+                "b": "0.886",
+                "c": "1.1286",
+                "d": "None of these"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 43,
+              "question": "  +   ×+ −  ",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 44,
+              "question": "125 0.027 The value of is",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 45,
+              "question": "5 0.5 0.09 0.15\n(S.S.C., 2010)",
+              "options": {
+                "a": "0.08",
+                "b": "0.2",
+                "c": "0.8",
+                "d": "1"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 46,
+              "question": "",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 47,
+              "question": "3 10.3 10.3 1",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 48,
+              "question": "3 10.3 10.3 1 is equal to :   ××+\n    ×−+\n: (S.S.C., 2004)",
+              "options": {
+                "a": "9.3",
+                "b": "10.3",
+                "c": "11.3",
+                "d": "12.3"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 49,
+              "question": "3\n2\n8 (3.75) 1 is equal to : (7.5) 6.5\n  +       − : (S.S.C., 2003)",
+              "options": {
+                "a": "9\n5",
+                "b": "2.75",
+                "c": "4.75",
+                "d": "8.5"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 50,
+              "question": "The value of",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 51,
+              "question": "1 0.1 0.1 0.02 0.02 0.02",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 52,
+              "question": "2 0.2 0.2 0.04 0.04 0.04\n  ××+ × ×   ××+ × ×  \n is \n(Hotel Management 2003; S.S.C., 2005)",
+              "options": {
+                "a": "0.0125",
+                "b": "0.125",
+                "c": "0.25",
+                "d": "0.5\nDECIMAL FRACTIONS 83"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 53,
+              "question": "( )\n( )\n3\n2",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 54,
+              "question": "013 0.000000343 ?",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 55,
+              "question": "013 0.000091 0.000049\n+ = − +\n(I.I.F.T., 2005)",
+              "options": {
+                "a": "0.002",
+                "b": "0.020",
+                "c": "0.021",
+                "d": "0.023",
+                "e": "None of these"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 56,
+              "question": "−\n+ +\n3\n2\n(2.3) .027 The value of is\n(2.3) .69 .09 (R.R.B., 2005)",
+              "options": {
+                "a": "0",
+                "b": "1.6",
+                "c": "2",
+                "d": "3.4"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 57,
+              "question": "+ +\n+ +\n22 2\n22 2\n(0.06) (0.47) (0.079) The value of is\n(0.006) (0.047) (0.0079)\n(N.M.A.T. 2006; G.B.O. 2007)",
+              "options": {
+                "a": "0.1",
+                "b": "10",
+                "c": "100",
+                "d": "1000"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 58,
+              "question": "( )\n( )( )\n( )\n( )( )\n( )\n( )( )\n2 2\n2",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 59,
+              "question": "53 3.07 3.07 2.15",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 60,
+              "question": "07 2.15 2.15 4.53 2.15 4.53 4.53 3.07",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 61,
+              "question": "15 4.53",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 62,
+              "question": "53 3.07 3.07 2.15\n− −\n−− −− +\n− + − −\nis simplified to\t (C.P.O., 2004)",
+              "options": {
+                "a": "0",
+                "b": "1",
+                "c": "2",
+                "d": "3"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 63,
+              "question": "The fraction equivalent to 2 %\n5 is\n[Indian Railways Gr. ‘D’ Exam, 2014]",
+              "options": {
+                "a": "1\n40",
+                "b": "125\n1",
+                "c": "1\n250",
+                "d": "500\n1"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 64,
+              "question": "The vulgar fraction of 0.3939 is \n[SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "15\n33",
+                "b": "11\n39",
+                "c": "17\n39",
+                "d": "13\n33"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 65,
+              "question": "Solve ( ) 41.99 18.04 ? 13.11 138.99 22 2 − ÷= −\n[IBPS—Bank Spl. Officers (IT) Exam, 2015]",
+              "options": {
+                "a": "48",
+                "b": "12",
+                "c": "72",
+                "d": "84",
+                "e": "128"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 66,
+              "question": "Solve 3\n5 of 4\n7 of 5\n12 of 1015 = ?\n [United India Insurance Co. Ltd. (UIICL) \nAssistant (Online) Exam, 2015]",
+              "options": {
+                "a": "220",
+                "b": "340",
+                "c": "240",
+                "d": "145",
+                "e": "190"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 67,
+              "question": "Solve 16 3 113 ? 87 5 ++ =\n[United India Insurance Co. Ltd. (UIICL)\nAssistant (Online) Exam, 2015]",
+              "options": {
+                "a": "121 8\n140",
+                "b": "6 163\n280",
+                "c": "197 9 280",
+                "d": "7 117\n140",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 68,
+              "question": "(?)\n1/3 1.5 1 3.5 7 2 21 1 5 6 15 4 30\n    +− = +    \n[IDBI Bank Executive Officers Exam, 2015]",
+              "options": {
+                "a": "2",
+                "b": "8",
+                "c": "512",
+                "d": "324",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 69,
+              "question": "Solve 323.46 + 23.04 – 43.17 – ? = 303\n[NICL—AAO Exam, 2015]",
+              "options": {
+                "a": "0.33",
+                "b": "1.33",
+                "c": "1.23",
+                "d": "0.21",
+                "e": "0.51"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 70,
+              "question": "Solve 12 1 12 3? 27 2 +=+ [NICL—AAO Exam, 2015]",
+              "options": {
+                "a": "2/3",
+                "b": "2/7",
+                "c": "5/8",
+                "d": "7/2",
+                "e": "1/7"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 71,
+              "question": "Solve 48.2 × 2.5 × 2.2 + ? = 270\n[NICL—AAO Exam, 2015]",
+              "options": {
+                "a": "6.5",
+                "b": "2.8",
+                "c": "4.9",
+                "d": "3.4",
+                "e": "1.2"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 72,
+              "question": "Solve 2 12 431? 323 +−= [NICL—AAO Exam, 2015]",
+              "options": {
+                "a": "1 2 5",
+                "b": "2 5\n3",
+                "c": "3 1\n4",
+                "d": "1\n2\n1",
+                "e": "1 6 2"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 73,
+              "question": "Solve: 17292/33 ÷ 8 = ?\t [NICL—AAO Exam, 2015]",
+              "options": {
+                "a": "23.5",
+                "b": "53.5",
+                "c": "65.5",
+                "d": "33.5",
+                "e": "45.5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 74,
+              "question": "Solve 1599 ÷ 39.99 +\n4\n5\n×− = 2449 120.05 ?\n[IBPS—BANK PO/MT (Pre.) Exam, 2015]",
+              "options": {
+                "a": "1680",
+                "b": "1940",
+                "c": "1640",
+                "d": "1880",
+                "e": "1780\n84 QUANTITATIVE APTITUDE"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 75,
+              "question": "Solve 1576 ÷ 45.02 + 23.99 × 255 = ?\n[IBPS—BANK PO/MT (Pre.) Exam, 2015]",
+              "options": {
+                "a": "340",
+                "b": "420",
+                "c": "380",
+                "d": "460",
+                "e": "360"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 76,
+              "question": "Solve 3899 ÷ 11.99 – 2379 ÷ 13.97 = ?\n[IBPS—BANK PO/MT (Pre.) Exam, 2015]",
+              "options": {
+                "a": "125",
+                "b": "250",
+                "c": "155",
+                "d": "135",
+                "e": "225"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 77,
+              "question": "Solve 24 1? 2 11\n9 18 2 + −=\n[IBPS—RRB Office Assistant (Online) Exam, 2015]",
+              "options": {
+                "a": "4 5\n9",
+                "b": "4 7\n9",
+                "c": "5 8\n9",
+                "d": "1 6 2",
+                "e": "2 5 3"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 78,
+              "question": "Solve 2 294 14 5 11 8 5 1.7 ?\n÷ ×+\n= ÷+\n[IBPS—RRB Office Assistant (Online) Exam, 2015]",
+              "options": {
+                "a": "8",
+                "b": "6",
+                "c": "12",
+                "d": "5",
+                "e": "10"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 79,
+              "question": "Solve 2.5 × 4.8 + 7.2 × 1.5 – 1.2 × 14 = ?\n[IBPS—RRB Office Assistant (Online) Exam, 2015]",
+              "options": {
+                "a": "1.2",
+                "b": "6.5",
+                "c": "4",
+                "d": "4.8",
+                "e": "6"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 80,
+              "question": "Solve 197 6.99 626.96 ? ×+ =\n[IBPS—Bank PO/PT Exam, 2015]",
+              "options": {
+                "a": "885",
+                "b": "725",
+                "c": "825",
+                "d": "650",
+                "e": "675"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 81,
+              "question": "Which of the following fractions is the largest?\n 3757\n2342 ,,, [ESIC—UDC Exam, 2016]",
+              "options": {
+                "a": "7\n3",
+                "b": "5\n4",
+                "c": "7\n2",
+                "d": "3\n2"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The rational number for the recurring decimal",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 2,
+              "question": "125125 ….. is",
+              "options": {
+                "a": "63\n487",
+                "b": "119\n993",
+                "c": "125\n999",
+                "d": "None of these"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 3,
+              "question": "When 0.47 is converted into a fraction, the result is \n(Section Officers’, 2003)",
+              "options": {
+                "a": "46\n90",
+                "b": "46\n99",
+                "c": "47\n90",
+                "d": "47\n99"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "0.36 expressed in the form p\nq equals",
+              "options": {
+                "a": "4\n11",
+                "b": "4\n13",
+                "c": "35\n90",
+                "d": "35\n99"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 5,
+              "question": "The least among the following is",
+              "options": {
+                "a": "0.2",
+                "b": "1 ÷ 0.2",
+                "c": "0.2",
+                "d": ""
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 6,
+              "question": "1.27 in the form p\nq is equal to (S.S.C., 2010)",
+              "options": {
+                "a": "127\n100",
+                "b": "14\n11",
+                "c": "73\n100",
+                "d": "11\n14"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "0.423 is equivalent to the fraction (C.P.O., 2005)",
+              "options": {
+                "a": "94\n99",
+                "b": "49\n99",
+                "c": "491\n990",
+                "d": "419\n990"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 8,
+              "question": "Express 0.2956 in the form p\nq (vulgar fraction)\n(R.R.B., 2005)",
+              "options": {
+                "a": "2956\n1000",
+                "b": "2956\n10000",
+                "c": "2927\n9900",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "Let F = 0.84181. When F is written as a fraction \nin lowest terms, the denominator exceeds the \nnumerator by",
+              "options": {
+                "a": "13",
+                "b": "14",
+                "c": "29",
+                "d": "87"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "The value of 4.12 is",
+              "options": {
+                "a": "11 4\n90",
+                "b": "11 4\n99",
+                "c": "371\n900",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "2.8768 is equal to (C.P.O., 2006)",
+              "options": {
+                "a": "878 2\n999",
+                "b": "9 2\n10",
+                "c": "292 2\n333",
+                "d": "4394 2\n4995"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "The value of (0.2 + 0.3 + 0. 32) is\t (S.S.C., 2005)",
+              "options": {
+                "a": "0.77",
+                "b": "0.82",
+                "c": "0.86",
+                "d": "0.87"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "0.142857 ÷ 0.285714 is equal to (S.S.C., 2007)",
+              "options": {
+                "a": "1\n2",
+                "b": "1\n3",
+                "c": "2",
+                "d": "10"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "3.87 – 2.59 =?",
+              "options": {
+                "a": "1.20",
+                "b": "1.2",
+                "c": "1.27",
+                "d": "1.28"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "The simplification of 3.36 – 2.05 + 1.33 equals",
+              "options": {
+                "a": "2.60",
+                "b": "2.64",
+                "c": "2.61",
+                "d": "2.64"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "(0.09 × 7.3) is equal to:\t (S.S.C., 2003)",
+              "options": {
+                "a": ".6",
+                "b": ".657",
+                "c": ".67",
+                "d": ".657"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "(0.3467 + 0.1333) is equal to (Hotel Management, 2002)",
+              "options": {
+                "a": "0.48",
+                "b": "0.48",
+                "c": "0.4801",
+                "d": "0.48"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "(8.31 + 0.6 + 0.002) is equal to (S.S.C., 2005)",
+              "options": {
+                "a": "8.912",
+                "b": "8.912",
+                "c": "8.979",
+                "d": "8.979"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 19,
+              "question": "The sum of 2.75 and 3.78 is",
+              "options": {
+                "a": "1.03",
+                "b": "1.53",
+                "c": "4.53",
+                "d": "5.53\n80 QUANTITATIVE APTITUDE"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "If 547.527",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 21,
+              "question": "0082 = x, then the value of 547527\n82 is",
+              "options": {
+                "a": "10\nx",
+                "b": "10x",
+                "c": "100x",
+                "d": "None of these"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 22,
+              "question": "If 2994 ÷ 14.5 = 172, then 29.94 ÷ 1.45 =?",
+              "options": {
+                "a": "0.172",
+                "b": "1.72",
+                "c": "17.2",
+                "d": "172"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "If 213 × 16 = 3408, then 1.6 × 21.3 is equal to",
+              "options": {
+                "a": "0.3408",
+                "b": "3.408",
+                "c": "34.08",
+                "d": "340.8"
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

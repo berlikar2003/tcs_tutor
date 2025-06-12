@@ -1,0 +1,1216 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Simple Interest",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "What would be the simple interest obtained on an \namount of ` 5760 at the rate of 6 p.c.p.a. after 3 \nyears.? (Bank Recruitment, 2007)",
+              "options": {
+                "a": "` 1036.80",
+                "b": "` 1063.80",
+                "c": "` 1336.80",
+                "d": "` 1666.80",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "A farmer borrowed ` 3600 at 15% simple interest \nper annum. At the end of 4 years, he cleared this \naccount by paying ` 4000 and a cow. The cost of \nthe cow is (Civil Services, 2006)",
+              "options": {
+                "a": "` 1000",
+                "b": "` 1200",
+                "c": "` 1550",
+                "d": "` 1760"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 3,
+              "question": "Ram borrows ` 520 from Gaurav at a simple interest\nof 13% per annum. What amount of money should \nRam pay to Gaurav after 6 months to be absolved\nof the debt? (CLAT, 2010)",
+              "options": {
+                "a": "` 353.80",
+                "b": "` 453.80",
+                "c": "` 552.80",
+                "d": "` 553.80"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 4,
+              "question": "At the rate of 8 %\n2\n1 p.a. simple interest, a sum of \n` 4800 will earn how much interest in 2 years 3 \nmonths?",
+              "options": {
+                "a": "` 796",
+                "b": "` 816",
+                "c": "` 918",
+                "d": "` 956"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "What will be the simple interest earned on an amount \nof ` 16,800 in 9 months at the rate of 1 6 %\n4 p.a. ?",
+              "options": {
+                "a": "` 787.50",
+                "b": "` 812.50",
+                "c": "` 860",
+                "d": "` 887.50"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "The simple interest on ` 1820 from March 9, 2012 \nto May 21, 2012 at \n1 7 %\n2\n rate will be",
+              "options": {
+                "a": "` 22.50",
+                "b": "` 27.30",
+                "c": "` 28.80",
+                "d": "` 29"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "A shopkeeper with an overdraft facility at 18 percent\nwith a bank borrowed ` 15000 on Jan 8, 2011 and \nreturned the money on June 3, 2011 so as to clear \nthe debt. The amount that he paid was",
+              "options": {
+                "a": "` 16080",
+                "b": "` 16280",
+                "c": "` 16400",
+                "d": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "A person borrows ` 5000 for 2 years at 4% p.a. \nsimple interest. He immediately lends it to another \nperson at \n1 6 %\n4 p.a. for 2 years. Find his gain in \nthe transaction per year. (S.S.C., 2005)",
+              "options": {
+                "a": "` 112.50",
+                "b": "` 125",
+                "c": "` 150",
+                "d": "` 167.50"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "Ramakant invested amounts in two different\nschemes A and B for five years in the ratio of\n5 : 4 respectively. Scheme A offers 8% simple interest\nand bonus equal to 20% of the amount of interest \nearned in 5 years on maturity. Scheme B offers 9% \nsimple interest. If the amount invested in scheme\nA was ` 20000, what was the total amount received\non maturity from both the schemes?(Bank P.O., 2005)",
+              "options": {
+                "a": "` 50800",
+                "b": "` 51200",
+                "c": "` 52800",
+                "d": "` 58200",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "` 1000 is invested at 5% per annum simple interest.\nIf the interest is added to the principal after every\n10 years, the amount will become ` 2000 after\n(S.S.C., 2007)",
+              "options": {
+                "a": "15 years",
+                "b": "2 16 years 3",
+                "c": "18 years",
+                "d": "20 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "How much time will it take for an amount of\n` 450 to yield ` 81 as interest at 4.5% per annum \nof simple interest ? (IGNOU, 2003)",
+              "options": {
+                "a": "3.5 years",
+                "b": "4 years",
+                "c": "4.5 years",
+                "d": "5 years\n646 QUANTITATIVE APTITUDE"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "Asmita invests an amount of ` 9534 @ 4 p.c.p.a. to \nobtain a total amount of ` 11442 on simple interest \nafter a certain period. For how many years did she \ninvest the amount to obtain the total sum?\n(M.A.T., 2009)",
+              "options": {
+                "a": "2 years",
+                "b": "4 years",
+                "c": "5 years",
+                "d": "10 years"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "Deepak invested an amount of ` 21250 for 6 years. \nAt what rate of simple interest will be obtain the \ntotal amount of ` 26350 at the end of 6 years?\n(Bank Recruitment, 2008)",
+              "options": {
+                "a": "5 p.c.p.a",
+                "b": "6 p.c.p.a",
+                "c": "8 p.c.p.a",
+                "d": "12 p.c.p.a",
+                "e": "None these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 14,
+              "question": "A sum of ` 1600 gives a simple interest of ` 252 \nin 2 years and 4 months. The rate of interest per \nannum is",
+              "options": {
+                "a": "6%",
+                "b": "1 6 %\n4",
+                "c": "1 6 %\n2",
+                "d": "3 6 %\n4"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "At what rate of simple interest per annum can an \namount of ` 1553.40 be obtained on the principal \namount of ` 8630 after 3 years? (Bank Recruitment, 2007)",
+              "options": {
+                "a": "4 p.c.p.a",
+                "b": "5 p.c.p.a",
+                "c": "7 p.c.p.a",
+                "d": "8 p.c.p.a",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 16,
+              "question": "If simple interest on ` 600 for 4 years and on ` 600 \nfor 2 years combined together is ` 180, find the rate\nof interest. (R.R.B., 2009)",
+              "options": {
+                "a": "4%",
+                "b": "5%",
+                "c": "5.5%",
+                "d": "6.25%"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "Veena obtained an amount of ` 8376 as simple \ninterest on a certain amount at 8 p.c.p.a. after 6 \nyears. What is the amount invested by Veena?\n (S.B.I.P.O., 2008)",
+              "options": {
+                "a": "` 16660",
+                "b": "` 17180",
+                "c": "` 17450",
+                "d": "` 18110",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "At which sum the simple interest at the rate of \n3 %3\n4 per annum will be ` 210 in 2\n3\n1\n years?\n(R.R.B., 2006)",
+              "options": {
+                "a": "` 1580",
+                "b": "` 2400",
+                "c": "` 2800",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "What is the present worth of ` 132 due in 2 years \nat 5% simple interest per annum?",
+              "options": {
+                "a": "` 112",
+                "b": "` 118.80",
+                "c": "` 120",
+                "d": "` 122"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "A sum fetched a total simple interest of ` 4016.25 \nat the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+              "options": {
+                "a": "` 4462.50",
+                "b": "` 8032.50",
+                "c": "` 8900",
+                "d": "` 8925",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 21,
+              "question": "The simple interest at x% for x years will be ` x on \na sum of :",
+              "options": {
+                "a": "` x",
+                "b": "100\nx\n      `",
+                "c": "` 100x",
+                "d": "2\n100\nx\n      `"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "In 4 years, ` 6000 amounts to ` 8000. In what time \nat the same rate will ` 525 amount to ` 700?",
+              "options": {
+                "a": "2 years",
+                "b": "3 years",
+                "c": "4 years",
+                "d": "5 years"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "` 6200 amounts to ` 9176 in 4 years at simple \ninterest. If the interest rate is increased by 3% it \nwould amount to how much? (E.S.I.C., 2006)",
+              "options": {
+                "a": "` 8432",
+                "b": "` 9820",
+                "c": "` 9920",
+                "d": "` 10920"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 24,
+              "question": "Simple interest on ` 500 for 4 years at 6.25% per \nannum is equal to the simple interest on ` 400 at 5% \nper annum for a certain period of time. The period \nof time is (S.S.C., 2007)",
+              "options": {
+                "a": "4 years",
+                "b": "5 years",
+                "c": "1 6 years\n4",
+                "d": "2 8 years\n3"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 25,
+              "question": "A certain amount earns simple interest of ` 1750 \nafter 7 years. Had the interest been 2% more, how \nmuch more interest would it have earned ?",
+              "options": {
+                "a": "` 35",
+                "b": "` 245",
+                "c": "` 350",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 26,
+              "question": "` 6000 becomes ` 7200 in 4 years at a certain rate \nof simple interest. If the rate becomes 1.5 times of \nitself, the amount of the same principal in 5 years \nwill be (S.S.C., 2007)",
+              "options": {
+                "a": "` 8000",
+                "b": "` 8250",
+                "c": "` 9000",
+                "d": "` 9250"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "In how many years, ` 150 will produce the same \ninterest @ 8% as ` 800 produce in 3 years @ 1 4 %\n2\n ?",
+              "options": {
+                "a": "6",
+                "b": "8",
+                "c": "9",
+                "d": "12"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 28,
+              "question": "The simple interest accrued on a certain principal \nin 5 years at the rate of 12 p.c.p.a. is ` 1536. What \namount of simple interest would one get if one \ninvests ` 1000 more than the previous principal for\n2 years and at the same rate p.c.p.a.?\n(Bank Recruitment, 2010)\nSIMPLE INTEREST 647",
+              "options": {
+                "a": "` 614.40",
+                "b": "` 845.40",
+                "c": "` 1536",
+                "d": "` 2136",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 29,
+              "question": "If ` 64 amounts to ` 83.20 in 2 years, what will\n` 86 amount to in 4 years at the same rate percent \nper annum ?",
+              "options": {
+                "a": "` 114.80",
+                "b": "` 124.70",
+                "c": "` 127.40",
+                "d": "` 137.60"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 30,
+              "question": "The simple interest on a certain sum of money at \nthe rate of 5% p.a. for 8 years is ` 840. At what \nrate of interest the same amount of interest can be \nreceived on the same sum after 5 years ?",
+              "options": {
+                "a": "6%",
+                "b": "8%",
+                "c": "9%",
+                "d": "10%"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 31,
+              "question": "The interest on a certain deposit at 4.5% p.a. is\n` 202.50 in one year. How much will the additional \ninterest in one year be on the same deposit at 5% \np.a. ?",
+              "options": {
+                "a": "` 20.25",
+                "b": "` 22.50",
+                "c": "` 25",
+                "d": "` 42.75"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 32,
+              "question": "A sum invested at 5% simple interest per annum\ngrows to ` 504 in 4 years. The same amount at 10% \nsimple interest per annum in 1 2\n2 years will grow \nto :",
+              "options": {
+                "a": "` 420",
+                "b": "` 450",
+                "c": "` 525",
+                "d": "` 550"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 33,
+              "question": "If x, y, z are three sums of money such that y is the \nsimple interest on x, z is the simple interest on y\nfor the same time and at the same rate of interest, \nthen we have\t (G.B.O., 2007)",
+              "options": {
+                "a": "x2 = yz",
+                "b": "y2 = xz",
+                "c": "z2 = xy",
+                "d": "xyz = 1"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 34,
+              "question": "What will be the ratio of simple interest earned by \ncertain amount at the same rate of interest for 6 \nyears and that for 9 years ?",
+              "options": {
+                "a": "1 : 3",
+                "b": "1 : 4",
+                "c": "12 : 3",
+                "d": "Data inadequate",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 35,
+              "question": "Arun borrowed a sum of money from Jayant at the \nrate of 8% per annum simple interest for the first\nfour years, 10% per annum for the next 6 years and \n12% per annum for the period beyond 10 years. If \nhe pays a total of ` 12160 as interest only at the end \nof 15 years, how much money did be borrow?\n(N.MA.T., 2005)",
+              "options": {
+                "a": "` 8000",
+                "b": "` 9000",
+                "c": "` 10000",
+                "d": "` 12000"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 36,
+              "question": "Kruti took a loan at simple interest rate of 6 p.c.p.a. \nin the first year and it increased by 1.5 p.c.p.a. every\nyear. If she pays ` 8190 as interest at the end of 3 \nyears, what was her loan amount? (Bank P.O., 2010)",
+              "options": {
+                "a": "` 35400",
+                "b": "` 36000",
+                "c": "` 36800",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 37,
+              "question": "A person deposited ` 400 for 2 years, ` 550 for 4 \nyears and ` 1200 for 6 years. He received the total\nsimple interest of ` 1020. The rate of interest per \nannum is (S.S.C., 2007)",
+              "options": {
+                "a": "5%",
+                "b": "10%",
+                "c": "15%",
+                "d": "20%"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 38,
+              "question": "The simple interest on a sum of money will be\n` 600 after 10 years. If the principal is trebled after \n5 years, what will be the total interest at the end \nof the tenth year ?",
+              "options": {
+                "a": "` 600",
+                "b": "` 900",
+                "c": "` 1200",
+                "d": "` 1500",
+                "e": "Data inadequate"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 39,
+              "question": "The simple interest on ` 10 for 4 months at the rate \nof 3 paise per rupee per month is",
+              "options": {
+                "a": "` 1.20",
+                "b": "` 1.60",
+                "c": "` 2.40",
+                "d": "` 3.60"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 40,
+              "question": "An automobile financier claims to be lending money\nat simple interest, but he includes the interest every\nsix months for calculating the principal. If he is \ncharging an interest of 10%, the effective rate of\ninterest becomes",
+              "options": {
+                "a": "10%",
+                "b": "10.25%",
+                "c": "10.5%",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 41,
+              "question": "A sum of money at simple interest amounts to\n` 815 in 3 years and to ` 854 in 4 years. The sum is",
+              "options": {
+                "a": "` 650",
+                "b": "` 690",
+                "c": "` 698",
+                "d": "` 700"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 42,
+              "question": "A sum of money lent out at simple interest amounts \nto ` 720 after 2 years and to ` 1020 after a further \nperiod of 5 years. The sum is (S.S.C., 2004)",
+              "options": {
+                "a": "` 500",
+                "b": "` 600",
+                "c": "` 700",
+                "d": "` 710"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 43,
+              "question": "A sum of money amounts to ` 5200 in 5 years and \nto ` 5680 in 7 years at simple interest. The rate of \ninterest per annum is : (S.S.C., 2007)",
+              "options": {
+                "a": "3%",
+                "b": "4%",
+                "c": "5%",
+                "d": "6%"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 44,
+              "question": "A sum of money becomes ` 20925 in 2 years and \n` 24412.50 in 5 years. Find the rate of interest and \nthe sum of money. (R.R.B., 2006)",
+              "options": {
+                "a": "6.25%, ` 18600",
+                "b": "6.75%, ` 17775",
+                "c": "7%, ` 18000",
+                "d": "8%, ` 17560"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 45,
+              "question": "A certain sum of money at simple interest amounts \nto ` 1012 in \n1 2\n2 years and to ` 1067.20 in 4 years. \n\nThe rate of interest per annum is",
+              "options": {
+                "a": "2.5%",
+                "b": "3%",
+                "c": "4%",
+                "d": "5%"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "In how many years will a sum of money double \nitself at 18.75% per annum simple interest?\n(R.R.B., 2006)",
+              "options": {
+                "a": "4 years 5 months",
+                "b": "5 years 4 months",
+                "c": "6 years 2 months",
+                "d": "6 years 5 months"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "At what rate percent of simple interest will a sum \nof money double itself in 12 years ?",
+              "options": {
+                "a": "1 8 %\n4",
+                "b": "1 8 %\n3",
+                "c": "1 8 %\n2",
+                "d": "1 9 %\n2"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "The rate at which a sum becomes four times of itself \nin 15 years at S.I., will be",
+              "options": {
+                "a": "15%",
+                "b": "1 17 %\n2",
+                "c": "20%",
+                "d": "25%"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "A sum of money at a simple rate of interest i\n1, \ndoubles in 5 years. At another simple rate of interest \ni\n2, it becomes three times in 12 years. Then, the two \nrates of interest i\n1 and i\n2 respectively are",
+              "options": {
+                "a": "2 10%, 16 %3",
+                "b": "10%, 20%",
+                "c": "2 20%, 16 %3",
+                "d": "20%, 30%"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "A sum of money at simple interest doubles in\n7 years. It will become four times in: (R.R.B., 2006)",
+              "options": {
+                "a": "18 years",
+                "b": "21 years",
+                "c": "38 years",
+                "d": "42 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "A sum of money trebles itself in 15 years 6 months. \nIn how many years would it double itself ?",
+              "options": {
+                "a": "6 years 3 months",
+                "b": "7 years 9 months",
+                "c": "8 years 3 months",
+                "d": "9 years 6 months"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "If a sum doubles in 6 years, how much will it be \nin 8 years? (R.R.B., 2006)",
+              "options": {
+                "a": "1 1 times\n2",
+                "b": "1 1 times\n3",
+                "c": "1 1 times\n4",
+                "d": "3 1 times\n4"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "Consider the following statements \n If a sum of money is lent at simple interest, then \nthe",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 9,
+              "question": "money gets doubled in 5 years if the rate of \ninterest is 16 %2\n3",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 10,
+              "question": "money gets doubled in 5 years if the rate of \ninterest is 20%.",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 11,
+              "question": "money becomes four times in 10 years if it gets \ndoubled in 5 years.\n Of these statements,",
+              "options": {
+                "a": "1 and 3 are correct",
+                "b": "2 alone is correct",
+                "c": "3 alone is correct",
+                "d": "2 and 3 are correct"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 12,
+              "question": "The simple interest on a sum of money at 8% per \nannum for 6 years is half the sum. The sum is :",
+              "options": {
+                "a": "` 4800",
+                "b": "` 6000",
+                "c": "` 8000",
+                "d": "Data inadequate"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "At what rate percent per annum will the simple \ninterest on a sum of money be 2\n5\n of the amount in \n10 years ?",
+              "options": {
+                "a": "4%",
+                "b": "2 5 %\n3",
+                "c": "6%",
+                "d": "2 6 %\n3"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "In how much time would the simple interest on a \ncertain sum be 0.125 times the principal at 10% per \nannum ? (Assistant Grade, 1997)",
+              "options": {
+                "a": "1 1 years\n4",
+                "b": "3 1 years\n4",
+                "c": "1 2 years\n4",
+                "d": "3 2 years\n4"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "How long will it take a sum of money invested at\n5% p.a. S.I. to increase its value by 40%?",
+              "options": {
+                "a": "5 years",
+                "b": "6 years",
+                "c": "7 years",
+                "d": "8 years"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "A sum of money becomes 7\n6 of itself in 3 years at \na certain rate of simple interest. The rate per annum \nis",
+              "options": {
+                "a": "5 5 %\n9",
+                "b": "5 6 %\n9",
+                "c": "18%",
+                "d": "25%"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 17,
+              "question": "If the simple interest for 6 years be equal to 30% \nof the principal, it will be equal to the principal \nafter (Bank P.O., 2006)",
+              "options": {
+                "a": "10 years",
+                "b": "20 years",
+                "c": "22 years",
+                "d": "30 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "Simple interest on a certain sum at a certain annual \nrate of interest is 1\n9\n of the sum. If the numbers \nrepresenting rate percent and time in years be equal, \nthen the rate of interest is",
+              "options": {
+                "a": "1 3 %\n3",
+                "b": "5%",
+                "c": "2 6 %\n3",
+                "d": "10%\nSIMPLE INTEREST 649"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "Simple interest on a certain amount is 9\n16\n of the \nprincipal. If the numbers representing the rate of \ninterest in percent and time in years be equal, then \ntime, for which the principal is lent out, is",
+              "options": {
+                "a": "1 5 years\n2",
+                "b": "1 6 years\n2",
+                "c": "7 years",
+                "d": "1 7 years\n2"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "A lends ` 2500 to B and a certain sum to C at the \nsame time at 7% p.a. simple interest. If after 4 years, \nA altogether receives ` 1120 as interest from B and \nC, then the sum lent to C is :",
+              "options": {
+                "a": "` 700",
+                "b": "` 1500",
+                "c": "` 4000",
+                "d": "` 6500"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "Two equal sums of money were lent at simple \ninterest at 11% p.a. for 1 3\n2 years and 1 4\n2 years \nrespectively. If the difference in interests for two\nperiods was ` 412.50, then each sum is:",
+              "options": {
+                "a": "` 3250",
+                "b": "` 3500",
+                "c": "` 3750",
+                "d": "` 4250"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "If the simple interest on a certain sum for 15 months \nat 7 %1\n2 per annum exceeds the simple interest on \nthe same sum for 8 months at 12 %1\n2 per annum \nby ` 32.50, then the sum (in `) is :",
+              "options": {
+                "a": "` 3000",
+                "b": "` 3060",
+                "c": "` 3120",
+                "d": "` 3250"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "Sujata invested ` 7500 at simple interest @ 11 p.c.p.a. \nShe further invested some amount at simple interest\n@ 15 p.c.p.a. Total interest earned at the end of the \nyear became 12 p.c.p.a. Find the amount invested\nat the rate of 15 p.c.p.a.",
+              "options": {
+                "a": "` 2000",
+                "b": "` 2500",
+                "c": "` 3000",
+                "d": "` 3500"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 24,
+              "question": "A man invests a certain sum of money at 6% p.a.\nsimple interest and another sum at 7% p.a. simple \ninterest. His income from interest after 2 years was\n` 354. One-fourth of the first sum is equal to one￾fifth of the second sum. The total sum invested was :",
+              "options": {
+                "a": "` 2600",
+                "b": "` 2700",
+                "c": "` 2880",
+                "d": "` 2900"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "Rahul borrowed a sum of ` 1150 from Amit at the \nsimple interest rate of 6 p.c.p.a. for 3 years. He then \nadded some more money to the borrowed sum \nand lent it to Sachin for the same time at 9 p.c.p.a. \nsimple interest. If Rahul gains ` 274.95 by way of \ninterest on borrowed sum as well as his own amount \nfrom the whole transaction, then what is the sum \nlent by him to Sachin? (Bank P.O., 2008)",
+              "options": {
+                "a": "` 1200",
+                "b": "` 1285",
+                "c": "` 1690",
+                "d": "` 1785",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 26,
+              "question": "A person invested some amount at the rate of 12%\nsimple interest and a certain amount at the rate of \n10% simple interest. He received yearly interest of\n` 130. But if he had interchanged the amounts \ninvested, he would have received ` 4 more as \ninterest. How much did he invest at 12% simple\ninterest?\n(M.A.T., 2010)",
+              "options": {
+                "a": "` 400",
+                "b": "` 500",
+                "c": "` 700",
+                "d": "` 800"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "A person borrowed ` 500 @ 3% per annum S.I. and \n` 600 @ 4 %\n2\n1 per annum on the agreement that \nthe whole sum will be returned only when the total \ninterest becomes ` 126. The number of years, after \nwhich the borrowed sum is to be returned, is :",
+              "options": {
+                "a": "2 years",
+                "b": "3 years",
+                "c": "4 years",
+                "d": "5 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "Two equal sums of money are lent at the same \ntime at 8% and 7% per annum simple interest. The \nformer is recovered 6 months earlier than the latter\nand the amount in each case is ` 2560. The sum and \nthe time for which the sums of money are lent out \nare (M.A.T., 2005)",
+              "options": {
+                "a": "` 2000, 3.5 years × 4 years",
+                "b": "` 1500, 3.5 years × 4 years",
+                "c": "` 2000, 4 years × 5.5 years",
+                "d": "` 3000, 4 years × 4.5 years"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "A lent ` 5000 to B for 2 years and ` 3000 to C for 4 \nyears on simple interest at the same rate of interest \nand received ` 2200 in all from both of them as \ninterest. The rate of interest per annum is",
+              "options": {
+                "a": "5%",
+                "b": "7%",
+                "c": "1 7 %\n8",
+                "d": "10%"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 30,
+              "question": "A sum of ` 725 is lent in the beginning of a year at \na certain rate of interest. After 8 months, a sum of\n` 362.50 more is lent but at the rate twice the former. \nAt the end of the year, ` 33.50 is earned as interest \nfrom both the loans. What was the original rate of \ninterest ?",
+              "options": {
+                "a": "3.6%",
+                "b": "4.5%",
+                "c": "5%",
+                "d": "6%",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 31,
+              "question": "The difference between the simple interest received\nfrom two different sources on ` 1500 for 3 years is\n` 13.50. The difference between their rates of interest is",
+              "options": {
+                "a": "0.1%",
+                "b": "0.2%",
+                "c": "0.3%",
+                "d": "0.4%",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 32,
+              "question": "Peter invested an amount of ` 12,000 at the rate of \n10 p.c.p.a. simple interest and another amount at the \nrate of 20 p.c.p.a. simple interest. The total interest \nearned at the end of one year on the total amount \ninvested became 14 p.c.p.a. Find the total amount\ninvested.",
+              "options": {
+                "a": "` 20,000",
+                "b": "` 22,000",
+                "c": "` 24,000",
+                "d": "` 25,000",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 33,
+              "question": "A man invested ` 5000 at some rate of simple interest \nand ` 4000 at 1 percent higher rate of interest. If the \ninterest in both the cases after 4 years is same, the \nrate of interest in the former case is (A.T.M.A., 2004)",
+              "options": {
+                "a": "4% p.a.",
+                "b": "5% p.a.",
+                "c": "1 6 %\n4 p.a.",
+                "d": "1 8 %\n3 p.a."
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 34,
+              "question": "What should be the least number of years in which \nthe simple interest on ` 2600 at \n2 6 %\n3\n will be an \nexact number of rupees ?",
+              "options": {
+                "a": "2 years",
+                "b": "3 years",
+                "c": "4 years",
+                "d": "5 years"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 35,
+              "question": "The rates of simple interest in two banks A and B \nare in the ratio 5 : 4. A person wants to deposit his \ntotal savings in two banks in such a way that he\nreceived equal half-yearly interest from both. He\nshould deposit the savings in banks A and B in the\nratio:",
+              "options": {
+                "a": "2 : 5",
+                "b": "4 : 5",
+                "c": "5 : 2",
+                "d": "5 : 4"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 36,
+              "question": "A sum was put at simple interest at a certain rate \nfor 3 years. Had it been put at 1% higher rate, it \nwould have fetched ` 5100 more. The sum is\n(M.A.T., 2010)",
+              "options": {
+                "a": "` 1,20,000",
+                "b": "` 1,25,000",
+                "c": "` 1,50,000",
+                "d": "` 1,70,000"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 37,
+              "question": "If the annual rate of simple interest increases from \n10% to 12 %, 1\n2 a man’s yearly income increases by \n` 1250. His principal (in `) is (S.S.C., 2004)",
+              "options": {
+                "a": "` 45,000",
+                "b": "` 50,000",
+                "c": "` 60,000",
+                "d": "` 65,000"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 38,
+              "question": "A moneylender finds that due to a fall in the annual\nrate of interest from 8% to 7 %3\n4 , his yearly income \ndiminishes by ` 61.50. His capital is",
+              "options": {
+                "a": "` 22,400",
+                "b": "` 23,800",
+                "c": "` 24,600",
+                "d": "` 26,000"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 39,
+              "question": "What equal instalment of annual payment will \ndischarge a debt which is due as ` 848 at the end \nof 4 years at 4% per annum simple interest ?\n(C.P.O., 2007)",
+              "options": {
+                "a": "` 200",
+                "b": "` 212",
+                "c": "` 225",
+                "d": "` 250"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 40,
+              "question": "A sum of ` 10 is lent to be returned in 11 monthly \ninstalments of ` 1 each, interest being simple. The \nrate of interest is :",
+              "options": {
+                "a": "1 9 %\n11",
+                "b": "10%",
+                "c": "11%",
+                "d": "9 21 %\n11"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 41,
+              "question": "A person takes a loan of ` 200 at 5% simple interest. \nHe returns ` 100 at the end of 1 year. In order to \nclear his dues at the end of 2 years, he would pay :",
+              "options": {
+                "a": "` 105",
+                "b": "` 110",
+                "c": "` 115",
+                "d": "` 115.50"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 42,
+              "question": "The price of a T.V. set worth ` 20,000 is to be paid in \n20 instalments of ` 1000 each. If the rate of interest \nbe 6% per annum, and the first instalment be paid\nat the time of purchase, then the value of the last\ninstalment covering the interest as well will be :",
+              "options": {
+                "a": "` 1050",
+                "b": "` 2050",
+                "c": "` 3000",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 43,
+              "question": "A computer is available for ` 39000 cash or ` 17000 \nas cash down payment followed by five monthly\ninstalments of ` 4800 each. What is the rate of \ninterest under the instalment plan? (M.A.T., 2006)",
+              "options": {
+                "a": "35.71% p.a",
+                "b": "36.71% p.a.",
+                "c": "37.71% p.a.",
+                "d": "38.71% p.a."
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 44,
+              "question": "If the rate increases by 2%, the simple interest \nreceived on a sum of money increases by ` 108. If \nthe time period is increased by 2 years, the simple \ninterest on the same sum increases by ` 180. The \nsum is:",
+              "options": {
+                "a": "` 1800",
+                "b": "` 3600",
+                "c": "` 5400",
+                "d": "Data inadequate",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 45,
+              "question": "Vishwas borrowed a total amount of ` 30000, \npart of it on simple interest rate of 12 p.c.p.a. and \nremaining on simple interest rate of 10 p.c.p.a. If at \nthe end of 2 years he paid in all ` 36480 to settle \nthe loan amount, what was the amount borrowed \nat 12 p.c.p.a? (Bank P.O., 2008)",
+              "options": {
+                "a": "` 12000",
+                "b": "` 16000",
+                "c": "` 17500",
+                "d": "` 18000"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 46,
+              "question": "A\nB in\nman\nsuch\ndivided\na way\nhis\nthat\nshare\nthe interest\nbetween\nreceived\nhis sons\nby\nA\nA\nand\nat\nSIMPLE INTEREST 651\n15% p.a. for 3 years is double the interest received\nby B at 12% p.a. for 5 years. In what ratio was his \nshare divided? (M.A.T., 2010)",
+              "options": {
+                "a": "2\n3",
+                "b": "3\n2",
+                "c": "3\n8",
+                "d": "8\n3"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 47,
+              "question": "A sum of ` 18750 is left by a will by a father to be \ndivided between the two sons, 12 and 14 years of\nage, so that when they attain maturity at 18, the \namount (principal + interest) received by each at 5\nper cent simple interest will be the same. Find the \nsum allotted at present to each son. (N.M.A.T., 2005)",
+              "options": {
+                "a": "` 9500, ` 9250",
+                "b": "` 8000, ` 1750",
+                "c": "` 9000, ` 9750",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 48,
+              "question": "A certain sum of money is invested at an interest rate\nof 5% per annum and a second sum, twice as large \nas the first, is invested at 5.5% p.a. The total amount\nof interest earned from the two investments together\nis ` 1000 per year and the interest is withdrawn \nevery year. The second sum invested is\t\n(J.M.E.T., 2007)",
+              "options": {
+                "a": "` 6250",
+                "b": "` 10500",
+                "c": "` 12500",
+                "d": "` 15000"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "I had ` 10000 with me. Out of this money I lent some \nmoney to A for 2 years @ 15% simple interest. I lent \nthe remaining money to B for an equal number of \nyears @ 18% simple interest. After 2 years, I found \nthat A had given me ` 360 more as interest as \ncompared to B. The amount of money which I had \nlent to B must have been",
+              "options": {
+                "a": "` 2000",
+                "b": "` 3000",
+                "c": "` 4000",
+                "d": "` 5000"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "A sum of ` 2600 is lent out in two parts in such a \nway that the interest on one part at 10% for 5 years \nis equal to that on another at 9% for 6 years. The \nsum lent out at 10% is :",
+              "options": {
+                "a": "` 1150",
+                "b": "` 1250",
+                "c": "` 1350",
+                "d": "` 1450"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "A sum of ` 1550 was lent partly at 5% and partly \nat 8% p.a. simple interest. The total interest received\nafter 3 years was ` 300. The ratio of the money lent \nat 5% to that lent at 8% is : (R.R.B., 2008)",
+              "options": {
+                "a": "5 : 8",
+                "b": "8 : 5",
+                "c": "16 : 15",
+                "d": "31 : 6"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "A man lends ` 10,000 in four parts. If he gets 8% \non ` 2000; \n1 7 %\n2\n on ` 4000 and 1 8 %\n2\n on ` 1400; \nwhat percent must he get for the remainder, if his \naverage annual interest is 8.13% ?",
+              "options": {
+                "a": "7%",
+                "b": "9%",
+                "c": "1 9 %\n4",
+                "d": "1 10 %\n2"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "An amount of ` 1,00,000 is invested in two types\nof shares. The first yields an interest of 9% p.a. and\nthe second, 11% p.a. If the total interest at the end \nof one year is 3 9 %,\n4\nthen the amount invested in\neach share was (M.B.A., 2007)",
+              "options": {
+                "a": "` 52,500; ` 47,500",
+                "b": "` 62,500; ` 37,500",
+                "c": "` 72,500; ` 27,500",
+                "d": "` 82,500; ` 17,500"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "David invested certain amount in three different\nschemes A, B and C with the rate of interest 10% \np.a., 12% p.a. and 15% p.a. respectively. If the total\ninterest accrued in one year was ` 3200 and the \namount invested in Scheme C was 150% of the\namount invested in Scheme A and 240% of the\namount invested in Scheme B, what was the amount\ninvested in Scheme B ?",
+              "options": {
+                "a": "` 5000",
+                "b": "` 6500",
+                "c": "` 8000",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "A sum of ` 1440 is lent out in three parts in such a \nway that the interests on first part at 2% for 3 years,\nsecond part at 3% for 4 years and third part at 4% \nfor 5 years are equal. Then the difference between \nthe largest and the smallest sum is (N.M.A.T., 2005)",
+              "options": {
+                "a": "` 200",
+                "b": "` 400",
+                "c": "` 460",
+                "d": "` 560"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 8,
+              "question": "A person invests money in three different schemes\nfor 6 years, 10 years and 12 years at 10 percent, 12 \npercent and 15 percent simple interest respectively.\nAt the completion of each scheme, he gets the same \ninterest. The ratio of his investments is (S.S.C., 2006)",
+              "options": {
+                "a": "2 : 3 : 4",
+                "b": "4 : 3 : 2",
+                "c": "3 : 4 : 6",
+                "d": "6 : 3 : 2"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 9,
+              "question": "Divide ` 2379 into 3 parts so that their amounts \nafter 2, 3 and 4 years respectively may be equal,\nthe rate of interest being 5% per annum at simple \ninterest. The first part is",
+              "options": {
+                "a": "` 759",
+                "b": "` 792",
+                "c": "` 818",
+                "d": "` 828"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "A man invested 1\n3 of his capital at 7%; 1\n4\nat 8% \nand the remainder at 10%. If his annual income is \n` 561, the capital is\n (M.B.A., 2006; Hotel Management, 2010)",
+              "options": {
+                "a": "` 5400",
+                "b": "` 6000",
+                "c": "` 6600",
+                "d": "` 7200"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "Find the amount to be received after 2 years 6 \nmonths at the rate of 5% p.a. of simple interest on \na sum of ` 3200. [ESIC—UDC Exam, 2016]",
+              "options": {
+                "a": "` 3800",
+                "b": "` 3500",
+                "c": "` 3600",
+                "d": "` 3900"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "A man buys a TV priced at ` 16000. He pays ` 4000 \nat once and the rest after 15 months on which he \nis charged a simple interest at the rate of 12% per \nyear. The total amount he pays for the TV is\n[SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "` 18200",
+                "b": "` 17800",
+                "c": "` 17200",
+                "d": "` 16800"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "A sum becomes its double in 10 years. Find the \nannual rate of simple interest.\n[Indian Railway Gr. ‘D’ Exam, 2014]",
+              "options": {
+                "a": "8%",
+                "b": "5%",
+                "c": "10%",
+                "d": "20%"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "The interest earned on ` 4000 when invested in \nScheme A for two years at 7% p.a. simple interest \nis half of the interest earned when ` ‘X’ is invested \nfor five years in the same scheme at the same rate \nof interest. What is the value of X?",
+              "options": {
+                "a": "2000",
+                "b": "2800",
+                "c": "3000",
+                "d": "3200",
+                "e": "3600\n[IBPS Mktg Off."
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "The interest earned on ` 15000 in 3 years at simple \ninterest is ` 5400. Find the rate of interest per annum\n(IBPS—RRB Office Assistant (Online) Exam, 2015]",
+              "options": {
+                "a": "11.5%",
+                "b": "12%",
+                "c": "12.5%",
+                "d": "15%"
+              },
+              "answer": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

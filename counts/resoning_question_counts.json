@@ -1,0 +1,12 @@
+{
+  "Number and Letter Series": {
+    "basic": 40,
+    "advanced": 40,
+    "test": 15
+  },
+  "Syllogisms": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  }
+}

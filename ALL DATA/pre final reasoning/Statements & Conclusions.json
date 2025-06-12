@@ -1,0 +1,902 @@
+{
+  "Subject": "logical reasoning",
+  "Chapters": [
+    {
+      "Chapter Name": "Statements & Conclusions",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "**Statements:** All books are pens. All pens are papers.\n    **Conclusions:** I. All books are papers. II. Some papers are books.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 2,
+              "question": "**Statements:** Some cats are dogs. All dogs are animals.\n    **Conclusions:** I. Some cats are animals. II. All animals are dogs.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 3,
+              "question": "**Statements:** No car is a bike. All bikes are cycles.\n    **Conclusions:** I. No car is a cycle. II. Some cycles are bikes.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "**Statements:** All flowers are red. Some reds are beautiful.\n    **Conclusions:** I. Some flowers are beautiful. II. No flower is beautiful.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 5,
+              "question": "**Statements:** Some bags are heavy. All heavy are costly.\n    **Conclusions:** I. Some bags are costly. II. All costly are bags.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "**Statements:** No tree is a plant. Some plants are green.\n    **Conclusions:** I. Some green are plants. II. No green is a tree.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "**Statements:** All men are wise. All wise are kind.\n    **Conclusions:** I. All men are kind. II. Some kind are men.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 8,
+              "question": "**Statements:** Some chairs are tables. Some tables are desks.\n    **Conclusions:** I. Some chairs are desks. II. No chair is a desk.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 9,
+              "question": "**Statements:** All pens are pencils. No pencil is an eraser.\n    **Conclusions:** I. No pen is an eraser. II. Some pencils are pens.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "**Statements:** Some boys are intelligent. All intelligent are smart.\n    **Conclusions:** I. Some boys are smart. II. All intelligent are boys.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "**Statements:** No fruit is a vegetable. All vegetables are healthy.\n    **Conclusions:** I. No fruit is healthy. II. Some healthy are vegetables.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "**Statements:** All spoons are forks. Some forks are knives.\n    **Conclusions:** I. Some spoons are knives. II. No spoon is a knife.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 13,
+              "question": "**Statements:** Some metals are heavy. All heavy are costly.\n    **Conclusions:** I. Some metals are costly. II. All metals are heavy.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "**Statements:** All roads are paths. Some paths are ways.\n    **Conclusions:** I. Some roads are ways. II. No road is a way.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 15,
+              "question": "**Statements:** No door is a window. All windows are open.\n    **Conclusions:** I. Some open are windows. II. No door is open.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "**Statements:** Some pencils are pens. Some pens are erasers.\n    **Conclusions:** I. Some pencils are erasers. II. No pencil is an eraser.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 17,
+              "question": "**Statements:** All animals are living beings. Some living beings are human.\n    **Conclusions:** I. Some animals are human. II. No animal is human.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 18,
+              "question": "**Statements:** Some keys are locks. All locks are security.\n    **Conclusions:** I. Some keys are security. II. All security are locks.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 19,
+              "question": "**Statements:** All phones are mobiles. All mobiles are gadgets.\n    **Conclusions:** I. All phones are gadgets. II. Some gadgets are phones.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "**Statements:** No student is lazy. All lazy are dull.\n    **Conclusions:** I. No student is dull. II. Some dull are lazy.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "**Statements:** All shirts are clothes. All clothes are fabrics.\n    **Conclusions:** I. All shirts are fabrics. II. Some fabrics are shirts.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 22,
+              "question": "**Statements:** Some circles are squares. No square is a triangle.\n    **Conclusions:** I. Some circles are not triangles. II. No circle is a triangle.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 23,
+              "question": "**Statements:** Some apples are fruits. All fruits are sweet.\n    **Conclusions:** I. Some apples are sweet. II. All sweet are fruits.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 24,
+              "question": "**Statements:** No man is a monkey. Some monkeys are intelligent.\n    **Conclusions:** I. Some intelligent are monkeys. II. Some intelligent are not men.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 25,
+              "question": "**Statements:** All books are papers. No paper is a table.\n    **Conclusions:** I. No book is a table. II. Some papers are books.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 26,
+              "question": "**Statements:** Some cities are towns. Some towns are villages.\n    **Conclusions:** I. Some cities are villages. II. No city is a village.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 27,
+              "question": "**Statements:** All teachers are strict. Some strict are kind.\n    **Conclusions:** I. Some teachers are kind. II. No teacher is kind.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 28,
+              "question": "**Statements:** No student is a failure. All failures are learners.\n    **Conclusions:** I. No student is a learner. II. Some learners are failures.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "**Statements:** Some plants are trees. All trees are green.\n    **Conclusions:** I. Some plants are green. II. All green are plants.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "**Statements:** All stars are bright. Some bright are visible.\n    **Conclusions:** I. Some stars are visible. II. No star is visible.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "**Statements:** Some books are pages. All pages are words. No word is a letter.\n    **Conclusions:** I. Some books are words. II. No letter is a page. III. All words are pages.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "**Statements:** All plants are trees. All trees are leaves. Some leaves are green.\n    **Conclusions:** I. All plants are leaves. II. Some green are trees. III. Some leaves are plants.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "**Statements:** Some chairs are tables. Some tables are desks. All desks are furniture.\n    **Conclusions:** I. Some tables are furniture. II. Some chairs are furniture. III. Some furniture are desks.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "**Statements:** No dog is a cat. Some cats are animals. All animals are mammals.\n    **Conclusions:** I. Some mammals are cats. II. No dog is an animal. III. Some animals are not dogs.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "**Statements:** All cars are vehicles. Some vehicles are trucks. No truck is a bicycle.\n    **Conclusions:** I. Some vehicles are not bicycles. II. Some cars are trucks. III. No car is a bicycle.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only I follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "**Statements:** Some shirts are pants. All pants are trousers. Some trousers are jeans.\n    **Conclusions:** I. Some shirts are trousers. II. Some pants are jeans. III. Some shirts are jeans.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only II follows",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 7,
+              "question": "**Statements:** All pens are pencils. No pencil is an eraser. All erasers are sharp.\n    **Conclusions:** I. No pen is an eraser. II. No pen is sharp. III. Some sharp are not pencils.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "**Statements:** Some bags are heavy. All heavy are costly. No costly is cheap.\n    **Conclusions:** I. Some bags are costly. II. No heavy is cheap. III. Some bags are not cheap.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 9,
+              "question": "**Statements:** All flowers are red. Some reds are beautiful. All beautiful are attractive.\n    **Conclusions:** I. Some flowers are beautiful. II. Some attractive are flowers. III. Some attractive are red.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "**Statements:** Some rivers are water. All water is clean. No clean is dirty.\n    **Conclusions:** I. Some rivers are clean. II. No water is dirty. III. Some rivers are not dirty.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 11,
+              "question": "**Statements:** All chairs are wood. Some wood is strong. All strong is durable.\n    **Conclusions:** I. Some chairs are strong. II. Some wood is durable. III. Some durable are chairs.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only II follows",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "**Statements:** Some girls are students. All students are intelligent. No intelligent is lazy.\n    **Conclusions:** I. Some girls are intelligent. II. No student is lazy. III. Some girls are not lazy.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "**Statements:** All keys are locks. Some locks are doors. No door is a window.\n    **Conclusions:** I. Some keys are doors. II. No lock is a window. III. Some locks are not windows.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 14,
+              "question": "**Statements:** Some apples are fruits. All fruits are sweet. Some sweet are sour.\n    **Conclusions:** I. Some apples are sweet. II. Some fruits are sour. III. Some sour are apples.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only II follows",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 15,
+              "question": "**Statements:** No light is dark. Some dark is shadow. All shadows are long.\n    **Conclusions:** I. Some dark is long. II. No light is shadow. III. Some long are not light.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "**Statements:** All circles are round. Some rounds are big. No big is small.\n    **Conclusions:** I. Some circles are big. II. Some rounds are not small. III. No circle is small.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only II follows",
+                "c": "Only I and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "**Statements:** Some boys are students. All students are intelligent. Some intelligent are smart.\n    **Conclusions:** I. Some boys are intelligent. II. Some students are smart. III. Some intelligent are boys.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 18,
+              "question": "**Statements:** All animals are living beings. Some living beings are human. No human is a ghost.\n    **Conclusions:** I. Some animals are human. II. Some living beings are not ghosts. III. No animal is a ghost.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "**Statements:** Some metals are heavy. All heavy are precious. All precious are costly.\n    **Conclusions:** I. Some metals are precious. II. Some heavy are costly. III. All metals are costly.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "**Statements:** No tree is a plant. All plants are green. Some green are leaves.\n    **Conclusions:** I. No tree is green. II. Some leaves are plants. III. Some leaves are not trees.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 21,
+              "question": "**Statements:** All fruits are sweet. Some sweet are sour. All sour are tasty.\n    **Conclusions:** I. Some fruits are sour. II. Some sweet are tasty. III. All sweet are tasty.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only II follows",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "**Statements:** Some books are novels. All novels are stories. No story is a lie.\n    **Conclusions:** I. Some books are stories. II. No novel is a lie. III. Some books are not lies.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 23,
+              "question": "**Statements:** All roads are paths. Some paths are ways. All ways are streets.\n    **Conclusions:** I. Some roads are ways. II. Some paths are streets. III. All ways are paths.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only II and III follow",
+                "c": "Only II follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 24,
+              "question": "**Statements:** No pen is a pencil. Some pencils are erasers. All erasers are rubber.\n    **Conclusions:** I. Some rubbers are pencils. II. No pen is an eraser. III. Some rubbers are not pens.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 25,
+              "question": "**Statements:** All tables are chairs. No chair is a bed. Some beds are soft.\n    **Conclusions:** I. No table is a bed. II. Some chairs are soft. III. Some tables are soft.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only II follows",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "**Statements:** Some buildings are houses. All houses are homes. No home is a palace.\n    **Conclusions:** I. Some buildings are homes. II. No house is a palace. III. Some buildings are not palaces.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "**Statements:** All stars are suns. Some suns are planets. All planets are moons.\n    **Conclusions:** I. Some stars are planets. II. Some suns are moons. III. Some stars are moons.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 28,
+              "question": "**Statements:** No fruit is a vegetable. Some vegetables are sweet. All sweet are tasty.\n    **Conclusions:** I. Some tasty are vegetables. II. No fruit is sweet. III. Some tasty are not fruits.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "**Statements:** Some schools are colleges. All colleges are universities. No university is a building.\n    **Conclusions:** I. Some schools are universities. II. No college is a building. III. Some schools are not buildings.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 30,
+              "question": "**Statements:** All cars are red. Some reds are fast. No fast is slow.\n    **Conclusions:** I. Some cars are fast. II. Some reds are not slow. III. No car is slow.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "**Statements:** Some pencils are pens. All pens are erasers.\n    **Conclusions:** I. Some pencils are erasers. II. All erasers are pens.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "**Statements:** All students are boys. Some boys are clever.\n    **Conclusions:** I. Some students are clever. II. No student is clever.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows",
+                "e": "Either I or II follows"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 3,
+              "question": "**Statements:** No shirt is a pant. All pants are clothes.\n    **Conclusions:** I. No shirt is a cloth. II. Some clothes are pants.",
+              "options": {
+                "a": "Only conclusion I follows",
+                "b": "Only conclusion II follows",
+                "c": "Both I and II follow",
+                "d": "Neither I nor II follows"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "**Statements:** All metals are heavy. Some heavy are costly. All costly are precious.\n    **Conclusions:** I. Some metals are precious. II. Some heavy are precious. III. All costly are heavy.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only II follows",
+                "c": "Only I and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "**Statements:** Some books are notes. All notes are papers. No paper is a file.\n    **Conclusions:** I. Some books are papers. II. No note is a file. III. Some books are not files.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 6,
+              "question": "**Statements:** All animals are birds. No bird is a fish. All fish are water animals.\n    **Conclusions:** I. No animal is a fish. II. No bird is a water animal. III. Some water animals are not birds.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only I and II follow",
+                "c": "Only I and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 7,
+              "question": "**Statements:** Some roads are streets. All streets are paths. Some paths are ways.\n    **Conclusions:** I. Some roads are paths. II. Some streets are ways. III. All roads are paths.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only II follows",
+                "c": "Only I and II follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "**Statements:** No key is a lock. Some locks are doors. No door is a window.\n    **Conclusions:** I. Some keys are doors. II. No key is a window. III. Some locks are not windows.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only II follows",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "**Statements:** All trees are plants. All plants are green. Some greens are beautiful.\n    **Conclusions:** I. All trees are green. II. Some plants are beautiful. III. Some green are trees.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "**Statements:** Some buildings are houses. No house is a flat. All flats are apartments.\n    **Conclusions:** I. Some buildings are not flats. II. No house is an apartment. III. Some apartments are not houses.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only I and II follow",
+                "c": "Only I and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 11,
+              "question": "**Statements:** All mobiles are phones. Some phones are smart. No smart is basic.\n    **Conclusions:** I. Some mobiles are smart. II. No mobile is basic. III. Some phones are not basic.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only I and II follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "**Statements:** Some girls are boys. All boys are students. All students are intelligent.\n    **Conclusions:** I. Some girls are students. II. Some students are boys. III. Some girls are intelligent.",
+              "options": {
+                "a": "Only I and II follow",
+                "b": "Only I and III follow",
+                "c": "Only II and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 13,
+              "question": "**Statements:** No teacher is lazy. All lazy are dull. Some dull are smart.\n    **Conclusions:** I. Some smart are dull. II. No teacher is smart. III. Some teachers are dull.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only I and II follow",
+                "c": "Only I and III follow",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "**Statements:** All apples are fruits. Some fruits are healthy. No healthy is junk.\n    **Conclusions:** I. Some apples are healthy. II. No fruit is junk. III. Some fruits are not junk.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only II follows",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 15,
+              "question": "**Statements:** Some pens are pencils. Some pencils are erasers. All erasers are stationary.\n    **Conclusions:** I. Some pens are stationary. II. No pen is stationary. III. Some pencils are stationary.",
+              "options": {
+                "a": "Only I follows",
+                "b": "Only II follows",
+                "c": "Only III follows",
+                "d": "All follow",
+                "e": "Either I or II and III follow"
+              },
+              "answer": "e"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

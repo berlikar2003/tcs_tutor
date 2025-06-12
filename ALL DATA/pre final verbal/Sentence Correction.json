@@ -1,0 +1,850 @@
+{
+  "Subject": "Verbal",
+  "Chapters": [
+    {
+      "Chapter Name": "Sentence Correction",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The group of tourists \\_\\_\\_\\_\\_ arrived at the hotel.",
+              "options": {
+                "a": "has",
+                "b": "have",
+                "c": "are",
+                "d": "is"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "Neither John nor his brothers \\_\\_\\_\\_\\_ going to the party.",
+              "options": {
+                "a": "is",
+                "b": "are",
+                "c": "was",
+                "d": "has been"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "My friend and \\_\\_\\_\\_\\_ are planning a trip.",
+              "options": {
+                "a": "me",
+                "b": "I",
+                "c": "myself",
+                "d": "mine"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "\\_\\_\\_\\_\\_ book is this?",
+              "options": {
+                "a": "Who's",
+                "b": "Whose",
+                "c": "Whom's",
+                "d": "Which's"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "The weather is quite \\_\\_\\_\\_\\_ today.",
+              "options": {
+                "a": "warmly",
+                "b": "warm",
+                "c": "warmer",
+                "d": "warmest"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "He speaks English very \\_\\_\\_\\_\\_.",
+              "options": {
+                "a": "good",
+                "b": "well",
+                "c": "better",
+                "d": "best"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "They \\_\\_\\_\\_\\_ to the new restaurant last night.",
+              "options": {
+                "a": "goed",
+                "b": "went",
+                "c": "gone",
+                "d": "going"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "The number of students in the class \\_\\_\\_\\_\\_ increased.",
+              "options": {
+                "a": "have",
+                "b": "has",
+                "c": "are",
+                "d": "were"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "If she \\_\\_\\_\\_\\_ more careful, she wouldn't make mistakes.",
+              "options": {
+                "a": "was",
+                "b": "were",
+                "c": "is",
+                "d": "had been"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "Each of the girls \\_\\_\\_\\_\\_ a prize.",
+              "options": {
+                "a": "were given",
+                "b": "was given",
+                "c": "are given",
+                "d": "have given"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "I have \\_\\_\\_\\_\\_ homework than my sister.",
+              "options": {
+                "a": "less",
+                "b": "fewer",
+                "c": "little",
+                "d": "few"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "This is the \\_\\_\\_\\_\\_ movie I have ever seen.",
+              "options": {
+                "a": "most scariest",
+                "b": "scariest",
+                "c": "more scary",
+                "d": "scary"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "He doesn't \\_\\_\\_\\_\\_ to the gym regularly.",
+              "options": {
+                "a": "goes",
+                "b": "go",
+                "c": "going",
+                "d": "gone"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "They talked about you and \\_\\_\\_\\_\\_.",
+              "options": {
+                "a": "I",
+                "b": "me",
+                "c": "myself",
+                "d": "mine"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "Both of them \\_\\_\\_\\_\\_ happy with the results.",
+              "options": {
+                "a": "was",
+                "b": "were",
+                "c": "is",
+                "d": "has been"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "She is one of the \\_\\_\\_\\_\\_ players on the team.",
+              "options": {
+                "a": "goodest",
+                "b": "best",
+                "c": "better",
+                "d": "more good"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "The news \\_\\_\\_\\_\\_ surprising.",
+              "options": {
+                "a": "were",
+                "b": "was",
+                "c": "are",
+                "d": "be"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 18,
+              "question": "My younger brother is taller \\_\\_\\_\\_\\_ me.",
+              "options": {
+                "a": "then",
+                "b": "than",
+                "c": "to",
+                "d": "as"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "Everyone should bring \\_\\_\\_\\_\\_ own books.",
+              "options": {
+                "a": "their",
+                "b": "his",
+                "c": "her",
+                "d": "his or her"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "The flower smells \\_\\_\\_\\_\\_.",
+              "options": {
+                "a": "sweetly",
+                "b": "sweet",
+                "c": "more sweet",
+                "d": "most sweet"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "The amount of rain this year \\_\\_\\_\\_\\_ been less.",
+              "options": {
+                "a": "have",
+                "b": "has",
+                "c": "are",
+                "d": "were"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "I \\_\\_\\_\\_\\_ him at the library yesterday.",
+              "options": {
+                "a": "see",
+                "b": "saw",
+                "c": "seen",
+                "d": "seeing"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "She is interested \\_\\_\\_\\_\\_ learning new languages.",
+              "options": {
+                "a": "in",
+                "b": "at",
+                "c": "on",
+                "d": "for"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 24,
+              "question": "Give the report to \\_\\_\\_\\_\\_ finishes first.",
+              "options": {
+                "a": "whoever",
+                "b": "whomever",
+                "c": "who",
+                "d": "whom"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 25,
+              "question": "The car needs \\_\\_\\_\\_\\_.",
+              "options": {
+                "a": "washed",
+                "b": "washing",
+                "c": "to wash",
+                "d": "wash"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "He is quite \\_\\_\\_\\_\\_ in mathematics.",
+              "options": {
+                "a": "good",
+                "b": "well",
+                "c": "better",
+                "d": "best"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "They are planning \\_\\_\\_\\_\\_ abroad next year.",
+              "options": {
+                "a": "to travel",
+                "b": "travel",
+                "c": "traveling",
+                "d": "traveled"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "The teacher told the students to be \\_\\_\\_\\_\\_.",
+              "options": {
+                "a": "quietly",
+                "b": "quiet",
+                "c": "quieter",
+                "d": "quietest"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 29,
+              "question": "Neither of the movies \\_\\_\\_\\_\\_ interesting.",
+              "options": {
+                "a": "was",
+                "b": "were",
+                "c": "are",
+                "d": "have been"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "I prefer coffee \\_\\_\\_\\_\\_ tea.",
+              "options": {
+                "a": "than",
+                "b": "to",
+                "c": "over",
+                "d": "then"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The success of the company's new product line, \\_\\_\\_\\_\\_ its innovative marketing strategies, has led to significant profits.",
+              "options": {
+                "a": "which is a result of",
+                "b": "resulting from",
+                "c": "that results from",
+                "d": "being a result of"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "\\_\\_\\_\\_\\_ the extensive research, the scientists were unable to find a conclusive answer.",
+              "options": {
+                "a": "Despite of",
+                "b": "In spite the",
+                "c": "Despite",
+                "d": "Although"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 3,
+              "question": "The proposal, \\_\\_\\_\\_\\_ its detailed analysis and clear objectives, was well-received.",
+              "options": {
+                "a": "being that it had",
+                "b": "because of",
+                "c": "being",
+                "d": "that it included"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 4,
+              "question": "To ensure effective communication, one must pay attention to \\_\\_\\_\\_\\_ non-verbal cues.",
+              "options": {
+                "a": "their",
+                "b": "his or her",
+                "c": "one's",
+                "d": "its"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "The project aims at improving efficiency and \\_\\_\\_\\_\\_ overall productivity.",
+              "options": {
+                "a": "to enhance",
+                "b": "enhancing",
+                "c": "enhance",
+                "d": "for enhancing"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 6,
+              "question": "Neither the manager's approval nor the team members' objections \\_\\_\\_\\_\\_ considered.",
+              "options": {
+                "a": "was",
+                "b": "were",
+                "c": "has been",
+                "d": "are"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "The new regulations, \\_\\_\\_\\_\\_ many businesses have expressed concerns about, will take effect next month.",
+              "options": {
+                "a": "which",
+                "b": "for which",
+                "c": "that",
+                "d": "what"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "\\_\\_\\_\\_\\_ relying on outdated methods, the company decided to invest in new technologies.",
+              "options": {
+                "a": "Different from",
+                "b": "As opposed to",
+                "c": "Contrary to",
+                "d": "Unlike"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "The quality of the presentation depended on the speaker's clarity and \\_\\_\\_\\_\\_ thorough preparation.",
+              "options": {
+                "a": "his",
+                "b": "their",
+                "c": "its",
+                "d": "he's"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 10,
+              "question": "The report highlighted several key issues, \\_\\_\\_\\_\\_ the need for immediate action.",
+              "options": {
+                "a": "which included",
+                "b": "including",
+                "c": "that include",
+                "d": "to include"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "Due to \\_\\_\\_\\_\\_ the heavy traffic, we arrived late.",
+              "options": {
+                "a": "the fact that",
+                "b": "of",
+                "c": "to",
+                "d": "that"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "The author, \\_\\_\\_\\_\\_ book won several awards, is giving a lecture tonight.",
+              "options": {
+                "a": "who's",
+                "b": "whose",
+                "c": "which's",
+                "d": "which"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "The recent increase in unemployment rates \\_\\_\\_\\_\\_ a cause for concern.",
+              "options": {
+                "a": "are",
+                "b": "is",
+                "c": "have been",
+                "d": "be"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "She is not only a talented singer \\_\\_\\_\\_\\_ also an accomplished dancer.",
+              "options": {
+                "a": "but",
+                "b": "and",
+                "c": "as well as",
+                "d": "but also"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "The company intends to expand its market share by developing new products and \\_\\_\\_\\_\\_ into new regions.",
+              "options": {
+                "a": "to expand",
+                "b": "expanding",
+                "c": "expand",
+                "d": "for expanding"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "Having carefully reviewed the data, \\_\\_\\_\\_\\_ concluded that the hypothesis was incorrect.",
+              "options": {
+                "a": "it was",
+                "b": "the research team",
+                "c": "there was",
+                "d": "this led to"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 17,
+              "question": "The impact of technology on education, especially \\_\\_\\_\\_\\_ younger students, is significant.",
+              "options": {
+                "a": "among",
+                "b": "between",
+                "c": "in",
+                "d": "with"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "The committee discussed various options before \\_\\_\\_\\_\\_ on a final decision.",
+              "options": {
+                "a": "to settle",
+                "b": "settling",
+                "c": "settled",
+                "d": "settle"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "The speaker emphasized the importance of adaptability and \\_\\_\\_\\_\\_ open to new ideas.",
+              "options": {
+                "a": "to be",
+                "b": "being",
+                "c": "be",
+                "d": "for being"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "The new policy will affect not only large corporations \\_\\_\\_\\_\\_ also small businesses.",
+              "options": {
+                "a": "but",
+                "b": "and",
+                "c": "as well as",
+                "d": "but also"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 21,
+              "question": "The study established a clear link \\_\\_\\_\\_\\_ smoking and lung cancer.",
+              "options": {
+                "a": "between",
+                "b": "among",
+                "c": "with",
+                "d": "of"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "His argument was weakened by \\_\\_\\_\\_\\_ on personal anecdotes rather than factual evidence.",
+              "options": {
+                "a": "it's reliance",
+                "b": "its reliance",
+                "c": "it is relying",
+                "d": "its relying"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "The board members held \\_\\_\\_\\_\\_ views regarding the merger.",
+              "options": {
+                "a": "differing",
+                "b": "different",
+                "c": "differ",
+                "d": "difference"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 24,
+              "question": "The gallery displayed a collection of paintings, many of \\_\\_\\_\\_\\_ were by famous artists.",
+              "options": {
+                "a": "which",
+                "b": "that",
+                "c": "whom",
+                "d": "whose"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 25,
+              "question": "The advancement of artificial intelligence has brought about changes in how we communicate and \\_\\_\\_\\_\\_ we work.",
+              "options": {
+                "a": "the way",
+                "b": "how",
+                "c": "that",
+                "d": "which way"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "To improve customer service, the company updated its training programs and \\_\\_\\_\\_\\_ its staff thoroughly.",
+              "options": {
+                "a": "trained",
+                "b": "training",
+                "c": "to train",
+                "d": "had trained"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 27,
+              "question": "The scientist conducted several experiments with the aim \\_\\_\\_\\_\\_ proving her theory.",
+              "options": {
+                "a": "of",
+                "b": "to",
+                "c": "for",
+                "d": "in"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 28,
+              "question": "The film, \\_\\_\\_\\_\\_ has received critical acclaim, explores themes of love and loss.",
+              "options": {
+                "a": "that",
+                "b": "who",
+                "c": "which",
+                "d": "whose"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 29,
+              "question": "Despite the economic challenges, the organization maintained \\_\\_\\_\\_\\_ financial stability.",
+              "options": {
+                "a": "its",
+                "b": "their",
+                "c": "it's",
+                "d": "there"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 30,
+              "question": "The growing awareness of health and wellness \\_\\_\\_\\_\\_ influencing consumer choices.",
+              "options": {
+                "a": "are",
+                "b": "is",
+                "c": "have been",
+                "d": "were"
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "Each of the participants \\_\\_\\_\\_\\_ given clear instructions.",
+              "options": {
+                "a": "were",
+                "b": "was",
+                "c": "have been",
+                "d": "are being"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "The new technology, which promises to revolutionize the industry, \\_\\_\\_\\_\\_ being implemented gradually.",
+              "options": {
+                "a": "are",
+                "b": "is",
+                "c": "have been",
+                "d": "were"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "Neither the rain nor the snow \\_\\_\\_\\_\\_ stopped us from going.",
+              "options": {
+                "a": "was",
+                "b": "were",
+                "c": "has",
+                "d": "have"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 4,
+              "question": "The analysis of the market trends \\_\\_\\_\\_\\_ a significant shift in consumer behavior.",
+              "options": {
+                "a": "indicate",
+                "b": "indicates",
+                "c": "are indicating",
+                "d": "have indicated"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 5,
+              "question": "The decision rests with \\_\\_\\_\\_\\_ can provide the best solution.",
+              "options": {
+                "a": "whoever",
+                "b": "whomever",
+                "c": "who",
+                "d": "whom"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 6,
+              "question": "He performed \\_\\_\\_\\_\\_ than expected.",
+              "options": {
+                "a": "more better",
+                "b": "better",
+                "c": "gooder",
+                "d": "weller"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "While \\_\\_\\_\\_\\_ the old photographs, she felt a wave of nostalgia.",
+              "options": {
+                "a": "she looked at",
+                "b": "looking at",
+                "c": "to look at",
+                "d": "she was looking"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "The reason for the delay is \\_\\_\\_\\_\\_ the late arrival of the raw materials.",
+              "options": {
+                "a": "because",
+                "b": "that",
+                "c": "due to",
+                "d": "as"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "A number of factors \\_\\_\\_\\_\\_ contributed to the company's success.",
+              "options": {
+                "a": "has",
+                "b": "have",
+                "c": "is",
+                "d": "are"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 10,
+              "question": "If he \\_\\_\\_\\_\\_ known about the problem, he would have helped.",
+              "options": {
+                "a": "has",
+                "b": "had",
+                "c": "have",
+                "d": "would have"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "The jury \\_\\_\\_\\_\\_ divided in their verdict.",
+              "options": {
+                "a": "was",
+                "b": "were",
+                "c": "has been",
+                "d": "is"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 12,
+              "question": "The impact of social media on society \\_\\_\\_\\_\\_ been widely discussed.",
+              "options": {
+                "a": "are",
+                "b": "has",
+                "c": "have",
+                "d": "were"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "She is the \\_\\_\\_\\_\\_ of the two sisters.",
+              "options": {
+                "a": "taller",
+                "b": "tallest",
+                "c": "more tall",
+                "d": "most tall"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 14,
+              "question": "In spite of \\_\\_\\_\\_\\_ the difficulties, they achieved their goal.",
+              "options": {
+                "a": "",
+                "b": "of",
+                "c": "to",
+                "d": "with"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "The continuous development in artificial intelligence \\_\\_\\_\\_\\_ transforming various industries.",
+              "options": {
+                "a": "are",
+                "b": "is",
+                "c": "have been",
+                "d": "were"
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Antonyms": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  "Error Spotting": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  "  Fill in the Blanks": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  "Grammar": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  "  Para Jumbles": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  "Reading Comprehension": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  "Sentence Completion": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  "Sentence Correction": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  "Synonyms": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  " Vocabulary": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  },
+  " Word Usage": {
+    "basic": 30,
+    "advanced": 30,
+    "test": 15
+  }
+}

@@ -1,0 +1,1391 @@
+{
+  "Subject": "Quantitative Aptitude",
+  "Chapters": [
+    {
+      "Chapter Name": "Square Roots and Cube Rootsication",
+      "Sections": [
+        {
+          "Section Name": "Basic",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "53824 ? =",
+              "options": {
+                "a": "202",
+                "b": "232",
+                "c": "242",
+                "d": "332"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "The square root of 41209 is equal to (L.I.C.A.D.O., 2008)",
+              "options": {
+                "a": "103",
+                "b": "203",
+                "c": "303",
+                "d": "403"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "The square root of 123454321 is (P.C.S., 2008)",
+              "options": {
+                "a": "111111",
+                "b": "12341",
+                "c": "11111",
+                "d": "11211"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "The number of digits in the square root of \n625685746009 is (S.S.C., 2007)",
+              "options": {
+                "a": "4",
+                "b": "5",
+                "c": "6",
+                "d": "7"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 5,
+              "question": "17956 24025 ? + = (Bank P.O., 2008)",
+              "options": {
+                "a": "19",
+                "b": "155",
+                "c": "256",
+                "d": "289",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 6,
+              "question": "44944 52441 ? + = (Bank P.O., 2008)",
+              "options": {
+                "a": "17",
+                "b": "312",
+                "c": "441",
+                "d": "485",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 7,
+              "question": "One-fourth of the sum of prime numbers, greater \nthan 4 but less than 16, is the square of (P.C.S., 2009)",
+              "options": {
+                "a": "3",
+                "b": "4",
+                "c": "5",
+                "d": "7"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 8,
+              "question": "The value of 10 25 108 154 225 ++ + + is",
+              "options": {
+                "a": "4",
+                "b": "6",
+                "c": "8",
+                "d": "10"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 9,
+              "question": "Evaluate 41 21 19 9 . −+−",
+              "options": {
+                "a": "3",
+                "b": "5",
+                "c": "6",
+                "d": "6.4"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 10,
+              "question": "176 2401 + is equal to",
+              "options": {
+                "a": "14",
+                "b": "15",
+                "c": "18",
+                "d": "24"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "196 441 120 ?\n7 7 225\n××= (R.R.B., 2008)",
+              "options": {
+                "a": "48",
+                "b": "54",
+                "c": "58",
+                "d": "84"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "225 25 16 ?\n729 144 81\n  − ÷=      ",
+              "options": {
+                "a": "1\n48",
+                "b": "5\n48",
+                "c": "5\n16",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "(15)2 + (18)2 – 20 = ? (Bank P.O., 2006)",
+              "options": {
+                "a": "22",
+                "b": "23",
+                "c": "529",
+                "d": "279841",
+                "e": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "? 484 1034 × = (L.I.C.A.D.O., 2007)",
+              "options": {
+                "a": "2025",
+                "b": "2209",
+                "c": "2304",
+                "d": "2401",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "11881 ? 10137 × = (Bank Recruitment, 2008)",
+              "options": {
+                "a": "8281",
+                "b": "8649",
+                "c": "9216",
+                "d": "9409",
+                "e": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 16,
+              "question": "In the equation 4050 450,\nx = the value of x is \n (L.I.C.A.D.O., 2008)",
+              "options": {
+                "a": "9",
+                "b": "49",
+                "c": "81",
+                "d": "100"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 17,
+              "question": "16 ? 16 256\n25 25 25 625\n× ×= (R.R.B. 2008)",
+              "options": {
+                "a": "5",
+                "b": "8",
+                "c": "16",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 18,
+              "question": "The square root of (2722 – 1282) is",
+              "options": {
+                "a": "144",
+                "b": "200",
+                "c": "240",
+                "d": "256"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "If x * y = x y xy + + , the value of 6 * 24 is",
+              "options": {
+                "a": "41",
+                "b": "42",
+                "c": "43",
+                "d": "44"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 20,
+              "question": "If y = 5, then what is the value of 10 ? yy y 3 2 −",
+              "options": {
+                "a": "50 2",
+                "b": "100",
+                "c": "200 5",
+                "d": "500"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 21,
+              "question": "1 110 ?\n4 =",
+              "options": {
+                "a": "10.25",
+                "b": "10.5",
+                "c": "11.5",
+                "d": "19.5\nEXERCISE"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 22,
+              "question": "25 1 ?\n81 9 − = (Hotel Management, 2002)",
+              "options": {
+                "a": "2\n3",
+                "b": "4\n9",
+                "c": "16\n81",
+                "d": "25\n81"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "    ( 81) (?) 2 2 2\n= (Specialist Officers, 2006)",
+              "options": {
+                "a": "8",
+                "b": "9",
+                "c": "4096",
+                "d": "6561",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 24,
+              "question": "The digit in the unit’s place in the square root of \n15876 is",
+              "options": {
+                "a": "2",
+                "b": "4",
+                "c": "6",
+                "d": "8"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 25,
+              "question": "Which of the following is closest to 3 ? \n (S.S.C., 2005)",
+              "options": {
+                "a": "1.69",
+                "b": "173\n100",
+                "c": "1.75",
+                "d": "9\n5"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 26,
+              "question": "How many two-digit numbers satisfy this property: The \nlast digit (unit’s digit) of the square of the two-digit \nnumber is 8?",
+              "options": {
+                "a": "1",
+                "b": "2",
+                "c": "3",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 27,
+              "question": "What percentage of the numbers from 1 to 50 have \nsquares that end in the digit 1? (M.B.A., 2006)",
+              "options": {
+                "a": "1",
+                "b": "5",
+                "c": "10",
+                "d": "11",
+                "e": "20"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 28,
+              "question": "While solving a mathematical problem, Samidha \nsquared a number and then subtracted 25 from it \nrather than the required i.e., first subtracting 25 from \nthe number and then squaring it. But she got the \nright answer. What was the given number?\n (Bank P.O., 2006)",
+              "options": {
+                "a": "13",
+                "b": "38",
+                "c": "48",
+                "d": "Cannot be determined",
+                "e": "None of these"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "How many perfect squares lie between 120 and \n300? (S.S.C., 2010)",
+              "options": {
+                "a": "5",
+                "b": "6",
+                "c": "7",
+                "d": "8"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "The number of perfect square numbers between 50 \nand 1000 is",
+              "options": {
+                "a": "21",
+                "b": "22",
+                "c": "23",
+                "d": "24"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 31,
+              "question": "A man born in the first half of the nineteenth century \nwas x years old in the year x2. He was born in \n (M.B.A., 2011)",
+              "options": {
+                "a": "1806",
+                "b": "1812",
+                "c": "1825",
+                "d": "1836"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 32,
+              "question": "R is a positive number. It is multiplied by 8 and \nthen squared. The square is now divided by 4 and \nthe square root is taken. The result of the square \nroot is Q. What is the value of Q? (SNAP, 2010)",
+              "options": {
+                "a": "3R",
+                "b": "4R",
+                "c": "7R",
+                "d": "9R"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 33,
+              "question": "The smallest natural number which is a perfect \nsquare and which ends in 3 identical digits lies \nbetween",
+              "options": {
+                "a": "1000 and 2000",
+                "b": "2000 and 3000",
+                "c": "3000 and 4000",
+                "d": "4000 and 5000"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 34,
+              "question": "2\n2 1\n2\n  +     is equal to (S.S.C., 2005)",
+              "options": {
+                "a": "1 2\n2",
+                "b": "1 3\n2",
+                "c": "1 4\n2",
+                "d": "1 5\n2"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 35,
+              "question": "If the product of four consecutive natural numbers \nincreased by a natural number p, is a perfect square, \nthen the value of p is (C.P.O., 2006)",
+              "options": {
+                "a": "1",
+                "b": "2",
+                "c": "4",
+                "d": "8"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 36,
+              "question": "What is the square root of 0.16?",
+              "options": {
+                "a": "0.004",
+                "b": "0.04",
+                "c": "0.4",
+                "d": "4"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 37,
+              "question": "The value of 0.000441 is (S.S.C., 2002)",
+              "options": {
+                "a": "0.00021",
+                "b": "0.0021",
+                "c": "0.021",
+                "d": "0.21"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 38,
+              "question": "0.00004761 equals (C.B.I., 2003)",
+              "options": {
+                "a": "0.00069",
+                "b": "0.0069",
+                "c": "0.0609",
+                "d": "0.069"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 39,
+              "question": "1.5 0.0225 ? 2 × = (Bank P.O., 2002)",
+              "options": {
+                "a": "0.0375",
+                "b": "0.3375",
+                "c": "3.275",
+                "d": "32.75"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 40,
+              "question": "0.01 0.0064 ? + =",
+              "options": {
+                "a": "0.03",
+                "b": "0.3",
+                "c": "0.42",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 41,
+              "question": "The value of 0.01 0.81 1.21 0.0009 is +++ \n (S.S.C., 2002)",
+              "options": {
+                "a": "2.03",
+                "b": "2.1",
+                "c": "2.11",
+                "d": "2.13\nSQUARE ROOTS AND CUBE ROOTS 187"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 42,
+              "question": ".0025 2.25 .0001 ? ×× =",
+              "options": {
+                "a": ".000075",
+                "b": ".0075",
+                "c": ".075",
+                "d": "None of these"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 43,
+              "question": "1.5625 ? = (S.B.I.P.O., 2003)",
+              "options": {
+                "a": "1.05",
+                "b": "1.25",
+                "c": "1.45",
+                "d": "1.55"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 44,
+              "question": "If .00000676 .0026, = the square root of 67,60,000 \nis:",
+              "options": {
+                "a": "1\n26",
+                "b": "26",
+                "c": "260",
+                "d": "2600"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 45,
+              "question": "If 18225 135, = then the value of\n ( 182.25 1.8225 0.018225 0.00018225) is ++ +",
+              "options": {
+                "a": "1.49985",
+                "b": "14.9985",
+                "c": "149.985",
+                "d": "1499.85"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 46,
+              "question": "If 4096 64, = t h e n t h e v a l u e o f",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 47,
+              "question": "96 0.4096 0.004096 0.00004096 ++ + up to \ntwo places of decimals is (S.S.C., 2005)",
+              "options": {
+                "a": "7.09",
+                "b": "7.10",
+                "c": "7.11",
+                "d": "7.12"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 48,
+              "question": "Given that 13 3.605 and 130 = =11.40, find the \nvalue of 1.3 1300 + + 0.013.",
+              "options": {
+                "a": "36.164",
+                "b": "36.304",
+                "c": "37.164",
+                "d": "37.304"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 49,
+              "question": "If 52 169 , 289 x = the value of x is",
+              "options": {
+                "a": "52",
+                "b": "58",
+                "c": "62",
+                "d": "68"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 50,
+              "question": "For what value of * the statement * *\n15 135\n         = 1 \nis true? (S.S.C., 2002)",
+              "options": {
+                "a": "15",
+                "b": "25",
+                "c": "35",
+                "d": "45"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 51,
+              "question": "Which number should replace both the question \nmarks in the following equation? (Bank P.O., 2008)\n ? 111\n1776 ? =",
+              "options": {
+                "a": "343",
+                "b": "414",
+                "c": "644",
+                "d": "543",
+                "e": "None of these"
+              },
+              "answer": "e"
+            }
+          ]
+        },
+        {
+          "Section Name": "Advanced",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The square root of 535.9225 is (R.R.B., 2006)",
+              "options": {
+                "a": "23.15",
+                "b": "23.45",
+                "c": "24.15",
+                "d": "28.25"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 2,
+              "question": "If 5 = 2.236, then the value of 1\n5\n is",
+              "options": {
+                "a": ".367",
+                "b": ".447",
+                "c": ".745",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 3,
+              "question": "If 24 = 4.899, the value of 8\n3\n is",
+              "options": {
+                "a": "0.544",
+                "b": "1.333",
+                "c": "1.633",
+                "d": "2.666"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 4,
+              "question": "If 6 = 2.449, then the value of 3 2\n2 3\n is",
+              "options": {
+                "a": "0.6122",
+                "b": "0.8163",
+                "c": "1.223",
+                "d": "1.2245"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 5,
+              "question": "If 5 = 2.236, then the value of 5 10 125\n2 5\n− +\nis equal to",
+              "options": {
+                "a": "5.59",
+                "b": "7.826",
+                "c": "8.944",
+                "d": "10.062\n190 QUANTITATIVE APTITUDE"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 6,
+              "question": "If 2 * 3 = 13 and 3 * 4 = 5, then the value of\n5 * 12 is",
+              "options": {
+                "a": "17",
+                "b": "29",
+                "c": "12",
+                "d": "13"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 7,
+              "question": "If 1537* is a perfect square, then the digit which \nreplaces * is (Hotel Management, 2007)",
+              "options": {
+                "a": "2",
+                "b": "4",
+                "c": "5",
+                "d": "6"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 8,
+              "question": "The smallest perfect square that is divisible by 7! \nis (I.I.F.T., 2010)",
+              "options": {
+                "a": "19600",
+                "b": "44100",
+                "c": "176400",
+                "d": "705600"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 9,
+              "question": "The least perfect square number divisible by 3, 4, \n5, 6 and 8 is",
+              "options": {
+                "a": "900",
+                "b": "1200",
+                "c": "2500",
+                "d": "3600"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "The least perfect square, which is divisible by each \nof 21, 36 and 66, is",
+              "options": {
+                "a": "213444",
+                "b": "214344",
+                "c": "214434",
+                "d": "231444"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 11,
+              "question": "The least number by which 294 must be multiplied \nto make it a perfect square, is",
+              "options": {
+                "a": "2",
+                "b": "3",
+                "c": "6",
+                "d": "24"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 12,
+              "question": "Find the smallest number by which 5808 should be \nmultiplied so that the product becomes a perfect \nsquare.",
+              "options": {
+                "a": "2",
+                "b": "3",
+                "c": "7",
+                "d": "11"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 13,
+              "question": "The least number by which 1470 must be divided \nto get a number which is a perfect square, is",
+              "options": {
+                "a": "5",
+                "b": "6",
+                "c": "15",
+                "d": "30"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 14,
+              "question": "What is the smallest number to be subtracted from \n549162 in order to make it a perfect square?",
+              "options": {
+                "a": "28",
+                "b": "36",
+                "c": "62",
+                "d": "81"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 15,
+              "question": "What is the least number which should be subtracted \nfrom 0.000326 to make it a perfect square?",
+              "options": {
+                "a": "0.000002",
+                "b": "0.000004",
+                "c": "0.02",
+                "d": "0.04"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 16,
+              "question": "What is the least number to be added to 7700 to \nmake it a perfect square?",
+              "options": {
+                "a": "77",
+                "b": "98",
+                "c": "131",
+                "d": "221",
+                "e": "None of these"
+              },
+              "answer": "e"
+            },
+            {
+              "question_no": 17,
+              "question": "The smallest number to be added to 680621 to make \nthe sum a perfect square is (S.S.C., 2005)",
+              "options": {
+                "a": "4",
+                "b": "5",
+                "c": "6",
+                "d": "8"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 18,
+              "question": "The greatest four-digit perfect square number is",
+              "options": {
+                "a": "9000",
+                "b": "9801",
+                "c": "9900",
+                "d": "9981"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 19,
+              "question": "The least number of 4 digits which is a perfect \nsquare is",
+              "options": {
+                "a": "1000",
+                "b": "1016",
+                "c": "1024",
+                "d": "1036"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 20,
+              "question": "The sum of 18 consecutive natural numbers is a \nperfect square. What is the smallest possible value \nof this sum? (A.A.O. Exam, 2009)",
+              "options": {
+                "a": "169",
+                "b": "225",
+                "c": "289",
+                "d": "441"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 21,
+              "question": "2 3· 2 2 3· 2 2 2 3 + ++ +++\n · 2– 2 2 3 + + is equal to",
+              "options": {
+                "a": "1",
+                "b": "2",
+                "c": "4",
+                "d": "6"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 22,
+              "question": "Given 1 5 2.2361, 3 1.7321, then\n5 3 = = − is \nequal to",
+              "options": {
+                "a": "1.98",
+                "b": "1.984",
+                "c": "1.9841",
+                "d": "2"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 23,
+              "question": "−+− −−−−\n1111\n( 9 8) ( 8 7) ( 7 6) ( 6 5)\n + −\n1\n( 5 4) is equal to (M.B.A., 2007)",
+              "options": {
+                "a": "0",
+                "b": "1\n3",
+                "c": "1",
+                "d": "5"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 24,
+              "question": "Determine the value of\n 111 1 . 1 2 2 3 3 4 120 121\n+ + ++\n+++ +  \n (M.A.T., 2005)",
+              "options": {
+                "a": "8",
+                "b": "10",
+                "c": "120",
+                "d": "12 2"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 25,
+              "question": "The expression 1 1 1 –\n1 3 1– 3\n+\n+ equals\n (M.B.A., 2011)",
+              "options": {
+                "a": "1– 3",
+                "b": "1",
+                "c": "– 3",
+                "d": "3"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 26,
+              "question": "1 1 2 2\n2 2 22\n  ++ +     + −  \n simplifies to \n (M.B.A., 2007)",
+              "options": {
+                "a": "2 2 −",
+                "b": "2",
+                "c": "2 2 +",
+                "d": "2 2\nSQUARE ROOTS AND CUBE ROOTS 191"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 27,
+              "question": "What is the value of 1 23 – ?\n5 33 53 3\n+\n+++ \n (I.I.F.T., 2005)",
+              "options": {
+                "a": "1 – 2",
+                "b": "0",
+                "c": "1\n2",
+                "d": "1"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 28,
+              "question": "If 2 = 1.4142, the value of 7\n(3 2) +\n is (R.R.B., 2005)",
+              "options": {
+                "a": "1.5858",
+                "b": "3.4852",
+                "c": "3.5858",
+                "d": "4.4142"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 29,
+              "question": "32 43 6 ?\n6 3 6 2 8 12\n \n  −− =     −−− \n (Teachers’ Exam, 2010)",
+              "options": {
+                "a": "3 2 −",
+                "b": "3 2 +",
+                "c": "5 3",
+                "d": "1"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 30,
+              "question": "7 5\n7 5\n+\n− is equal to",
+              "options": {
+                "a": "1",
+                "b": "2",
+                "c": "6 35 −",
+                "d": "6 35 +"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 31,
+              "question": "If \n5 23 3,\n7 43\na b +\n= +\n+\n then (R.R.B., 2010)",
+              "options": {
+                "a": "a = – 11, b = – 6",
+                "b": "a = – 11, b = 6",
+                "c": "a = 11, b = – 6",
+                "d": "a = 6, b = 11"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 32,
+              "question": "If 2 = 1.414, the square root of \n2 1\n2 1\n−\n+\n is nearest \nto",
+              "options": {
+                "a": "0.172",
+                "b": "0.414",
+                "c": "0.586",
+                "d": "1.414"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 33,
+              "question": "Given that 3 = 1 . 7 3 2 , t h e v a l u e o f \n3 6\n5 3 2 12 32 50\n+\n− −+\n is (S.S.C., 2007)",
+              "options": {
+                "a": "1.414",
+                "b": "1.732",
+                "c": "2.551",
+                "d": "4.899"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 34,
+              "question": "2 3 2 3 31\n2 3 2 3 31\n  +− −\n+ +     −+ +  \nsimplifies to (S.S.C., 2008)",
+              "options": {
+                "a": "16 3 −",
+                "b": "4 3 −",
+                "c": "2 3 −",
+                "d": "2 3 +"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 35,
+              "question": "If x = 5 3 5– 3 and = ,\n5– 3 5 3 y\n+\n+\n then (x + y) \nequals (S.S.C., 2005)",
+              "options": {
+                "a": "2",
+                "b": "2 15",
+                "c": "8",
+                "d": "16"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 36,
+              "question": "2 (2 3) 2 (2 – 3)\n3 ( 3 1) 3 ( 3 – 1)\n+\n×\n+ is equal to (C.P.O., 2006)",
+              "options": {
+                "a": "3 2",
+                "b": "2\n3",
+                "c": "2\n3",
+                "d": "1\n3"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 37,
+              "question": "12\n3 5 22 + + is equal to (S.S.C., 2007)",
+              "options": {
+                "a": "1 – 5 2 10 + +",
+                "b": "1 5 2 – 10 + +",
+                "c": "1 5 – 2 10 + +",
+                "d": "1 – 5 – 2 10 +"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 38,
+              "question": "1 1\n2 3– 5 2– 3– 5\n  +     + in simplified form \nequals (S.S.C., 2005)",
+              "options": {
+                "a": "0",
+                "b": "1\n2",
+                "c": "1",
+                "d": "2"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 39,
+              "question": "If x = (7 – 4 3), then the value of 1\nx\nx\n  +     is",
+              "options": {
+                "a": "3 3",
+                "b": "8 3",
+                "c": "14",
+                "d": "14 8 3 +"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 40,
+              "question": "If x = 2\n2 3 8, then x\n1\nx\n+ + is equal to (S.S.C., 2007)",
+              "options": {
+                "a": "30",
+                "b": "34",
+                "c": "36",
+                "d": "38"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 41,
+              "question": "If a = 3 2 3– 2 , , 3– 2 3 2\nb + = +\n then the value of\na2+ b2would be (M.B.A., 2008)",
+              "options": {
+                "a": "10",
+                "b": "98",
+                "c": "99",
+                "d": "100"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 42,
+              "question": "If a = + − = − +\n51 51 and , the value\n51 51\nb\n   + +\n    − +\n2 2\nof 2 2\na ab b\na ab b\n is",
+              "options": {
+                "a": "3\n4",
+                "b": "4\n3",
+                "c": "3\n5",
+                "d": "5\n3\n192 QUANTITATIVE APTITUDE"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 43,
+              "question": "If x = 111 + + +∞  then the positive value of \nx is (M.B.A., 2006)",
+              "options": {
+                "a": "7 1\n2\n+",
+                "b": "6 1\n2\n+",
+                "c": "5 1\n2\n+",
+                "d": "3 1\n2\n+"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 44,
+              "question": "222 +++  is equal to (S.S.C., 2005)",
+              "options": {
+                "a": "1",
+                "b": "1.5",
+                "c": "2",
+                "d": "2.5"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 45,
+              "question": "If a = 333 , +++  then which of the\nfollowing is true? (M.B.A., 2007)",
+              "options": {
+                "a": "2 < a < 3",
+                "b": "a > 3",
+                "c": "3 < a < 4",
+                "d": "a = 3"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 46,
+              "question": "3 3–",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 47,
+              "question": "3 – 3–\nx x\nx x\n+ + = +\n Then x is equal to (S.S.C., 2010)",
+              "options": {
+                "a": "5\n7",
+                "b": "7\n5",
+                "c": "5\n12",
+                "d": "12\n5"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 48,
+              "question": "One-fourth of a herd of camels was seen in the \nforest. Twice the square root of the herd had gone \nto mountains and the remaining 15 camels were \nseen on the bank of a river. Find the total number \nof camels. (M.A.T., 2005)",
+              "options": {
+                "a": "32",
+                "b": "34",
+                "c": "35",
+                "d": "36"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 49,
+              "question": "A gardener plants 17956 trees in such a way that \nthere are as many rows as there are trees in a row. \nThe number of trees in a row are (M.B.A., 2006)",
+              "options": {
+                "a": "134",
+                "b": "136",
+                "c": "144",
+                "d": "154"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 50,
+              "question": "The number of trees in each row of a garden is equal \nto the total number of rows in the garden. After 111 \ntrees have been uprooted in a storm, there remain \n10914 trees in the garden. The number of rows of \ntrees in the garden is (C.P.O., 2007)",
+              "options": {
+                "a": "100",
+                "b": "105",
+                "c": "115",
+                "d": "125"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 51,
+              "question": "1250 oranges were distributed among a group of \ngirls of a class. Each girl got twice as many oranges \nas the number of girls in that group. The number \nof girls in the group was (P.C.S., 2006)",
+              "options": {
+                "a": "25",
+                "b": "45",
+                "c": "50",
+                "d": "100"
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "Section Name": "Test",
+          "Questions": [
+            {
+              "question_no": 1,
+              "question": "The smallest positive integer n, for which 864n is a \nperfect cube, is (C.P.O., 2007)",
+              "options": {
+                "a": "1",
+                "b": "2",
+                "c": "3",
+                "d": "4"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 2,
+              "question": "Value of .01 .008 – .02 × 3 is (P.C.S., 2006)",
+              "options": {
+                "a": "0",
+                "b": "1",
+                "c": "2",
+                "d": "3\nSQUARE ROOTS AND CUBE ROOTS 193"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 3,
+              "question": "The value of 3",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 4,
+              "question": "2 0.2 0.2 0.04 0.04 0.04",
+              "options": {},
+              "answer": null
+            },
+            {
+              "question_no": 5,
+              "question": "4 0.4 0.4 0.08 0.08 0.08\n××+ × ×\n××+ × ×\n is \n (S.S.C., 2005)",
+              "options": {
+                "a": "0.125",
+                "b": "0.25",
+                "c": "0.5",
+                "d": "0.75"
+              },
+              "answer": null
+            },
+            {
+              "question_no": 6,
+              "question": "A rationalising factor of ( 9 – 3 1) 3 3 + is (S.S.C., 2007)",
+              "options": {
+                "a": "3 3–1",
+                "b": "3 3 1 +",
+                "c": "3 9–1",
+                "d": "3 9 1 +"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 7,
+              "question": "The largest four-digit number which is a perfect \ncube, is",
+              "options": {
+                "a": "8000",
+                "b": "9261",
+                "c": "9999",
+                "d": "None of these"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 8,
+              "question": "By what least number must 21600 be multiplied so \nas to make it a perfect cube? (M.A.T., 2002)",
+              "options": {
+                "a": "6",
+                "b": "10",
+                "c": "20",
+                "d": "30"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 9,
+              "question": "What is the smallest number by which 3600 be divided \nto make it a perfect cube?",
+              "options": {
+                "a": "9",
+                "b": "50",
+                "c": "300",
+                "d": "450"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 10,
+              "question": "Which smallest number must be added to 710 so \nthat the sum is a perfect cube? (S.S.C., 2005)",
+              "options": {
+                "a": "11",
+                "b": "19",
+                "c": "21",
+                "d": "29"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 11,
+              "question": "Solve 7921 ? = [Indian Railway Gr. ‘D’ Exam, 2014]",
+              "options": {
+                "a": "89",
+                "b": "87",
+                "c": "37",
+                "d": "47"
+              },
+              "answer": "a"
+            },
+            {
+              "question_no": 12,
+              "question": "Solve ( )\n3 4 625 ? = [Indian Railway Gr. ‘D’ Exam, 2014]",
+              "options": {
+                "a": "3 1875",
+                "b": "25",
+                "c": "125",
+                "d": "None of these"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 13,
+              "question": "If y x = 4 , then \n2 x\ny\n is [SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "2",
+                "b": "1\n16",
+                "c": "1\n4",
+                "d": "4\nDirection"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 14,
+              "question": "2025.11 256.04 399.95 ? 33.98 40.11 × + ×= ×\n[IBPS—Bank Spl. Officer (IT) Exam, 2015]",
+              "options": {
+                "a": "1682",
+                "b": "1024",
+                "c": "1582",
+                "d": "678"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 15,
+              "question": "If 7 = 2.645, then the value of 1\n28 up to three \nplaces of decimal is [SSC—CHSL (10+2) Exam, 2015]",
+              "options": {
+                "a": "0.183",
+                "b": "0.185",
+                "c": "0.187",
+                "d": "0.189"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 16,
+              "question": "Solve: 25 64 16\n9 81 324 ?   −÷=    ",
+              "options": {
+                "a": "4.5",
+                "b": "2.5",
+                "c": "1.5",
+                "d": "3.5\n[United India Insurance Co. Ltd."
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 17,
+              "question": "Solve 1728 262144 ? 288 4491 ÷ ×− = 3",
+              "options": {
+                "a": "148",
+                "b": "156",
+                "c": "173",
+                "d": "177",
+                "e": "185\n[United India Insurance Co. Ltd."
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 18,
+              "question": "Solve: ( ) ( )\n1 2\n3 7 11 ? 2 847 122 +=+ +",
+              "options": {
+                "a": "36 44 7 +",
+                "b": "6",
+                "c": "216",
+                "d": "36\n[IDBI Bank Executive Officers Exam, 2015]\nDirections"
+              },
+              "answer": "c"
+            },
+            {
+              "question_no": 19,
+              "question": "? 784 6 324 − =× ( ) ( ) (NICL—AAO Exam, 2015]",
+              "options": {
+                "a": "128",
+                "b": "160",
+                "c": "236",
+                "d": "136"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 20,
+              "question": "(2116 1600 ? ) − = ( ) [NICL—AAO Exam, 2015]",
+              "options": {
+                "a": "20",
+                "b": "64",
+                "c": "81",
+                "d": "36"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 21,
+              "question": "Solve (27 5 ? 15 5.4 6 0.3 ÷× + = ÷+ )\n[IBPS—RRB Office Assistant (Online) Exam, 2015]",
+              "options": {
+                "a": "2",
+                "b": "6",
+                "c": "10",
+                "d": "4"
+              },
+              "answer": "d"
+            },
+            {
+              "question_no": 22,
+              "question": "24 0.5 1 18 0.6 6 ÷ ++ ÷ + = ?",
+              "options": {
+                "a": "19",
+                "b": "13",
+                "c": "12",
+                "d": "15\n[IBPS—RRB Office Assistant"
+              },
+              "answer": "b"
+            },
+            {
+              "question_no": 23,
+              "question": "( 63 252 175 28 ? + × += ) ( )\n[IBPS—RRB Office Assistant (Online) Exam, 2015]",
+              "options": {
+                "a": "16 7",
+                "b": "441",
+                "c": "16",
+                "d": "7 7"
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
