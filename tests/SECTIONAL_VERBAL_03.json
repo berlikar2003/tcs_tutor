@@ -1,0 +1,612 @@
+{
+  "test_id": "SECTIONAL_VERBAL_03",
+  "title": "Verbal Ability Sectional Mock Test",
+  "sections": [
+    {
+      "title": "Verbal Ability",
+      "duration_minutes": 50,
+      "questions": [
+        {
+          "id": "VERB51",
+          "question": "Choose the synonym of 'CANDID'.",
+          "options": {
+            "A": "Dishonest",
+            "B": "Frank",
+            "C": "Secretive",
+            "D": "Indirect"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB52",
+          "question": "Choose the antonym of 'ADVERSITY'.",
+          "options": {
+            "A": "Hardship",
+            "B": "Misfortune",
+            "C": "Prosperity",
+            "D": "Calamity"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB53",
+          "question": "Complete the sentence: The judge found him ______ of the crime.",
+          "options": {
+            "A": "innocent",
+            "B": "guilty",
+            "C": "ignorant",
+            "D": "unaware"
+          },
+          "correct_option": "B",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB54",
+          "question": "Identify the part of the sentence that contains an error: Everyone (A) of the students (B) have (C) submitted their assignments (D).",
+          "options": {
+            "A": "Everyone",
+            "B": "of the students",
+            "C": "have",
+            "D": "submitted their assignments"
+          },
+          "correct_option": "C",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB55",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Embarass",
+            "B": "Embarrass",
+            "C": "Embarras",
+            "D": "Embarrasst"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB56",
+          "question": "Select the most appropriate meaning of the idiom: 'To turn a deaf ear'.",
+          "options": {
+            "A": "To listen attentively",
+            "B": "To ignore someone",
+            "C": "To pretend to be deaf",
+            "D": "To hear partially"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB57",
+          "question": "A group of lions.",
+          "options": {
+            "A": "Herd",
+            "B": "Flock",
+            "C": "Pride",
+            "D": "Pack"
+          },
+          "correct_option": "C",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB58",
+          "question": "Analogy: Glove : Hand :: Sock : ?",
+          "options": {
+            "A": "Leg",
+            "B": "Foot",
+            "C": "Shoe",
+            "D": "Toe"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB59",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) of success (Q) hard work is (R) the key (S) to achieving",
+          "options": {
+            "A": "RQSP",
+            "B": "QRPS",
+            "C": "QPSR",
+            "D": "QSRP"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB60",
+          "question": "Choose the synonym of 'GREGARIOUS'.",
+          "options": {
+            "A": "Unsociable",
+            "B": "Friendly",
+            "C": "Shy",
+            "D": "Reserved"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB61",
+          "question": "Choose the antonym of 'FLEXIBLE'.",
+          "options": {
+            "A": "Supple",
+            "B": "Rigid",
+            "C": "Elastic",
+            "D": "Pliable"
+          },
+          "correct_option": "B",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB62",
+          "question": "Complete the sentence: The ancient ruins were a ______ of a lost civilization.",
+          "options": {
+            "A": "symbol",
+            "B": "relic",
+            "C": "sign",
+            "D": "token"
+          },
+          "correct_option": "B",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB63",
+          "question": "Identify the part of the sentence that contains an error: He has been (A) working hardly (B) for the past (C) two years (D).",
+          "options": {
+            "A": "He has been",
+            "B": "working hardly",
+            "C": "for the past",
+            "D": "two years"
+          },
+          "correct_option": "B",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB64",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Independance",
+            "B": "Independence",
+            "C": "Independense",
+            "D": "Independense"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB65",
+          "question": "Select the most appropriate meaning of the idiom: 'To cut corners'.",
+          "options": {
+            "A": "To take shortcuts to save money or effort",
+            "B": "To be very precise",
+            "C": "To divide something into pieces",
+            "D": "To be honest"
+          },
+          "correct_option": "A",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB66",
+          "question": "A place where dead bodies are kept for identification.",
+          "options": {
+            "A": "Crematorium",
+            "B": "Mortuary",
+            "C": "Cemetery",
+            "D": "Grave"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB67",
+          "question": "Analogy: Painter : Brush :: Writer : ?",
+          "options": {
+            "A": "Paper",
+            "B": "Book",
+            "C": "Pen",
+            "D": "Story"
+          },
+          "correct_option": "C",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB68",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) of the company (Q) the success (R) depends on (S) teamwork and innovation",
+          "options": {
+            "A": "QPRS",
+            "B": "QPSR",
+            "C": "SPQR",
+            "D": "SQPR"
+          },
+          "correct_option": "A",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB69",
+          "question": "Choose the synonym of 'AMBIGUOUS'.",
+          "options": {
+            "A": "Clear",
+            "B": "Precise",
+            "C": "Vague",
+            "D": "Explicit"
+          },
+          "correct_option": "C",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB70",
+          "question": "Choose the antonym of 'INSIPID'.",
+          "options": {
+            "A": "Flavorless",
+            "B": "Dull",
+            "C": "Exciting",
+            "D": "Boring"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB71",
+          "question": "Complete the sentence: The old man was known for his ______ wisdom.",
+          "options": {
+            "A": "youthful",
+            "B": "ancient",
+            "C": "profound",
+            "D": "superficial"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB72",
+          "question": "Identify the part of the sentence that contains an error: The principal (A) as well as (B) the teachers (C) was present (D) at the meeting.",
+          "options": {
+            "A": "The principal",
+            "B": "as well as",
+            "C": "the teachers",
+            "D": "was present"
+          },
+          "correct_option": "D",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB73",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Millenium",
+            "B": "Millennium",
+            "C": "Milennium",
+            "D": "Mileneum"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB74",
+          "question": "Select the most appropriate meaning of the idiom: 'To hit the nail on the head'.",
+          "options": {
+            "A": "To make a wrong decision",
+            "B": "To be exactly right",
+            "C": "To hit someone",
+            "D": "To cause damage"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB75",
+          "question": "A disease that is spread by contact.",
+          "options": {
+            "A": "Contagious",
+            "B": "Hereditary",
+            "C": "Chronic",
+            "D": "Acute"
+          },
+          "correct_option": "A",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB76",
+          "question": "Analogy: Lion : Roar :: Snake : ?",
+          "options": {
+            "A": "Hiss",
+            "B": "Bark",
+            "C": "Moo",
+            "D": "Chirp"
+          },
+          "correct_option": "A",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB77",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) despite (Q) his injury (R) the athlete (S) continued to compete",
+          "options": {
+            "A": "QRSP",
+            "B": "RSPQ",
+            "C": "PQRS",
+            "D": "RPQS"
+          },
+          "correct_option": "D",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB78",
+          "question": "Choose the synonym of 'ADROIT'.",
+          "options": {
+            "A": "Clumsy",
+            "B": "Skillful",
+            "C": "Awkward",
+            "D": "Inept"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB79",
+          "question": "Choose the antonym of 'ERUDITE'.",
+          "options": {
+            "A": "Learned",
+            "B": "Ignorant",
+            "C": "Knowledgeable",
+            "D": "Scholarly"
+          },
+          "correct_option": "B",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB80",
+          "question": "Complete the sentence: The old house stood ______ on the hill, overlooking the valley.",
+          "options": {
+            "A": "precariously",
+            "B": "stably",
+            "C": "firmly",
+            "D": "securely"
+          },
+          "correct_option": "A",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB81",
+          "question": "Identify the part of the sentence that contains an error: I prefer (A) coffee than (B) tea (C) in the morning (D).",
+          "options": {
+            "A": "I prefer",
+            "B": "coffee than",
+            "C": "tea",
+            "D": "in the morning"
+          },
+          "correct_option": "B",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB82",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Truely",
+            "B": "Trully",
+            "C": "Truly",
+            "D": "Trueley"
+          },
+          "correct_option": "C",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB83",
+          "question": "Select the most appropriate meaning of the idiom: 'To spill the beans'.",
+          "options": {
+            "A": "To clean up a mess",
+            "B": "To reveal a secret",
+            "C": "To cook beans",
+            "D": "To cause trouble"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB84",
+          "question": "A person who is against war or violence.",
+          "options": {
+            "A": "Warrior",
+            "B": "Pacifist",
+            "C": "Soldier",
+            "D": "Aggressor"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB85",
+          "question": "Analogy: Day : Night :: Black : ?",
+          "options": {
+            "A": "Dark",
+            "B": "White",
+            "C": "Colour",
+            "D": "Grey"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB86",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) new opportunities (Q) education opens (R) for people (S) to achieve their dreams",
+          "options": {
+            "A": "QPRS",
+            "B": "QSP",
+            "C": "RPSQ",
+            "D": "SQPR"
+          },
+          "correct_option": "A",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB87",
+          "question": "Choose the synonym of 'CAPRICIOUS'.",
+          "options": {
+            "A": "Constant",
+            "B": "Stable",
+            "C": "Fickle",
+            "D": "Reliable"
+          },
+          "correct_option": "C",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB88",
+          "question": "Choose the antonym of 'MALICIOUS'.",
+          "options": {
+            "A": "Spiteful",
+            "B": "Benevolent",
+            "C": "Vindictive",
+            "D": "Harmful"
+          },
+          "correct_option": "B",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB89",
+          "question": "Complete the sentence: The politician's speech was full of ______ promises.",
+          "options": {
+            "A": "realistic",
+            "B": "practical",
+            "C": "empty",
+            "D": "feasible"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB90",
+          "question": "Identify the part of the sentence that contains an error: He is (A) taller than (B) any other (C) boy in the class (D).",
+          "options": {
+            "A": "He is",
+            "B": "taller than",
+            "C": "any other",
+            "D": "boy in the class"
+          },
+          "correct_option": "C",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB91",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Conseintious",
+            "B": "Conscientious",
+            "C": "Consientious",
+            "D": "Consciencious"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB92",
+          "question": "Select the most appropriate meaning of the idiom: 'To bite off more than one can chew'.",
+          "options": {
+            "A": "To eat too much",
+            "B": "To take on a task that is too big",
+            "C": "To be greedy",
+            "D": "To be very efficient"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB93",
+          "question": "A person who is easily deceived or tricked.",
+          "options": {
+            "A": "Cynic",
+            "B": "Gullible",
+            "C": "Skeptical",
+            "D": "Astute"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB94",
+          "question": "Analogy: Grapes : Wine :: Wheat : ?",
+          "options": {
+            "A": "Bread",
+            "B": "Farm",
+            "C": "Flour",
+            "D": "Grain"
+          },
+          "correct_option": "A",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB95",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) the importance (Q) of a healthy (R) diet cannot (S) be overstated",
+          "options": {
+            "A": "RQSP",
+            "B": "RPQS",
+            "C": "PSRQ",
+            "D": "QPSR"
+          },
+          "correct_option": "B",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB96",
+          "question": "Choose the synonym of 'DEPLORABLE'.",
+          "options": {
+            "A": "Commendable",
+            "B": "Admirable",
+            "C": "Lamentable",
+            "D": "Praiseworthy"
+          },
+          "correct_option": "C",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB97",
+          "question": "Choose the antonym of 'MITIGATE'.",
+          "options": {
+            "A": "Lessen",
+            "B": "Aggravate",
+            "C": "Reduce",
+            "D": "Soften"
+          },
+          "correct_option": "B",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB98",
+          "question": "Complete the sentence: The artist's work was a true ______ of creativity and skill.",
+          "options": {
+            "A": "lack",
+            "B": "dearth",
+            "C": "testament",
+            "D": "failure"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB99",
+          "question": "Identify the part of the sentence that contains an error: If I were (A) him, I (B) will not (C) accept the offer (D).",
+          "options": {
+            "A": "If I were",
+            "B": "him, I",
+            "C": "will not",
+            "D": "accept the offer"
+          },
+          "correct_option": "C",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB100",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Supersede",
+            "B": "Superseed",
+            "C": "Supercede",
+            "D": "Suppercede"
+          },
+          "correct_option": "A",
+          "topic": "Spelling Correction"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "test_id": "SECTIONAL_VERBAL_04",
+  "title": "Verbal Ability Sectional Mock Test",
+  "sections": [
+    {
+      "title": "Verbal Ability",
+      "duration_minutes": 50,
+      "questions": [
+        {
+          "id": "VERB101",
+          "question": "Choose the synonym of 'QUIESCENT'.",
+          "options": {
+            "A": "Active",
+            "B": "Restless",
+            "C": "Dormant",
+            "D": "Vigorous"
+          },
+          "correct_option": "C",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB102",
+          "question": "Choose the antonym of 'SPURIOUS'.",
+          "options": {
+            "A": "Fake",
+            "B": "False",
+            "C": "Genuine",
+            "D": "Bogus"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB103",
+          "question": "Complete the sentence: The ______ of his argument was difficult to refute.",
+          "options": {
+            "A": "weakness",
+            "B": "fragility",
+            "C": "cogency",
+            "D": "flaw"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB104",
+          "question": "Identify the part of the sentence that contains an error: The number of (A) people attending (B) the concert (C) were very high (D).",
+          "options": {
+            "A": "The number of",
+            "B": "people attending",
+            "C": "the concert",
+            "D": "were very high"
+          },
+          "correct_option": "D",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB105",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Guarrantee",
+            "B": "Guarantee",
+            "C": "Gaurantee",
+            "D": "Guaranty"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB106",
+          "question": "Select the most appropriate meaning of the idiom: 'To burn the midnight oil'.",
+          "options": {
+            "A": "To stay up late working",
+            "B": "To waste time",
+            "C": "To light a lamp",
+            "D": "To work casually"
+          },
+          "correct_option": "A",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB107",
+          "question": "A person who is fond of fighting.",
+          "options": {
+            "A": "Peaceful",
+            "B": "Belligerent",
+            "C": "Calm",
+            "D": "Nonviolent"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB108",
+          "question": "Analogy: Cold : Frost :: Hot : ?",
+          "options": {
+            "A": "Ice",
+            "B": "Heat",
+            "C": "Fire",
+            "D": "Summer"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB109",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) was (Q) a great (R) leader (S) Mahatma Gandhi",
+          "options": {
+            "A": "PQRS",
+            "B": "SRPQ",
+            "C": "QSRP",
+            "D": "SPQR"
+          },
+          "correct_option": "D",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB110",
+          "question": "Choose the synonym of 'ESCALATE'.",
+          "options": {
+            "A": "Decrease",
+            "B": "Intensify",
+            "C": "Reduce",
+            "D": "Lessen"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB111",
+          "question": "Choose the antonym of 'TACITURN'.",
+          "options": {
+            "A": "Silent",
+            "B": "Reserved",
+            "C": "Talkative",
+            "D": "Quiet"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB112",
+          "question": "Complete the sentence: The artist's unique style was met with universal ______.",
+          "options": {
+            "A": "criticism",
+            "B": "derision",
+            "C": "acclaim",
+            "D": "disapproval"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB113",
+          "question": "Identify the part of the sentence that contains an error: Each of the boys (A) play (B) well in (C) the tournament (D).",
+          "options": {
+            "A": "Each of the boys",
+            "B": "play",
+            "C": "well in",
+            "D": "the tournament"
+          },
+          "correct_option": "B",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB114",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Conscious",
+            "B": "Consciouss",
+            "C": "Consciousous",
+            "D": "Consciouse"
+          },
+          "correct_option": "A",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB115",
+          "question": "Select the most appropriate meaning of the idiom: 'To bury the hatchet'.",
+          "options": {
+            "A": "To dig a hole",
+            "B": "To make peace",
+            "C": "To hide something",
+            "D": "To start a conflict"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB116",
+          "question": "A person who hates women.",
+          "options": {
+            "A": "Philogynist",
+            "B": "Misanthrope",
+            "C": "Misogynist",
+            "D": "Feminist"
+          },
+          "correct_option": "C",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB117",
+          "question": "Analogy: Editor : Newspaper :: Chef : ?",
+          "options": {
+            "A": "Restaurant",
+            "B": "Kitchen",
+            "C": "Food",
+            "D": "Cook"
+          },
+          "correct_option": "C",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB118",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) into space (Q) a rocket (R) launched (S) successfully",
+          "options": {
+            "A": "PQRS",
+            "B": "QRSP",
+            "C": "RQPS",
+            "D": "SRQP"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB119",
+          "question": "Choose the synonym of 'ADMONISH'.",
+          "options": {
+            "A": "Praise",
+            "B": "Approve",
+            "C": "Reprimand",
+            "D": "Commend"
+          },
+          "correct_option": "C",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB120",
+          "question": "Choose the antonym of 'SAGACIOUS'.",
+          "options": {
+            "A": "Wise",
+            "B": "Shrewd",
+            "C": "Foolish",
+            "D": "Prudent"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB121",
+          "question": "Complete the sentence: The evidence presented was ______ to convict the suspect.",
+          "options": {
+            "A": "insufficient",
+            "B": "ample",
+            "C": "sufficient",
+            "D": "enough"
+          },
+          "correct_option": "A",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB122",
+          "question": "Identify the part of the sentence that contains an error: My father (A) bought (B) three dozen (C) eggs yesterday (D).",
+          "options": {
+            "A": "My father",
+            "B": "bought",
+            "C": "three dozen",
+            "D": "eggs yesterday"
+          },
+          "correct_option": "C",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB123",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Privilege",
+            "B": "Priviledge",
+            "C": "Privelege",
+            "D": "Privileage"
+          },
+          "correct_option": "A",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB124",
+          "question": "Select the most appropriate meaning of the idiom: 'To keep an eye on'.",
+          "options": {
+            "A": "To watch carefully",
+            "B": "To ignore",
+            "C": "To close one's eyes",
+            "D": "To be careless"
+          },
+          "correct_option": "A",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB125",
+          "question": "A person who is expert in the study of birds.",
+          "options": {
+            "A": "Zoologist",
+            "B": "Ornithologist",
+            "C": "Biologist",
+            "D": "Geologist"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB126",
+          "question": "Analogy: Book : Page :: Flower : ?",
+          "options": {
+            "A": "Stem",
+            "B": "Petal",
+            "C": "Garden",
+            "D": "Bloom"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB127",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) importance of (Q) the government (R) is emphasizing (S) education",
+          "options": {
+            "A": "RQSP",
+            "B": "QSPR",
+            "C": "QRPS",
+            "D": "RSQP"
+          },
+          "correct_option": "A",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB128",
+          "question": "Choose the synonym of 'PARADOXICAL'.",
+          "options": {
+            "A": "Consistent",
+            "B": "Contradictory",
+            "C": "Logical",
+            "D": "Clear"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB129",
+          "question": "Choose the antonym of 'CHRONIC'.",
+          "options": {
+            "A": "Persistent",
+            "B": "Acute",
+            "C": "Long-lasting",
+            "D": "Continuous"
+          },
+          "correct_option": "B",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB130",
+          "question": "Complete the sentence: The team faced ______ challenges on their expedition to the peak.",
+          "options": {
+            "A": "trivial",
+            "B": "insignificant",
+            "C": "formidable",
+            "D": "easy"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB131",
+          "question": "Identify the part of the sentence that contains an error: Despite of (A) being tired (B), she continued (C) to work (D).",
+          "options": {
+            "A": "Despite of",
+            "B": "being tired",
+            "C": "she continued",
+            "D": "to work"
+          },
+          "correct_option": "A",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB132",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Rhythm",
+            "B": "Rythm",
+            "C": "Rithm",
+            "D": "Rhytm"
+          },
+          "correct_option": "A",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB133",
+          "question": "Select the most appropriate meaning of the idiom: 'To break the ice'.",
+          "options": {
+            "A": "To make a situation awkward",
+            "B": "To start a conversation in a new group",
+            "C": "To melt ice",
+            "D": "To destroy something"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB134",
+          "question": "A place where government records are kept.",
+          "options": {
+            "A": "Museum",
+            "B": "Library",
+            "C": "Archive",
+            "D": "Gallery"
+          },
+          "correct_option": "C",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB135",
+          "question": "Analogy: Fire : Ash :: Explosion : ?",
+          "options": {
+            "A": "Flame",
+            "B": "Sound",
+            "C": "Debris",
+            "D": "Smoke"
+          },
+          "correct_option": "C",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB136",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) of knowledge (Q) the internet is (R) a vast source (S) for everyone",
+          "options": {
+            "A": "PQRS",
+            "B": "QPRS",
+            "C": "RPQS",
+            "D": "SPQR"
+          },
+          "correct_option": "B",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB137",
+          "question": "Choose the synonym of 'CENSURE'.",
+          "options": {
+            "A": "Praise",
+            "B": "Approve",
+            "C": "Condemn",
+            "D": "Support"
+          },
+          "correct_option": "C",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB138",
+          "question": "Choose the antonym of 'VANISH'.",
+          "options": {
+            "A": "Appear",
+            "B": "Disappear",
+            "C": "Fade",
+            "D": "Erode"
+          },
+          "correct_option": "A",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB139",
+          "question": "Complete the sentence: The ancient text was written in an ______ language.",
+          "options": {
+            "A": "understandable",
+            "B": "legible",
+            "C": "abstruse",
+            "D": "simple"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB140",
+          "question": "Identify the part of the sentence that contains an error: Neither Rahul (A) nor his friends (B) is (C) going to the party (D).",
+          "options": {
+            "A": "Neither Rahul",
+            "B": "nor his friends",
+            "C": "is",
+            "D": "going to the party"
+          },
+          "correct_option": "C",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB141",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Liquify",
+            "B": "Liquify",
+            "C": "Liquefy",
+            "D": "Liquify"
+          },
+          "correct_option": "C",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB142",
+          "question": "Select the most appropriate meaning of the idiom: 'To fall flat'.",
+          "options": {
+            "A": "To succeed easily",
+            "B": "To fail completely",
+            "C": "To fall down",
+            "D": "To flatten something"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB143",
+          "question": "A period of ten years.",
+          "options": {
+            "A": "Century",
+            "B": "Decade",
+            "C": "Millennium",
+            "D": "Score"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB144",
+          "question": "Analogy: Chef : Kitchen :: Doctor : ?",
+          "options": {
+            "A": "Patient",
+            "B": "Medicine",
+            "C": "Hospital",
+            "D": "Surgery"
+          },
+          "correct_option": "C",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB145",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) into the (Q) the bird flew (R) open sky (S) gracefully",
+          "options": {
+            "A": "PQRS",
+            "B": "QPSR",
+            "C": "QRSP",
+            "D": "SQRP"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB146",
+          "question": "Choose the synonym of 'RETICENT'.",
+          "options": {
+            "A": "Talkative",
+            "B": "Outgoing",
+            "C": "Reserved",
+            "D": "Verbose"
+          },
+          "correct_option": "C",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB147",
+          "question": "Choose the antonym of 'AMELIORATE'.",
+          "options": {
+            "A": "Improve",
+            "B": "Enhance",
+            "C": "Worsen",
+            "D": "Better"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB148",
+          "question": "Complete the sentence: The team's performance was ______ by the lack of practice.",
+          "options": {
+            "A": "enhanced",
+            "B": "improved",
+            "C": "hampered",
+            "D": "aided"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB149",
+          "question": "Identify the part of the sentence that contains an error: The teacher (A) forbade the students (B) not to (C) use their phones in class (D).",
+          "options": {
+            "A": "The teacher",
+            "B": "forbade the students",
+            "C": "not to",
+            "D": "use their phones in class"
+          },
+          "correct_option": "C",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB150",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Queue",
+            "B": "Queu",
+            "C": "Qeue",
+            "D": "Quew"
+          },
+          "correct_option": "A",
+          "topic": "Spelling Correction"
+        }
+      ]
+    }
+  ]
+}

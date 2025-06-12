@@ -1,0 +1,493 @@
+
+{
+  "test_id": "SECTIONAL_QUANT_03",
+  "title": "Quantitative Sectional Mock Test",
+  "sections": [
+    {
+      "title": "Quantitative",
+      "duration_minutes": 50,
+      "questions": [
+        {
+          "id": "QUANT41",
+          "question": "What is the cube root of 1728?",
+          "options": {
+            "A": "11",
+            "B": "12",
+            "C": "13",
+            "D": "14"
+          },
+          "correct_option": "B",
+          "topic": "Square Roots and Cube Roots"
+        },
+        {
+          "id": "QUANT42",
+          "question": "If a certain sum of money becomes 3 times itself in 10 years at simple interest, in how many years will it become 5 times itself?",
+          "options": {
+            "A": "15 years",
+            "B": "20 years",
+            "C": "25 years",
+            "D": "30 years"
+          },
+          "correct_option": "B",
+          "topic": "Simple Interest"
+        },
+        {
+          "id": "QUANT43",
+          "question": "The ratio of present ages of P and Q is 3:4. Five years ago, the ratio of their ages was 2:3. What is the present age of Q?",
+          "options": {
+            "A": "15 years",
+            "B": "20 years",
+            "C": "25 years",
+            "D": "30 years"
+          },
+          "correct_option": "B",
+          "topic": "Ages"
+        },
+        {
+          "id": "QUANT44",
+          "question": "A person covers 1/3 of his journey at 20 km/hr, 1/4 at 30 km/hr and the remaining at 50 km/hr. What is his average speed?",
+          "options": {
+            "A": "28 km/hr",
+            "B": "30 km/hr",
+            "C": "32 km/hr",
+            "D": "35 km/hr"
+          },
+          "correct_option": "B",
+          "topic": "Time, Speed, and Distance"
+        },
+        {
+          "id": "QUANT45",
+          "question": "If $2A = 3B = 4C$, then what is $A:B:C$?",
+          "options": {
+            "A": "2:3:4",
+            "B": "4:3:2",
+            "C": "6:4:3",
+            "D": "3:4:6"
+          },
+          "correct_option": "C",
+          "topic": "Ratio and Proportion"
+        },
+        {
+          "id": "QUANT46",
+          "question": "The perimeter of a rectangular field is 160 meters and its length is 60 meters. What is its area?",
+          "options": {
+            "A": "1200 sq m",
+            "B": "1500 sq m",
+            "C": "1800 sq m",
+            "D": "2400 sq m"
+          },
+          "correct_option": "A",
+          "topic": "Mensuration"
+        },
+        {
+          "id": "QUANT47",
+          "question": "What is the sum of all two-digit numbers divisible by 3?",
+          "options": {
+            "A": "1665",
+            "B": "1650",
+            "C": "1500",
+            "D": "1485"
+          },
+          "correct_option": "A",
+          "topic": "Arithmetic Progression"
+        },
+        {
+          "id": "QUANT48",
+          "question": "A and B together can do a piece of work in 12 days. B alone can do it in 30 days. In how many days can A alone do it?",
+          "options": {
+            "A": "18 days",
+            "B": "20 days",
+            "C": "24 days",
+            "D": "25 days"
+          },
+          "correct_option": "B",
+          "topic": "Time and Work"
+        },
+        {
+          "id": "QUANT49",
+          "question": "A discount of 15% on an item leads to a profit of 20%. If the discount were 20%, what would be the profit percentage?",
+          "options": {
+            "A": "10%",
+            "B": "12%",
+            "C": "15%",
+            "D": "16%"
+          },
+          "correct_option": "D",
+          "topic": "Profit and Loss"
+        },
+        {
+          "id": "QUANT50",
+          "question": "What is the value of $(1/2 + 1/3) \\div (1/4 - 1/5)$?",
+          "options": {
+            "A": "50/3",
+            "B": "100/3",
+            "C": "50",
+            "D": "100"
+          },
+          "correct_option": "A",
+          "topic": "Fractions"
+        },
+        {
+          "id": "QUANT51",
+          "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+          "options": {
+            "A": "26",
+            "B": "28",
+            "C": "30",
+            "D": "32"
+          },
+          "correct_option": "B",
+          "topic": "Averages"
+        },
+        {
+          "id": "QUANT52",
+          "question": "A sum of $1200 amounts to $1323 in 2 years at compound interest. What is the rate of interest per annum?",
+          "options": {
+            "A": "4%",
+            "B": "4.5%",
+            "C": "5%",
+            "D": "5.5%"
+          },
+          "correct_option": "C",
+          "topic": "Compound Interest"
+        },
+        {
+          "id": "QUANT53",
+          "question": "The difference between a two-digit number and the number obtained by interchanging its digits is 36. What is the difference between the digits of the number?",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "correct_option": "B",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT54",
+          "question": "How many multiples of 4 are there between 10 and 250?",
+          "options": {
+            "A": "58",
+            "B": "59",
+            "C": "60",
+            "D": "61"
+          },
+          "correct_option": "C",
+          "topic": "Arithmetic Progression"
+        },
+        {
+          "id": "QUANT55",
+          "question": "If the price of sugar increases by 20%, by what percentage must a household reduce its consumption so that the expenditure on sugar remains the same?",
+          "options": {
+            "A": "16.67%",
+            "B": "20%",
+            "C": "25%",
+            "D": "30%"
+          },
+          "correct_option": "A",
+          "topic": "Percentages"
+        },
+        {
+          "id": "QUANT56",
+          "question": "A pipe can fill a tank in 12 hours. Due to a leak, it takes 18 hours to fill the tank. If the tank is full, how long will the leak take to empty it?",
+          "options": {
+            "A": "24 hours",
+            "B": "30 hours",
+            "C": "36 hours",
+            "D": "40 hours"
+          },
+          "correct_option": "C",
+          "topic": "Pipes and Cisterns"
+        },
+        {
+          "id": "QUANT57",
+          "question": "What is the maximum number of trees that can be planted, 20 meters apart, around a circular park whose circumference is 1000 meters?",
+          "options": {
+            "A": "49",
+            "B": "50",
+            "C": "51",
+            "D": "52"
+          },
+          "correct_option": "B",
+          "topic": "Mensuration"
+        },
+        {
+          "id": "QUANT58",
+          "question": "The product of two numbers is 2028 and their HCF is 13. What is their LCM?",
+          "options": {
+            "A": "136",
+            "B": "144",
+            "C": "156",
+            "D": "162"
+          },
+          "correct_option": "C",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT59",
+          "question": "If the length of a rectangle is increased by 20% and its breadth is decreased by 10%, what is the percentage change in its area?",
+          "options": {
+            "A": "8% increase",
+            "B": "8% decrease",
+            "C": "10% increase",
+            "D": "10% decrease"
+          },
+          "correct_option": "A",
+          "topic": "Percentages"
+        },
+        {
+          "id": "QUANT60",
+          "question": "A man rows upstream at 6 km/hr and downstream at 10 km/hr. What is the speed of the current?",
+          "options": {
+            "A": "2 km/hr",
+            "B": "3 km/hr",
+            "C": "4 km/hr",
+            "D": "5 km/hr"
+          },
+          "correct_option": "A",
+          "topic": "Boats and Streams"
+        },
+        {
+          "id": "QUANT61",
+          "question": "The ratio of milk and water in a mixture is 7:3. If 10 liters of mixture are removed and 10 liters of water are added, the ratio becomes 1:1. What was the original quantity of milk?",
+          "options": {
+            "A": "35 liters",
+            "B": "40 liters",
+            "C": "42 liters",
+            "D": "49 liters"
+          },
+          "correct_option": "C",
+          "topic": "Mixtures and Alligations"
+        },
+        {
+          "id": "QUANT62",
+          "question": "Find the sum of the series: 1 + 2 + 3 + ... + 100.",
+          "options": {
+            "A": "5000",
+            "B": "5050",
+            "C": "5100",
+            "D": "5150"
+          },
+          "correct_option": "B",
+          "topic": "Arithmetic Progression"
+        },
+        {
+          "id": "QUANT63",
+          "question": "If the volume of a cube is 216 cubic cm, what is its surface area?",
+          "options": {
+            "A": "144 sq cm",
+            "B": "216 sq cm",
+            "C": "256 sq cm",
+            "D": "294 sq cm"
+          },
+          "correct_option": "B",
+          "topic": "Mensuration"
+        },
+        {
+          "id": "QUANT64",
+          "question": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability of drawing a king or a queen?",
+          "options": {
+            "A": "1/13",
+            "B": "2/13",
+            "C": "3/13",
+            "D": "4/13"
+          },
+          "correct_option": "B",
+          "topic": "Probability"
+        },
+        {
+          "id": "QUANT65",
+          "question": "The average of 5 numbers is 30. If the average of the first two numbers is 25 and the average of the last two numbers is 35, what is the third number?",
+          "options": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "35"
+          },
+          "correct_option": "C",
+          "topic": "Averages"
+        },
+        {
+          "id": "QUANT66",
+          "question": "What is the least number which when divided by 8, 12, and 15 leaves a remainder of 3 in each case?",
+          "options": {
+            "A": "120",
+            "B": "123",
+            "C": "125",
+            "D": "128"
+          },
+          "correct_option": "B",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT67",
+          "question": "If 7 men can do a piece of work in 21 days, in how many days can 14 men do the same work?",
+          "options": {
+            "A": "7 days",
+            "B": "10.5 days",
+            "C": "14 days",
+            "D": "21 days"
+          },
+          "correct_option": "B",
+          "topic": "Time and Work"
+        },
+        {
+          "id": "QUANT68",
+          "question": "A cylindrical tank has a radius of 7 meters and a height of 10 meters. What is its volume?",
+          "options": {
+            "A": "1540 cubic m",
+            "B": "1450 cubic m",
+            "C": "1380 cubic m",
+            "D": "1270 cubic m"
+          },
+          "correct_option": "A",
+          "topic": "Mensuration"
+        },
+        {
+          "id": "QUANT69",
+          "question": "If a certain sum at compound interest becomes double in 5 years, in how many years will it become 8 times?",
+          "options": {
+            "A": "10 years",
+            "B": "15 years",
+            "C": "20 years",
+            "D": "25 years"
+          },
+          "correct_option": "B",
+          "topic": "Compound Interest"
+        },
+        {
+          "id": "QUANT70",
+          "question": "The length of a train is 200 meters. It crosses a bridge of length 300 meters in 25 seconds. What is the speed of the train?",
+          "options": {
+            "A": "10 m/s",
+            "B": "15 m/s",
+            "C": "20 m/s",
+            "D": "25 m/s"
+          },
+          "correct_option": "C",
+          "topic": "Time, Speed, and Distance"
+        },
+        {
+          "id": "QUANT71",
+          "question": "The cost price of 20 articles is the same as the selling price of 16 articles. What is the profit percentage?",
+          "options": {
+            "A": "20%",
+            "B": "25%",
+            "C": "30%",
+            "D": "35%"
+          },
+          "correct_option": "B",
+          "topic": "Profit and Loss"
+        },
+        {
+          "id": "QUANT72",
+          "question": "Simplify: $15 - [8 + \\{3 - (9 \\div 3)\\}]$",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_option": "A",
+          "topic": "Simplification"
+        },
+        {
+          "id": "QUANT73",
+          "question": "A sum of money is divided among A, B, and C in the ratio 2:3:5. If B gets $600, what is the total sum?",
+          "options": {
+            "A": "$1800",
+            "B": "$2000",
+            "C": "$2400",
+            "D": "$3000"
+          },
+          "correct_option": "B",
+          "topic": "Ratio and Proportion"
+        },
+        {
+          "id": "QUANT74",
+          "question": "What is the greatest 3-digit number exactly divisible by 6, 9, and 12?",
+          "options": {
+            "A": "972",
+            "B": "984",
+            "C": "996",
+            "D": "999"
+          },
+          "correct_option": "A",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT75",
+          "question": "If 1.5 kg of sugar costs $60, what will be the cost of 2.5 kg of sugar?",
+          "options": {
+            "A": "$80",
+            "B": "$90",
+            "C": "$100",
+            "D": "$120"
+          },
+          "correct_option": "C",
+          "topic": "Unitary Method"
+        },
+        {
+          "id": "QUANT76",
+          "question": "The base of a triangle is twice its height. If the area of the triangle is 64 sq cm, what is its height?",
+          "options": {
+            "A": "8 cm",
+            "B": "10 cm",
+            "C": "12 cm",
+            "D": "16 cm"
+          },
+          "correct_option": "A",
+          "topic": "Mensuration"
+        },
+        {
+          "id": "QUANT77",
+          "question": "If $x + 1/x = 5$, what is the value of $x^2 + 1/x^2$?",
+          "options": {
+            "A": "23",
+            "B": "25",
+            "C": "27",
+            "D": "29"
+          },
+          "correct_option": "A",
+          "topic": "Algebra"
+        },
+        {
+          "id": "QUANT78",
+          "question": "A dishonest dealer professes to sell his goods at cost price but uses a weight of 900 gm for 1 kg. What is his profit percentage?",
+          "options": {
+            "A": "10%",
+            "B": "11.11%",
+            "C": "9.09%",
+            "D": "12%"
+          },
+          "correct_option": "B",
+          "topic": "Profit and Loss"
+        },
+        {
+          "id": "QUANT79",
+          "question": "A sum of money is divided among A, B, C in such a way that A gets 2 times as much as B and B gets 3 times as much as C. If A gets $1200, what is the total sum?",
+          "options": {
+            "A": "$1800",
+            "B": "$2000",
+            "C": "$2200",
+            "D": "$2400"
+          },
+          "correct_option": "C",
+          "topic": "Ratio and Proportion"
+        },
+        {
+          "id": "QUANT80",
+          "question": "The population of a city is 100,000. If it increases by 10% in the first year and 20% in the second year, what will be the population after 2 years?",
+          "options": {
+            "A": "130000",
+            "B": "132000",
+            "C": "140000",
+            "D": "142000"
+          },
+          "correct_option": "B",
+          "topic": "Percentages"
+        }
+      ]
+    }
+  ]
+}

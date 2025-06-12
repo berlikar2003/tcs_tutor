@@ -1,0 +1,492 @@
+{
+  "test_id": "SECTIONAL_REASONING_03",
+  "title": "Reasoning Sectional Mock Test",
+  "sections": [
+    {
+      "title": "Reasoning",
+      "duration_minutes": 50,
+      "questions": [
+        {
+          "id": "REAS41",
+          "question": "Find the next term in the series: 1, 4, 9, 16, 25, ?",
+          "options": {
+            "A": "30",
+            "B": "36",
+            "C": "49",
+            "D": "64"
+          },
+          "correct_option": "B",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS42",
+          "question": "If 'BROTHER' is coded as 'HQSNZQK', how is 'SISTER' coded?",
+          "options": {
+            "A": "UHSGQT",
+            "B": "HTSGQR",
+            "C": "TGHRQS",
+            "D": "UHTSQG"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS43",
+          "question": "Choose the odd one out: Table, Chair, Cupboard, Television",
+          "options": {
+            "A": "Table",
+            "B": "Chair",
+            "C": "Cupboard",
+            "D": "Television"
+          },
+          "correct_option": "D",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS44",
+          "question": "A is the son of B. C is the daughter of D. E is the mother of D. F is the father of C. How is F related to A?",
+          "options": {
+            "A": "Brother",
+            "B": "Uncle",
+            "C": "Cousin",
+            "D": "Cannot be determined"
+          },
+          "correct_option": "D",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS45",
+          "question": "In a certain code, 'APPLE' is written as 'ELPPA'. How is 'CRICKET' written in that code?",
+          "options": {
+            "A": "TEKCRIC",
+            "B": "TCIRKCE",
+            "C": "TKCIRCE",
+            "D": "TEKCRCI"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS46",
+          "question": "Pointing to a portrait, a man said, 'His father is my father's only son.' Whose portrait was it?",
+          "options": {
+            "A": "His own",
+            "B": "His son's",
+            "C": "His father's",
+            "D": "His grandfather's"
+          },
+          "correct_option": "B",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS47",
+          "question": "Find the missing number in the series: 5, 10, 17, 26, ?, 50",
+          "options": {
+            "A": "35",
+            "B": "37",
+            "C": "39",
+            "D": "41"
+          },
+          "correct_option": "B",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS48",
+          "question": "If 'GOOD' is coded as 715154 and 'BAD' is coded as 214, how is 'DOG' coded?",
+          "options": {
+            "A": "4157",
+            "B": "4158",
+            "C": "4159",
+            "D": "41510"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS49",
+          "question": "Select the related word from the given alternatives: Ink : Pen :: Lead : ?",
+          "options": {
+            "A": "Pencil",
+            "B": "Paper",
+            "C": "Write",
+            "D": "Inkpot"
+          },
+          "correct_option": "A",
+          "topic": "Analogy"
+        },
+        {
+          "id": "REAS50",
+          "question": "If 1st January 2005 was a Saturday, what day of the week was 1st January 2006?",
+          "options": {
+            "A": "Sunday",
+            "B": "Monday",
+            "C": "Tuesday",
+            "D": "Wednesday"
+          },
+          "correct_option": "A",
+          "topic": "Calendar"
+        },
+        {
+          "id": "REAS51",
+          "question": "Choose the odd one out: Cricket, Football, Chess, Hockey",
+          "options": {
+            "A": "Cricket",
+            "B": "Football",
+            "C": "Chess",
+            "D": "Hockey"
+          },
+          "correct_option": "C",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS52",
+          "question": "In a row of girls, if P is 12th from the left and Q is 15th from the right. If they interchange their positions, P becomes 20th from the left. What is the total number of girls in the row?",
+          "options": {
+            "A": "31",
+            "B": "32",
+            "C": "34",
+            "D": "35"
+          },
+          "correct_option": "C",
+          "topic": "Ranking and Order"
+        },
+        {
+          "id": "REAS53",
+          "question": "Statements: All bags are books. All books are pencils. Conclusions: I. All bags are pencils. II. Some pencils are bags.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "C",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS54",
+          "question": "Find the missing number: 2, 3, 5, 7, 11, ?",
+          "options": {
+            "A": "13",
+            "B": "15",
+            "C": "17",
+            "D": "19"
+          },
+          "correct_option": "A",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS55",
+          "question": "If 'MONKEY' is coded as 'XDJMNL', how is 'TIGER' coded?",
+          "options": {
+            "A": "QDFHS",
+            "B": "QDFHR",
+            "C": "SFQDH",
+            "D": "SFQGR"
+          },
+          "correct_option": "B",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS56",
+          "question": "Select the one which is different from the other three alternatives: North, East, South, Corner",
+          "options": {
+            "A": "North",
+            "B": "East",
+            "C": "South",
+            "D": "Corner"
+          },
+          "correct_option": "D",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS57",
+          "question": "A is to the East of B. C is to the South of B. D is to the West of C. In which direction is A with respect to D?",
+          "options": {
+            "A": "North-East",
+            "B": "North-West",
+            "C": "South-East",
+            "D": "South-West"
+          },
+          "correct_option": "A",
+          "topic": "Directions"
+        },
+        {
+          "id": "REAS58",
+          "question": "Statements: Some teachers are students. All students are boys. Conclusions: I. Some boys are teachers. II. All teachers are boys.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "A",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS59",
+          "question": "If 'TABLE' is coded as '20121125', how is 'CHAIR' coded?",
+          "options": {
+            "A": "381918",
+            "B": "381917",
+            "C": "381919",
+            "D": "381920"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS60",
+          "question": "Select the related number: 7 : 49 :: 11 : ?",
+          "options": {
+            "A": "111",
+            "B": "121",
+            "C": "131",
+            "D": "141"
+          },
+          "correct_option": "B",
+          "topic": "Analogy"
+        },
+        {
+          "id": "REAS61",
+          "question": "Introducing a man, a woman said, 'His wife is the only daughter of my father.' How is the woman related to the man?",
+          "options": {
+            "A": "Mother",
+            "B": "Sister",
+            "C": "Wife",
+            "D": "Daughter"
+          },
+          "correct_option": "C",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS62",
+          "question": "Find the next term in the series: Z, X, V, T, R, ?",
+          "options": {
+            "A": "P",
+            "B": "Q",
+            "C": "S",
+            "D": "U"
+          },
+          "correct_option": "P",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS63",
+          "question": "Statements: All cars are roads. Some roads are buses. Conclusions: I. Some cars are buses. II. Some buses are roads.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "B",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS64",
+          "question": "If the 3rd of a month is Monday, which of the following will be the 25th of that month?",
+          "options": {
+            "A": "Wednesday",
+            "B": "Thursday",
+            "C": "Friday",
+            "D": "Saturday"
+          },
+          "correct_option": "A",
+          "topic": "Calendar"
+        },
+        {
+          "id": "REAS65",
+          "question": "In a certain code, 'RIVER' is written as 'REVIR'. How is 'OCEAN' written?",
+          "options": {
+            "A": "NAECO",
+            "B": "NAOCE",
+            "C": "NEAOC",
+            "D": "NEOAC"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS66",
+          "question": "Choose the odd one out: 12, 24, 36, 48, 60, 75",
+          "options": {
+            "A": "24",
+            "B": "36",
+            "C": "48",
+            "D": "75"
+          },
+          "correct_option": "D",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS67",
+          "question": "If 'A' denotes '+', 'B' denotes '-', 'C' denotes '×', and 'D' denotes '÷', then what is the value of 20 D 5 A 4 C 3 B 10?",
+          "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+          },
+          "correct_option": "A",
+          "topic": "Mathematical Operations"
+        },
+        {
+          "id": "REAS68",
+          "question": "Suman walks 15 meters towards North. She then turns right and walks 20 meters. She then turns left and walks 10 meters. She again turns left and walks 10 meters. Finally, she turns right and walks 10 meters. How far and in which direction is she from the starting point?",
+          "options": {
+            "A": "25 meters North-East",
+            "B": "35 meters North-East",
+            "C": "25 meters North-West",
+            "D": "35 meters North-West"
+          },
+          "correct_option": "A",
+          "topic": "Directions"
+        },
+        {
+          "id": "REAS69",
+          "question": "Find the missing character: C, F, I, L, O, ?",
+          "options": {
+            "A": "P",
+            "B": "Q",
+            "C": "R",
+            "D": "S"
+          },
+          "correct_option": "R",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS70",
+          "question": "Select the related pair: Pen : Write :: Knife : ?",
+          "options": {
+            "A": "Cut",
+            "B": "Sharp",
+            "C": "Fork",
+            "D": "Blade"
+          },
+          "correct_option": "A",
+          "topic": "Analogy"
+        },
+        {
+          "id": "REAS71",
+          "question": "Statements: Some apples are red. All red are fruits. Conclusions: I. Some apples are fruits. II. Some fruits are red.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "C",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS72",
+          "question": "In a queue, Ram is 15th from the front and Sita is 10th from the end. If there are 5 people between them, what is the maximum number of people in the queue?",
+          "options": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "35"
+          },
+          "correct_option": "C",
+          "topic": "Ranking and Order"
+        },
+        {
+          "id": "REAS73",
+          "question": "If 'CRICKET' is coded as 3918311520, how is 'FOOTBALL' coded?",
+          "options": {
+            "A": "6151520211212",
+            "B": "6151520211211",
+            "C": "6151520211210",
+            "D": "6151520211213"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS74",
+          "question": "Find the odd one out: Car, Bus, Truck, Bicycle",
+          "options": {
+            "A": "Car",
+            "B": "Bus",
+            "C": "Truck",
+            "D": "Bicycle"
+          },
+          "correct_option": "D",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS75",
+          "question": "If 'PLUS' is written as '-', 'MINUS' as '+', 'MULTIPLY' as '÷', and 'DIVIDE' as '×', then what is the value of 10 × 5 + 2 - 4 ÷ 1?",
+          "options": {
+            "A": "25",
+            "B": "27",
+            "C": "29",
+            "D": "30"
+          },
+          "correct_option": "B",
+          "topic": "Mathematical Operations"
+        },
+        {
+          "id": "REAS76",
+          "question": "Statements: All chairs are tables. Some tables are wooden. Conclusions: I. Some chairs are wooden. II. Some wooden are tables.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "B",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS77",
+          "question": "How many such pairs of letters are there in the word 'MATHEMATICS' each of which has as many letters between them in the word as in the English alphabet?",
+          "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+          },
+          "correct_option": "B",
+          "topic": "Letter Series (Word Formation)"
+        },
+        {
+          "id": "REAS78",
+          "question": "If 'APPLE' is coded as '25', then 'ORANGE' is coded as:",
+          "options": {
+            "A": "30",
+            "B": "35",
+            "C": "40",
+            "D": "45"
+          },
+          "correct_option": "C",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS79",
+          "question": "Select the option that is related to the third term in the same way as the second term is related to the first term: Finger : Hand :: Leaf : ?",
+          "options": {
+            "A": "Tree",
+            "B": "Branch",
+            "C": "Flower",
+            "D": "Root"
+          },
+          "correct_option": "B",
+          "topic": "Analogy"
+        },
+        {
+          "id": "REAS80",
+          "question": "If the day after tomorrow is Saturday, what day was the day before yesterday?",
+          "options": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Thursday"
+          },
+          "correct_option": "B",
+          "topic": "Calendar"
+        }
+      ]
+    }
+  ]
+}

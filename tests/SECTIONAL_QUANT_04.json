@@ -1,0 +1,493 @@
+
+{
+  "test_id": "SECTIONAL_QUANT_04",
+  "title": "Quantitative Sectional Mock Test",
+  "sections": [
+    {
+      "title": "Quantitative",
+      "duration_minutes": 50,
+      "questions": [
+        {
+          "id": "QUANT81",
+          "question": "What is the unit digit of $(2137)^{754}$?",
+          "options": {
+            "A": "1",
+            "B": "3",
+            "C": "7",
+            "D": "9"
+          },
+          "correct_option": "D",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT82",
+          "question": "If the sum of a number and its reciprocal is $5/2$, what is the number?",
+          "options": {
+            "A": "1/2",
+            "B": "2",
+            "C": "1",
+            "D": "3/2"
+          },
+          "correct_option": "B",
+          "topic": "Algebra"
+        },
+        {
+          "id": "QUANT83",
+          "question": "A certain sum of money is divided among A, B, and C such that A gets 1/2 of the total, B gets 1/3 of the total, and C gets the remaining $100. What is the total sum?",
+          "options": {
+            "A": "$300",
+            "B": "$450",
+            "C": "$600",
+            "D": "$750"
+          },
+          "correct_option": "C",
+          "topic": "Fractions"
+        },
+        {
+          "id": "QUANT84",
+          "question": "The average age of 30 students in a class is 15 years. If the age of the teacher is included, the average age becomes 16 years. What is the teacher's age?",
+          "options": {
+            "A": "40 years",
+            "B": "45 years",
+            "C": "46 years",
+            "D": "48 years"
+          },
+          "correct_option": "C",
+          "topic": "Averages"
+        },
+        {
+          "id": "QUANT85",
+          "question": "A train passes a man standing on a platform in 8 seconds and a platform 264 meters long in 20 seconds. What is the speed of the train?",
+          "options": {
+            "A": "22 m/s",
+            "B": "25 m/s",
+            "C": "30 m/s",
+            "D": "33 m/s"
+          },
+          "correct_option": "A",
+          "topic": "Time, Speed, and Distance"
+        },
+        {
+          "id": "QUANT86",
+          "question": "If the radius of a circle is increased by 50%, what is the percentage increase in its area?",
+          "options": {
+            "A": "100%",
+            "B": "125%",
+            "C": "150%",
+            "D": "225%"
+          },
+          "correct_option": "B",
+          "topic": "Mensuration"
+        },
+        {
+          "id": "QUANT87",
+          "question": "A shopkeeper gains 20% by selling an item for $360. If he wants to gain 30%, what should be the selling price?",
+          "options": {
+            "A": "$380",
+            "B": "$390",
+            "C": "$400",
+            "D": "$420"
+          },
+          "correct_option": "B",
+          "topic": "Profit and Loss"
+        },
+        {
+          "id": "QUANT88",
+          "question": "What is the HCF of $a^2b^3c^4$ and $a^3b^2c$?",
+          "options": {
+            "A": "$a^2b^2c$",
+            "B": "$a^3b^3c^4$",
+            "C": "$ab^2c^3$",
+            "D": "$a^2bc$"
+          },
+          "correct_option": "A",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT89",
+          "question": "The ratio of two numbers is 4:7 and their difference is 21. What are the numbers?",
+          "options": {
+            "A": "12, 33",
+            "B": "28, 49",
+            "C": "24, 45",
+            "D": "36, 57"
+          },
+          "correct_option": "B",
+          "topic": "Ratio and Proportion"
+        },
+        {
+          "id": "QUANT90",
+          "question": "If $x/y = 3/4$, what is the value of $(3x + 2y) / (3x - 2y)$?",
+          "options": {
+            "A": "17/1",
+            "B": "17/3",
+            "C": "17/5",
+            "D": "17/7"
+          },
+          "correct_option": "B",
+          "topic": "Algebra"
+        },
+        {
+          "id": "QUANT91",
+          "question": "A can complete a work in 20 days and B can complete the same work in 30 days. They work together for 5 days, and then A leaves. In how many days will B complete the remaining work?",
+          "options": {
+            "A": "10 days",
+            "B": "12.5 days",
+            "C": "15 days",
+            "D": "17.5 days"
+          },
+          "correct_option": "D",
+          "topic": "Time and Work"
+        },
+        {
+          "id": "QUANT92",
+          "question": "What is the least perfect square which is divisible by 6, 8, and 12?",
+          "options": {
+            "A": "144",
+            "B": "360",
+            "C": "576",
+            "D": "720"
+          },
+          "correct_option": "A",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT93",
+          "question": "The simple interest on a certain sum for 3 years at 8% per annum is $960. What is the principal sum?",
+          "options": {
+            "A": "$3000",
+            "B": "$4000",
+            "C": "$4500",
+            "D": "$5000"
+          },
+          "correct_option": "B",
+          "topic": "Simple Interest"
+        },
+        {
+          "id": "QUANT94",
+          "question": "A man buys an article for $1200 and sells it at a loss of 15%. What is the selling price of the article?",
+          "options": {
+            "A": "$1000",
+            "B": "$1020",
+            "C": "$1050",
+            "D": "$1080"
+          },
+          "correct_option": "B",
+          "topic": "Profit and Loss"
+        },
+        {
+          "id": "QUANT95",
+          "question": "If three numbers are in the ratio 1:2:3 and their average is 24, what is the largest number?",
+          "options": {
+            "A": "12",
+            "B": "24",
+            "C": "36",
+            "D": "48"
+          },
+          "correct_option": "C",
+          "topic": "Averages"
+        },
+        {
+          "id": "QUANT96",
+          "question": "A person walks from point A to point B at 4 km/hr and returns from point B to point A at 6 km/hr. What is his average speed for the entire journey?",
+          "options": {
+            "A": "4.5 km/hr",
+            "B": "4.8 km/hr",
+            "C": "5 km/hr",
+            "D": "5.2 km/hr"
+          },
+          "correct_option": "B",
+          "topic": "Time, Speed, and Distance"
+        },
+        {
+          "id": "QUANT97",
+          "question": "What is the value of $(0.2)^2 + (0.02)^2$?",
+          "options": {
+            "A": "0.0404",
+            "B": "0.404",
+            "C": "0.0044",
+            "D": "0.44"
+          },
+          "correct_option": "A",
+          "topic": "Decimals and Fractions"
+        },
+        {
+          "id": "QUANT98",
+          "question": "The number of permutations of 5 distinct items taken 3 at a time is:",
+          "options": {
+            "A": "20",
+            "B": "30",
+            "C": "60",
+            "D": "120"
+          },
+          "correct_option": "C",
+          "topic": "Permutations and Combinations"
+        },
+        {
+          "id": "QUANT99",
+          "question": "In how many ways can 4 boys and 3 girls be seated in a row so that no two girls sit together?",
+          "options": {
+            "A": "720",
+            "B": "1440",
+            "C": "2400",
+            "D": "2880"
+          },
+          "correct_option": "B",
+          "topic": "Permutations and Combinations"
+        },
+        {
+          "id": "QUANT100",
+          "question": "A bag contains 6 red and 4 blue balls. If two balls are drawn at random, what is the probability that one is red and one is blue?",
+          "options": {
+            "A": "8/15",
+            "B": "2/5",
+            "C": "4/5",
+            "D": "1/3"
+          },
+          "correct_option": "A",
+          "topic": "Probability"
+        },
+        {
+          "id": "QUANT101",
+          "question": "What is the sum of the first 20 even numbers?",
+          "options": {
+            "A": "400",
+            "B": "420",
+            "C": "440",
+            "D": "460"
+          },
+          "correct_option": "B",
+          "topic": "Arithmetic Progression"
+        },
+        {
+          "id": "QUANT102",
+          "question": "A and B invest in a business in the ratio 3:5. If at the end of the year, they earn a profit of $4000, what is B's share?",
+          "options": {
+            "A": "$1500",
+            "B": "$2000",
+            "C": "$2500",
+            "D": "$3000"
+          },
+          "correct_option": "C",
+          "topic": "Partnership"
+        },
+        {
+          "id": "QUANT103",
+          "question": "If the price of a book is increased by 25%, and then decreased by 20%, what is the net change in the price?",
+          "options": {
+            "A": "0%",
+            "B": "5% increase",
+            "C": "5% decrease",
+            "D": "10% increase"
+          },
+          "correct_option": "A",
+          "topic": "Percentages"
+        },
+        {
+          "id": "QUANT104",
+          "question": "A sum of money at compound interest doubles itself in 4 years. In how many years will it amount to 16 times itself?",
+          "options": {
+            "A": "8 years",
+            "B": "12 years",
+            "C": "16 years",
+            "D": "20 years"
+          },
+          "correct_option": "C",
+          "topic": "Compound Interest"
+        },
+        {
+          "id": "QUANT105",
+          "question": "The length, breadth, and height of a cuboid are 10 cm, 8 cm, and 6 cm respectively. What is its total surface area?",
+          "options": {
+            "A": "288 sq cm",
+            "B": "320 sq cm",
+            "C": "376 sq cm",
+            "D": "480 sq cm"
+          },
+          "correct_option": "C",
+          "topic": "Mensuration"
+        },
+        {
+          "id": "QUANT106",
+          "question": "A sum of $10,000 is invested at 10% per annum simple interest for 2 years. What is the amount received?",
+          "options": {
+            "A": "$11000",
+            "B": "$12000",
+            "C": "$12100",
+            "D": "$13000"
+          },
+          "correct_option": "B",
+          "topic": "Simple Interest"
+        },
+        {
+          "id": "QUANT107",
+          "question": "If $a + b = 10$ and $ab = 21$, what is the value of $a^2 + b^2$?",
+          "options": {
+            "A": "49",
+            "B": "58",
+            "C": "64",
+            "D": "100"
+          },
+          "correct_option": "B",
+          "topic": "Algebra"
+        },
+        {
+          "id": "QUANT108",
+          "question": "The difference between the compound interest and simple interest on a sum for 2 years at 5% per annum is $10. What is the sum?",
+          "options": {
+            "A": "$2000",
+            "B": "$4000",
+            "C": "$5000",
+            "D": "$6000"
+          },
+          "correct_option": "B",
+          "topic": "Compound Interest"
+        },
+        {
+          "id": "QUANT109",
+          "question": "A man sells an article at a profit of 10%. If he had bought it at 10% less and sold it for $2 less, he would have gained 15%. What is the cost price of the article?",
+          "options": {
+            "A": "$100",
+            "B": "$120",
+            "C": "$150",
+            "D": "$200"
+          },
+          "correct_option": "D",
+          "topic": "Profit and Loss"
+        },
+        {
+          "id": "QUANT110",
+          "question": "Three pipes A, B, and C can fill a tank in 6, 8, and 12 hours respectively. If all three pipes are opened together, how long will it take to fill the tank?",
+          "options": {
+            "A": "2 hours",
+            "B": "2.5 hours",
+            "C": "2 and 2/3 hours",
+            "D": "3 hours"
+          },
+          "correct_option": "C",
+          "topic": "Pipes and Cisterns"
+        },
+        {
+          "id": "QUANT111",
+          "question": "What is the smallest number by which 3600 must be divided to make it a perfect cube?",
+          "options": {
+            "A": "300",
+            "B": "450",
+            "C": "600",
+            "D": "900"
+          },
+          "correct_option": "B",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT112",
+          "question": "The ratio of the ages of A and B is 3:5. Ten years hence, the ratio will be 5:7. What is the difference in their present ages?",
+          "options": {
+            "A": "6 years",
+            "B": "8 years",
+            "C": "10 years",
+            "D": "12 years"
+          },
+          "correct_option": "B",
+          "topic": "Ages"
+        },
+        {
+          "id": "QUANT113",
+          "question": "A train 120 meters long passes a pole in 6 seconds. How long will it take to cross a platform 280 meters long?",
+          "options": {
+            "A": "10 seconds",
+            "B": "15 seconds",
+            "C": "20 seconds",
+            "D": "25 seconds"
+          },
+          "correct_option": "C",
+          "topic": "Time, Speed, and Distance"
+        },
+        {
+          "id": "QUANT114",
+          "question": "A mixture of 40 liters contains milk and water in the ratio 7:1. How much water must be added to make the ratio 3:1?",
+          "options": {
+            "A": "5 liters",
+            "B": "6 liters",
+            "C": "8 liters",
+            "D": "10 liters"
+          },
+          "correct_option": "D",
+          "topic": "Mixtures and Alligations"
+        },
+        {
+          "id": "QUANT115",
+          "question": "If 15% of A is equal to 20% of B, then $A:B$ is equal to:",
+          "options": {
+            "A": "3:4",
+            "B": "4:3",
+            "C": "5:4",
+            "D": "4:5"
+          },
+          "correct_option": "B",
+          "topic": "Percentages"
+        },
+        {
+          "id": "QUANT116",
+          "question": "What is the area of a parallelogram whose base is 12 cm and height is 8 cm?",
+          "options": {
+            "A": "48 sq cm",
+            "B": "72 sq cm",
+            "C": "96 sq cm",
+            "D": "120 sq cm"
+          },
+          "correct_option": "C",
+          "topic": "Mensuration"
+        },
+        {
+          "id": "QUANT117",
+          "question": "The sum of the digits of a two-digit number is 9. If 27 is added to the number, the digits get reversed. What is the number?",
+          "options": {
+            "A": "36",
+            "B": "45",
+            "C": "63",
+            "D": "27"
+          },
+          "correct_option": "A",
+          "topic": "Number System"
+        },
+        {
+          "id": "QUANT118",
+          "question": "Find the number of triangles in a given figure with 4 horizontal lines and 3 non-parallel lines intersecting them.",
+          "options": {
+            "A": "18",
+            "B": "24",
+            "C": "30",
+            "D": "36"
+          },
+          "correct_option": "B",
+          "topic": "Counting Figures (Reasoning - often tested in quant aptitude)"
+        },
+        {
+          "id": "QUANT119",
+          "question": "A and B started a business by investing $3000 and $4000 respectively. After 6 months, C joined them with an investment of $5000. If the total profit at the end of the year is $14000, what is A's share?",
+          "options": {
+            "A": "$4000",
+            "B": "$4500",
+            "C": "$5000",
+            "D": "$6000"
+          },
+          "correct_option": "A",
+          "topic": "Partnership"
+        },
+        {
+          "id": "QUANT120",
+          "question": "A circle has a radius of 14 cm. A square is inscribed in the circle. What is the area of the square?",
+          "options": {
+            "A": "196 sq cm",
+            "B": "294 sq cm",
+            "C": "392 sq cm",
+            "D": "588 sq cm"
+          },
+          "correct_option": "C",
+          "topic": "Mensuration"
+        }
+      ]
+    }
+  ]
+}

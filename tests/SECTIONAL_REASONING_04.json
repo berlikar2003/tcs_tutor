@@ -1,0 +1,492 @@
+{
+  "test_id": "SECTIONAL_REASONING_04",
+  "title": "Reasoning Sectional Mock Test",
+  "sections": [
+    {
+      "title": "Reasoning",
+      "duration_minutes": 50,
+      "questions": [
+        {
+          "id": "REAS81",
+          "question": "Find the next term in the series: 1, 8, 27, 64, ?",
+          "options": {
+            "A": "81",
+            "B": "100",
+            "C": "125",
+            "D": "144"
+          },
+          "correct_option": "C",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS82",
+          "question": "If 'CRICKET' is coded as 'DSHCKFU', how is 'FOOTBALL' coded?",
+          "options": {
+            "A": "GPPCBMMS",
+            "B": "GPPDBNMS",
+            "C": "GPPDBMNS",
+            "D": "GPPDCFMS"
+          },
+          "correct_option": "B",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS83",
+          "question": "Choose the odd one out: Square, Rhombus, Parallelogram, Trapezium",
+          "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Parallelogram",
+            "D": "Trapezium"
+          },
+          "correct_option": "D",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS84",
+          "question": "E is the daughter of F. F is the wife of G. H is the brother of E. J is the father of H. How is J related to G?",
+          "options": {
+            "A": "Father",
+            "B": "Mother",
+            "C": "Father-in-law",
+            "D": "Brother-in-law"
+          },
+          "correct_option": "A",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS85",
+          "question": "In a certain code, 'ROAD' is written as 'RODA'. How is 'GATE' written in that code?",
+          "options": {
+            "A": "GTAE",
+            "B": "GTEA",
+            "C": "AGTE",
+            "D": "ATEG"
+          },
+          "correct_option": "B",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS86",
+          "question": "Pointing to a boy, a girl said, 'He is the son of the only daughter of my maternal grandfather.' How is the boy related to the girl?",
+          "options": {
+            "A": "Brother",
+            "B": "Uncle",
+            "C": "Father",
+            "D": "Cousin"
+          },
+          "correct_option": "A",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS87",
+          "question": "Find the missing number in the series: 1, 2, 6, 24, ?, 720",
+          "options": {
+            "A": "100",
+            "B": "120",
+            "C": "144",
+            "D": "180"
+          },
+          "correct_option": "B",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS88",
+          "question": "If 'BAT' is coded as 2120 and 'CAT' is coded as 3120, how is 'MAN' coded?",
+          "options": {
+            "A": "13114",
+            "B": "1314",
+            "C": "13115",
+            "D": "13113"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS89",
+          "question": "Select the related word from the given alternatives: Ocean : Water :: Glacier : ?",
+          "options": {
+            "A": "Mountain",
+            "B": "Ice",
+            "C": "Cave",
+            "D": "Winter"
+          },
+          "correct_option": "B",
+          "topic": "Analogy"
+        },
+        {
+          "id": "REAS90",
+          "question": "If 1st January 2001 was a Monday, what day of the week was 31st December 2001?",
+          "options": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Sunday"
+          },
+          "correct_option": "A",
+          "topic": "Calendar"
+        },
+        {
+          "id": "REAS91",
+          "question": "Choose the odd one out: Litre, Meter, Kilogram, Gallon",
+          "options": {
+            "A": "Litre",
+            "B": "Meter",
+            "C": "Kilogram",
+            "D": "Gallon"
+          },
+          "correct_option": "B",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS92",
+          "question": "In a row of students, Riya is 18th from the left and Priya is 15th from the right. If they interchange their positions, Riya becomes 25th from the left. How many students are there in the row?",
+          "options": {
+            "A": "38",
+            "B": "39",
+            "C": "40",
+            "D": "41"
+          },
+          "correct_option": "B",
+          "topic": "Ranking and Order"
+        },
+        {
+          "id": "REAS93",
+          "question": "Statements: Some shirts are pants. All pants are trousers. Conclusions: I. Some shirts are trousers. II. All trousers are pants.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "A",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS94",
+          "question": "Find the missing number: 4, 9, 25, 49, ?, 169",
+          "options": {
+            "A": "100",
+            "B": "121",
+            "C": "131",
+            "D": "144"
+          },
+          "correct_option": "B",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS95",
+          "question": "If 'BRIGHT' is coded as 'CSJHIU', how is 'CLEVER' coded?",
+          "options": {
+            "A": "DMFTWS",
+            "B": "DMFUWS",
+            "C": "DMGUWS",
+            "D": "DMGVWS"
+          },
+          "correct_option": "B",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS96",
+          "question": "Select the one which is different from the other three alternatives: March, May, July, September",
+          "options": {
+            "A": "March",
+            "B": "May",
+            "C": "July",
+            "D": "September"
+          },
+          "correct_option": "D",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS97",
+          "question": "A person walks 10 km South, then turns left and walks 15 km, then turns right and walks 10 km. In which direction is he from the starting point?",
+          "options": {
+            "A": "South-East",
+            "B": "South-West",
+            "C": "North-East",
+            "D": "North-West"
+          },
+          "correct_option": "A",
+          "topic": "Directions"
+        },
+        {
+          "id": "REAS98",
+          "question": "Statements: No dog is a cat. All cats are animals. Conclusions: I. No dog is an animal. II. Some animals are cats.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "B",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS99",
+          "question": "If 'ZEBRA' is coded as 2652181, how is 'TIGER' coded?",
+          "options": {
+            "A": "2097518",
+            "B": "2097818",
+            "C": "2097185",
+            "D": "2097517"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS100",
+          "question": "Select the related number: 6 : 216 :: 8 : ?",
+          "options": {
+            "A": "512",
+            "B": "64",
+            "C": "729",
+            "D": "1000"
+          },
+          "correct_option": "A",
+          "topic": "Analogy"
+        },
+        {
+          "id": "REAS101",
+          "question": "Introducing a woman, a man said, 'Her mother is the only daughter of my father-in-law.' How is the woman related to the man?",
+          "options": {
+            "A": "Wife",
+            "B": "Mother",
+            "C": "Sister",
+            "D": "Daughter"
+          },
+          "correct_option": "A",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS102",
+          "question": "Find the next term in the series: A, B, D, G, K, ?",
+          "options": {
+            "A": "P",
+            "B": "Q",
+            "C": "R",
+            "D": "S"
+          },
+          "correct_option": "P",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS103",
+          "question": "Statements: All bags are white. Some white are good. Conclusions: I. Some bags are good. II. No bag is good.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "D",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS104",
+          "question": "If 2nd February 2020 was a Sunday, what day of the week was 2nd February 2021?",
+          "options": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Thursday"
+          },
+          "correct_option": "B",
+          "topic": "Calendar"
+        },
+        {
+          "id": "REAS105",
+          "question": "In a certain code, 'SCHOOL' is written as 'SCHOLL'. How is 'COLLEGE' written?",
+          "options": {
+            "A": "COLLAGE",
+            "B": "COLLEAG",
+            "C": "COLLEG",
+            "D": "COLLEDGE"
+          },
+          "correct_option": "B",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS106",
+          "question": "Choose the odd one out: 2, 3, 5, 7, 9, 11",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "9",
+            "D": "11"
+          },
+          "correct_option": "C",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS107",
+          "question": "If 'P' means '×', 'Q' means '÷', 'R' means '+', 'S' means '-', then what is the value of 26 Q 2 P 3 R 5 S 1?",
+          "options": {
+            "A": "40",
+            "B": "41",
+            "C": "42",
+            "D": "43"
+          },
+          "correct_option": "B",
+          "topic": "Mathematical Operations"
+        },
+        {
+          "id": "REAS108",
+          "question": "A is the father of B. C is the sister of B. D is the brother of A. E is the mother of D. How is E related to C?",
+          "options": {
+            "A": "Mother",
+            "B": "Aunt",
+            "C": "Grandmother",
+            "D": "Sister"
+          },
+          "correct_option": "C",
+          "topic": "Blood Relations"
+        },
+        {
+          "id": "REAS109",
+          "question": "Find the missing character: 10, 100, 1000, ?",
+          "options": {
+            "A": "10000",
+            "B": "100000",
+            "C": "1000000",
+            "D": "10000000"
+          },
+          "correct_option": "A",
+          "topic": "Series Completion"
+        },
+        {
+          "id": "REAS110",
+          "question": "Select the related pair: Fish : Scale :: Bear : ?",
+          "options": {
+            "A": "Fur",
+            "B": "Skin",
+            "C": "Hair",
+            "D": "Feather"
+          },
+          "correct_option": "A",
+          "topic": "Analogy"
+        },
+        {
+          "id": "REAS111",
+          "question": "Statements: All doors are windows. No window is a wall. Conclusions: I. No door is a wall. II. Some walls are doors.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "A",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS112",
+          "question": "In a row of cars, the red car is 9th from the left and 12th from the right. How many cars are there in the row?",
+          "options": {
+            "A": "20",
+            "B": "21",
+            "C": "22",
+            "D": "23"
+          },
+          "correct_option": "A",
+          "topic": "Ranking and Order"
+        },
+        {
+          "id": "REAS113",
+          "question": "If 'RAM' is coded as 18113, how is 'SHYAM' coded?",
+          "options": {
+            "A": "19825113",
+            "B": "19825114",
+            "C": "19825115",
+            "D": "19825116"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS114",
+          "question": "Find the odd one out: Sun, Moon, Earth, Star",
+          "options": {
+            "A": "Sun",
+            "B": "Moon",
+            "C": "Earth",
+            "D": "Star"
+          },
+          "correct_option": "C",
+          "topic": "Classification"
+        },
+        {
+          "id": "REAS115",
+          "question": "If 'ADD' means 'subtract', 'SUBTRACT' means 'multiply', 'MULTIPLY' means 'divide', and 'DIVIDE' means 'add', then what is the value of 15 ÷ 3 + 2 × 5 - 1?",
+          "options": {
+            "A": "20",
+            "B": "21",
+            "C": "22",
+            "D": "23"
+          },
+          "correct_option": "D",
+          "topic": "Mathematical Operations"
+        },
+        {
+          "id": "REAS116",
+          "question": "Statements: All chairs are furniture. Some furniture are wooden. Conclusions: I. Some chairs are wooden. II. Some wooden are furniture.",
+          "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Both I and II follow",
+            "D": "Neither I nor II follows"
+          },
+          "correct_option": "B",
+          "topic": "Syllogism"
+        },
+        {
+          "id": "REAS117",
+          "question": "How many such pairs of letters are there in the word 'CORPORATION' each of which has as many letters between them in the word as in the English alphabet?",
+          "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+          },
+          "correct_option": "C",
+          "topic": "Letter Series (Word Formation)"
+        },
+        {
+          "id": "REAS118",
+          "question": "If 'DREAM' is coded as 'ERFBN', how is 'SWEET' coded?",
+          "options": {
+            "A": "TXFFU",
+            "B": "TVDDU",
+            "C": "TWFFU",
+            "D": "TXFFV"
+          },
+          "correct_option": "A",
+          "topic": "Coding-Decoding"
+        },
+        {
+          "id": "REAS119",
+          "question": "Select the option that is related to the third term in the same way as the second term is related to the first term: Eye : See :: Ear : ?",
+          "options": {
+            "A": "Sound",
+            "B": "Listen",
+            "C": "Noise",
+            "D": "Music"
+          },
+          "correct_option": "B",
+          "topic": "Analogy"
+        },
+        {
+          "id": "REAS120",
+          "question": "If Saturday falls on 4th February 2004, what was the day of the week on 4th February 2005?",
+          "options": {
+            "A": "Sunday",
+            "B": "Monday",
+            "C": "Tuesday",
+            "D": "Wednesday"
+          },
+          "correct_option": "A",
+          "topic": "Calendar"
+        }
+      ]
+    }
+  ]
+}

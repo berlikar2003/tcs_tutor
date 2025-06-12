@@ -1,0 +1,612 @@
+{
+  "test_id": "SECTIONAL_VERBAL_02",
+  "title": "Verbal Ability Sectional Mock Test",
+  "sections": [
+    {
+      "title": "Verbal Ability",
+      "duration_minutes": 50,
+      "questions": [
+        {
+          "id": "VERB01",
+          "question": "Choose the synonym of 'LUCID'.",
+          "options": {
+            "A": "Vague",
+            "B": "Clear",
+            "C": "Obscure",
+            "D": "Confused"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB02",
+          "question": "Choose the antonym of 'BENEVOLENT'.",
+          "options": {
+            "A": "Kind",
+            "B": "Generous",
+            "C": "Malevolent",
+            "D": "Compassionate"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB03",
+          "question": "Complete the sentence: Her ______ for justice was unwavering.",
+          "options": {
+            "A": "apathy",
+            "B": "zeal",
+            "C": "indifference",
+            "D": "disinterest"
+          },
+          "correct_option": "B",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB04",
+          "question": "Identify the part of the sentence that contains an error: He (A) walks as (B) if (C) the earth belonged to him (D).",
+          "options": {
+            "A": "He",
+            "B": "walks as",
+            "C": "if",
+            "D": "the earth belonged to him"
+          },
+          "correct_option": "B",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB05",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Accommodate",
+            "B": "Acommodate",
+            "C": "Accomodate",
+            "D": "Acommudate"
+          },
+          "correct_option": "A",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB06",
+          "question": "Select the most appropriate meaning of the idiom: 'Bite the bullet'.",
+          "options": {
+            "A": "To end a relationship",
+            "B": "To face a difficult situation with courage",
+            "C": "To speak harshly",
+            "D": "To avoid responsibility"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB07",
+          "question": "A person who is fluent in two languages.",
+          "options": {
+            "A": "Monolingual",
+            "B": "Bilingual",
+            "C": "Polyglot",
+            "D": "Linguist"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB08",
+          "question": "Analogy: Doctor : Hospital :: Teacher : ?",
+          "options": {
+            "A": "Student",
+            "B": "School",
+            "C": "Books",
+            "D": "Education"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB09",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) in a large city (Q) many problems (R) living alone (S) often leads to",
+          "options": {
+            "A": "PQRS",
+            "B": "QRSP",
+            "C": "RSPQ",
+            "D": "SRPQ"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB10",
+          "question": "Choose the antonym of 'PROSPERITY'.",
+          "options": {
+            "A": "Affluence",
+            "B": "Poverty",
+            "C": "Wealth",
+            "D": "Success"
+          },
+          "correct_option": "B",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB11",
+          "question": "Complete the sentence: The new policy will have a profound ______ on the economy.",
+          "options": {
+            "A": "affect",
+            "B": "effect",
+            "C": "affects",
+            "D": "effects"
+          },
+          "correct_option": "B",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB12",
+          "question": "Identify the part of the sentence that contains an error: Neither (A) of the two boys (B) are (C) eligible for selection (D).",
+          "options": {
+            "A": "Neither",
+            "B": "of the two boys",
+            "C": "are",
+            "D": "eligible for selection"
+          },
+          "correct_option": "C",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB13",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Separate",
+            "B": "Seperate",
+            "C": "Saparate",
+            "D": "Seperete"
+          },
+          "correct_option": "A",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB14",
+          "question": "Select the most appropriate meaning of the idiom: 'To wash one's dirty linen in public'.",
+          "options": {
+            "A": "To clean clothes publicly",
+            "B": "To discuss private matters in front of others",
+            "C": "To make false accusations",
+            "D": "To reveal a secret"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB15",
+          "question": "A statement that is universally accepted as true.",
+          "options": {
+            "A": "Paradox",
+            "B": "Axiom",
+            "C": "Hypothesis",
+            "D": "Theory"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB16",
+          "question": "Analogy: Happy : Joy :: Sad : ?",
+          "options": {
+            "A": "Tears",
+            "B": "Sorrow",
+            "C": "Anger",
+            "D": "Smile"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB17",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) due to (Q) global warming (R) the ice caps are melting (S) rapidly",
+          "options": {
+            "A": "PQRS",
+            "B": "RQPS",
+            "C": "RSPQ",
+            "D": "RSQP"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB18",
+          "question": "Choose the synonym of 'ELUCIDATE'.",
+          "options": {
+            "A": "Confuse",
+            "B": "Clarify",
+            "C": "Obscure",
+            "D": "Complicate"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB19",
+          "question": "Choose the antonym of 'TRANSIENT'.",
+          "options": {
+            "A": "Temporary",
+            "B": "Fleeting",
+            "C": "Permanent",
+            "D": "Ephemeral"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB20",
+          "question": "Complete the sentence: The committee members ______ over the new proposal.",
+          "options": {
+            "A": "argued",
+            "B": "agreed",
+            "C": "concurred",
+            "D": "debated"
+          },
+          "correct_option": "D",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB21",
+          "question": "Identify the part of the sentence that contains an error: She (A) is one of the (B) best students (C) that has ever studied in this class (D).",
+          "options": {
+            "A": "She",
+            "B": "is one of the",
+            "C": "best students",
+            "D": "that has ever studied in this class"
+          },
+          "correct_option": "D",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB22",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Occassion",
+            "B": "Occasion",
+            "C": "Ocassion",
+            "D": "Occasionn"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB23",
+          "question": "Select the most appropriate meaning of the idiom: 'To cry over spilled milk'.",
+          "options": {
+            "A": "To regret something that cannot be changed",
+            "B": "To complain about minor issues",
+            "C": "To express happiness",
+            "D": "To waste time"
+          },
+          "correct_option": "A",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB24",
+          "question": "A place where coins are manufactured.",
+          "options": {
+            "A": "Mint",
+            "B": "Bank",
+            "C": "Treasury",
+            "D": "Factory"
+          },
+          "correct_option": "A",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB25",
+          "question": "Analogy: Famine : Hunger :: War : ?",
+          "options": {
+            "A": "Peace",
+            "B": "Destruction",
+            "C": "Army",
+            "D": "Weapons"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB26",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) of the problem (Q) the core (R) we need to (S) understand",
+          "options": {
+            "A": "PRQS",
+            "B": "SQRP",
+            "C": "RSPQ",
+            "D": "SRPQ"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB27",
+          "question": "Choose the synonym of 'UBIQUITOUS'.",
+          "options": {
+            "A": "Rare",
+            "B": "Pervasive",
+            "C": "Limited",
+            "D": "Scarce"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB28",
+          "question": "Choose the antonym of 'EXACERBATE'.",
+          "options": {
+            "A": "Worsen",
+            "B": "Aggravate",
+            "C": "Alleviate",
+            "D": "Intensify"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB29",
+          "question": "Complete the sentence: His ______ tone suggested he was not pleased.",
+          "options": {
+            "A": "amiable",
+            "B": "cordial",
+            "C": "abrasive",
+            "D": "pleasant"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB30",
+          "question": "Identify the part of the sentence that contains an error: Although he (A) is usually (B) calm, he got angry (C) at the sight of the injustice (D).",
+          "options": {
+            "A": "Although he",
+            "B": "is usually",
+            "C": "calm, he got angry",
+            "D": "at the sight of the injustice"
+          },
+          "correct_option": "D",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB31",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "recieve",
+            "B": "receive",
+            "C": "receave",
+            "D": "recive"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB32",
+          "question": "Select the most appropriate meaning of the idiom: 'To add fuel to the fire'.",
+          "options": {
+            "A": "To calm a situation",
+            "B": "To make a bad situation worse",
+            "C": "To start a fire",
+            "D": "To resolve a conflict"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB33",
+          "question": "A person who believes in the existence of God.",
+          "options": {
+            "A": "Atheist",
+            "B": "Agnostic",
+            "C": "Theist",
+            "D": "Skeptic"
+          },
+          "correct_option": "C",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB34",
+          "question": "Analogy: Tree : Forest :: Soldier : ?",
+          "options": {
+            "A": "Gun",
+            "B": "Bravery",
+            "C": "Army",
+            "D": "Uniform"
+          },
+          "correct_option": "C",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB35",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) of the world (Q) the population (R) is growing (S) rapidly in many parts",
+          "options": {
+            "A": "QRSP",
+            "B": "QSRP",
+            "C": "RQPS",
+            "D": "RPQS"
+          },
+          "correct_option": "B",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB36",
+          "question": "Choose the synonym of 'ZEALOUS'.",
+          "options": {
+            "A": "Indifferent",
+            "B": "Enthusiastic",
+            "C": "Apathetic",
+            "D": "Lazy"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB37",
+          "question": "Choose the antonym of 'OSTENTATIOUS'.",
+          "options": {
+            "A": "Showy",
+            "B": "Flashy",
+            "C": "Modest",
+            "D": "Grandiose"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB38",
+          "question": "Complete the sentence: The detective was known for his ______ observation skills.",
+          "options": {
+            "A": "superficial",
+            "B": "perfunctory",
+            "C": "astute",
+            "D": "casual"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB39",
+          "question": "Identify the part of the sentence that contains an error: The manager (A) told to (B) his team (C) to work harder (D).",
+          "options": {
+            "A": "The manager",
+            "B": "told to",
+            "C": "his team",
+            "D": "to work harder"
+          },
+          "correct_option": "B",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB40",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Definately",
+            "B": "Definitely",
+            "C": "Definatly",
+            "D": "Definitly"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB41",
+          "question": "Select the most appropriate meaning of the idiom: 'To beat around the bush'.",
+          "options": {
+            "A": "To speak directly",
+            "B": "To avoid the main topic",
+            "C": "To hit bushes",
+            "D": "To be aggressive"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        },
+        {
+          "id": "VERB42",
+          "question": "A place for invalids and convalescents.",
+          "options": {
+            "A": "Hospital",
+            "B": "Sanatorium",
+            "C": "Clinic",
+            "D": "Dispensary"
+          },
+          "correct_option": "B",
+          "topic": "One-Word Substitution"
+        },
+        {
+          "id": "VERB43",
+          "question": "Analogy: Pilot : Airplane :: Driver : ?",
+          "options": {
+            "A": "Road",
+            "B": "Car",
+            "C": "Wheel",
+            "D": "License"
+          },
+          "correct_option": "B",
+          "topic": "Analogies"
+        },
+        {
+          "id": "VERB44",
+          "question": "Rearrange the following parts to form a meaningful sentence: (P) the new technology (Q) will revolutionize (R) the way (S) we communicate",
+          "options": {
+            "A": "PQRS",
+            "B": "PSQR",
+            "C": "QPSR",
+            "D": "QRPS"
+          },
+          "correct_option": "A",
+          "topic": "Sentence Rearrangement"
+        },
+        {
+          "id": "VERB45",
+          "question": "Choose the synonym of 'GRACIOUS'.",
+          "options": {
+            "A": "Rude",
+            "B": "Courteous",
+            "C": "Harsh",
+            "D": "Unkind"
+          },
+          "correct_option": "B",
+          "topic": "Synonyms"
+        },
+        {
+          "id": "VERB46",
+          "question": "Choose the antonym of 'DEFER'.",
+          "options": {
+            "A": "Postpone",
+            "B": "Delay",
+            "C": "Expedite",
+            "D": "Suspend"
+          },
+          "correct_option": "C",
+          "topic": "Antonyms"
+        },
+        {
+          "id": "VERB47",
+          "question": "Complete the sentence: Despite the challenges, he remained ______ in his pursuit of success.",
+          "options": {
+            "A": "irresolute",
+            "B": "wavering",
+            "C": "resolute",
+            "D": "hesitant"
+          },
+          "correct_option": "C",
+          "topic": "Sentence Completion"
+        },
+        {
+          "id": "VERB48",
+          "question": "Identify the part of the sentence that contains an error: If I (A) was a bird (B), I would (C) fly across the world (D).",
+          "options": {
+            "A": "If I",
+            "B": "was a bird",
+            "C": "I would",
+            "D": "fly across the world"
+          },
+          "correct_option": "B",
+          "topic": "Error Detection"
+        },
+        {
+          "id": "VERB49",
+          "question": "Choose the correct spelling:",
+          "options": {
+            "A": "Conseequence",
+            "B": "Consequence",
+            "C": "Consiquence",
+            "D": "Consuequence"
+          },
+          "correct_option": "B",
+          "topic": "Spelling Correction"
+        },
+        {
+          "id": "VERB50",
+          "question": "Select the most appropriate meaning of the idiom: 'To get cold feet'.",
+          "options": {
+            "A": "To feel cold",
+            "B": "To become nervous or frightened",
+            "C": "To run away",
+            "D": "To be brave"
+          },
+          "correct_option": "B",
+          "topic": "Idioms and Phrases"
+        }
+      ]
+    }
+  ]
+}
