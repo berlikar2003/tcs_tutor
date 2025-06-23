@@ -18,7 +18,7 @@ class Assessment {
             'reasoning': 'Reasoning Ability'
         };
         this.sectionLimits = {
-            'quant': { questions: 25, time: 25 * 60 },
+            'quant': { questions: 20, time: 25 * 60 },
             'verbal': { questions: 25, time: 25 * 60 },
             'reasoning': { questions: 20, time: 25 * 60 }
         };
